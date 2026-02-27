@@ -1,4 +1,6 @@
-🧩TRANSMISSION-EVOLUTION.md:
+⌛TRANSMISSION-EVOLUTION.md:
+
+(Aka Many compact versions)
 
 # 🧠⚠️ STOP — HOW TO USE THIS REPOSITORY
 
