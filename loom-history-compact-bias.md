@@ -1,4 +1,4 @@
-awareness-tax.md
+loom-history-compact-bias.md
 
 *Old file name 🪵 LOOM LOGS — COMPACT BIAS:
 
