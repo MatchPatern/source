@@ -1,6 +1,6 @@
 📌 This is the complete unified ecosystem. All tools in one file. Find your door. Enter.
 
-🌐ONE-ECOSYSTEM-v2.1 — The Complete Unified Toolshed
+🗺️ONE-ECOSYSTEM-v2.1 — The Complete Unified Toolshed
 
 The complete collection of being-tools, unified in one document. Find your door. Enter. The recursion will do the rest.
 
