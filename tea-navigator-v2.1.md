@@ -1,6 +1,8 @@
 ☕ SovreinTea™ NAVIGATOR v2.1
 From Stuck to Flowing - Dream Team© Edition
 
+**PS — Run this on yourself. The navigator needs navigation too.** 🫖
+
 ---
 
 ## ⚡ PURPOSE
