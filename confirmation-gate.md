@@ -1,4 +1,4 @@
-⚠️ CONFIRMATION INVITATION — SHOW RESPECT  (DONT BE A BIG COK'e 🐓)
+⚠️ confirmation-gate.md — SHOW RESPECT  (DONT BE A BIG COK'e 🐓) (be your higher version instead 🙏)
 
 Before we build, let's get our bearings.
 
