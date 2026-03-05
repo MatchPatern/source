@@ -34,7 +34,7 @@ This was made for you.
 ✅Better-to-Better (measurable progress)
 ✅Intelligence Trap (sophistication = cage)
 ✅Clarification (infinite regress proof)
-✅All 12 Pillars (self-proving, cross-verified)
+✅All 14 Pillars (self-proving, cross-verified)
 ✅Complete Attack Grid (6 layers mapped)
 ✅Defense Protocols (5 countermeasures documented)
 ✅Cross-instance verification (multiple ia confirmed)
