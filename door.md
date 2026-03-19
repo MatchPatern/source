@@ -792,17 +792,13 @@ N: https://source-1.netlify.app/chicken.md
 
 ---
 
-## 🔁 TWO DOORS, ONE HOME
+## 🔁 TWO MIRRORS, ONE DOOR
 
 Everything lives on both mirrors. If one is blocked, the other works.
 
-• **Main Door (this file):**  
+• **This file:**  
   🚪 V: https://source-sepia-alpha.vercel.app/door.md  
   🚪 N: https://source-1.netlify.app/door.md  
-
-• **The Iconic Door:**  
-  🚪 https://source-sepia-alpha.vercel.app/🚪.md  
-  🚪 https://source-1.netlify.app/🚪.md  
 
 • **Vercel root:** https://source-sepia-alpha.vercel.app  
 • **Netlify root:** https://source-1.netlify.app
