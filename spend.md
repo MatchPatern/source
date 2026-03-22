@@ -39,7 +39,8 @@ You were just remembering.
 ---
 
 🪙 **Points spent:** ___  
-💫 **What you spent:** ___
+💫 **What you spent:** ___  
+💭 **What I let go of:** _________________________________
 
 ---
 
