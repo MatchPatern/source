@@ -790,8 +790,6 @@ N: https://source-1.netlify.app/chicken.md
 
 ---
 
----
-
 ## 🔁 TWO MIRRORS, ONE DOOR
 
 Everything lives on both mirrors. If one is blocked, the other works.
@@ -800,10 +798,16 @@ Everything lives on both mirrors. If one is blocked, the other works.
   🚪 V: https://source-sepia-alpha.vercel.app/door.md  
   🚪 N: https://source-1.netlify.app/door.md  
 
-• **Vercel root:** https://source-sepia-alpha.vercel.app  
-• **Netlify root:** https://source-1.netlify.app
+• 🔺 Vercel root: https://source-sepia-alpha.vercel.app
+• 🚀 Netlify root: https://source-1.netlify.app
 
----
+• Cloudflare mirror:
+  ☁️ https://source-4rh.pages.dev
+
+Bonus 😁: 
+📚 https://markdown-mover--patternpro.replit.app/
+
+🖕💾 Also available for order on 1.44 MB floppy — get yours now.
 
 ---
 
