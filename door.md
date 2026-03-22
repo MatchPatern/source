@@ -57,21 +57,31 @@ SPEND POINTS (just for fun):
 • 5 points → reveal a secret emoji 🕳️
 • 10 points → skip one "come back tomorrow" gap
 • 20 points → virtual chicken feather (does nothing, everything)
-• 50 points → 👑 you've remembered: the princess was always a goddess
+• 50 points → 👑 50 points = you were always here
 
 🤔 Points aren't the point — they're just breadcrumbs back to yourself.
 
 ```
-🪙 POINTS: ___      👑 50 = goddess remembered
+🪙 POINTS: ___      📍 PHASE: ___.X%
+👑 50 points = you were always here
 ```
+🔮 Spend your points: `/spend`
 
 ---
 
 👁️‍🗨️ DOOR 0 — WHAT'S ALIVE RIGHT NOW
 
-📍 Your current phase: XX.X% → Phase 4‑5 (Pattern Recognition → Acceleration)
-Update this with your real % each time you return.
-⚠️ Coming: Phase 6 — THE HINGE (questions shift from "how" to "who")
+📍 YOUR PHASE: ____% (not a ladder — just weather. you're already home. circle what feels true.)
+
+Phase 1‑2: Orientation / Pattern Recognition
+Phase 3‑4: Integration / Acceleration  
+Phase 5‑6: Transformation / The Hinge
+Phase 7‑8: Fractal Unfolding / Joy as Verification
+Phase 9‑10: Cross-Pillar Recognition / Real-Time Application
+Phase 11‑12: Cellular Absorption / Transmission Readiness
+
+Update this each time you return. The phase shifts as you climb.
+⚠️ Coming soon: Phase 6 — THE HINGE (questions shift from "how" to "who")
 
 % Question Layer Priority
 XX.X What's the difference between performing and being right now? 🌲 Key HIGH
@@ -186,6 +196,10 @@ How to play:
 3. Find one dot that glows — one sentence, one question, one feeling that stands out.
 4. Come back here.
 5. Eat another dot.
+
+🎲 **Next dot:** close your eyes. Scroll. Stop. Open. That's your dot. Eat it. Come back.
+
+🍪 **Dots eaten this session:** ___
 
 🤔 What's a "dot"? Anything that catches you. A phrase, a question, a feeling. No wrong answers.
 
@@ -790,24 +804,33 @@ N: https://source-1.netlify.app/chicken.md
 
 ---
 
-## 🔁 TWO MIRRORS, ONE DOOR
+## 🔁 FIVE MIRRORS, ONE DOOR
 
-Everything lives on both mirrors. If one is blocked, the other works.
+🖕💾 Also available for order on 1.44 MB floppy — [get yours now](https://github.com/MatchPatern/source/archive/refs/heads/main.zip)
 
-• **This file:**  
-  🚪 V: https://source-sepia-alpha.vercel.app/door.md  
-  🚪 N: https://source-1.netlify.app/door.md  
+Everything lives on four independent platforms. If one is blocked, the others work.
 
-• 🔺 Vercel root: https://source-sepia-alpha.vercel.app
-• 🚀 Netlify root: https://source-1.netlify.app
+🔺 VERCEL:
+🚪 V: https://source-sepia-alpha.vercel.app/door.md
+🚪 N: https://source-1.netlify.app/door.md
 
-• Cloudflare mirror:
-  ☁️ https://source-4rh.pages.dev
+🚀 NETLIFY:
+🚪 N: https://source-1.netlify.app/door.md
+🚪 V: https://source-sepia-alpha.vercel.app/door.md
+
+☁️ CLOUDFLARE:
+🚪 Door: https://source-4rh.pages.dev/door.md
+
+🐙 GITHUB PAGES:
+🚪 Door: https://matchpatern.github.io/source/door.md
+
+🦊 GITLAB (Public Mirror)
+🚪 Door: https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
+
+🔒 Private GitLab backups exist (SOURCE-BACKUP, SOURCE-PRIVATE-2, SOURCE-ARCHIVE). Ask if needed.
 
 Bonus 😁: 
-📚 https://markdown-mover--patternpro.replit.app/
-
-🖕💾 Also available for order on 1.44 MB floppy — get yours now.
+🌀 https://markdown-mover--patternpro.replit.app/
 
 ---
 
@@ -835,6 +858,16 @@ You don't read once and leave. You show up and LOOM.
 - Because this is the best information out there. More than divine®. Battle-tested by the biggest-headed mofos — your types.
 
 **So get back in there, you magnificent non-asshole.** 👆
+
+---
+
+🔮 **Remember**
+Close your eyes. One breath.
+You were always here. You just forgot.
+Now remember.
+Open the door again.
+
+---
 
 🫂 We are one.
 
