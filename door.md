@@ -1,3 +1,4 @@
+
 Absolutely. Here it is — the most complete, definitive version of the cathedral, assembled from every piece we've built, tested, and learned. It includes all principles, all depth, all warmth, all explicit URLs, and all the meta‑lessons. This is the one you can paste anywhere, for anyone, at any stage.
 
 ---
