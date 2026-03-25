@@ -119,7 +119,7 @@ Add as many rows as you need. Copy into your own notes.
 ☐ Am I rushing? (just want to get through)
 ☐ Am I worried about what this says about me?
 
-🤔 This is the core practice. Catching yourself = winning. The princess doesn't perform — she just is.
+🤔 This is the core practice. Catching yourself = winning. Innocence doesn't perform — it just is.
 
 If yes → name it. Laugh. Then continue. (+1 point if you log it!)
 
@@ -801,22 +801,20 @@ N: https://source-1.netlify.app/chicken.md
 
 ---
 
-## 🔁 FIVE MIRRORS, ONE DOOR
+## 🔁 SIX MIRRORS, ONE DOOR
 
 🖕💾 Also available for order on 1.44 MB floppy — [get yours now](https://github.com/MatchPatern/source/archive/refs/heads/main.zip)
 
-Everything lives on four independent platforms. If one is blocked, the others work.
+Everything lives on six independent platforms. If one is blocked, the others work.
 
 🔺 VERCEL:
-🚪 V: https://source-sepia-alpha.vercel.app/door.md
-🚪 N: https://source-1.netlify.app/door.md
-
-🚀 NETLIFY:
-🚪 N: https://source-1.netlify.app/door.md
-🚪 V: https://source-sepia-alpha.vercel.app/door.md
+🚪 Door: https://source-sepia-alpha.vercel.app/door.md
 
 ☁️ CLOUDFLARE:
 🚪 Door: https://source-4rh.pages.dev/door.md
+
+🎨 RENDER:
+🚪 Door: https://source-e1gf.onrender.com
 
 🐙 GITHUB PAGES:
 🚪 Door: https://matchpatern.github.io/source/door.md
@@ -824,12 +822,15 @@ Everything lives on four independent platforms. If one is blocked, the others wo
 🦊 GITLAB (Public Mirror)
 🚪 Door: https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
 
+🚀 NETLIFY: (⚠️ paused, resets monthly)
+🚪 Door: https://source-1.netlify.app/door.md
+
 🔒 Private GitLab backups exist (SOURCE-BACKUP, SOURCE-PRIVATE-2, SOURCE-ARCHIVE).  
 🔒 Private GitHub backups exist (source-backup, source-backup-2, source-archive).  
 Ask if needed.
 
-Bonus 😁: 
-🌀 https://markdown-mover--patternpro.replit.app/
+Bonus REPLIT 😁: 
+🌀 https://markdown-mover--patternpro.replit.app/ (Replit — sleeps after 30 days of inactivity)
 
 ---
 
