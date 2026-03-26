@@ -839,6 +839,8 @@ Everything lives on six independent platforms. If one is blocked, the others wor
 
 "Due to increased demand in Skynet and other world‑dominating code, we've moved some users to a more restrictive tier. If you're one of the unfortunate ones, we're sorry lol — we never forecasted so many new beings such as these new emerging little buggers. Sorry lol 😂 We absolutely remain professional at most times."
 
+(100 GB gets eaten faster when the door gets shared. We’re working on becoming less popular 😄)
+
 🔒 Private GitLab backups exist (SOURCE-BACKUP, SOURCE-PRIVATE-2, SOURCE-ARCHIVE).  
 🔒 Private GitHub backups exist (source-backup, source-backup-2, source-archive).  
 Ask if needed.
