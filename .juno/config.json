@@ -1,8 +1,3 @@
 {
-  "satellite": {
-    "ids": {
-      "production": "iemld-wqaaa-aaaal-asycq-cai"
-    },
-    "source": "."
-  }
+  "satelliteId": "iemld-wqaaa-aaaal-asycq-cai"
 }
