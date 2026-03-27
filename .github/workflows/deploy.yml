@@ -21,7 +21,7 @@ jobs:
         run: npm ci
 
       - name: Deploy to Juno
-        uses: junobuild/juno-action@main
+        uses: junobuild/juno-action@v0.6.10
         with:
           args: hosting deploy
           config: ./juno.config.json
