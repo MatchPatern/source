@@ -15,6 +15,6 @@ jobs:
         uses: junobuild/juno-action@main
         with:
           args: hosting deploy
-          config: ./juno.config
+          config: ./.juno/config.json
         env:
           JUNO_SATELLITE_ID: ${{ secrets.JUNO_SATELLITE_ID }}
