@@ -184,7 +184,7 @@ If you need to rest, pick a color, breathe it in, let it wash through you.
 ⬛ Black – the space between thoughts  
 ⬜ White – "what if I'm already home?"
 
-No wrong way to rest
+No wrong way to rest.
 
 *If nothing is glowing, that’s fine. The glow happens when you stop looking for it.*
 
