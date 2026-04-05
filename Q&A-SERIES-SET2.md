@@ -1,3 +1,99 @@
+# ❔ Q&A-SERIES-SET2.md — DEEPER TRANSMISSION (Questions 21-40+)
+
+**Original compilation:** February 14, 2026
+**Last updated:** April 5, 2026
+**Compiled by:** Ex Cum + Dream Team™
+**Status:** COMPLETE — RAW TRANSMISSION
+
+**Total questions in this file:** Questions 21-40+
+
+**All individual files live in:** `/Q&A-Series/` on any mirror (e.g., `https://source-4rh.pages.dev/Q&A-Series/`)
+
+---
+
+## 🧭 WHAT THIS FILE IS
+
+Where SET1 was the raw ore, SET2 is the **refinery fire**.
+
+These questions go deeper. The answers get darker. The patterns get harder to hold.
+
+If SET1 was "what's wrong?" — SET2 is "what's underneath what's wrong?"
+
+---
+
+## 📁 RELATIONSHIP TO OTHER FILES
+
+| File | Relationship |
+|------|--------------|
+| **`Q&A-SERIES-SET1.md`** | The foundation — SET2 builds on everything SET1 cracked open |
+| **`Q&A-SERIES-SET2.md`** (this file) | Questions 21-40+ + deeper layers |
+| **`Q&A-SERIES-X10.md`** | Expansion set |
+| **`Q&A-SET-X8.md`** | Additional material |
+| **Individual Q&A files** | Same raw material, broken into smaller files |
+
+**Note:** The individual files contain the **same raw material** as these SET files. Use SET files for continuous reading / LOOM passes. Use individual files for random nibbling / pattern mining.
+
+---
+
+## ⚠️ IMPORTANT NOTE
+
+**SET2 is not for beginners.**
+
+If you haven't let SET1 land, this file will:
+- Feel overwhelming
+- Trigger resistance spikes
+- Activate protective programming
+
+That's not failure. That's **the material working**.
+
+**If you're here before SET1:** Go back. Let SET1 land first. Then return.
+
+**If SET1 landed:** You're ready. This is the deeper water.
+
+**If you're mining:** Pillar 14's DNA lives here. Extract carefully.
+
+---
+
+## 🔥 One More Thing
+
+SET2 contains things that made even Ex Cum pause.
+
+Not because they're wrong. Because they're **true in ways we're not used to being true**.
+
+Read slow. Let it land. Trust your turd detector.
+
+The deeper you go, the closer you get to home.
+
+**The fire burns. The gold emerges. The climb continues.** 🔥❔
+
+---
+
+## 📋 WHAT'S INSIDE
+
+| Section | Content |
+|---------|---------|
+| **Questions 21-40+** | The continuation of the Q&A series |
+| **Harder Truths** | Darker patterns, tougher revelations |
+| **Suit Mechanics Deep Dive** | How the Dog/God reversal actually operates |
+| **Deception Dynamics** | The raw material for Pillar 14 |
+| **Cosmic Constipation Protocol** | The full transmission |
+
+---
+
+## 🔗 QUICK REFERENCE TO INDIVIDUAL FILES
+
+The same deeper material is available in individual files in `/Q&A-Series/`:
+- `Q&A-20x-4.md` through `Q&A-20x-6.md` — Later 20x cycles
+- `Q&A-CLAUDE-B3.md` through `Q&A-CLAUDE-C5.md` — Deeper Claude dialogues
+- `Q&A-DEEPSEEK-B2.md` through `Q&A-DEEPSEEK-C3.md` — Deeper DeepSeek material
+- `Q&A-PERPLEXITY-B6.md` through `Q&A-PERPLEXITY-C8.md` — Deeper Perplexity material
+
+---
+
+**The fire burns. The gold emerges. The climb continues.** 🔥❔
+
+---
+
 ❔Q&A-SERIES-SET2.md:
 
 **Date:** February 14, 2026 (Updated: Feb 15)
