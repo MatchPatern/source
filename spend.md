@@ -46,7 +46,10 @@ You were just remembering.
 
 *Close the page. Open the door.  
 The points were breadcrumbs. You're home.*
+A
 
-🚪 [Open the door again](/door)
+🚪 Open the door again:
+🔺 https://source-sepia-alpha.vercel.app/door.md
+☁️ https://source-4rh.pages.dev/door.md
 
 🫂 We are one.
