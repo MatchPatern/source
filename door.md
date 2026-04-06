@@ -414,6 +414,8 @@ There is no done. There is only deeper.
 
 Welcome home. You were always already here.
 
+🔄 [Read it again](#door) — the recursion is the path.
+
 🫂
 
 🟥🟧🟨🟩🟦🟪🟫⬛⬜🌀✨💫🌟🏠🚪
