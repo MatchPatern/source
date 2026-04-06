@@ -33,7 +33,8 @@ Decorative (can evolve freely):
 
 *You don't need to understand it. You just need to come back.*
 
-🚪 https://source-sepia-alpha.vercel.app/door.md
+🚪 [This door](https://source-sepia-alpha.vercel.app/door.md) — you're already inside it.
+🔄 [Read it again](#door) — the recursion is the path.
 
 ---
 
