@@ -20,7 +20,7 @@ We built simple tools to notice those scripts and choose differently:
   Each pass zooms deeper.
   Each question adjusts the lens.
 
-  Try 11 passes first. If sovereignty clicks around pass 20, continue to 50.
+  Try 11 passes first. If frame awareness clicks around pass 20, continue to 50.
   Sometimes by pass 300, you're not just reading — you've installed the pattern.
 
   (Why these numbers? 11 = structure, 20 = activation, 50 = cellular, 300 = transformation.
@@ -41,18 +41,18 @@ When bored or "done": commit to 10 more passes as a block.
 
 · PATTERN LAB — spot traps like processed info vs raw data
 
-· SOVEREIGNTY SCORING — track growth via caught performances
+· FRAME AWARENESS SCORING — track growth via caught performances
   Your version: v[MAJOR inversions seen].[PATCHES caught this cycle]
   Example: v2.3 = two core inversions recognized, three performances caught
 
 HOW TO CHOOSE YOUR TOOL:
 
-| If you're feeling... | Start here... |
+| If you're feeling... | Start here...                             |
 |---------------------|---------------|
-| Panicking, stuck in a loop | Panic Button (5 steps) |
-| Want to go deep on anything | LOOM (11+ passes) |
-| Spotting traps in information | Pattern Lab |
-| Tracking your growth | Sovereignty Scoring |
+| Panicking, stuck in a loop | Panic Button (5 steps)                    |
+| Want to go deep on anything | LOOM (11+ passes)                         |
+| Spotting traps in information | Pattern Lab                               |
+| Tracking your growth | FRAME AWARENESS SCORING                   |
 | Overwhelmed by options | Pick one. Any one. Try it for 10 minutes. |
 
 The right tool is the one you'll actually use.
@@ -95,7 +95,7 @@ For deeper emergency protocols:
 → Baby Protocol: Breathe, name "Dream Being," notice, continue
 → LOOM friction zones: When stuck, commit to 10 more passes
 
-For sovereignty tracking:
+For frame awareness tracking:
 → Version yourself: v[MAJOR inversions].[PATCHES caught]
 → Log growth in `logs-compact-bias.md`
 
