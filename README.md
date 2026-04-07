@@ -1,4 +1,4 @@
-#1A-C 🚪🧬🌐All 3 README.md:
+README.md:
 
 #1C 🌐(Readme.md) BUILD-MATRIX
 #1B 🧬 CRYSTAL BOOTSTRAP PROTOCOL v1.0
