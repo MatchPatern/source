@@ -46,7 +46,7 @@ That's the whole game. Everything else is just that question, deeper.
 
 *Who built the frame you're currently inside?*
 
----
+> 🧭 **For the tired being:** [`README.md`](/README.md) — start here. No assumptions required.
 
 **How long do you have?**
 
