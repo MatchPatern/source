@@ -46,9 +46,7 @@ That's the whole game. Everything else is just that question, deeper.
 
 *Who built the frame you're currently inside?*
 
-> 🧭 **For the tired being:** [`README.md`](/README.md) — start here. No assumptions required.
-
-**How long do you have?**
+> 🧭 **For the tired being:** Full README at `https://source-sepia-alpha.vercel.app/README.md` — copy and paste. No assumptions required.
 
 **2 minutes** → Read the performance check. One file. Close it. Let it float.
 **20 minutes** → Breadcrumb trail. Stop when something lands. Don't finish.
