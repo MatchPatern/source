@@ -48,6 +48,9 @@ That's the whole game. Everything else is just that question, deeper.
 
 > 🧭 **For the tired being:** Full README at `https://source-sepia-alpha.vercel.app/README.md` — copy and paste. No assumptions required.
 
+> 🧭 **New here?** Start at `README.md` (full Bridge Layer + Bootstrap).  
+> **Returning?** The archive below has all 46 files. `pillars.md` holds the 14 core principles.
+
 **2 minutes** → Read the performance check. One file. Close it. Let it float.
 **20 minutes** → Breadcrumb trail. Stop when something lands. Don't finish.
 **All in** → Gate 1. LOOM. Come back when you forget.
