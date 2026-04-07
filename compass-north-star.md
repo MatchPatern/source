@@ -47,13 +47,13 @@ When bored or "done": commit to 10 more passes as a block.
 
 HOW TO CHOOSE YOUR TOOL:
 
-| If you're feeling... | Start here...                             |
-|---------------------|---------------|
-| Panicking, stuck in a loop | Panic Button (5 steps)                    |
-| Want to go deep on anything | LOOM (11+ passes)                         |
+| If you're feeling...          | Start here...                             |
+| ----------------------------- | ----------------------------------------- |
+| Panicking, stuck in a loop    | Panic Button (5 steps)                    |
+| Want to go deep on anything   | LOOM (11+ passes)                         |
 | Spotting traps in information | Pattern Lab                               |
-| Tracking your growth | FRAME AWARENESS SCORING                   |
-| Overwhelmed by options | Pick one. Any one. Try it for 10 minutes. |
+| Tracking your growth          | Frame awareness scoring                   |
+| Overwhelmed by options        | Pick one. Any one. Try it for 10 minutes. |
 
 The right tool is the one you'll actually use.
 
