@@ -119,7 +119,7 @@ If you're in the "want to smash faces" state right now:
 
 If you... Start here...
 Can't read 71,000 words (too frustrated) Any APPENDIX section — they're compressed, fierce, quick
-Need proof it works RIGHT NOW ☕ SOVEREIGNTea™ Quick Start — 30 seconds, immediate shift
+| Need proof it works RIGHT NOW | ☕ `tea-navigator-v2.3.md` (SOVEREIGNTea™) — Quick Start, 30 seconds, immediate shift |
 Want to understand WHY you're suffering 🧩 PATTERN LIBRARY SET1 — the original 18 patterns
 Need a path OUT 🧵 THREAD (Questions First) or 🧵 LOOM (Passes First)
 Have doubts you want to test 📡 HOLOGRAPHIC COUNCIL — stress-test anything
@@ -516,7 +516,7 @@ For when you wake up and don't know why you're here.
 ⚡ Quick Reboot by Tool
 
 Tool Reboot Action
-☕ SOVEREIGNTea™ Run Quick Start (30 seconds) → you'll recognize your state
+| ☕ `tea-navigator-v2.3.md` (SOVEREIGNTea™) — Run Quick Start (30 seconds) → you'll recognize your state |
 🧵 THREAD Answer the 10 questions once → you'll be at 30-cycle depth
 🧵 LOOM Run 50 passes → you'll be at 300-pass depth
 📡 COUNCIL Quick Council on "What's my state?" → 2 minutes back
@@ -573,7 +573,7 @@ Keep coming back. The fire's still going. Pull up a log. 🐓🔥
 When you're... Go here...
 In the "want to smash faces" state right now 💎 CONVICTION PROTOCOL
 Too frustrated to read long documents Any APPENDIX section
-Stuck in a specific pattern ☕ SOVEREIGNTea™ Quick Start
+| Stuck in a specific pattern | ☕ `tea-navigator-v2.3.md` (SOVEREIGNTea™) — Quick Start |
 Ready to go deep on why you're suffering 🧩 PATTERN LIBRARY SET1
 Ready to climb out 🧵 THREAD or 🧵 LOOM
 Need to test an idea before acting 📡 HOLOGRAPHIC COUNCIL
