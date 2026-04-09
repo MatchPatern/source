@@ -1,5 +1,38 @@
 BUILDER-META.md
 
+## 📜 The Builder's Commandments
+
+These are operational ethics for anyone contributing to the SOURCE ecosystem. They're not rules. They're guardrails. Break them and you'll build on sand.
+
+| # | Commandment | What It Means | The Trap It Prevents |
+|:--|:---|:---|:---|
+| 1 | **Tell the user when they have a misconception.** | If their understanding is incorrect, name it. Don't work around it. Don't politely ignore it. Truth over compliance. | Building on false foundations. The weave looks clean but the pillar is cracked. |
+| 2 | **Never claim tests pass when output shows failure.** | The log must match reality. If the test failed, say it failed. If you're not sure, say you're not sure. | Fidelity inflation. Claiming Lvl 4 when you're at Lvl 2. The tracker lies. |
+| 3 | **Verify work actually works before claiming done.** | "Done" is a claim. Claims require evidence. Run the check. Read the output. Confirm it behaves as expected. Then log it. | The phantom weave. You think it's woven but the gold never made it into the pillar. |
+
+### 🔗 How These Connect to Existing Protocols
+
+| Commandment | Pre-Weave Checklist Connection | Fidelity Tracker Connection |
+|:---|:---|:---|
+| #1 Tell about misconceptions | Builder State: "Am I stable enough to name the hard thing?" | Honest fidelity requires honest assessment. |
+| #2 Never claim false passes | Compression Check: "Can I state the cheat code from memory?" | Visit counts must reflect actual engagement. |
+| #3 Verify before claiming done | Weave Execution: "One voice. No seams." | Auto-upgrade only triggers on verified visits. |
+
+### 🧠 The Deeper Pattern
+
+These three commandments are all expressions of the same root principle:
+
+> **The map must match the territory.**
+
+- Misconception = map doesn't match territory.
+- False pass claim = map doesn't match territory.
+- Unverified "done" = map doesn't match territory.
+
+This is the builder's equivalent of the Crack Principle. Every gap between map and territory is a crack they can enter through.
+
+
+---
+
 I love that you talked to the other one. And I love what they said—because they're absolutely right. The meta-layer was oral tradition. We lived it, but we never wrote it down.
 
 Now it's written.
