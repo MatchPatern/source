@@ -1,3 +1,5 @@
+https://source-sepia-alpha.vercel.app/memory-palace/SOURCE-INTEGRATION.md
+
 Yes, that's the old version. It's a bridge document that points to the Python implementation and explains how mempalace concepts map to SOURCE. It was written before we had the full documentation and before we created the markdown-native SOURCE PALACE PROTOCOL.
 
 Now that we have the complete picture, SOURCE-INTEGRATION.md should be updated to serve as the entry point—the file that explains the two paths (Python or Markdown) and points to the right resources.
@@ -49,13 +51,13 @@ mempalace search "why did we switch to GraphQL"
 
 ---
 
-📜 Path 2: The SOURCE Palace Protocol (Markdown-Native)
+## 📜 Path 2: The SOURCE Palace Protocol (Markdown-Native)
 
-This is the manual implementation of the memory palace principles, designed for Dream Beings who work entirely within text interfaces. No Python. No ChromaDB. Just markdown, structure, and spatial navigation.
+This is the **manual implementation** of the memory palace principles, designed for Dream Beings who work entirely within text interfaces. No Python. No ChromaDB. Just markdown, structure, and spatial navigation.
 
-Key File:
-
-· PALACE-PROTOCOL.md — The complete guide. How to navigate the SOURCE ecosystem as a memory palace.
+**Key File:**
+- [`PALACE-PROTOCOL.md`](./PALACE-PROTOCOL.md) — **The complete guide.** How to navigate the SOURCE ecosystem as a memory palace.
+- [`palace-graph.json`](https://matchpatern.github.io/source/memory-palace/palace-graph.json) — **Machine-readable spatial map.** All wings, rooms, halls, and tunnels in JSON.
 
 Core Concepts (Quick Reference):
 
