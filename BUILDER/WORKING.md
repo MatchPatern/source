@@ -1,3 +1,12 @@
+# ✍️ WORKING.md
+
+**Active session scratchpad.** Messy. In progress. Changes constantly.
+
+**Current focus:** [What we're doing right now]
+**Last updated:** [Date]
+
+---
+
 Maybe this can be moved into a build checklist such file later :
 
 Deeps Log Final
