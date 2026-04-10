@@ -1,4 +1,4 @@
-checklist-long-term.md
+REMEMBER.md
 
 Check list ✔️ (Long Term) Needs Updating
 Yeah we need then to make a checklist, this is the wisest thing ,
