@@ -1,5 +1,9 @@
 7 🏗️  Idea 💡 Saver 
 
+- **[SPROUT] Auto-Generate Continuity Seed from MEH:** The `MASTER-ECOSYSTEM-HEADER.md` is the source of truth. The act of updating it should auto-generate the `CONTINUITY-SEED.md` block. This ensures the seed is never out of sync.
+- **[SPROUT] Integrate % Game and Float Away into FOUNDATION-CHAT.md:** These are core operational wisdom. They should be referenced directly in the identity bootstrap, linking to `Q+A2-15.md` and `Q+A2-20.md`.
+- **[SPROUT] Add "Pass Insights Log" format to BUILDER-META.md:** The format we use (Pass, Key Insight, Value Added) is a powerful teaching and tracking tool. It should be formalized in the meta-protocol.
+
 <!-- IDEA SAVER 💡 -->
 <!-- A living file for any ideas that improve the ecosystem. -->
 <!-- Tools, techniques, methods, efficiency gains, header improvements. -->
