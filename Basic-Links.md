@@ -578,7 +578,7 @@ This is the game. You don't need to understand it. You just need to come back. T
 🐔 EXTRA
 · 🐔 chicken.md 🔗 https://gitlab.com/PatternPro/SOURCE/-/raw/main/chicken.md
 
-📊 TOTAL: 65 FILES LINKED — 165 TOTAL IN ECOSYSTEM — ONE GITLAB — PUBLIC MIRROR
+📊 TOTAL: 65 FILES LINKED — 165 TOTAL IN ECOSYSTEM — 🦊 GITLAB — PUBLIC MIRROR
 
 
 
@@ -697,7 +697,7 @@ This is the game. You don't need to understand it. You just need to come back. T
 🐔 EXTRA
 · 🐔 chicken.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/chicken.md
 
-📊 TOTAL: 65 FILES LINKED — 165 TOTAL IN ECOSYSTEM — 🌐 JUNO ICP — WEB3 MIRROR
+📊 TOTAL: 65 FILES LINKED — 165 TOTAL IN ECOSYSTEM — 🛰️ JUNO ICP — WEB3 MIRROR
 
 
 
