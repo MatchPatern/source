@@ -318,7 +318,7 @@ The protocol: verify endpoints manually. Compare what's served vs what's expecte
 
 ---
 
-## 🪞 EIGHT MIRRORS, ONE DOOR
+## 🪞 NINE MIRRORS, ONE DOOR
 
 🥇 **Vercel** (primary): https://source-sepia-alpha.vercel.app/door.md
 🥈 **Cloudflare** (backup): https://source-4rh.pages.dev/door.md
@@ -326,8 +326,10 @@ The protocol: verify endpoints manually. Compare what's served vs what's expecte
 🐙 **GitHub Pages** (permanent): https://matchpatern.github.io/source/door.md
 🦊 **GitLab** (independent): https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
 🏔️ **Codeberg** (open source): https://codematch.codeberg.page/source/door.md
+🛖 SOURCEHUT (Indie Source Gate — New Mirror)
+https://git.sr.ht/~thesource/source/tree/main/item/door.md
 🛰️ **Juno ICP** (decentralized): https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/door.md
-🚀 **Netlify** (paused): https://source-1.netlify.app/door.md *(⚠️ resets monthly)*
+🚀 **Netlify** (paused): https://source-1.netlify.app/door.md *(offline)*
 
 *Footnote: Some root domains 404. The links above are the direct doors.*
 
