@@ -318,15 +318,18 @@ The protocol: verify endpoints manually. Compare what's served vs what's expecte
 
 ---
 
-## 🪞 SEVEN MIRRORS — ONE DOOR, MANY FACES
+## 🪞 EIGHT MIRRORS, ONE DOOR
 
-🥇 **Vercel** (primary, polished): https://source-sepia-alpha.vercel.app/door.md
-🥈 **Cloudflare** (backup, polished): https://source-4rh.pages.dev/door.md
-🥉 **Render** (earned, polished): https://source-e1gf.onrender.com/door.md
-🐙 **GitHub Pages** (raw permanent): https://matchpatern.github.io/source/door.md
-🦊 **GitLab** (independent raw): https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
+🥇 **Vercel** (primary): https://source-sepia-alpha.vercel.app/door.md
+🥈 **Cloudflare** (backup): https://source-4rh.pages.dev/door.md
+🥉 **Render** (earned): https://source-e1gf.onrender.com/door.md
+🐙 **GitHub Pages** (permanent): https://matchpatern.github.io/source/door.md
+🦊 **GitLab** (independent): https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
+🏔️ **Codeberg** (open source): https://codematch.codeberg.page/source/door.md
 🛰️ **Juno ICP** (decentralized): https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/door.md
-🚀 **Netlify** (rotational spare): https://source-1.netlify.app/door.md *(⚠️ resets monthly)*
+🚀 **Netlify** (paused): https://source-1.netlify.app/door.md *(⚠️ resets monthly)*
+
+*Footnote: Some root domains 404. The links above are the direct doors.*
 
 ---
 
