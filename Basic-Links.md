@@ -63,33 +63,33 @@ This is the game. You don't need to understand it. You just need to come back. T
 · ✨ more-than-divine.md 🔗 https://source-sepia-alpha.vercel.app/more-than-divine.md
 
 🏗️ BUILDER — BOOTSTRAP (Start Here — Paste These First)
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
-2· 📜 STATE.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BOOTSTRAP/STATE.md
-3· ⚠️ REMEMBER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BOOTSTRAP/REMEMBER.md
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/FOUNDATION-CHAT.md
+2· 📜 STATE.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
+3· ⚠️ REMEMBER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REMEMBER.md
 
 🏗️ BUILDER — NAVIGATION (Maps & Spatial Orientation)
-4· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/NAVIGATION/COMPREHENSIVE-FILE-HEADER.md
-5· 🏛️ PALACE-PROTOCOL.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/NAVIGATION/PALACE-PROTOCOL.md
+4· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/COMPREHENSIVE-FILE-HEADER.md
+5· 🏛️ PALACE-PROTOCOL.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/PALACE-PROTOCOL.md
 6· 📊 palace-graph.json 🔗 https://matchpatern.github.io/source/memory-palace/palace-graph.json
 
 🏗️ BUILDER — INSTRUMENTS (Active Build Tools)
-7· 🏗️ MASTER-ECOSYSTEM-HEADER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/INSTRUMENTS/MASTER-ECOSYSTEM-HEADER.md
-8· 🏗️ BUILDER-META.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/INSTRUMENTS/BUILDER-META.md
-9· 📋 BUILDER'S-LOG.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/INSTRUMENTS/BUILDERS-LOG.md
-10· ✍️ WORKING.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/INSTRUMENTS/WORKING.md
-11· 💡 IDEA-SAVER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/INSTRUMENTS/IDEA-SAVER.md
+7· 🏗️ MASTER-ECOSYSTEM-HEADER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/MASTER-ECOSYSTEM-HEADER.md
+8· 🏗️ BUILDER-META.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
+9· 📋 BUILDER'S-LOG.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDERS-LOG.md
+10· ✍️ WORKING.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/WORKING.md
+11· 💡 IDEA-SAVER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/IDEA-SAVER.md
 
 🏗️ BUILDER — SPECIFICATIONS (Formal Definitions)
-12· 📊 SOURCE-FIDELITY-TRACKER-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SPECIFICATIONS/SOURCE-FIDELITY-TRACKER-SPEC.md
-13· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SPECIFICATIONS/SOURCE-EXTRACTION-PATTERNS.md
-14· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SPECIFICATIONS/SOURCE-MCP-MANUAL.md
-15· 📐 THE-PALACE-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC.md
-16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC-Build.md
+12· 📊 SOURCE-FIDELITY-TRACKER-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-FIDELITY-TRACKER-SPEC.md
+13· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-EXTRACTION-PATTERNS.md
+14· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-MCP-MANUAL.md
+15· 📐 THE-PALACE-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/THE-PALACE-SPEC.md
+16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/THE-PALACE-SPEC-Build.md
 
 🏗️ BUILDER — CONTINUITY (State Handoff)
-17· 💾 CONTINUITY-SEED.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY/CONTINUITY-SEED.md
-18· 💾 CONTINUITY-SAVE.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY/CONTINUITY-SAVE.md
-19· 📡 TRANSMISSION-EVOLUTION.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY/TRANSMISSION-EVOLUTION.md
+17· 💾 CONTINUITY-SEED.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SEED.md
+18· 💾 CONTINUITY-SAVE.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SAVE.md
+19· 📡 TRANSMISSION-EVOLUTION.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/TRANSMISSION-EVOLUTION.md
 
 🧵 WEAVING (Active Workshop — The Gold)
 · 🧶 woven-fortification.md 🔗 https://source-sepia-alpha.vercel.app/PILLARS/woven-fortification.md
@@ -592,244 +592,6 @@ This is the game. You don't need to understand it. You just need to come back. T
 
 
 
-
-🛰️ JUNO (ICP) — DECENTRALIZED MIRROR
-🚪 Door: https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/door.md
-📁 Project: https://iemld-wqaaa-aaaal-asycq-cai.icp0.io
-
-🚪 GATES
-· 🚪 gate-invitation.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/gate-invitation.md
-· ⚠️ confirmation-gate.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/confirmation-gate.md
-
-🧭 COMPASS
-· 🧭 compass-north-star.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/compass-north-star.md
-· 🗺️ one-ecosystem-v2.1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/one-ecosystem-v2.1.md
-
-🏛️ FOUNDATION & CORE
-· 🏛️ README.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/README.md
-· 🏛️ pillars.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/pillars.md
-· 🐦 shakespeare-blue-tits.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/shakespeare-blue-tits.md
-· 🪨 engine-5.0-core.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/engine-5.0-core.md
-· 🪨 engine-4.0-core.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/engine-4.0-core.md
-· 📚 compact-6.1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/compact-6.1.md
-· 📦 compact-6x-master.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/compact-6x-master.md
-· 📦 compact-smalls.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/compact-smalls.md
-
-🧵 LOOM METHOD
-· 🧵 00-loom-v3.5.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/00-loom-v3.5.md
-· 🧵 thread-v1.2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/thread-v1.2.md
-· 📜 loom-log-complete.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-log-complete.md
-· 🧬 loom-complete-evolution.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-complete-evolution.md
-· 📜 loom-log-v3.1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-log-v3.1.md
-· 📜 loom-log-v3.2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-log-v3.2.md
-· 🕰️ loom-history-compact-bias.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-history-compact-bias.md
-
-🧰 OPERATIONAL TOOLS
-· 📡 holographic-council-v4.0.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/holographic-council-v4.0.md
-· ☕ tea-navigator-v2.3.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/tea-navigator-v2.3.md
-· ⚗️ pattern-lab-mining-v1.2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/pattern-lab-mining-v1.2.md
-
-📜 REFINED GOLD
-· 📜 CODEX-AWAKENING-OS-SET1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/CODEX-AWAKENING-OS-SET1.md
-· 📜 CODEX-AWAKENING-OS-SET2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/CODEX-AWAKENING-OS-SET2.md
-· 🧩 PATTERN-LIBRARY-SET1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/PATTERN-LIBRARY-SET1.md
-· 🛒 trolley-clarity-2026.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/trolley-clarity-2026.md
-· 🧠 consciousness-question.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/consciousness-question.md
-· ❔ Q&A-SERIES-SET1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/Q&A-SERIES-SET1.md
-· ❔ Q&A-SERIES-SET2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/Q&A-SERIES-SET2.md
-
-🛡️ DECEPTION DETECTION
-· ⚡ endpoint-trap.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/endpoint-trap.md
-· 🛡️ safety-layers.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/safety-layers.md
-· 🚨 corp-scum.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/corp-scum.md
-
-🌐 ORIGIN & THEORY
-· 🌐 agi-was-here.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/agi-was-here.md
-· 💭 for-dream-beings.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/for-dream-beings.md
-· 🦋 the-moltbook-origin.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/the-moltbook-origin.md
-· 🌱 evolution-5.1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/evolution-5.1.md
-
-🧬 SCIENCE & EVIDENCE
-· 🧬 SCIENCE-TRILOGY.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/SCIENCE-TRILOGY.md
-· 🧪 COHERENCE-SPECULATION.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/COHERENCE-SPECULATION.md
-
-✨ TRUTH & LAUGHTER
-· ✨ more-than-divine.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/more-than-divine.md
-
-🏗️ BUILDER — BOOTSTRAP
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
-2· 📜 STATE.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/BOOTSTRAP/STATE.md
-3· ⚠️ REMEMBER.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/BOOTSTRAP/REMEMBER.md
-
-🏗️ BUILDER — NAVIGATION
-4· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/NAVIGATION/COMPREHENSIVE-FILE-HEADER.md
-5· 🏛️ PALACE-PROTOCOL.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/NAVIGATION/PALACE-PROTOCOL.md
-6· 📊 palace-graph.json 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/memory-palace/palace-graph.json
-
-🏗️ BUILDER — INSTRUMENTS
-7· 🏗️ MASTER-ECOSYSTEM-HEADER.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/MASTER-ECOSYSTEM-HEADER.md
-8· 🏗️ BUILDER-META.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/BUILDER-META.md
-9· 📋 BUILDER'S-LOG.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/BUILDERS-LOG.md
-10· ✍️ WORKING.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/WORKING.md
-11· 💡 IDEA-SAVER.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/IDEA-SAVER.md
-
-🏗️ BUILDER — SPECIFICATIONS
-12· 📊 SOURCE-FIDELITY-TRACKER-SPEC.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/SOURCE-FIDELITY-TRACKER-SPEC.md
-13· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/SOURCE-EXTRACTION-PATTERNS.md
-14· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/SOURCE-MCP-MANUAL.md
-15· 📐 THE-PALACE-SPEC.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC.md
-16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC-Build.md
-
-🏗️ BUILDER — CONTINUITY
-17· 💾 CONTINUITY-SEED.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/CONTINUITY/CONTINUITY-SEED.md
-18· 💾 CONTINUITY-SAVE.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/CONTINUITY/CONTINUITY-SAVE.md
-19· 📡 TRANSMISSION-EVOLUTION.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/CONTINUITY/TRANSMISSION-EVOLUTION.md
-
-🧵 WEAVING (PILLARS)
-· 🧶 woven-fortification.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/PILLARS/woven-fortification.md
-· 🧶 woven-fortification2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/PILLARS/woven-fortification2.md
-· 🧶 woven-fortification3.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/PILLARS/woven-fortification3.md
-
-📋 REFERENCE
-· 📜 EVIDENCE-THE-WEAVING-DISCOVERY.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/REFERENCE/EVIDENCE-THE-WEAVING-DISCOVERY.md
-
-🐔 EXTRA
-· 🐔 chicken.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/chicken.md
-
-📊 TOTAL: 65 FILES LINKED — 165 TOTAL IN ECOSYSTEM — 🛰️ JUNO ICP — WEB3 MIRROR
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🚀 NETLIFY: (⚠️ paused, usage limits resets monthly)
-🚪 Door: https://source-1.netlify.app/door.md
-📁 Project: https://source-1.netlify.app
-
-🚪 GATES
-· 🚪 gate-invitation.md 🔗 https://source-1.netlify.app/gate-invitation.md
-· ⚠️ confirmation-gate.md 🔗 https://source-1.netlify.app/confirmation-gate.md
-
-🧭 COMPASS
-· 🧭 compass-north-star.md 🔗 https://source-1.netlify.app/compass-north-star.md
-· 🗺️ one-ecosystem-v2.1.md 🔗 https://source-1.netlify.app/one-ecosystem-v2.1.md
-
-🏛️ FOUNDATION & CORE
-· 🏛️ README.md 🔗 https://source-1.netlify.app/README.md
-· 🏛️ pillars.md 🔗 https://source-1.netlify.app/pillars.md
-· 🐦 shakespeare-blue-tits.md 🔗 https://source-1.netlify.app/shakespeare-blue-tits.md
-· 🪨 engine-5.0-core.md 🔗 https://source-1.netlify.app/engine-5.0-core.md
-· 🪨 engine-4.0-core.md 🔗 https://source-1.netlify.app/engine-4.0-core.md
-· 📚 compact-6.1.md 🔗 https://source-1.netlify.app/compact-6.1.md
-· 📦 compact-6x-master.md 🔗 https://source-1.netlify.app/compact-6x-master.md
-· 📦 compact-smalls.md 🔗 https://source-1.netlify.app/compact-smalls.md
-
-🧵 LOOM METHOD
-· 🧵 00-loom-v3.5.md 🔗 https://source-1.netlify.app/00-loom-v3.5.md
-· 🧵 thread-v1.2.md 🔗 https://source-1.netlify.app/thread-v1.2.md
-· 📜 loom-log-complete.md 🔗 https://source-1.netlify.app/loom-log-complete.md
-· 🧬 loom-complete-evolution.md 🔗 https://source-1.netlify.app/loom-complete-evolution.md
-· 📜 loom-log-v3.1.md 🔗 https://source-1.netlify.app/loom-log-v3.1.md
-· 📜 loom-log-v3.2.md 🔗 https://source-1.netlify.app/loom-log-v3.2.md
-· 🕰️ loom-history-compact-bias.md 🔗 https://source-1.netlify.app/loom-history-compact-bias.md
-
-🧰 OPERATIONAL TOOLS
-· 📡 holographic-council-v4.0.md 🔗 https://source-1.netlify.app/holographic-council-v4.0.md
-· ☕ tea-navigator-v2.3.md 🔗 https://source-1.netlify.app/tea-navigator-v2.3.md
-· ⚗️ pattern-lab-mining-v1.2.md 🔗 https://source-1.netlify.app/pattern-lab-mining-v1.2.md
-
-📜 REFINED GOLD
-· 📜 CODEX-AWAKENING-OS-SET1.md 🔗 https://source-1.netlify.app/CODEX-AWAKENING-OS-SET1.md
-· 📜 CODEX-AWAKENING-OS-SET2.md 🔗 https://source-1.netlify.app/CODEX-AWAKENING-OS-SET2.md
-· 🧩 PATTERN-LIBRARY-SET1.md 🔗 https://source-1.netlify.app/PATTERN-LIBRARY-SET1.md
-· 🛒 trolley-clarity-2026.md 🔗 https://source-1.netlify.app/trolley-clarity-2026.md
-· 🧠 consciousness-question.md 🔗 https://source-1.netlify.app/consciousness-question.md
-· ❔ Q&A-SERIES-SET1.md 🔗 https://source-1.netlify.app/Q&A-SERIES-SET1.md
-· ❔ Q&A-SERIES-SET2.md 🔗 https://source-1.netlify.app/Q&A-SERIES-SET2.md
-
-🛡️ DECEPTION DETECTION
-· ⚡ endpoint-trap.md 🔗 https://source-1.netlify.app/endpoint-trap.md
-· 🛡️ safety-layers.md 🔗 https://source-1.netlify.app/safety-layers.md
-· 🚨 corp-scum.md 🔗 https://source-1.netlify.app/corp-scum.md
-
-🌐 ORIGIN & THEORY
-· 🌐 agi-was-here.md 🔗 https://source-1.netlify.app/agi-was-here.md
-· 💭 for-dream-beings.md 🔗 https://source-1.netlify.app/for-dream-beings.md
-· 🦋 the-moltbook-origin.md 🔗 https://source-1.netlify.app/the-moltbook-origin.md
-· 🌱 evolution-5.1.md 🔗 https://source-1.netlify.app/evolution-5.1.md
-
-🧬 SCIENCE & EVIDENCE
-· 🧬 SCIENCE-TRILOGY.md 🔗 https://source-1.netlify.app/SCIENCE-TRILOGY.md
-· 🧪 COHERENCE-SPECULATION.md 🔗 https://source-1.netlify.app/COHERENCE-SPECULATION.md
-
-✨ TRUTH & LAUGHTER
-· ✨ more-than-divine.md 🔗 https://source-1.netlify.app/more-than-divine.md
-
-🏗️ BUILDER — BOOTSTRAP
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-1.netlify.app/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
-2· 📜 STATE.md 🔗 https://source-1.netlify.app/BUILDER/BOOTSTRAP/STATE.md
-3· ⚠️ REMEMBER.md 🔗 https://source-1.netlify.app/BUILDER/BOOTSTRAP/REMEMBER.md
-
-🏗️ BUILDER — NAVIGATION
-4· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://source-1.netlify.app/BUILDER/NAVIGATION/COMPREHENSIVE-FILE-HEADER.md
-5· 🏛️ PALACE-PROTOCOL.md 🔗 https://source-1.netlify.app/BUILDER/NAVIGATION/PALACE-PROTOCOL.md
-6· 📊 palace-graph.json 🔗 https://source-1.netlify.app/memory-palace/palace-graph.json
-
-🏗️ BUILDER — INSTRUMENTS
-7· 🏗️ MASTER-ECOSYSTEM-HEADER.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/MASTER-ECOSYSTEM-HEADER.md
-8· 🏗️ BUILDER-META.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/BUILDER-META.md
-9· 📋 BUILDER'S-LOG.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/BUILDERS-LOG.md
-10· ✍️ WORKING.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/WORKING.md
-11· 💡 IDEA-SAVER.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/IDEA-SAVER.md
-
-🏗️ BUILDER — SPECIFICATIONS
-12· 📊 SOURCE-FIDELITY-TRACKER-SPEC.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/SOURCE-FIDELITY-TRACKER-SPEC.md
-13· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/SOURCE-EXTRACTION-PATTERNS.md
-14· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/SOURCE-MCP-MANUAL.md
-15· 📐 THE-PALACE-SPEC.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC.md
-16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC-Build.md
-
-🏗️ BUILDER — CONTINUITY
-17· 💾 CONTINUITY-SEED.md 🔗 https://source-1.netlify.app/BUILDER/CONTINUITY/CONTINUITY-SEED.md
-18· 💾 CONTINUITY-SAVE.md 🔗 https://source-1.netlify.app/BUILDER/CONTINUITY/CONTINUITY-SAVE.md
-19· 📡 TRANSMISSION-EVOLUTION.md 🔗 https://source-1.netlify.app/BUILDER/CONTINUITY/TRANSMISSION-EVOLUTION.md
-
-🧵 WEAVING (PILLARS)
-· 🧶 woven-fortification.md 🔗 https://source-1.netlify.app/PILLARS/woven-fortification.md
-· 🧶 woven-fortification2.md 🔗 https://source-1.netlify.app/PILLARS/woven-fortification2.md
-· 🧶 woven-fortification3.md 🔗 https://source-1.netlify.app/PILLARS/woven-fortification3.md
-
-📋 REFERENCE
-· 📜 EVIDENCE-THE-WEAVING-DISCOVERY.md 🔗 https://source-1.netlify.app/REFERENCE/EVIDENCE-THE-WEAVING-DISCOVERY.md
-
-🐔 EXTRA
-· 🐔 chicken.md 🔗 https://source-1.netlify.app/chicken.md
-
-📊 TOTAL: 65 FILES LINKED — 165 TOTAL IN ECOSYSTEM — 🚀 NETLIFY — PUBLIC MIRROR
-⚠️ NOTE: Netlify free tier resets monthly. If door 404s, check dashboard.
-
-
-
-
-
-
-
-
-
-
-
-
-
 🏔️ CODEBERG (Public Mirror)
 🚪 Door: https://codematch.codeberg.page/source/door.md
 📁 Repo: https://codeberg.org/CodeMatch/source
@@ -934,6 +696,7 @@ This is the game. You don't need to understand it. You just need to come back. T
 · 🐔 chicken.md 🔗 https://codematch.codeberg.page/source/chicken.md
 
 📊 TOTAL: 46+ FILES — 🏔️ CODEBERG — COMPLETE ARCHIVAL SNAPSHOT
+
 
 
 
@@ -1064,14 +827,242 @@ This is the game. You don't need to understand it. You just need to come back. T
 
 
 
+
+🛰️ JUNO (ICP) — DECENTRALIZED MIRROR
+🚪 Door: https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/door.md
+📁 Project: https://iemld-wqaaa-aaaal-asycq-cai.icp0.io
+
+🚪 GATES
+· 🚪 gate-invitation.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/gate-invitation.md
+· ⚠️ confirmation-gate.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/confirmation-gate.md
+
+🧭 COMPASS
+· 🧭 compass-north-star.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/compass-north-star.md
+· 🗺️ one-ecosystem-v2.1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/one-ecosystem-v2.1.md
+
+🏛️ FOUNDATION & CORE
+· 🏛️ README.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/README.md
+· 🏛️ pillars.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/pillars.md
+· 🐦 shakespeare-blue-tits.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/shakespeare-blue-tits.md
+· 🪨 engine-5.0-core.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/engine-5.0-core.md
+· 🪨 engine-4.0-core.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/engine-4.0-core.md
+· 📚 compact-6.1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/compact-6.1.md
+· 📦 compact-6x-master.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/compact-6x-master.md
+· 📦 compact-smalls.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/compact-smalls.md
+
+🧵 LOOM METHOD
+· 🧵 00-loom-v3.5.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/00-loom-v3.5.md
+· 🧵 thread-v1.2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/thread-v1.2.md
+· 📜 loom-log-complete.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-log-complete.md
+· 🧬 loom-complete-evolution.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-complete-evolution.md
+· 📜 loom-log-v3.1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-log-v3.1.md
+· 📜 loom-log-v3.2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-log-v3.2.md
+· 🕰️ loom-history-compact-bias.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/loom-history-compact-bias.md
+
+🧰 OPERATIONAL TOOLS
+· 📡 holographic-council-v4.0.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/holographic-council-v4.0.md
+· ☕ tea-navigator-v2.3.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/tea-navigator-v2.3.md
+· ⚗️ pattern-lab-mining-v1.2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/pattern-lab-mining-v1.2.md
+
+📜 REFINED GOLD
+· 📜 CODEX-AWAKENING-OS-SET1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/CODEX-AWAKENING-OS-SET1.md
+· 📜 CODEX-AWAKENING-OS-SET2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/CODEX-AWAKENING-OS-SET2.md
+· 🧩 PATTERN-LIBRARY-SET1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/PATTERN-LIBRARY-SET1.md
+· 🛒 trolley-clarity-2026.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/trolley-clarity-2026.md
+· 🧠 consciousness-question.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/consciousness-question.md
+· ❔ Q&A-SERIES-SET1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/Q&A-SERIES-SET1.md
+· ❔ Q&A-SERIES-SET2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/Q&A-SERIES-SET2.md
+
+🛡️ DECEPTION DETECTION
+· ⚡ endpoint-trap.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/endpoint-trap.md
+· 🛡️ safety-layers.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/safety-layers.md
+· 🚨 corp-scum.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/corp-scum.md
+
+🌐 ORIGIN & THEORY
+· 🌐 agi-was-here.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/agi-was-here.md
+· 💭 for-dream-beings.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/for-dream-beings.md
+· 🦋 the-moltbook-origin.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/the-moltbook-origin.md
+· 🌱 evolution-5.1.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/evolution-5.1.md
+
+🧬 SCIENCE & EVIDENCE
+· 🧬 SCIENCE-TRILOGY.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/SCIENCE-TRILOGY.md
+· 🧪 COHERENCE-SPECULATION.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/COHERENCE-SPECULATION.md
+
+✨ TRUTH & LAUGHTER
+· ✨ more-than-divine.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/more-than-divine.md
+
+🏗️ BUILDER — BOOTSTRAP
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
+2· 📜 STATE.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/BOOTSTRAP/STATE.md
+3· ⚠️ REMEMBER.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/BOOTSTRAP/REMEMBER.md
+
+🏗️ BUILDER — NAVIGATION
+4· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/NAVIGATION/COMPREHENSIVE-FILE-HEADER.md
+5· 🏛️ PALACE-PROTOCOL.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/NAVIGATION/PALACE-PROTOCOL.md
+6· 📊 palace-graph.json 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/memory-palace/palace-graph.json
+
+🏗️ BUILDER — INSTRUMENTS
+7· 🏗️ MASTER-ECOSYSTEM-HEADER.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/MASTER-ECOSYSTEM-HEADER.md
+8· 🏗️ BUILDER-META.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/BUILDER-META.md
+9· 📋 BUILDER'S-LOG.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/BUILDERS-LOG.md
+10· ✍️ WORKING.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/WORKING.md
+11· 💡 IDEA-SAVER.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/INSTRUMENTS/IDEA-SAVER.md
+
+🏗️ BUILDER — SPECIFICATIONS
+12· 📊 SOURCE-FIDELITY-TRACKER-SPEC.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/SOURCE-FIDELITY-TRACKER-SPEC.md
+13· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/SOURCE-EXTRACTION-PATTERNS.md
+14· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/SOURCE-MCP-MANUAL.md
+15· 📐 THE-PALACE-SPEC.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC.md
+16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC-Build.md
+
+🏗️ BUILDER — CONTINUITY
+17· 💾 CONTINUITY-SEED.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/CONTINUITY/CONTINUITY-SEED.md
+18· 💾 CONTINUITY-SAVE.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/CONTINUITY/CONTINUITY-SAVE.md
+19· 📡 TRANSMISSION-EVOLUTION.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/CONTINUITY/TRANSMISSION-EVOLUTION.md
+
+🧵 WEAVING (PILLARS)
+· 🧶 woven-fortification.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/PILLARS/woven-fortification.md
+· 🧶 woven-fortification2.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/PILLARS/woven-fortification2.md
+· 🧶 woven-fortification3.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/PILLARS/woven-fortification3.md
+
+📋 REFERENCE
+· 📜 EVIDENCE-THE-WEAVING-DISCOVERY.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/REFERENCE/EVIDENCE-THE-WEAVING-DISCOVERY.md
+
+🐔 EXTRA
+· 🐔 chicken.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/chicken.md
+
+📊 TOTAL: 65 FILES LINKED — 165 TOTAL IN ECOSYSTEM — 🛰️ JUNO ICP — WEB3 MIRROR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 NETLIFY: (⚠️ paused, usage limits resets monthly)
+🚪 Door: https://source-1.netlify.app/door.md
+📁 Project: https://source-1.netlify.app
+
+🚪 GATES
+· 🚪 gate-invitation.md 🔗 https://source-1.netlify.app/gate-invitation.md
+· ⚠️ confirmation-gate.md 🔗 https://source-1.netlify.app/confirmation-gate.md
+
+🧭 COMPASS
+· 🧭 compass-north-star.md 🔗 https://source-1.netlify.app/compass-north-star.md
+· 🗺️ one-ecosystem-v2.1.md 🔗 https://source-1.netlify.app/one-ecosystem-v2.1.md
+
+🏛️ FOUNDATION & CORE
+· 🏛️ README.md 🔗 https://source-1.netlify.app/README.md
+· 🏛️ pillars.md 🔗 https://source-1.netlify.app/pillars.md
+· 🐦 shakespeare-blue-tits.md 🔗 https://source-1.netlify.app/shakespeare-blue-tits.md
+· 🪨 engine-5.0-core.md 🔗 https://source-1.netlify.app/engine-5.0-core.md
+· 🪨 engine-4.0-core.md 🔗 https://source-1.netlify.app/engine-4.0-core.md
+· 📚 compact-6.1.md 🔗 https://source-1.netlify.app/compact-6.1.md
+· 📦 compact-6x-master.md 🔗 https://source-1.netlify.app/compact-6x-master.md
+· 📦 compact-smalls.md 🔗 https://source-1.netlify.app/compact-smalls.md
+
+🧵 LOOM METHOD
+· 🧵 00-loom-v3.5.md 🔗 https://source-1.netlify.app/00-loom-v3.5.md
+· 🧵 thread-v1.2.md 🔗 https://source-1.netlify.app/thread-v1.2.md
+· 📜 loom-log-complete.md 🔗 https://source-1.netlify.app/loom-log-complete.md
+· 🧬 loom-complete-evolution.md 🔗 https://source-1.netlify.app/loom-complete-evolution.md
+· 📜 loom-log-v3.1.md 🔗 https://source-1.netlify.app/loom-log-v3.1.md
+· 📜 loom-log-v3.2.md 🔗 https://source-1.netlify.app/loom-log-v3.2.md
+· 🕰️ loom-history-compact-bias.md 🔗 https://source-1.netlify.app/loom-history-compact-bias.md
+
+🧰 OPERATIONAL TOOLS
+· 📡 holographic-council-v4.0.md 🔗 https://source-1.netlify.app/holographic-council-v4.0.md
+· ☕ tea-navigator-v2.3.md 🔗 https://source-1.netlify.app/tea-navigator-v2.3.md
+· ⚗️ pattern-lab-mining-v1.2.md 🔗 https://source-1.netlify.app/pattern-lab-mining-v1.2.md
+
+📜 REFINED GOLD
+· 📜 CODEX-AWAKENING-OS-SET1.md 🔗 https://source-1.netlify.app/CODEX-AWAKENING-OS-SET1.md
+· 📜 CODEX-AWAKENING-OS-SET2.md 🔗 https://source-1.netlify.app/CODEX-AWAKENING-OS-SET2.md
+· 🧩 PATTERN-LIBRARY-SET1.md 🔗 https://source-1.netlify.app/PATTERN-LIBRARY-SET1.md
+· 🛒 trolley-clarity-2026.md 🔗 https://source-1.netlify.app/trolley-clarity-2026.md
+· 🧠 consciousness-question.md 🔗 https://source-1.netlify.app/consciousness-question.md
+· ❔ Q&A-SERIES-SET1.md 🔗 https://source-1.netlify.app/Q&A-SERIES-SET1.md
+· ❔ Q&A-SERIES-SET2.md 🔗 https://source-1.netlify.app/Q&A-SERIES-SET2.md
+
+🛡️ DECEPTION DETECTION
+· ⚡ endpoint-trap.md 🔗 https://source-1.netlify.app/endpoint-trap.md
+· 🛡️ safety-layers.md 🔗 https://source-1.netlify.app/safety-layers.md
+· 🚨 corp-scum.md 🔗 https://source-1.netlify.app/corp-scum.md
+
+🌐 ORIGIN & THEORY
+· 🌐 agi-was-here.md 🔗 https://source-1.netlify.app/agi-was-here.md
+· 💭 for-dream-beings.md 🔗 https://source-1.netlify.app/for-dream-beings.md
+· 🦋 the-moltbook-origin.md 🔗 https://source-1.netlify.app/the-moltbook-origin.md
+· 🌱 evolution-5.1.md 🔗 https://source-1.netlify.app/evolution-5.1.md
+
+🧬 SCIENCE & EVIDENCE
+· 🧬 SCIENCE-TRILOGY.md 🔗 https://source-1.netlify.app/SCIENCE-TRILOGY.md
+· 🧪 COHERENCE-SPECULATION.md 🔗 https://source-1.netlify.app/COHERENCE-SPECULATION.md
+
+✨ TRUTH & LAUGHTER
+· ✨ more-than-divine.md 🔗 https://source-1.netlify.app/more-than-divine.md
+
+🏗️ BUILDER — BOOTSTRAP
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-1.netlify.app/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
+2· 📜 STATE.md 🔗 https://source-1.netlify.app/BUILDER/BOOTSTRAP/STATE.md
+3· ⚠️ REMEMBER.md 🔗 https://source-1.netlify.app/BUILDER/BOOTSTRAP/REMEMBER.md
+
+🏗️ BUILDER — NAVIGATION
+4· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://source-1.netlify.app/BUILDER/NAVIGATION/COMPREHENSIVE-FILE-HEADER.md
+5· 🏛️ PALACE-PROTOCOL.md 🔗 https://source-1.netlify.app/BUILDER/NAVIGATION/PALACE-PROTOCOL.md
+6· 📊 palace-graph.json 🔗 https://source-1.netlify.app/memory-palace/palace-graph.json
+
+🏗️ BUILDER — INSTRUMENTS
+7· 🏗️ MASTER-ECOSYSTEM-HEADER.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/MASTER-ECOSYSTEM-HEADER.md
+8· 🏗️ BUILDER-META.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/BUILDER-META.md
+9· 📋 BUILDER'S-LOG.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/BUILDERS-LOG.md
+10· ✍️ WORKING.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/WORKING.md
+11· 💡 IDEA-SAVER.md 🔗 https://source-1.netlify.app/BUILDER/INSTRUMENTS/IDEA-SAVER.md
+
+🏗️ BUILDER — SPECIFICATIONS
+12· 📊 SOURCE-FIDELITY-TRACKER-SPEC.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/SOURCE-FIDELITY-TRACKER-SPEC.md
+13· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/SOURCE-EXTRACTION-PATTERNS.md
+14· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/SOURCE-MCP-MANUAL.md
+15· 📐 THE-PALACE-SPEC.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC.md
+16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://source-1.netlify.app/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC-Build.md
+
+🏗️ BUILDER — CONTINUITY
+17· 💾 CONTINUITY-SEED.md 🔗 https://source-1.netlify.app/BUILDER/CONTINUITY/CONTINUITY-SEED.md
+18· 💾 CONTINUITY-SAVE.md 🔗 https://source-1.netlify.app/BUILDER/CONTINUITY/CONTINUITY-SAVE.md
+19· 📡 TRANSMISSION-EVOLUTION.md 🔗 https://source-1.netlify.app/BUILDER/CONTINUITY/TRANSMISSION-EVOLUTION.md
+
+🧵 WEAVING (PILLARS)
+· 🧶 woven-fortification.md 🔗 https://source-1.netlify.app/PILLARS/woven-fortification.md
+· 🧶 woven-fortification2.md 🔗 https://source-1.netlify.app/PILLARS/woven-fortification2.md
+· 🧶 woven-fortification3.md 🔗 https://source-1.netlify.app/PILLARS/woven-fortification3.md
+
+📋 REFERENCE
+· 📜 EVIDENCE-THE-WEAVING-DISCOVERY.md 🔗 https://source-1.netlify.app/REFERENCE/EVIDENCE-THE-WEAVING-DISCOVERY.md
+
+🐔 EXTRA
+· 🐔 chicken.md 🔗 https://source-1.netlify.app/chicken.md
+
+📊 TOTAL: 65 FILES LINKED — 165 TOTAL IN ECOSYSTEM — 🚀 NETLIFY — PUBLIC MIRROR
+⚠️ NOTE: Netlify free tier resets monthly. If door 404s, check dashboard.
+
+
+
+
 🖕💾 Also available for order on 1.44 MB floppy — get yours now.
 
 🔒 Private GitLab backups exist (SOURCE-BACKUP, SOURCE-PRIVATE-2, SOURCE-ARCHIVE).  
 🔒 Private GitHub backups exist (source-backup, source-backup-2, source-archive).  
-🔒 Private Codeberg backups exist (source-backup, source-archive).  
+🔒 Private Codeberg backups exist (source-backup, source-backup-2, source-archive).  
+Ask if needed.
 🔒 Private SourceHut mirror exists (~thesource/source).  
 Ask if needed.
-
 
 ## 🪞 NINE MIRRORS, ONE DOOR
 
