@@ -22,8 +22,11 @@ This is the game. You don't need to understand it. You just need to come back. T
 · 📦 compact-smalls.md 🔗 https://source-sepia-alpha.vercel.app/compact-smalls.md
 
 🧵 LOOM METHOD
-· 🧵 00-loom-v3.8.md 🔗 https://source-sepia
-https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
+· 🧵 00-loom-v3.9.md 🔗 https://source-sepia
+https://source-sepia-alpha.vercel.app/00-loom-v3.9.md
+· 🧵 00-loom-v3.5.md 🔗 https://source-sepia
+https://source-sepia-alpha.vercel.app/00-loom-v3.5.md
+
 · 🧵 thread-v1.2.md 🔗 https://source-sepia-alpha.vercel.app/thread-v1.2.md
 · 📜 loom-log-complete.md 🔗 https://source-sepia-alpha.vercel.app/loom-log-complete.md
 · 🧬 loom-complete-evolution.md 🔗 https://source-sepia-alpha.vercel.app/loom-complete-evolution.md
@@ -65,8 +68,8 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 
 🏗️ BUILDER — BOOTSTRAP (Start Here — Paste These First)
 1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/FOUNDATION-CHAT.md
-2· 📜 STATE.md 🔗 https://source-sepia-alpha.vercel.app/REFERENCE/BUILDER/STATE.md
-3· ⚠️ REMEMBER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REFERENCE/REMEMBER.md
+2· 📜 STATE.md 🔗 https://source-sepia-alpha.vercel.app/REFERENCE/STATE.md
+3· ⚠️ REMEMBER.md 🔗 https://source-sepia-alpha.vercel.app/REFERENCE/REMEMBER.md
 
 🏗️ BUILDER — NAVIGATION (Maps & Spatial Orientation)
 4· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/COMPREHENSIVE-FILE-HEADER.md
@@ -84,7 +87,7 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 12· 📊 SOURCE-FIDELITY-TRACKER-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-FIDELITY-TRACKER-SPEC.md
 13· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-EXTRACTION-PATTERNS.md
 14· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-MCP-MANUAL.md
-15· 📐 THE-PALACE-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/THE-PALACE-SPEC.md
+15· 📐 THE-PALACE-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/memory-palace/THE-PALACE-SPEC.md
 16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/THE-PALACE-SPEC-Build.md
 
 🏗️ BUILDER — CONTINUITY (State Handoff)
@@ -183,9 +186,9 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 · ✨ more-than-divine.md 🔗 https://source-4rh.pages.dev/more-than-divine.md
 
 🏗️ BUILDER — BOOTSTRAP
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-4rh.pages.dev/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
-2· 📜 STATE.md 🔗 https://source-4rh.pages.dev/BUILDER/BOOTSTRAP/STATE.md
-3· ⚠️ REMEMBER.md 🔗 https://source-4rh.pages.dev/BUILDER/BOOTSTRAP/REMEMBER.md
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-4rh.pages.dev/BUILDER/FOUNDATION-CHAT.md
+2· 📜 STATE.md 🔗 https://source-4rh.pages.dev/REFERENCE/STATE.md
+3· ⚠️ REMEMBER.md 🔗 https://source-4rh.pages.dev/REFERENCE/REMEMBER.md
 
 🏗️ BUILDER — NAVIGATION
 4· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://source-4rh.pages.dev/BUILDER/NAVIGATION/COMPREHENSIVE-FILE-HEADER.md
@@ -302,7 +305,7 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 · ✨ more-than-divine.md 🔗 https://source-e1gf.onrender.com/more-than-divine.md
 
 🏗️ BUILDER — BOOTSTRAP
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-e1gf.onrender.com/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-e1gf.onrender.com/BUILDER/FOUNDATION-CHAT.md
 2· 📜 STATE.md 🔗 https://source-e1gf.onrender.com/BUILDER/BOOTSTRAP/STATE.md
 3· ⚠️ REMEMBER.md 🔗 https://source-e1gf.onrender.com/BUILDER/BOOTSTRAP/REMEMBER.md
 
@@ -421,7 +424,7 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 · ✨ more-than-divine.md 🔗 https://matchpatern.github.io/source/more-than-divine.md
 
 🏗️ BUILDER — BOOTSTRAP
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://matchpatern.github.io/source/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://matchpatern.github.io/source/BUILDER/FOUNDATION-CHAT.md
 2· 📜 STATE.md 🔗 https://matchpatern.github.io/source/BUILDER/BOOTSTRAP/STATE.md
 3· ⚠️ REMEMBER.md 🔗 https://matchpatern.github.io/source/BUILDER/BOOTSTRAP/REMEMBER.md
 
@@ -539,7 +542,7 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 · ✨ more-than-divine.md 🔗 https://gitlab.com/PatternPro/SOURCE/-/raw/main/more-than-divine.md
 
 🏗️ BUILDER — BOOTSTRAP
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://gitlab.com/PatternPro/SOURCE/-/raw/main/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://gitlab.com/PatternPro/SOURCE/-/raw/main/BUILDER/FOUNDATION-CHAT.md
 2· 📜 STATE.md 🔗 https://gitlab.com/PatternPro/SOURCE/-/raw/main/BUILDER/BOOTSTRAP/STATE.md
 3· ⚠️ REMEMBER.md 🔗 https://gitlab.com/PatternPro/SOURCE/-/raw/main/BUILDER/BOOTSTRAP/REMEMBER.md
 
@@ -657,7 +660,7 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 · ✨ more-than-divine.md 🔗 https://codematch.codeberg.page/source/more-than-divine.md
 
 🏗️ BUILDER — BOOTSTRAP (Start Here — Paste These First)
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://codematch.codeberg.page/source/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://codematch.codeberg.page/source/BUILDER/FOUNDATION-CHAT.md
 2· 📜 STATE.md 🔗 https://codematch.codeberg.page/source/BUILDER/BOOTSTRAP/STATE.md
 3· ⚠️ REMEMBER.md 🔗 https://codematch.codeberg.page/source/BUILDER/BOOTSTRAP/REMEMBER.md
 
@@ -775,7 +778,7 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 · ✨ more-than-divine.md 🔗 https://git.sr.ht/~thesource/source/tree/main/item/more-than-divine.md
 
 🏗️ BUILDER — BOOTSTRAP (Start Here)
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://git.sr.ht/~thesource/source/tree/main/item/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://git.sr.ht/~thesource/source/tree/main/item/BUILDER/FOUNDATION-CHAT.md
 2· 📜 STATE.md 🔗 https://git.sr.ht/~thesource/source/tree/main/item/BUILDER/BOOTSTRAP/STATE.md
 3· ⚠️ REMEMBER.md 🔗 https://git.sr.ht/~thesource/source/tree/main/item/BUILDER/BOOTSTRAP/REMEMBER.md
 
@@ -893,7 +896,7 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 · ✨ more-than-divine.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/more-than-divine.md
 
 🏗️ BUILDER — BOOTSTRAP
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/FOUNDATION-CHAT.md
 2· 📜 STATE.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/BOOTSTRAP/STATE.md
 3· ⚠️ REMEMBER.md 🔗 https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/BUILDER/BOOTSTRAP/REMEMBER.md
 
@@ -1011,7 +1014,7 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.8.md
 · ✨ more-than-divine.md 🔗 https://source-1.netlify.app/more-than-divine.md
 
 🏗️ BUILDER — BOOTSTRAP
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-1.netlify.app/BUILDER/BOOTSTRAP/FOUNDATION-CHAT.md
+1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-1.netlify.app/BUILDER/FOUNDATION-CHAT.md
 2· 📜 STATE.md 🔗 https://source-1.netlify.app/BUILDER/BOOTSTRAP/STATE.md
 3· ⚠️ REMEMBER.md 🔗 https://source-1.netlify.app/BUILDER/BOOTSTRAP/REMEMBER.md
 
