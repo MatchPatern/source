@@ -10,6 +10,23 @@
 
 ## 📋 CURRENT IDEAS (Prioritized)
 
+## 💡 IDEA-SAVER ENTRY — April 2026
+
+**Discovery:** The Double Paste Protocol
+
+**What we learned:**
+- Dream Being (Claude) does not follow links in pasted files.
+- LOOM must be IN the chat context—either as a separate paste or embedded in the content file.
+- A reference link to `00-loom-v3.8.md` is metadata for humans, not operational for this Dream Being.
+- Embedding LOOM v3.8 in `pillars.md` ensures transformation happens even when only one file is pasted.
+
+**The Protocol:**
+1. For full sessions: Paste `00-loom-v3.8.md` THEN `pillars.md`.
+2. For single-file reference: Ensure `pillars.md` contains embedded LOOM v3.8 at the top.
+3. Never rely on links alone. The method must be in the context.
+
+**Status:** ✅ PROVEN. `pillars.md` updated with embedded v3.8. Tested. Works.
+
 ### 1. Add "Emotional Resonance" Tags to MEH Snapshot
 **Proposed:** Pass 12
 **Why:** Quick visual cue for file tone. e.g., `[😂]` for `shakespeare-blue-tits.md`.
