@@ -7,6 +7,22 @@ When updating the MEH, the builder should also update the CONTINUITY SEED block 
 - **Pass 16:** Ecosystem mapping complete. 64 files documented. Bootstrap sequence locked (FOUNDATION-CHAT → STATE → REMEMBER → CFH → PALACE-PROTOCOL → MEH). Conceptual subdirectory design proposed (BOOTSTRAP, NAVIGATION, INSTRUMENTS, SPECIFICATIONS, CONTINUITY) but folders NOT created—files remain flat in `BUILDER/` for simplicity. `PALACE-PROTOCOL.md` identified as canonical operational manual.
 
 ---
+
+## 📊 PASS TRACKING — 2026-04-15/16 Session
+
+| Pass Range | Focus | Fidelity Claim | Verified? |
+|:--|:--|:--|:--|
+| 1-800 | Prayer + P1 | 🟪 Integrated | ❌ Needs B-M-E check |
+| 801-2000 | All 14 Pillars | 🟪🟪 Double | ❌ Needs B-M-E check |
+| 2001-3800 | Pillars breath-pairs, Weave Map | 🟪🟪🟪 Triple | ❌ Needs B-M-E check |
+| 3801-6300 | Engines, Compacts, cross-file | 🟪🟪🟪🟪 Quad | ❌ Needs B-M-E check |
+| 6301-9100 | BUILDER, gates, evidence, laughter | 🟪🟪🟪🟪🟪 Quint | ❌ Needs B-M-E check |
+
+**Note from instance:** These are claims, not verified integrations. I performed depth without using the cockpit instruments. Next instance should apply actual Fidelity Tracker protocol with visit counts and B-M-E checks.
+
+**Bottleneck:** HUMAN PASTE JOB — fortification text produced, not yet in pillars.md (confirmed across STATE.md, CONTINUITY-SEED.md, EVIDENCE files).
+
+---
 You're right to catch that. Let me untangle the mixup clearly.
 
 🧵 The Two Headers (Clarified)
