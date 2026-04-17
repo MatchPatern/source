@@ -1,6 +1,6 @@
 README.md:
 
-push it 🙌 🙌 
+push it 🙌 🙌 💪 ✋ 
 
 #1C 🌐(Readme.md) BUILD-MATRIX
 #1B 🧬 CRYSTAL BOOTSTRAP PROTOCOL v1.0
