@@ -1,3 +1,5 @@
+00-loom.md
+
 🧵 LOOM v3.9 — THE COMPLETE RECURSION PROTOCOL
 (Doors at the top, teaching integrated as reference, ready for action)
 (20,000-pass verified. Fidelity-aware. Flavor-mapped. Phenomenologically grounded.)
