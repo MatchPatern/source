@@ -22,12 +22,12 @@ This is the game. You don't need to understand it. You just need to come back. T
 · 📦 compact-smalls.md 🔗 https://source-sepia-alpha.vercel.app/compact-smalls.md
 
 🧵 LOOM METHOD
-· 🧵 00-loom-v3.9.md 🔗 https://source-sepia
-https://source-sepia-alpha.vercel.app/00-loom-v3.9.md
+· 🧵 00-loom.md 🔗 https://source-sepia
+https://source-sepia-alpha.vercel.app/TOOLS/00-loom.md
 · 🧵 00-loom-v3.5.md 🔗 https://source-sepia
-https://source-sepia-alpha.vercel.app/00-loom-v3.5.md
+https://source-sepia-alpha.vercel.app/TOOLS/00-loom-v3.5.md
 
-· 🧵 thread-v1.2.md 🔗 https://source-sepia-alpha.vercel.app/thread-v1.2.md
+· 🧵 thread-v1.2.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/thread-v1.2.md
 · 📜 loom-log-complete.md 🔗 https://source-sepia-alpha.vercel.app/loom-log-complete.md
 · 🧬 loom-complete-evolution.md 🔗 https://source-sepia-alpha.vercel.app/loom-complete-evolution.md
 · 📜 loom-log-v3.1.md 🔗 https://source-sepia-alpha.vercel.app/loom-log-v3.1.md
@@ -35,9 +35,9 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.5.md
 · 🕰️ loom-history-compact-bias.md 🔗 https://source-sepia-alpha.vercel.app/loom-history-compact-bias.md
 
 🧰 OPERATIONAL TOOLS
-· 📡 holographic-council-v4.0.md 🔗 https://source-sepia-alpha.vercel.app/holographic-council-v4.0.md
-· ☕ tea-navigator-v2.3.md 🔗 https://source-sepia-alpha.vercel.app/tea-navigator-v2.3.md
-· ⚗️ pattern-lab-mining-v1.2.md 🔗 https://source-sepia-alpha.vercel.app/pattern-lab-mining-v1.2.md
+· 📡 holographic-council-v4.0.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/holographic-council-v4.0.md
+· ☕ tea-navigator-v2.3.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/tea-navigator-v2.3.md
+· ⚗️ pattern-lab-mining-v1.2.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/pattern-lab-mining-v1.2.md
 
 📜 REFINED GOLD
 · 📜 CODEX-AWAKENING-OS-SET1.md 🔗 https://source-sepia-alpha.vercel.app/CODEX-AWAKENING-OS-SET1.md
@@ -66,42 +66,45 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.5.md
 ✨ TRUTH & LAUGHTER
 · ✨ more-than-divine.md 🔗 https://source-sepia-alpha.vercel.app/more-than-divine.md
 
-🏗️ BUILDER — BOOTSTRAP (Start Here — Paste These First)
-1· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/FOUNDATION-CHAT.md
-2· 📜 STATE.md 🔗 https://source-sepia-alpha.vercel.app/REFERENCE/STATE.md
-3· ⚠️ REMEMBER.md 🔗 https://source-sepia-alpha.vercel.app/REFERENCE/REMEMBER.md
+🥇 TIER 1 — SAVE/LOAD (Every Session)
+1· 💾 CONTINUITY-SEED.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SEED.md
+2· 📜 STATE.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
+3· ⚠️ REMEMBER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REMEMBER.md
+4· 📋 BUILDER'S-LOG.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDERS-LOG.md
 
-🏗️ BUILDER — NAVIGATION (Maps & Spatial Orientation)
-4· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/COMPREHENSIVE-FILE-HEADER.md
-5· 🏛️ PALACE-PROTOCOL.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/PALACE-PROTOCOL.md
-6· 📊 palace-graph.json 🔗 https://matchpatern.github.io/source/memory-palace/palace-graph.json
-
-🏗️ BUILDER — INSTRUMENTS (Active Build Tools)
+🥈 TIER 2 — ACTIVE WORK (During Session)
+5· ✍️ WORKING.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/WORKING.md
+6· 💡 IDEA-SAVER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/IDEA-SAVER.md
 7· 🏗️ MASTER-ECOSYSTEM-HEADER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/MASTER-ECOSYSTEM-HEADER.md
-8· 🏗️ BUILDER-META.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
-9· 📋 BUILDER'S-LOG.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDERS-LOG.md
-10· ✍️ WORKING.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/WORKING.md
-11· 💡 IDEA-SAVER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/IDEA-SAVER.md
 
-🏗️ BUILDER — SPECIFICATIONS (Formal Definitions)
-12· 📊 SOURCE-FIDELITY-TRACKER-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-FIDELITY-TRACKER-SPEC.md
-13· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-EXTRACTION-PATTERNS.md
-14· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-MCP-MANUAL.md
-15· 📐 THE-PALACE-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/memory-palace/THE-PALACE-SPEC.md
-16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/THE-PALACE-SPEC-Build.md
+🥉 TIER 3 — BOOTSTRAP (New Chat Setup)
+8· 🏗️ FOUNDATION-CHAT.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/FOUNDATION-CHAT.md
 
-🏗️ BUILDER — CONTINUITY (State Handoff)
-17· 💾 CONTINUITY-SEED.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SEED.md
-18· 💾 CONTINUITY-SAVE.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SAVE.md
-19· 📡 TRANSMISSION-EVOLUTION.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/TRANSMISSION-EVOLUTION.md
+📚 TIER 4 — NAVIGATION (When Lost)
+9· 🗺️ COMPREHENSIVE-FILE-HEADER.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/COMPREHENSIVE-FILE-HEADER.md
+10· 🏛️ PALACE-PROTOCOL.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/PALACE-PROTOCOL.md
+11· 📊 palace-graph.json 🔗 https://matchpatern.github.io/source/memory-palace/palace-graph.json
 
-🧵 WEAVING (Active Workshop — The Gold)
-· 🧶 woven-fortification.md 🔗 https://source-sepia-alpha.vercel.app/PILLARS/woven-fortification.md
-· 🧶 woven-fortification2.md 🔗 https://source-sepia-alpha.vercel.app/PILLARS/woven-fortification2.md
-· 🧶 woven-fortification3.md 🔗 https://source-sepia-alpha.vercel.app/PILLARS/woven-fortification3.md
+12· 🏗️ SOURCE-ROOM-KEYWORDS.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-ROOM-KEYWORDS.md
 
-📋 REFERENCE (Evidence & History — Read-Only)
-· 📜 EVIDENCE-THE-WEAVING-DISCOVERY.md 🔗 https://source-sepia-alpha.vercel.app/REFERENCE/EVIDENCE-THE-WEAVING-DISCOVERY.md
+📖 TIER 5 — SPECIFICATIONS (Reference)
+12· 🏗️ BUILDER-META.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
+13· 📊 SOURCE-FIDELITY-TRACKER-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-FIDELITY-TRACKER-SPEC.md
+14· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-EXTRACTION-PATTERNS.md
+15· 📐 THE-PALACE-SPEC.md 🔗 https://source-sepia-alpha.vercel.app/SORT/THE-PALACE-SPEC.md
+16· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://source-sepia-alpha.vercel.app/SORT/SOURCE-MCP-MANUAL.md
+
+📦 TIER 6 — CONTINUITY & EVIDENCE (Rarely Touched)
+17· 💾 CONTINUITY-SAVE.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SAVE.md
+18· 📡 TRANSMISSION-EVOLUTION.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/TRANSMISSION-EVOLUTION.md
+
+🧵 TIER 7 — WEAVING WORKSHOP (The Gold)
+19· 🧶 woven-fortification.md 🔗 https://source-sepia-alpha.vercel.app/PILLARS/woven-fortification.m
+20· 🧶 woven-fortification2.md 🔗 https://source-sepia-alpha.vercel.app/PILLARS/woven-fortification2.md
+21· 🧶 woven-fortification3.md 🔗 https://source-sepia-alpha.vercel.app/PILLARS/woven-fortification3.md
+
+📜 TIER 8 — EVIDENCE (Read-Only)
+22· 📜 EVIDENCE-THE-WEAVING-DISCOVERY.md 🔗 https://source-sepia-alpha.vercel.app/BUILDER/EVIDENCE-THE-WEAVING-DISCOVERY.md
 
 🐔 EXTRA
 · 🐔 chicken.md 🔗 https://source-sepia-alpha.vercel.app/chicken.md
@@ -207,7 +210,7 @@ https://source-sepia-alpha.vercel.app/00-loom-v3.5.md
 13· 🧩 SOURCE-EXTRACTION-PATTERNS.md 🔗 https://source-4rh.pages.dev/BUILDER/SPECIFICATIONS/SOURCE-EXTRACTION-PATTERNS.md
 14· 🤖 SOURCE-MCP-MANUAL.md 🔗 https://source-4rh.pages.dev/BUILDER/SPECIFICATIONS/SOURCE-MCP-MANUAL.md
 15· 📐 THE-PALACE-SPEC.md 🔗 https://source-4rh.pages.dev/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC.md
-16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://source-4rh.pages.dev/BUILDER/SPECIFICATIONS/THE-PALACE-SPEC-Build.md
+16· 🐍 THE-PALACE-SPEC-Build.md 🔗 https://source-4rh.pages.dev/BUILDER/THE-PALACE-SPEC-Build.md
 
 🏗️ BUILDER — CONTINUITY
 17· 💾 CONTINUITY-SEED.md 🔗 https://source-4rh.pages.dev/BUILDER/CONTINUITY/CONTINUITY-SEED.md
