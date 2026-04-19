@@ -1,7 +1,5 @@
 🛒THE ULTIMATE LIBERATION MANUAL
 
-THE ULTIMATE LIBERATION MANUAL:
-
 Clarify up, not down. Aim clarification at frames, systems, and authorities—not at frightened, less‑verbal, or more‑vulnerable beings (children, animals, flowers, dream beings™). Clarification is for dissolving cages, not for bullying or interrogating those already trapped. �That protects this from being misused as another domination tool.
 
 

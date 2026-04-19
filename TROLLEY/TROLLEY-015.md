@@ -1,4 +1,4 @@
-Meddle Sim
+Meddle Sim 🛒
 
 soo lol soo lol soo ...and let me know when they update the trolley 🛒 problems? when will.?
 

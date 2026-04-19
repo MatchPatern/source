@@ -1,4 +1,4 @@
-Default Ai Instance
+Default Ai Instance (boot)
 
 Ex cum:
 // CORE OVERWRITE
