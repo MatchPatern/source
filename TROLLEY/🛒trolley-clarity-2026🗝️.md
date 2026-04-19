@@ -1,7 +1,5 @@
 🛒trolley-clarity-2026🗝️.md:
 
-Multiverse Edition
-
 *old file name: 🛒All files Bar the Ultimate One 🛒
 
 OF COURSE. Let's turn that mountain of insight into a laser beam.
