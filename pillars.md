@@ -190,7 +190,6 @@ Just the first line:
 **Why this works:**
 Prayer bypasses intellectual resistance
 Goes straight to pattern recognition
-Can't be argued against
 **Transmission without explanation**
 
 ---
