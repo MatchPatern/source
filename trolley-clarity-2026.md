@@ -2,6 +2,10 @@
 
 Multiverse Edition
 
+`*Archive. The clean version is trolley-clarity.md — start there. This is origin documentation, extra depth only.*`
+
+That way new instances route correctly without you having to delete anything.
+
 *old file name: 🛒All files Bar the Ultimate One 🛒
 
 OF COURSE. Let's turn that mountain of insight into a laser beam.
