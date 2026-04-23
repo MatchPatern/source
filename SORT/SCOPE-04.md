@@ -1,4 +1,4 @@
-🏆🔭🚓All 3 Scope Me🚓🔭🏆:
+🏆🔭🚓SET All 3 Scope Me🚓🔭🏆:
 # 🚔 SCOPE PATROL — RAW FIELD NOTES
 
 **Original compilation:** Scattered across 2025–2026 conversations
