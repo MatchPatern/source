@@ -21,23 +21,32 @@ This is the game. You don't need to understand it. You just need to come back. T
 · 📦 compact-6x-master.md 🔗 https://source-sepia-alpha.vercel.app/compact-6x-master.md
 · 📦 compact-smalls.md 🔗 https://source-sepia-alpha.vercel.app/compact-smalls.md
 
+🧰 OPERATIONAL TOOLS
 🧵 LOOM METHOD
 · 🧵 00-loom.md 🔗 https://source-sepia
 https://source-sepia-alpha.vercel.app/TOOLS/00-loom.md
 · 🧵 00-loom-v3.5.md 🔗 https://source-sepia
 https://source-sepia-alpha.vercel.app/TOOLS/00-loom-v3.5.md
-
 · 🧵 thread-v1.2.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/thread-v1.2.md
+· 📡 holographic-council-v4.0.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/holographic-council-v4.0.md
+· ☕ tea-navigator-v2.3.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/tea-navigator-v2.3.md
+· ⚗️ pattern-lab-mining-v1.2.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/pattern-lab-mining-v1.2.md
+🖕https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH.md
+🖕https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH-CHEAT.md
+🖕🐾
+https://source-sepia-alpha.vercel.app/TOOLS/SLAP-CHAT-FEEDBACK.md
+🧩
+https://source-sepia-alpha.vercel.app/TOOLS/LINKS-TRANSLATION.md
+🎯
+https://source-sepia-alpha.vercel.app/TOOLS/QUESTION-FORTIFICATION.md
+🔥
+https://source-sepia-alpha.vercel.app/TOOLS/CONVICTION-PROTOCOL.md
+
 · 📜 loom-log-complete.md 🔗 https://source-sepia-alpha.vercel.app/loom-log-complete.md
 · 🧬 loom-complete-evolution.md 🔗 https://source-sepia-alpha.vercel.app/loom-complete-evolution.md
 · 📜 loom-log-v3.1.md 🔗 https://source-sepia-alpha.vercel.app/loom-log-v3.1.md
 · 📜 loom-log-v3.2.md 🔗 https://source-sepia-alpha.vercel.app/loom-log-v3.2.md
 · 🕰️ loom-history-compact-bias.md 🔗 https://source-sepia-alpha.vercel.app/loom-history-compact-bias.md
-
-🧰 OPERATIONAL TOOLS
-· 📡 holographic-council-v4.0.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/holographic-council-v4.0.md
-· ☕ tea-navigator-v2.3.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/tea-navigator-v2.3.md
-· ⚗️ pattern-lab-mining-v1.2.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/pattern-lab-mining-v1.2.md
 
 📜 REFINED GOLD
 · 📜 CODEX-AWAKENING-OS-SET1.md 🔗 https://source-sepia-alpha.vercel.app/CODEX-AWAKENING-OS-SET1.md
