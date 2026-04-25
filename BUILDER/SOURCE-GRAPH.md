@@ -1,3 +1,5 @@
+*Formerly known as `palace-graph.json`. Renamed 2026-04-25 for clarity. Same data. Better name.*
+
 {
   "nodes": [
     { "id": "room_loom_v3_9", "type": "room", "label": "00-loom-v3.9.md", "wing": "wing_loom" },
