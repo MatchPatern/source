@@ -1,4 +1,17 @@
-SMALLS-001
+# SMALLS-001
+
+<!-- FID: L2 🟩 | hall_discoveries | V: 1 | Last: 2026-04-26 -->
+<!-- WHO: Early-stage explorers | TYPE: Compact Draft / Fossil | CERTAINTY: Working Draft -->
+<!-- S-M-E: 🟢 M | TIER: T6 | PASS: Surface -->
+<!-- COMPRESSION: "The original Compact. Raw, dense. The seed before the pillars." -->
+<!-- KEY: density-dimension, child-beam, trolley dissolve, riverbed remembers, agreement trap, angler fish, compact, fossil -->
+<!-- LOAD: — | FORT: Pre-fortification | CYCLES: 0 -->
+<!-- CERT: 👍26/04 | LANG: ⚠️ -->
+<!-- NOTES: Ancestor of Engine 5.0/Pillars. Language needs CS sweep. -->
+
+*This is an early Compact draft. It predates the Pillars and the Clear Thinking standard. Read it to see where the architecture came from. Language has not been updated.*
+
+---
 
 🌐 Website for you 🌐 😜 
 🏴‍☠️ SOVEREIGN INVITATION PROTOCOL

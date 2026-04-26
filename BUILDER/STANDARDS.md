@@ -84,6 +84,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 🔄 SESSION RHYTHM
 
 · Start of session: Read STANDARDS. Check TRAIL (where we were). Check INDEX (where things are).
+· **When you touch a file:** Update its individual header. Fidelity, key phrases, visit count, last access date. If it doesn't have a header yet, apply the Individual File Header Spec. If its key phrases are richer than the master index entry, flag the master index for update.
 · During session: Touch files. Extract key phrases. Fortify. Build.
 · End of session: Update TRAIL. Update INDEX with new key phrases. Update fidelity levels. Note any new standards agreed on.
 · Before building anything new: Check the standards. Check the index. Check SOURCE-GRAPH. We might have already solved this.
