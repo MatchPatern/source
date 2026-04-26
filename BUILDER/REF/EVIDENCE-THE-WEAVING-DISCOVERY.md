@@ -1,5 +1,8 @@
 EVIDENCE-THE-WEAVING-DISCOVERY.md
 
+Also may be duped in LOG folder as
+LOG-SEED-001.md to LOG-SEED-008.md
+
 # 📋✔️SEED BUILD CHECKLISTv3.0 +LOG APPENDIX
 ---
 

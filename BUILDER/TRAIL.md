@@ -1,4 +1,4 @@
-🧭 TRAIL
+🍞🍞🍞 TRAIL
 
 Breadcrumbs from the last session. Not a command. Not a plan. Just where we were when we stopped.
 
@@ -12,7 +12,7 @@ Builder state at end: 🟢 Flowing. Building. Not stuck.
 What we were doing
 
 · Fortifying the Trolley Clarity file — 19 fortifications across 8 passes. Complete.
-· Building the MASTER ARCHIVE INDEX — FEEDBK (46 files), LOG (54 files), LOOM/LREV (34 files) all mapped.
+· Building the MASTER-DIR-INDEX — FEEDBK (46 files), LOG (54 files), LOOM/LREV (34 files) all mapped.
 · Creating STANDARDS.md — the covenant. Language, file, index, and session standards. Locked and saved.
 · Fortifying CONVICTION.md — the gauntlet. Challenge stance with panic button and Dream Being section. Locked and saved.
 · Renaming palace-graph.json → SOURCE-GRAPH.md (🗺️🏘️) in BUILDER/.
@@ -24,7 +24,7 @@ Files touched this session
 
 File What we did
 TROLLEY-028 (final draft) Applied final 4 fortifications: endpoint trap verification, pathologization Stage 7, more-than-divine exit energy, kaleidoscope view. 19 total.
-MASTER ARCHIVE INDEX Built v0.1 → v0.2 → v0.3. Ground-truthed against Vercel live structure. Added FEEDBK, LOG, LOOM/LREV directories.
+MASTER-DIR-INDEX Built v0.1 → v0.2 → v0.3. Ground-truthed against Vercel live structure. Added FEEDBK, LOG, LOOM/LREV directories.
 BIG-005, SORT-003, SORT-070, RAW-005 Mined for Trolley fortifications. Rubik's cube faith gap, more-than-divine naming ceremony, authenticity ladder.
 PILLAR-1-REV3 Extracted weight check, orthogonal move, clipboard cancer.
 STEAL-004, CORP-SCUM, ENDPOINT-TRAP Extracted speak truth, pathologization Stage 7, endpoint trap verification.
