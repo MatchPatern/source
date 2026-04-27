@@ -38,6 +38,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 
 🏗️ FILE STANDARDS
 
+· **Filename on line one.** Every file begins with its own filename as the first line, above the header block. Format: `FILENAME.md`. Self-identifies the file before any metadata.
 · No version numbers in filenames. Version lives inside the file. File names are permanent. URLs survive. Old versions archived, not linked. Exception: files not yet touched can keep versions until naturally updated.
 · Keep older versions accessible alongside the current version. When a file is updated, keep the previous version in the same directory with its version number intact (e.g., 00-loom-v3.5.md lives next to 00-loom.md). Many times older versions have insights we forgot or approaches that were better. Having both allows comparison. The current file has no version number. The older file keeps its version number so you know it's the predecessor.
 · Load-bearing headers on every fortified file. <!-- BUILDER NOTES --> block marks structural vs. decorative. Do not remove or move load-bearing elements.

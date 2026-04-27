@@ -1,4 +1,4 @@
-INDIVIDUAL-FILE-HEADER-SPEC
+INDIVIDUAL-FILE-HEADER-SPEC.md
 
 Let me lock the standard and fix the LANG field.
 
@@ -35,6 +35,8 @@ Plus the unspoken sixth: "You're not alone. Someone built this."
 📋 SHORT BLOCK — Copy-Paste For Daily Use
 
 ```md
+
+[FILENAME].md
 <!-- FID: L_ | hall_ | V: _ | Last: YYYY-MM-DD -->
 <!-- WHO: _ | TYPE: _ | CERTAINTY: _ -->
 <!-- S-M-E: 🔴🟢🟣 | TIER: T_ | PASS: _ -->

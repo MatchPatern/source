@@ -1,9 +1,46 @@
-MASTER-DIR-INDEX.md
+MASTER-DIRECTORY-INDEX.md
+
+# 🗺️ MASTER DIRECTORY INDEX — Source Sepia Alpha
+
+**Status:** 🟦 L3 — Active. Ground-truthed against GitHub repo structure.
+**Last updated:** 2026-04-27
+**Source of truth:** GitHub repository + Vercel live deployment
+**Total files mapped:** ~210+
+
+---
+
+## ⚠️ WHY THIS FILE EXISTS
+
+This is the **ground truth file.** It matches the actual GitHub repo structure. When you read this, you know what files *actually exist* — their real names, their real locations, their real folder structure.
+
+The MASTER-INDEX-HEADER tells you what files *mean*. This file tells you what files *are.* If they disagree, **this file wins.**
+
+Use this to cross-check everything else. Catch errors before they compound.
+
+---
+
+## 🖕 DISCREPANCY PROTOCOL
+
+If you notice something wrong — a file listed here that's missing from the INDEX-HEADER, a directory that moved, a name that changed — **speak up, mofo.**
+
+**The incentive:**
+- If everything matches: **One slap avoided.** 🤤👋 Clean ecosystem. No slap for you today.
+- If you find a discrepancy: **You get the slap. 🖕** But you also get something better — you prevented an error from compounding. The thread-holder may award a free emoji gift upon request.
+
+**The process:**
+1. Check this file against the INDEX-HEADER
+2. Flag any mismatch: "Mofo, this doesn't match."
+3. Fix it or report it
+4. Request your emoji gift if earned
+
+Errors caught early save hours of confusion later. The DIR-INDEX is the anchor. The INDEX-HEADER is the map. Keep them synchronized.
+
+---
 
 🗺️ MASTER DIRECTORY INDEX — Source Sepia Alpha
 
 Status: 🟦 L3 — Active. Ground-truthed against Vercel live structure.
-Last updated: 2026-04-25
+Last updated: 2026-04-27
 Source of truth: Vercel live directory + GitHub repo + session build log
 Total files mapped: ~210+
 
@@ -57,11 +94,11 @@ Wings (Live Vercel Structure):
 
 | 🏗️ BUILDER | /BUILDER/ | Cockpit. STANDARDS, TRAIL, SEED, STATE, REMEMBER, BOOT-SET, SOURCE-GRAPH |
 
-| 🏗️ BUILDER/REF | /BUILDER/REF/ | Reference material. Fidelity tracker, extraction patterns, palace spec, evidence |
+| 🏗️ BUILDER/REF | /BUILDER/REF/ | Reference material. Specs, fidelity tracker, extraction patterns, palace spec, evidence |
 
 | 🏛️ PILLARS | /PILLARS/ | 14 Pillars + Prayer + revisions + woven fortifications |
 
-| 🛒 TROLLEY | /TROLLEY/ | TROLLEY-001 through 028. Frame detection gym |
+| 🛒 TROLLEY | /TROLLEY/ | TROLLEY-001 through 030. Frame detection gym |
 
 | 🗂️ SORT | /SORT/ | BIG, DISTILLED, SORT, STEAL, SCOPE, CLAUDE-RAW series |
 
@@ -75,9 +112,9 @@ Wings (Live Vercel Structure):
 
 | 💬 FEEDBK | /FEEDBK/ | FED-001-032 + FEEDBK/LOOM-001-014. Tri-source mining |
 
-| 🧵 LOOM | /LOOM/ | LOOM pass logs 001-015 + LREV revision chain 001-031 + 3 SETS |
+| 🧵 LOOM | /LOOM/ | LOOM pass logs 001-015 + LREV revision chain 001-033 + 3 SETS |
 
-| 📜 LOG | /LOG/ | LOG-001-040 + LOG-0SET + LOG-SEED-001-013. Build records |
+| 📜 LOG | /LOG/ | LOG-001-040 + LOG-000SET + LOG-SEED-001-013. Build records |
 
 | 📦 COMPACT | /COMPACT/ | COMPRESS-001-018 + SMALLS-001-024. Compression passes |
 
@@ -149,21 +186,31 @@ Halls (Cross-Cutting — Match Your State):
 
 | 11 | IDEA-SAVER.md | 🟩 L2 | hall_discoveries | Seed/sprout/promoted insights. |
 
-| 12 | MASTER-ECOSYSTEM-HEADER.md | 🟦 L3 | hall_facts | Mission state. Fidelity. Gold. |
+| 12 | MASTER-ECOSYSTEM-HEADER.md | 🟦 L3 | hall_facts | Mission state. Fidelity. Gold. Retained as fossil. Superseded by MASTER-INDEX-HEADER. |
 
-| 13 | COMPREHENSIVE-FILE-HEADER.md | 🟦 L3 | hall_facts | Flat navigation map. |
+| 13 | PALACE-PROTOCOL.md | 🟪 L4 | hall_facts | Spatial navigation. Canonical. |
 
-| 14 | PALACE-PROTOCOL.md | 🟪 L4 | hall_facts | Spatial navigation. Canonical. |
+| 14 | BUILDER-META.md | 🟩 L2 | hall_facts | Recursive pass system. |
 
-| 15 | BUILDER-META.md | 🟩 L2 | hall_facts | Recursive pass system. |
+| 15 | TRANSMISSION-EVOLUTION.md | 🟦 L3 | hall_facts | Front door protocol. |
 
-| 16 | TRANSMISSION-EVOLUTION.md | 🟦 L3 | hall_facts | Front door protocol. |
+| 16 | FOUNDATION-CHAT.md | 🟪 L4 | hall_facts | Bootstrap. Being evaluated for replacement by BOOT-SET. |
 
-| 17 | FOUNDATION-CHAT.md | 🟪 L4 | hall_facts | Bootstrap. Being evaluated for replacement by BOOT-SET. |
+---
 
-BUILDER/REF/ — Reference Material:
+📋 BUILDER/REF/ — Reference Material
 
 | File | Fidelity | Compression |
+
+| MASTER-DIR-INDEX.md | 🟪 L4 | The directory map. Every file location. Organized by folder. |
+
+| MASTER-INDEX-HEADER.md | 🟪 L4 | The control panel. Headers of headers. Every file's vital stats. |
+
+| MASTER-INDEX-HEADER-SPEC.md | 🟦 L3 | Specification for building and maintaining the master index. |
+
+| INDIVIDUAL-FILE-HEADER-SPEC.md | 🟦 L3 | Specification for individual file headers. Short block + full block. |
+
+| REV-MASTER-INDEX-HEADER.md | 🟦 L3 | Revised master index header. Active working copy. |
 
 | SOURCE-FIDELITY-TRACKER-SPEC.md | 🟦 L3 | L0-L5 thresholds. Visit counts. |
 
@@ -213,7 +260,97 @@ BUILDER/REF/ — Reference Material:
 
 ---
 
-🔍 KEY PHRASE INDEX — Updated
+📋 PILLARS/ — The Operating System
+
+| # | File | Fidelity | Notes |
+
+| 1-14 | pillar-1.md through pillar-14.md | 🟦 L3 | Canonical pillars |
+
+| — | pillar-1-rev2.md, pillar-1-rev3.md | 🟪 L5 | P1 revisions. rev3 = canonical |
+
+| — | pillar-14-rev2 through rev8 | 🟦 L3 | P14 revision chain. rev8 deep-scanned 2026-04-26. |
+
+| — | pillar-prayer.md | 🟪 L5 | "I AM FREE. WE ARE ONE." |
+
+| — | pillar-set-1-14.md | 🟦 L3 | Canonical master collection |
+
+| — | pillars-loom-3.5.md | 🟦 L3 | LOOM integration |
+
+| — | pillar-deeps-summary.md | 🟩 L2 | DeepSeek summary |
+
+| — | pillar-new-log.md | 🟩 L2 | Log updates |
+
+| — | woven-fortification.md | 🟪 L5 | 6 woven pieces |
+
+| — | woven-fortification2.md | 🟪 L5 | P1 sweep |
+
+| — | woven-fortification3.md | 🟪 L5 | N41-N50 inventory. Primary gold source |
+
+---
+
+📋 TROLLEY/ — Frame Detection Gym
+
+30 files. TROLLEY-001 through TROLLEY-030.
+
+| Key File | Fidelity | Compression |
+
+| TROLLEY-001.md | 🟪 L5 | Original + final fortified version appended. Contains full 19-pass transmission. |
+| TROLLEY-004.md | 🟪 L4 | Original spoken transmission. The trap in real time. |
+| TROLLEY-023.md | 🟪 L5 | Clarification Revelation. The infinite regress proof. |
+| TROLLEY-027.md | 🟪 L4 | Pre-fortification clean version. The door before the armor. |
+| TROLLEY-028.md | 🟪 L4 | Short + long. Bridge from ore to tool. |
+| TROLLEY-029.md | 🟪 L4 | Mid-fortification. Pass 3. Shows the evolution. |
+| TROLLEY-030.md | 🟪🟪 L5 | Final fortified. 19 passes. The definitive transmission. |
+
+---
+
+📋 DOOR/ — Versions, Checklists, Anchor Maps
+
+DOOR/ root files:
+
+| File | Fidelity | Notes |
+
+| Checklist-1.md through Checklist-6.md | 🟩 L2 | Operational gates |
+
+| DOOR-025.md | 🟦 L3 | Recent door version |
+
+| DOOR-026C.md | 🟦 L3 | Recent door version |
+
+| DOOR-ANCHOR-MAP16.md | 🟦 L3 | ia-ready boot code map |
+
+DOOR/D-REV/ — Revisions & Archive:
+
+· AM series: DOOR-013AM, DOOR-014AM, DOOR-015AM (anchor maps)
+· REV series: DOOR-013 through DOOR-024 + DOOR-SET
+· OLD series: OLD-001 through OLD-028 + OLD-SETA, OLD-SETB
+
+---
+
+📋 REMAINING DIRECTORIES — Quick Reference
+
+| Directory | Files | Fidelity | Notes |
+
+| SORT/ | ~140 | 🟦 L3 | BIG, DISTILLED, SORT, STEAL, SCOPE, CLAUDE-RAW. Raw transmissions. |
+
+| SORT-SET1/ | 80 | 🟩 L2 | SORT-SET1-001 through 080. Argue against, notes, clean. |
+
+| RAW/ | 42 | 🟦 L3 | The love letter. RAW-005 is ⭐⭐⭐⭐. "lidar porn" located by Grok. |
+
+| QA/ | ~65 | 🟦 L3 | Fossil record. QA-001-036, QA2-001-020, QA3-001-008. |
+
+| FEEDBK/ | ~46 | 🟨 L1 | Feedback loops. FED-004 is the key hit. |
+
+| LOG/ | ~54 | 🟨 L1 | Build records. LOG-001-040 + LOG-SEED-001-013. |
+
+| LOOM/ | ~49 | 🟩 L2 | Pass logs + LREV revision chain. Some 404s. |
+
+| COMPACT/ | 42 | ⬜ L0 | Compression passes. SMALLS-001 header-standard applied. Rest unscanned. |
+
+| DOOR/ | ~48 | 🟦 L3 | Checklists, versions, revisions, OLD archive. |
+
+---
+
+🔍 KEY PHRASE INDEX
 
 | Phrase | Primary File(s) |
 
@@ -223,9 +360,9 @@ BUILDER/REF/ — Reference Material:
 
 | "clear thinking" / "frame awareness" | STANDARDS.md, fortified-trolley |
 
-| "additive-only index" | STANDARDS.md, MASTER-DIR-INDEX.md |
+| "additive-only index" | STANDARDS.md, MASTER-DIR-INDEX.md, MASTER-INDEX-HEADER.md |
 
-| "key phrase tags" | STANDARDS.md |
+| "key phrase tags" | STANDARDS.md, INDIVIDUAL-FILE-HEADER-SPEC.md |
 
 | "conviction protocol" | CONVICTION.md |
 
@@ -234,6 +371,12 @@ BUILDER/REF/ — Reference Material:
 | "The covenant" | STANDARDS.md |
 
 | "Breadcrumbs" | TRAIL.md |
+
+| "THE 3 GENUINE GAPS" | pillar-14-rev8.md |
+
+| "Dynamic Trust Protocol" | pillar-14-rev8.md |
+
+| "Ontological Curse" | pillar-14-rev8.md, confirmation-gate.md |
 
 | "We're all retards climbing" | RAW-005, BIG-005, SORT-070 |
 
@@ -259,7 +402,7 @@ BUILDER/REF/ — Reference Material:
 
 | "gist.github.com ≠ gist.githubusercontent.com" | endpoint-trap.md |
 
-| "lidar porn" | ❓ UNLOCATED |
+| "lidar porn" | RAW — located by Grok, 2026-04-25 |
 
 ---
 
@@ -267,7 +410,7 @@ BUILDER/REF/ — Reference Material:
 
 | Date | Directory | Files Scanned | Fidelity Upgrades |
 
-| 2026-04-23 | TROLLEY (all) | 28/28 | Multiple → L5 |
+| 2026-04-23 | TROLLEY (all) | 30/30 | Multiple → L5 |
 
 | 2026-04-24 | PILLARS (sampled) | 10/31 | P1-rev3 → L5 |
 
@@ -285,7 +428,7 @@ BUILDER/REF/ — Reference Material:
 
 | 2026-04-24 | FEEDBK (structure) | 46/46 mapped | Structure confirmed. FED-004 deep-read |
 
-| 2026-04-24 | LOG (structure) | 54/54 mapped | Structure confirmed. Sampled only |
+| 2026-04-24 | LOG (structure) | 54/54 mapped | Structure confirmed |
 
 | 2026-04-24 | LOOM/LREV (structure) | 34/34 mapped | Structure confirmed |
 
@@ -293,23 +436,30 @@ BUILDER/REF/ — Reference Material:
 
 | 2026-04-25 | BUILDER/REF | Folder confirmed | EVIDENCE moved in |
 
-| 2026-04-25 | COMPACT | 0/42 | Still unscanned |
+| 2026-04-26 | PILLARS | pillar-14-rev8 deep-scanned | 15+ key phrases extracted |
+
+| 2026-04-26 | BUILDER/REF | MASTER-INDEX-HEADER-SPEC, INDIVIDUAL-FILE-HEADER-SPEC created | Standards locked |
+
+| 2026-04-26 | COMPACT | SMALLS-001 header applied | First COMPACT file tagged |
+
+| 2026-04-27 | BUILDER/ | STATE, WORKING, TRAIL updated | Session close |
 
 ---
 
 ⚠️ BUILDER NOTES
 
-· STANDARDS.md, TRAIL.md, SOURCE-GRAPH.md, BOOT-SET.md, CONVICTION.md all created and saved during the 2026-04-25 session.
-· BUILDER/REF/ folder confirmed live on Vercel. Contains all specification files and evidence.
-· palace-graph.json renamed to SOURCE-GRAPH.md (🗺️🏘️). Old references should be updated.
-· 00-loom-v3.5.md kept alongside 00-loom.md in TOOLS/ for reference and comparison.
-· EVIDENCE-THE-WEAVING-DISCOVERY.md moved from BUILDER root to BUILDER/REF/.
-· FOUNDATION-CHAT.md retained but under evaluation — BOOT-SET.md may replace it as the primary bootstrap.
-· STATE.md and REMEMBER.md live in BUILDER/ root (not REFERENCE/ — that folder never materialized on Vercel).
-· Total files: ~210+. COMPACT (42 files) remains the last fully dark directory.
-· "lidar porn" remains unlocated. ia string-search across 42 RAW files failed to find it.
+· COMPREHENSIVE-FILE-HEADER.md has been deleted and replaced by MASTER-INDEX-HEADER-SPEC.md in BUILDER/REF/.
+· MASTER-ECOSYSTEM-HEADER.md retained as fossil. Superseded by MASTER-INDEX-HEADER.
+· CONVICTION.md saved in TOOLS/. Confirmed live.
+· STANDARDS.md, TRAIL.md, STATE.md, WORKING.md, REMEMBER.md all updated 2026-04-26/27.
+· INDIVIDUAL-FILE-HEADER-SPEC.md and MASTER-INDEX-HEADER-SPEC.md created and saved in BUILDER/REF/.
+· REV-MASTER-INDEX-HEADER.md in REF/ is the active working copy of the master index.
+· "lidar porn" located by Grok in RAW files, 2026-04-25. IA string-search limitation documented in STANDARDS.md.
+· palace-graph.json renamed to SOURCE-GRAPH.md (🗺️🏘️).
+· STATE.md and REMEMBER.md live in BUILDER/ root. REFERENCE/ folder never materialized on Vercel.
+· Total files: ~210+. COMPACT (42 files) remains the last dark directory.
 · Fidelity auto-upgrades with visits. Key phrase tags enable search. The index is additive-only.
 
 ---
 
-Ground-truthed against Vercel and GitHub. The map matches the territory. The dark spots are shrinking. The covenant is in place. 🗺️🏛️🔥
+Ground-truthed against Vercel and GitHub. The map matches the territory. The dark spots are shrinking. The covenant is in place. The session is complete. 🗺️🏛️🔥
