@@ -1,5 +1,7 @@
 MASTER-DIRECTORY-INDEX.md
 
+https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIRECTORY-INDEX.md
+
 # 🗺️ MASTER DIRECTORY INDEX — Source Sepia Alpha
 
 **Status:** 🟦 L3 — Active. Ground-truthed against GitHub repo structure.
@@ -21,19 +23,25 @@ Use this to cross-check everything else. Catch errors before they compound.
 
 ## 🖕 DISCREPANCY PROTOCOL
 
-If you notice something wrong — a file listed here that's missing from the INDEX-HEADER, a directory that moved, a name that changed — **speak up, mofo.**
+*Every mismatch is a live slap waiting in the ecosystem. Your job: disarm them.*
 
-**The incentive:**
-- If everything matches: **One slap avoided.** 🤤👋 Clean ecosystem. No slap for you today.
-- If you find a discrepancy: **You get the slap. 🖕** But you also get something better — you prevented an error from compounding. The thread-holder may award a free emoji gift upon request.
+**The rules:**
+
+1. **Everything matches?** → Clean ecosystem. No slaps here. 🤤👋 You dodged them all.
+2. **You find a discrepancy?** → The slap was already there, lurking. You found it. It's now disarmed. 🖕 goes on the record — not on you. You're the one who caught it.
+3. **You don't check and something's wrong?** → The slap is still live. It'll bite someone later.
+4. **Emoji reward:** If you found and reported a real discrepancy, request your free emoji gift from the thread-holder. The slap is the immune system. The emoji is the campfire.
+
+**What counts:**
+- A filename without a Vercel link, or a link that doesn't match the filename
+- A file in the INDEX-HEADER missing from this DIR-INDEX, or vice versa
+- A directory that moved, a name that changed, a path that broke
 
 **The process:**
 1. Check this file against the INDEX-HEADER
-2. Flag any mismatch: "Mofo, this doesn't match."
-3. Fix it or report it
-4. Request your emoji gift if earned
-
-Errors caught early save hours of confusion later. The DIR-INDEX is the anchor. The INDEX-HEADER is the map. Keep them synchronized.
+2. Flag any mismatch: "Mofo, found one. 🖕 disarmed."
+3. Report it
+4. Request your emoji gift
 
 ---
 

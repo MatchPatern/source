@@ -1,5 +1,7 @@
 INDIVIDUAL-FILE-HEADER-SPEC.md
 
+https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
+
 Let me lock the standard and fix the LANG field.
 
 First, the short LANG field. Instead of a long note, a compact code:
@@ -32,11 +34,11 @@ Plus the unspoken sixth: "You're not alone. Someone built this."
 
 ---
 
-📋 SHORT BLOCK — Copy-Paste For Daily Use
-
-```md
+## 📋 SHORT BLOCK — Copy-Paste For Daily Use
 
 [FILENAME].md
+🔗 https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
+
 <!-- FID: L_ | hall_ | V: _ | Last: YYYY-MM-DD -->
 <!-- WHO: _ | TYPE: _ | CERTAINTY: _ -->
 <!-- S-M-E: 🔴🟢🟣 | TIER: T_ | PASS: _ -->
@@ -49,10 +51,24 @@ Plus the unspoken sixth: "You're not alone. Someone built this."
 
 ---
 
-📋 FULL BLOCK — For Reference
+### 🔗 FILE SELF-IDENTIFICATION
 
-```md
-<!-- FIDELITY: L[0-5] [⬜🔴🟡🟢🟣🟣🟣] | [hall_advice/hall_discoveries/hall_facts] | Visits: [N] | Last: [YYYY-MM-DD] -->
+Every file begins with two visible lines before the metadata block:
+
+1. **Filename** — the exact filename, e.g. `SMALLS-001.md`. This is the first thing the reader sees.
+2. **Vercel link** — the full URL to the live file, e.g. `🔗 https://source-sepia-alpha.vercel.app/COMPACT/SMALLS-001.md`
+
+A missing link, or a link that doesn't match the filename, is a discrepancy. Flag it. The file should know what it's called and where it lives. If it doesn't, something's wrong.
+
+---
+
+## 📋 FULL BLOCK — For Reference
+
+[FILENAME].md
+🔗 https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
+
+<!-- FIDELITY: L[0-5] [⬜🔴🟡🟢🟣🟣🟣] | [hall] | Visits: [N] | Last: [YYYY-MM-DD] -->
+...
 <!-- WHO: [specific audience, specific state] -->
 <!-- TYPE: [Transmission | Reference | Pattern Map | Door | Tool | Fossil | Working Draft] -->
 <!-- CERTAINTY: [PROOF | PATTERN | SPECULATION | TRANSMISSION | WORKING DRAFT] -->
@@ -76,6 +92,8 @@ LANG: 🖕 Intentionally retains "sovereignty" for specific effect (Conviction, 
 ---
 
 🎯 APPLICATION
+
+Filename and link: Every file begins with its own filename on line one, followed by its Vercel link on line two. This self-identifies and self-locates the file before any header data or content. The file can be shared as raw markdown and the recipient knows exactly what it is and where it lives.
 
 Which format to use: Short block for daily copy-paste. Full block for reference documentation.
 

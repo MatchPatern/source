@@ -1,3 +1,7 @@
+STANDARDS.md
+
+https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
+
 📋 STANDARDS & COVENANT
 
 The agreements that govern how we build. Read at the start of every session. Update when we discover something new.
@@ -46,6 +50,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 · Key phrase tags on every file. Format: <!-- KEY PHRASES: frame awareness, tracks made of, forced binary --> Enables search without depending on ia string-matching.
 · State-match headers where applicable. Who is this file for? What state? What hall?
 · Folder names are as short as possible while remaining clear. SPEC not SPECIFICATIONS. No redundant information in folder names.
+· **Every file self-identifies at the top** with its filename on line one and its Vercel link on line two, above the metadata block. The file can be shared as raw markdown and the recipient knows what it is and where it lives.
 · Filenames don't repeat information already in the folder name. In /SPEC/, FIDELITY-TRACKER.md not SOURCE-FIDELITY-TRACKER-SPEC.md.
 
 ---

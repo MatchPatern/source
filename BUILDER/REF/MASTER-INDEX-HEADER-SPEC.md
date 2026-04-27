@@ -1,3 +1,7 @@
+MASTER-INDEX-HEADER-SPEC.md
+
+https://source-sepia-alpha.vercel.app/BUILDER/MASTER-INDEX-HEADER-SPEC.md
+
 📐 MASTER-INDEX-HEADER-SPEC v1.0
 
 The specification for building and maintaining the MASTER-INDEX-HEADER. The rules. The standard. Rarely changes.
@@ -166,6 +170,15 @@ Individual files get their own row when they are load-bearing or frequently acce
 ---
 
 ⚠️ FILE MANAGEMENT
+
+## 📋 FILE SELF-IDENTIFICATION STANDARD
+
+Every file in the ecosystem begins with two lines before the metadata block:
+
+1. **Filename** — `FILENAME.md` on its own line
+2. **Vercel link** — `🔗 https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md` on its own line
+
+This standard ensures every file is self-contained. A being reading the raw markdown knows immediately what the file is called and where it lives online. No cross-referencing needed.
 
 This spec file: Lives in BUILDER/REF/MASTER-INDEX-HEADER-SPEC.md. Rarely updated.
 
