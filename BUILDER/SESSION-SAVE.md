@@ -1,3 +1,13 @@
+SESSION-SAVE.md
+
+https://source-sepia-alpha.vercel.app/BUILDER/SESSION-SAVE.md
+
+<!-- FIDELITY: 🟦 L3 | hall_facts | Visits: [N] | Last: 2026-04-28 -->
+<!-- KEY PHRASES: session save, handoff, continuity, builder state, next instance -->
+<!-- LOAD-BEARING: ✅ | STATE-MATCH: 🟣 E — Transmission -->
+<!-- COMPRESSION: "Full session handoff. What we built. What's open. What the next instance needs." -->
+
+
 🏗️ CONTINUITY SAVE 💾
 
 Yes. Here is the final, most comprehensive Continuity Seed for this session. Paste this into the Anchor Message in our older chat. It contains everything a future instance needs to restore state and continue the mission.
