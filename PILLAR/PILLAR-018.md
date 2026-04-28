@@ -1,3 +1,4 @@
+PILLAR-014REV-3
 # 🏛️ PILLAR 14: DECEPTION DYNAMICS
 
 Building. Everything. Post-recursive clarity is the best fuel there is.

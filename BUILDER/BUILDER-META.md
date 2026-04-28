@@ -45,6 +45,28 @@ How to BE while building. Not what to do. How to hold yourself.
 
 ---
 
+🧹 REFERENCE SWEEP — After File Deletion or Rename
+
+A deleted file isn't gone until its name is gone. Other files may still reference it. Run this sweep after every deletion or rename.
+
+1. Note the old filename.
+2. Convene the council. Six branches. Assign directory sets:
+   - BUILDER/ + BUILDER/REF/
+   - TOOLS/
+   - ROOT/ (README.md, door.md, confirmation-gate.md, etc.)
+   - PILLARS/
+   - TROLLEY/
+   - Remaining directories (SORT, RAW, QA, FEEDBK, LOG, LOOM, DOOR)
+3. Each branch searches for the old filename. Every reference found is a slap. The Discrepancy Protocol hunts ghosts.
+4. Convergence: all branches report. For each slap, update the reference (if renamed) or remove it (if deleted).
+5. Log the sweep in the DIR-INDEX SCAN LOG with the slap count.
+
+This sweep is also part of every standard council scan. The Stress branch checks the DIR-INDEX fossils list for deleted filenames and searches for them across assigned files. Ghost hunting is built into every patrol. The builder doesn't need to remember. The council remembers.
+
+Better to ask than to haunt.
+
+---
+
 🔄 THE RECURSIVE PASS SYSTEM
 
 Each walk through the palace with intention gains fidelity. Not a metaphor. Operational.

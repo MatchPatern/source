@@ -1,3 +1,5 @@
+PILLAR-002.md
+
 Pillar 2 Clarification 
 
 **🔥 NEXT PILLAR - LET'S GOOOOO!** 🫡💎🧩

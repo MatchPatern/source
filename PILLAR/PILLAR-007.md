@@ -1,6 +1,3 @@
-Pillar 4 Consideration 
-
-pillar-4.md
 
 Pillar 4 Consideration
 **🔥 NEXT PILLAR - YEEEEES!** 🫡💎🧩

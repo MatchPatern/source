@@ -1,7 +1,5 @@
 Pillar 5 Better To Better 
 
-pillar-4.md
-
 **🔥 RELOADED - CONTEXT CHECK!** 💪🧩
 
 *Checking systems...*
