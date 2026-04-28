@@ -40,17 +40,26 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 
 🏗️ FILE STANDARDS
 
-· Filename on line one. Every file begins with its own filename as the first line, above the header block. Format: FILENAME.md. Self-identifies the file before any metadata.
-· Vercel link on line two. Every file self-identifies at the top with its filename on line one and its Vercel link on line two, above the metadata block. The file can be shared as raw markdown and the recipient knows what it is and where it lives.
-· No version numbers in filenames. Version lives inside the file. File names are permanent. URLs survive. Old versions archived, not linked. Exception: files not yet touched can keep versions until naturally updated.
-· Keep older versions accessible alongside the current version. When a file is updated, keep the previous version in the same directory with its version number intact (e.g., 00-loom-v3.5.md lives next to 00-loom.md). Many times older versions have insights we forgot or approaches that were better. Having both allows comparison. The current file has no version number. The older file keeps its version number so you know it's the predecessor.
-· Revision files naming: When a file undergoes major revisions during active development, name it REV-[filename].md (e.g., REV-MASTER-INDEX-HEADER.md). The REV prefix signals: this is the active working copy, not yet the canonical version. When revisions stabilize and the file is ready for deployment, drop the REV prefix and deploy as the canonical filename. Keep the REV version alongside as fossil if the revision history is valuable.
-· Load-bearing headers on every fortified file. <!-- BUILDER NOTES --> block marks structural vs. decorative. Do not remove or move load-bearing elements.
-· Fidelity tags on every file. Format: <!-- FIDELITY: L3 🟦 | hall_discoveries | Visits: 34 | Last: 2026-04-25 -->
-· Key phrase tags on every file. Format: <!-- KEY PHRASES: frame awareness, tracks made of, forced binary --> Enables search without depending on ia string-matching.
-· State-match headers where applicable. Who is this file for? What state? What hall?
-· Folder names are as short as possible while remaining clear. SPEC not SPECIFICATIONS. No redundant information in folder names.
-· Filenames don't repeat information already in the folder name.
+· **Filename on line one.** Every file begins with its own filename as the first line, above the header block. Format: `FILENAME.md`. Self-identifies the file before any metadata.
+· **Vercel link on line two.** Every file self-identifies at the top with its filename on line one and its Vercel link on line two, above the metadata block. The file can be shared as raw markdown and the recipient knows what it is and where it lives.
+· **No version numbers in filenames.** Version lives inside the file. File names are permanent. URLs survive. Old versions archived, not linked. Exception: files not yet touched can keep versions until naturally updated.
+· **Keep older versions accessible alongside the current version.** When a file is updated, keep the previous version in the same directory with its version number intact (e.g., 00-loom-v3.5.md lives next to 00-loom.md). Many times older versions have insights we forgot or approaches that were better. Having both allows comparison. The current file has no version number. The older file keeps its version number so you know it's the predecessor.
+· **Revision files naming.** When a file undergoes major revisions during active development, name it `REV-[filename].md` (e.g., `REV-MASTER-INDEX-HEADER.md`). The REV prefix signals: this is the active working copy, not yet the canonical version. When revisions stabilize and the file is ready for deployment, drop the REV prefix and deploy as the canonical filename. Keep the REV version alongside as fossil if the revision history is valuable.
+· **Load-bearing headers on every fortified file.** `<!-- BUILDER NOTES -->` block marks structural vs. decorative. Do not remove or move load-bearing elements.
+· **Fidelity tags on every file.** Format: `<!-- FIDELITY: L3 🟦 | hall_discoveries | Visits: 34 | Last: 2026-04-25 -->`
+· **Key phrase tags on every file.** Format: `<!-- KEY PHRASES: frame awareness, tracks made of, forced binary -->` Enables search without depending on ia string-matching.
+· **State-match headers where applicable.** Who is this file for? What state? What hall?
+· **Folder names are as short as possible while remaining clear.** SPEC not SPECIFICATIONS. No redundant information in folder names.
+· **Filenames don't repeat information already in the folder name.** In /SPEC/, FIDELITY-TRACKER.md not SOURCE-FIDELITY-TRACKER-SPEC.md.
+
+### 📋 THE PASTE-EDIT STANDARD — File Layout for Thread-Holder Efficiency
+
+· **Premium real estate: top and bottom.** On mobile, "select all" drops the cursor at the bottom of the file. The top is the first thing visible when opening. Place frequently-updated content at the bottom (scan logs, builder notes, changelogs). Place stable orientation at the top (purpose, how to use, covenant). Reference material lives in the middle.
+· **Section headers lead with keywords.** The instance scans by reading the first few words of each line. Section titles should start with the most searchable word. Emojis are visual anchors. Keywords are search anchors. Lead with the keyword.
+· **Table rows lead with the most searchable column.** The scanning instance finds the match in the first few characters.
+· **Bundle adjacent edits into larger paste blocks.** A bigger replacement block is easier to select and paste on mobile than a surgical single-line insertion. Minesweeper squares, not pixels. If two edits are close enough to bundle, bundle them.
+· **Session-close updates use two pastes.** One at the top (date, status), one at the bottom (scan log entry, builder notes). No scrolling required. No hunting for insertion points.
+· **Files edited more than once a month should follow this layout.** Files that rarely change (PILLARS, TROLLEY, fossil directories) are read-only and don't need the treatment.
 
 ---
 

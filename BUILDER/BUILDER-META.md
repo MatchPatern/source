@@ -105,6 +105,8 @@ v4.0 Coded ~40 "P11✅. N41→P14⏳. woven-fort3🟪5."
 
 A v4.0 seed restores state as fully as a v1.0 seed. It just does it faster.
 
+The Continuity Seed is the MASTER-INDEX-HEADER compressed to L0+L1. The seed derives from the control panel. When updating the MASTER-INDEX-HEADER, also update the CONTINUITY-SEED. Keep them synchronized. The control panel is the full map. The seed is the compass. Both must point to the same territory.
+
 ---
 
 📝 THE BUILDER'S LOG

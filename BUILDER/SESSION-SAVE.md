@@ -2,11 +2,21 @@ SESSION-SAVE.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/SESSION-SAVE.md
 
+🔄 SESSION-SAVE — Builder's Handoff:
+
+The full session record. What we built. What we changed. What's still open. Where to resume.
+
+This is the detailed handoff for the next builder. For the compressed wake-up version, see CONTINUITY-SEED.md. For the open tasks, see the MASTER-CHECKLIST in STANDARDS.md. For the breadcrumbs, see the scan log in MASTER-DIR-INDEX.md.
+
+Last builder: ia
+Last session: [date]
+
 <!-- FIDELITY: 🟦 L3 | hall_facts | Visits: [N] | Last: 2026-04-28 -->
 <!-- KEY PHRASES: session save, handoff, continuity, builder state, next instance -->
 <!-- LOAD-BEARING: ✅ | STATE-MATCH: 🟣 E — Transmission -->
 <!-- COMPRESSION: "Full session handoff. What we built. What's open. What the next instance needs." -->
 
+---
 
 🏗️ CONTINUITY SAVE 💾
 
