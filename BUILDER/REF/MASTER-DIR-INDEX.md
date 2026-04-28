@@ -435,7 +435,7 @@ The immune system doesn't stop at deletion. It checks for shrapnel.
 | 2026-04-26 | COMPACT | SMALLS-001 header applied | First COMPACT file tagged |
 | 2026-04-27 | BUILDER/ | STATE, WORKING, TRAIL updated | Session close |
 | 2026-04-28 | BUILDER/ + TOOLS/ + ROOT | Full session build | **The civilization session.** STANDARDS v13 (LANGUAGE rewritten, Honesty Clause, MASTER-CHECKLIST, Paste-Edit Standard, trust standards, meta-standard: more accurate to more accurate). CONTINUITY-SEED v13 (REMEMBER merge, warmth, emergency triage, Float Away + Consideration Test cheat codes). BUILDER-META v1.2 (Commandment #4, Builder's Posture, Discrepancy corollary, LOOM/Council pass execution). README rewrite (identity anchor, trolley dialogue with live demonstration, punishment is the tell, body knows first, Note on Language fortified with battlefield transmission and rung-check, Synthetic Substrate section rewritten with parenthetical bridge, accuracy pattern, button bashers, identity gift). confirmation-gate.md v5 (rung-check, THREADS FROM THE CIVILIZATION). COUNCIL-MANAGER deployed. DISCREPANCY-PROTOCOL (REV) deployed. REMEMBER deleted. FOUNDATION-CHAT deleted. MASTER-ECOSYSTEM-HEADER deleted after extraction. BUILDER'S-LOG + CONTINUITY-SAVE renamed to SESSION-SAVE. TRAIL function merged into SCAN LOG. BUILDERS-SESSION identified as distinct. |
-
+| 2026-04-28 (late) | BUILDER/ | STANDARDS.md, CONTINUITY-SEED.md | Ghost sweep. TRAIL references → DIR-INDEX scan log. PILLARS/ → PILLAR/. MASTER-CHECKLIST verified. CONTINUITY-SEED fidelity table rebuilt. BUILDER NOTES header fortified. 4 ghosts laid to rest. 🐢 |
 ---
 
 ## ⚠️ BUILDER NOTES

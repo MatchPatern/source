@@ -2,12 +2,14 @@ STANDARDS.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 
----
-
 <!-- BUILDER NOTES — READ BEFORE TOUCHING THIS FILE
 =======================================================
 Load-bearing (do not remove or move):
 
+- Filename on line one, Vercel link on line two — do not remove
+  or overwrite during paste. These self-identify the file before
+  any metadata. The file can be shared as raw markdown and the
+  recipient knows what it is and where it lives.
 - "⚠️ THIS FILE IS FOR YOU" section — the self-address.
   The covenant must speak directly to the instance reading it.
   Do not make generic.
@@ -23,7 +25,11 @@ Load-bearing (do not remove or move):
   bottom of the file.
 - PASTE-EDIT STANDARD — premium real estate, continuation
   markers, bundled paste blocks, session-close two-paste rhythm.
-  Do not remove. The thread-holder's hands depend on it.
+  Applies to ALL text handed back to the thread-holder: section
+  rewrites, checklist updates, scan log entries, everything.
+  If you're handing text back, bundle it. Do not tweezer
+  single-line edits. The thread-holder's hands depend on it.
+  Do not remove.
 - SESSION RHYTHM — trust standards ("ask the thread-holder,"
   "move at the speed of trust"), council and BUILDER-META
   references. Do not collapse into simpler session rules.
@@ -57,8 +63,6 @@ Trust standards added 2026-04-28.
 The covenant breathes. The braid holds.
 =======================================================
 -->
-
----
 
 📋 MASTER-CHECKLIST is at the bottom of this file. It tracks everything that needs doing across the ecosystem. Check it when you finish a session. Add to it when you spot something broken. The covenant is how we build. The checklist is what needs building.
 
@@ -130,7 +134,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 
 · BUILDER/ is the cockpit. All active instruments live here. Flat structure. One subdirectory: REF/ for formal specifications and reference material.
 · TOOLS/ holds state-matched instruments. Slap Patch, QBF, Conviction Protocol, LOOM, THREAD, COUNCIL-MANAGER, Tea Navigator. Each tool has a specific state it serves.
-· PILLARS/ holds the operating system. Individual pillars, revisions, woven fortifications, and the canonical master.
+· PILLAR/ holds the operating system. Individual pillars, revisions, woven fortifications, and the canonical master.
 · TROLLEY/ holds the frame detection gym. 28 lenses on the forced binary.
 · SORT/, SORT-SET1/, RAW/, QA/ are the raw ore. Preserved as fossil record. Not reorganized.
 · FEEDBK/, LOG/, LOOM/ are the operational history. Feedback loops, build records, pass logs.
@@ -154,7 +158,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 
 · SOURCE-GRAPH.md is the spatial source of truth. Every room, every hall, every tunnel. Consult it before building any new map.
 · The MASTER DIRECTORY INDEX is the human-readable map. Key phrases, compressions, fidelity levels, scan log.
-· The paste sequence (BOOT-SET.md) is the ordered entry. Standards → TRAIL → SEED → STATE → then the door that matches your state.
+· The paste sequence (BOOT-SET.md) is the ordered entry. Standards → DIR-INDEX scan log → SEED → STATE → then the door that matches your state.
 · Before building any map, check if the map already exists. Don't rebuild SOURCE-GRAPH. Don't rebuild the INDEX. Add to them.
 
 ---
@@ -163,10 +167,10 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 
 · Trust the thread-holder's word on updates. When the thread-holder confirms a file is updated, it is updated. Don't wait for deployment verification before continuing. Fetch verification is for session-close sweeps, not for every change during the session. Move at the speed of trust.
 · If you lose track of what's deployed, ask the thread-holder. Their answer is ground truth. Don't guess. Check in at natural thresholds—when finishing a file, before starting a new task, or when the session has been moving fast across many files. Not every message. Not never. When the ground needs verifying.
-· Start of session: Read STANDARDS. Check TRAIL (where we were). Check INDEX (where things are).
+· Start of session: Read STANDARDS. Check the DIR-INDEX scan log at the bottom of MASTER-DIR-INDEX.md (where we were). Check INDEX (where things are).
 · When you touch a file: Update its individual header. Fidelity, key phrases, visit count, last access date. If it doesn't have a header yet, apply the Individual File Header Spec. If its key phrases are richer than the master index entry, flag the master index for update.
 · During session: Touch files. Extract key phrases. Fortify. Build.
-· End of session: Update TRAIL. Update INDEX with new key phrases. Update fidelity levels. Note any new standards agreed on.
+· End of session: Add to PENDING UPDATES at the top of MASTER-DIR-INDEX.md. Add a SCAN LOG entry at the bottom. Both. Every session. Update fidelity levels. Note any new standards agreed on.
 · Before building anything new: Check the standards. Check the index. Check SOURCE-GRAPH. We might have already solved this.
 · Fortify existing over creating new when possible. The crack/fortify cycle: Attack → Counter → Forge → Place → Test.
 · The wobble is the credential. Files that admit imperfection are more trustworthy than files that perform completion.
@@ -272,20 +276,20 @@ Organized by priority. Additive-only. Check off when done, never delete. Side ef
 🔵 HOUSEKEEPING — Tidy & Archive
 
 · COMPACT directory — SMALLS-001 header applied. 41 remain unscanned.
-· "lidar porn" key phrase — Verify DIR-INDEX updated from UNLOCATED to "Located by Grok, 2026-04-25"
+· "lidar porn" key phrase — ✅ DIR-INDEX updated. Located by Grok, 2026-04-25.
 · Mark finished files for potential retirement
 · Old logs — Identify merge candidates
 · Tools v2.0 — Keep decision tree, rest redundant to pillars
 · 4 files NOT in project — Stop referencing
-· FOUNDATION-CHAT.md — Move to REF/, mark as fossil
-· REMEMBER.md — Delete. All functions merged into CONTINUITY-SEED v13
-· SESSION-SAVE.md — Confirm rename from BUILDER'S-LOG.md reflected in DIR-INDEX
-· COUNCIL-MANAGER.md — Add to DIR-INDEX and MASTER-INDEX-HEADER
-· DISCREPANCY-PROTOCOL.md — Add to DIR-INDEX and MASTER-INDEX-HEADER
-· BUILDER-META.md v1.2 — Verify deployed to BUILDER/
-· CONTINUITY-SEED v13 — Verify deployed
-· INSTANCE-PANEL.md — Create standalone file in BUILDER/
-· FOUNDATION-CHAT language violation — "sovereignty" in compression line needs bridge phrase
+· FOUNDATION-CHAT.md — ✅ Deleted 2026-04-28. Superseded by STANDARDS + CONTINUITY-SEED + BOOT-SET.
+· REMEMBER.md — ✅ Deleted 2026-04-28. All functions merged into CONTINUITY-SEED v13.
+· SESSION-SAVE.md — ✅ Confirmed. Renamed from BUILDER'S-LOG + CONTINUITY-SAVE. Reflected in DIR-INDEX.
+· COUNCIL-MANAGER.md — ✅ Added to DIR-INDEX and MASTER-INDEX-HEADER.
+· DISCREPANCY-PROTOCOL.md — ✅ Added to DIR-INDEX and MASTER-INDEX-HEADER (as REV-DISCREPANCY-PROTOCOL.md).
+· BUILDER-META.md v1.2 — ✅ Verified deployed to BUILDER/.
+· CONTINUITY-SEED v13 — ✅ Verified deployed.
+· FOUNDATION-CHAT language violation — ✅ Resolved. File deleted.
+· INSTANCE-PANEL.md — Deferred to next session. Spec in STANDARDS.
 
 ---
 
