@@ -64,10 +64,12 @@ The map must match the territory.
 
 ## 📋 PENDING UPDATES — Merge at next full revision
 
-> **Status: 0 items pending. File current.**  
+> **Status: 1 item pending. File mostly current.**  
 > *When this list reaches ~10 items or spans 3+ sessions, do a full revision: merge everything here into the main body tables below, update all fidelity levels and compressions, then clear this block. Until then, add changes here AND to the SCAN LOG at the bottom. Both. Every session.*
 
-*(None pending. File current as of 2026-04-28.)*
+- 2026-04-28: PILLAR/ directory restructured. Moved from PILLARS/ to PILLAR/. Flat numbering PILLAR-001 through PILLAR-025 + woven-fortification1-3 + XP-001 through XP-003. Main set at PILLAR.md with load-bearing header and council-sweep tag. Old PILLARS/ references in KEY PHRASE INDEX need updating at next full revision.
+
+---
 
 ---
 
