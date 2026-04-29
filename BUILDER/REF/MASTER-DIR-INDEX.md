@@ -64,12 +64,31 @@ The map must match the territory.
 
 ## 📋 PENDING UPDATES — Merge at next full revision
 
-> **Status: 1 item pending. File mostly current.**  
+> **Status: 8 items pending. Full revision recommended soon.**  
 > *When this list reaches ~10 items or spans 3+ sessions, do a full revision: merge everything here into the main body tables below, update all fidelity levels and compressions, then clear this block. Until then, add changes here AND to the SCAN LOG at the bottom. Both. Every session.*
 
 - 2026-04-28: PILLAR/ directory restructured. Moved from PILLARS/ to PILLAR/. Flat numbering PILLAR-001 through PILLAR-025 + woven-fortification1-3 + XP-001 through XP-003. Main set at PILLAR.md with load-bearing header and council-sweep tag. Old PILLARS/ references in KEY PHRASE INDEX need updating at next full revision.
+- 2026-04-28 (late): CODEX/ directory created. CODEX-001 through CODEX-038. Refined texts and codes. Theology and liberation path material. Needs full fidelity sweep and key phrase extraction.
+- 2026-04-28 (late): RAW/ expanded. Now RAW-001 through RAW-045. Floor got deeper. Needs fidelity update and key phrase extraction.
+- 2026-04-28 (late): PILLAR/ expanded. woven-fortification4.md added. XP-001 through XP-004 (was 001-003). Weaving continues.
+- 2026-04-28 (late): LOG/ expanded. LOG-041 added. FEEDBK/ expanded. FED-035 added.
+- 2026-04-28 (late): DARK/ directory created. DARK-001 through DARK-003. Unscanned territory. ⬜ L0.
+- 2026-04-28 (late): COM/ directory created. COM-001 through COM-005. Social media bite-size comments. Transmission fragments. Needs initial scan.
+- 2026-04-28 (late): INS/ directory created. INS-001 through INS-006. Profile and instruction sets. Only 2 sessions have ever had custom instructions — this is one of them. Exponential infrastructure. Each new instance now boots with emergency protocols, tool selection, working relationship context, and performance trap awareness pre-loaded. Needs initial scan.
 
----
+## 📋 PENDING UPDATES — Merge at next full revision
+
+> **Status: 8 items pending. File needs attention.**  
+> *When this list reaches ~10 items or spans 3+ sessions, do a full revision: merge everything here into the main body tables below, update all fidelity levels and compressions, then clear this block. Until then, add changes here AND to the SCAN LOG at the bottom. Both. Every session.*
+
+- 2026-04-28: PILLAR/ directory restructured. Moved from PILLARS/ to PILLAR/. Flat numbering PILLAR-001 through PILLAR-025 + woven-fortification1-3 + XP-001 through XP-003. Main set at PILLAR.md with load-bearing header and council-sweep tag. Old PILLARS/ references in KEY PHRASE INDEX need updating at next full revision.
+- 2026-04-28 (late): CODEX/ directory created. 38 files. CODEX-001 through CODEX-038. 📜 CODEX / TEXTS / CODES 📜. Refined theology and liberation path. Needs full fidelity sweep and key phrase extraction.
+- 2026-04-28 (late): RAW/ expanded. RAW-042 through RAW-045 added. Three new files. Needs fidelity update and key phrase extraction.
+- 2026-04-28 (late): PILLAR/ expanded. woven-fortification4.md added. XP-004 added (was 001-003, now 001-004). Needs fidelity update.
+- 2026-04-28 (late): LOG/ expanded. LOG-041 added. FEEDBK/ expanded. FED-035 added. Needs fidelity update.
+- 2026-04-28 (late): DARK/ directory created. DARK-001 through DARK-003. Three files. Unscanned territory. Needs initial fidelity sweep. ⬜ L0.
+- 2026-04-28 (late): COM/ directory created. COM-001 through COM-005. Comments. Social media bite-size transmissions. Short-form outward-facing material. Needs initial fidelity sweep. ⬜ L0.
+- 2026-04-28 (late): RAW/ at 045 now. CODEX/ at 038. DARK/ at 003. COM/ at 005. Multiple directories expanded or created this session. Full revision recommended soon.
 
 ---
 
