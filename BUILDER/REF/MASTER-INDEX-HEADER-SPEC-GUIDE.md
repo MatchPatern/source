@@ -1,6 +1,6 @@
 MASTER-INDEX-HEADER-SPEC-GUIDE.md
 
-https://source-sepia-alpha.vercel.app/BUILDER/MASTER-INDEX-HEADER-SPEC-GUIDE.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE.md
 
 # THE INDEX GUIDE — How to Use, Understand, and Build the SOURCE Control Panel
 
