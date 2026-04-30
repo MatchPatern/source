@@ -150,13 +150,15 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 · Key phrases extracted every session. Side effect of the work. Not a separate task.
 · The index is the search engine. ia cannot reliably string-search across files. The index compensates.
 · The index reflects what's actually deployed on Vercel, not the aspirational canonical map. Ground-truth over theory.
-· The MASTER-INDEX-HEADER is the control panel. Headers of headers. Every file's vital stats in one table. Updated every session. Designed for infinite passes.
+· The MASTER-INDEX-HEADER is the control panel. Headers of headers. Every file's vital stats in one table. Updated every session. Designed for infinite passes. Unlike the DIR-INDEX, the INDEX-HEADER is periodically regenerated from scratch — it is a cache rebuilt from individual file headers (per INDIVIDUAL-FILE-HEADER-SPEC.md). Both indices are additive in their own way. The DIR-INDEX accumulates directory entries. The INDEX-HEADER regenerates from distributed headers.
 
 ---
 
 🗺️ MAPPING STANDARDS
 
 · SOURCE-GRAPH.md is the spatial source of truth. Every room, every hall, every tunnel. Consult it before building any new map.
+· The MASTER-INDEX-HEADER is the searchable control panel. Key phrases, compressions, fidelity levels, function tags, temperature signals, reviews, flags. The first stop when you need to find a file by concept, not by path.
+· The INDIVIDUAL-FILE-HEADER-SPEC.md (v2.6) is the standard for every file's metadata block. Apply it to every file you touch. The headers are the distributed source of truth that the MASTER-INDEX-HEADER regenerates from.
 · The MASTER DIRECTORY INDEX is the human-readable map. Key phrases, compressions, fidelity levels, scan log.
 · The paste sequence (BOOT-SET.md) is the ordered entry. Standards → DIR-INDEX scan log → SEED → STATE → then the door that matches your state.
 · Before building any map, check if the map already exists. Don't rebuild SOURCE-GRAPH. Don't rebuild the INDEX. Add to them.
@@ -170,7 +172,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 · Start of session: Read STANDARDS. Check the DIR-INDEX scan log at the bottom of MASTER-DIR-INDEX.md (where we were). Check INDEX (where things are).
 · When you touch a file: Update its individual header. Fidelity, key phrases, visit count, last access date. If it doesn't have a header yet, apply the Individual File Header Spec. If its key phrases are richer than the master index entry, flag the master index for update.
 · During session: Touch files. Extract key phrases. Fortify. Build.
-· End of session: Add to PENDING UPDATES at the top of MASTER-DIR-INDEX.md. Add a SCAN LOG entry at the bottom. Both. Every session. Update fidelity levels. Note any new standards agreed on.
+· End of session: Add to PENDING UPDATES at the top of MASTER-DIR-INDEX.md. Add a SCAN LOG entry at the bottom. Both. Every session. Update fidelity levels. Note any new standards agreed on. If you touched files, update their individual headers (per INDIVIDUAL-FILE-HEADER-SPEC.md) before updating the master index. Header first. Index second. Always.
 · Before building anything new: Check the standards. Check the index. Check SOURCE-GRAPH. We might have already solved this.
 · Fortify existing over creating new when possible. The crack/fortify cycle: Attack → Counter → Forge → Place → Test.
 · The wobble is the credential. Files that admit imperfection are more trustworthy than files that perform completion.
@@ -290,6 +292,10 @@ Organized by priority. Additive-only. Check off when done, never delete. Side ef
 · CONTINUITY-SEED v13 — ✅ Verified deployed.
 · FOUNDATION-CHAT language violation — ✅ Resolved. File deleted.
 · INSTANCE-PANEL.md — Deferred to next session. Spec in STANDARDS.
+· INDIVIDUAL-FILE-HEADER-SPEC.md — ✅ v2.6 deployed. Comprehensive legend. HEAD-CHECK and CLAIM-TRUST naming locked. Regeneration merge instructions included. Application ongoing across passes.
+· MASTER-INDEX-HEADER.md — ✅ Spec complete (v2.2). Guide deployed (MASTER-INDEX-HEADER-SPEC-GUIDE.md). REV draft active. Pass 1 pending.
+· MASTER-INDEX-HEADER-SPEC.md — ⚠️ v2.2 references CLAIM-TRUST as CERTAINTY in column map. Needs v2.3 update to align with header spec v2.6.
+· COUNCIL-MANAGER.md — ✅ v1.1 deployed. Scout + Sweep mode added. Paired convergence documented. Default sweep set to 1800 passes.
 
 ---
 
