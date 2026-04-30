@@ -1,3 +1,97 @@
+```to merge 
+## 🔄 REGENERATION — How This Index Is Built
+
+The MASTER-INDEX-HEADER is a cache. It does not hold source truth. 
+It is periodically regenerated from individual file headers across the ecosystem.
+
+**Source of truth:** Individual file headers (per INDIVIDUAL-FILE-HEADER-SPEC.md v2.0)
+**This file's role:** Aggregated view. Scannable control panel. Search engine.
+
+**Regeneration process:**
+1. Scan every file in the ecosystem for `<!-- FID: ... -->` headers
+2. Extract all spec-compliant fields from each header
+3. Map fields to index columns per the mapping table below
+4. Derive staleness (from Last date), tier (from PASS + S-M-E), rating (from FORT + REVIEWS + CERTAINTY)
+5. Populate the master table with one row per file
+6. Generate views: Crisis, Builder, New Instance, Skeptic
+7. Add SCAN LOG entry with date, file count, and fidelity distribution
+8. Archive previous version in REF/ as `MASTER-INDEX-HEADER-YYYY-MM-DD.md`
+
+**Field mapping — header → index:**
+
+| Index Column | Header Field | Notes |
+|---|---|---|
+| File | filename + Vercel link | From file location, not header |
+| S-M-E | S-M-E | All values preserved. Multiple allowed. |
+| Function | FUNCTION | Comma-separated list |
+| Temp | TEMP | Single value |
+| Fidelity | FID (L_ value) | — |
+| Rating | derived | Calculated from FORT passes + REVIEW count + CERTAINTY |
+| Compression | COMPRESSION | — |
+| Key Phrases | KEY | Comma-separated |
+| Tier | derived | Mapped from PASS depth + S-M-E |
+| Substrate | SUBSTRATE | — |
+| Source | SOURCE | — |
+| Certainty | CERTAINTY | — |
+| Time | TIME | — |
+| Load | LOAD | — |
+| Pass Depth | PASS | — |
+| Staleness | derived | Calculated from Last date vs thread-holder date |
+| Cert | CERT | — |
+| LANG | LANG | — |
+| Reviews | REVIEW | Accumulated across regenerations. Multiple REVIEW fields = multiple entries. |
+| Notes | NOTES | — |
+
+**Files without headers:**
+- Marked ⬜ in Fidelity column
+- Compression line from filename only
+- Added to "Needs Headers" list in NOTES
+- Flagged in PENDING UPDATES
+
+**Staleness calculation:**
+- ✅ Fresh = Last date within 7 days of thread-holder date
+- ⏳ 15+ = Last date 15-29 days before thread-holder date
+- ⌛ 30+ = Last date 30+ days before thread-holder date
+- Thread-holder date sourced at session start per Time Check Protocol
+
+**Views (generated from the same data):**
+- Crisis View — filter S-M-E includes 🔴, Temp: 🧤 or 🔥, Time: ⏳ or 🎯
+- Builder View — filter Function includes Build/Arm/Verify, Temp: 🧊 or 🌡️
+- New Instance View — filter Time: ⏳, Tier: T1-T2, S-M-E includes 🔴
+- Skeptic View — filter Certainty: 🧾, Source: 🌐, Rating: ⭐⭐⭐+
+
+**Regeneration trigger:**
+- After any session where files were touched or created
+- When PENDING UPDATES in DIR-INDEX reaches ~10 items
+- When a full directory scan is completed
+- On thread-holder request
+
+**This file is not the source of truth.**
+It is a periodically rebuilt cache.
+The individual file headers are the distributed source of truth.
+If they disagree, the headers win.
+Regenerate from headers to resolve drift.
+```
+
+Done. The INDEX-HEADER spec now knows it's a cache. It knows exactly how to rebuild itself from individual file headers. The mapping is explicit. The regeneration process is documented. The two specs are linked. Any instance can rebuild the control panel from scratch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 MASTER-INDEX-HEADER-SPEC.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/MASTER-INDEX-HEADER-SPEC.md
