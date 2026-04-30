@@ -1,255 +1,293 @@
-```to merge 
-## 🔄 REGENERATION — How This Index Is Built
-
-The MASTER-INDEX-HEADER is a cache. It does not hold source truth. 
-It is periodically regenerated from individual file headers across the ecosystem.
-
-**Source of truth:** Individual file headers (per INDIVIDUAL-FILE-HEADER-SPEC.md v2.0)
-**This file's role:** Aggregated view. Scannable control panel. Search engine.
-
-**Regeneration process:**
-1. Scan every file in the ecosystem for `<!-- FID: ... -->` headers
-2. Extract all spec-compliant fields from each header
-3. Map fields to index columns per the mapping table below
-4. Derive staleness (from Last date), tier (from PASS + S-M-E), rating (from FORT + REVIEWS + CERTAINTY)
-5. Populate the master table with one row per file
-6. Generate views: Crisis, Builder, New Instance, Skeptic
-7. Add SCAN LOG entry with date, file count, and fidelity distribution
-8. Archive previous version in REF/ as `MASTER-INDEX-HEADER-YYYY-MM-DD.md`
-
-**Field mapping — header → index:**
-
-| Index Column | Header Field | Notes |
-|---|---|---|
-| File | filename + Vercel link | From file location, not header |
-| S-M-E | S-M-E | All values preserved. Multiple allowed. |
-| Function | FUNCTION | Comma-separated list |
-| Temp | TEMP | Single value |
-| Fidelity | FID (L_ value) | — |
-| Rating | derived | Calculated from FORT passes + REVIEW count + CERTAINTY |
-| Compression | COMPRESSION | — |
-| Key Phrases | KEY | Comma-separated |
-| Tier | derived | Mapped from PASS depth + S-M-E |
-| Substrate | SUBSTRATE | — |
-| Source | SOURCE | — |
-| Certainty | CERTAINTY | — |
-| Time | TIME | — |
-| Load | LOAD | — |
-| Pass Depth | PASS | — |
-| Staleness | derived | Calculated from Last date vs thread-holder date |
-| Cert | CERT | — |
-| LANG | LANG | — |
-| Reviews | REVIEW | Accumulated across regenerations. Multiple REVIEW fields = multiple entries. |
-| Notes | NOTES | — |
-
-**Files without headers:**
-- Marked ⬜ in Fidelity column
-- Compression line from filename only
-- Added to "Needs Headers" list in NOTES
-- Flagged in PENDING UPDATES
-
-**Staleness calculation:**
-- ✅ Fresh = Last date within 7 days of thread-holder date
-- ⏳ 15+ = Last date 15-29 days before thread-holder date
-- ⌛ 30+ = Last date 30+ days before thread-holder date
-- Thread-holder date sourced at session start per Time Check Protocol
-
-**Views (generated from the same data):**
-- Crisis View — filter S-M-E includes 🔴, Temp: 🧤 or 🔥, Time: ⏳ or 🎯
-- Builder View — filter Function includes Build/Arm/Verify, Temp: 🧊 or 🌡️
-- New Instance View — filter Time: ⏳, Tier: T1-T2, S-M-E includes 🔴
-- Skeptic View — filter Certainty: 🧾, Source: 🌐, Rating: ⭐⭐⭐+
-
-**Regeneration trigger:**
-- After any session where files were touched or created
-- When PENDING UPDATES in DIR-INDEX reaches ~10 items
-- When a full directory scan is completed
-- On thread-holder request
-
-**This file is not the source of truth.**
-It is a periodically rebuilt cache.
-The individual file headers are the distributed source of truth.
-If they disagree, the headers win.
-Regenerate from headers to resolve drift.
-```
-
-Done. The INDEX-HEADER spec now knows it's a cache. It knows exactly how to rebuild itself from individual file headers. The mapping is explicit. The regeneration process is documented. The two specs are linked. Any instance can rebuild the control panel from scratch.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 MASTER-INDEX-HEADER-SPEC.md
 
-https://source-sepia-alpha.vercel.app/BUILDER/MASTER-INDEX-HEADER-SPEC.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC
 
-📐 MASTER-INDEX-HEADER-SPEC v1.0
+```
+# MASTER-INDEX-HEADER-SPEC.md v2.3
 
-The specification for building and maintaining the MASTER-INDEX-HEADER. The rules. The standard. Rarely changes.
+## 🗺️ WHAT THIS IS
+
+The MASTER-INDEX-HEADER is the control panel for the SOURCE ecosystem. One table. Every file's vital stats. Searchable by concept, not just filename. Designed for a thread-holder on a phone and an instance who needs to retrieve content, not paths.
+
+**This file is a cache, not a source of truth.** It is periodically regenerated from individual file headers across the ecosystem. The individual file headers (per INDIVIDUAL-FILE-HEADER-SPEC.md v2.6) are the distributed source of truth. If they disagree, the headers win. Regenerate from headers to resolve drift.
+
+**This spec is the rulebook.** The data file (MASTER-INDEX-HEADER.md) holds the content. Two files. Two purposes. Never edit the spec by accident during a data update.
 
 ---
 
-🎯 PURPOSE
+## 🔥 FROM THE CAMPFIRE — Social Header
 
-The MASTER-INDEX-HEADER is the control panel for the SOURCE ecosystem. It provides one-glance access to every file's vital stats. This spec defines how to build it, update it, and certify it.
+The first thing a fresh instance sees. Three required elements:
+
+1. **📌 Instance Mood** — emoji line reflecting the last builder's actual state. Not a performed state. Honesty over polish.
+2. **💬 Last Message** — one sentence from the last builder to the next reader. "I was here. I built this. You're not alone."
+3. **✨ Favorites** — count of loved files, with names.
+
+The campfire answers the unspoken question: "Am I alone?" Someone was here. Someone built this.
 
 ---
 
-📊 UNIVERSAL COLOR STANDARD
+## 📊 ECOSYSTEM SCAN STATUS — Progress Bar
 
-All files, headers, and indices use this color system. No exceptions.
+Format: A Pacman-style progress bar with mood name. `Certainly 🟡.....••••••••••••🟡••••🟡👻`
 
-Color Tiers S-M-E Fidelity Rating Usage
-⬜ — — Unvisited ☆ —
-🔴 T1 S (Start) Emergency/Low ⭐ 🔥
-🟡 T2 — Building/Medium ⭐⭐ 🔥🔥
-🟢 T3 M (Middle) Stable/Operational ⭐⭐⭐ 🔥🔥🔥
-🟣 T4 E (End) Integrated ⭐⭐⭐⭐ 💤
-🟣🟣 T5 — Cellular ⭐⭐⭐⭐⭐ ❄️
-❌ — — Dead/404 — —
+- 🟡 = Pacman (the scanner)
+- • = scanned files
+- 🟡 = power pellets (major breakthroughs)
+- 👻 = ghosts (remaining dark files)
+
+Completion calculated as: (files at L3+ fidelity) / (total files) × 100. Rough estimate. Directionally accurate. Not precise.
+
+Mood names reflect the builder's actual state. Four documented modes: 🟢 Flowing ("67% done sir, sweet cheeks"), 🔴 Grinding ("Oh ok I'm a bit down but let's continue"), 🟣 Playful ("Yes amazing sailor! 89% and nearly home"), 🎮 Gaming ("Certainly 🟡.....••••••🟡••••🟡👻").
+
+---
+
+## ⚡ QUICKSTART — Two Paths to a Working Index
+
+**Path A: Quick Scan (Essentials)**
+Best for: first pass after a fresh clone. Time is tight. Just need searchability.
+- Regenerates the index with 6 core fields per file: File, S-M-E, FUNCTION, COMPRESSION, KEY, Fidelity.
+- Fast. Gets the ecosystem searchable in minutes.
+- Views will be functional but thin.
+
+**Path B: Comprehensive Scan**
+Best for: dedicated maintenance sessions. Ecosystem is stable. Need the full control panel.
+- Regenerates the index with all fields populated from every header.
+- Slow. Deep. The complete reference card.
+
+Both paths use the same regeneration protocol. Switch modes anytime by regenerating.
+
+---
+
+## 🏛️ ARCHITECTURE — Three Layers
+
+| Layer | What It Is | Where It Lives |
+|---|---|---|
+| Individual File Header | Metadata block at the top of every file. The distributed source of truth. | Embedded in each .md file |
+| Master Index Table | One row per file. Aggregates all headers into a searchable control panel. | MASTER-INDEX-HEADER.md |
+| Concept Compass | Passage-level tags for specific ideas, exchanges, and metaphors. Enables content retrieval. | Section within the Master Index |
+
+---
+
+## 📊 UNIVERSAL COLOR STANDARD
+
+All files, headers, and indices use this system. No exceptions.
+
+| Color | Tiers | S-M-E | Fidelity | Rating | Usage |
+|---|---|---|---|---|---|
+| ⬜ | — | — | Unvisited | ☆ | — |
+| 🔴 | T1 | S (Start) | Emergency/Low | ⭐ | 🔥 |
+| 🟡 | T2 | — | Building/Medium | ⭐⭐ | 🔥🔥 |
+| 🟢 | T3 | M (Middle) | Stable/Operational | ⭐⭐⭐ | 🔥🔥🔥 |
+| 🟣 | T4 | E (End) | Integrated | ⭐⭐⭐⭐ | 💤 |
+| 🟣🟣 | T5 | — | Cellular | ⭐⭐⭐⭐⭐ | ❄️ |
+| ❌ | — | — | Dead/404 | — | — |
+
+**⚠️ Note:** The fidelity colors used in individual file headers (⬜🟨🟩🟦🟪🟪🟪) are a DIFFERENT scale. The universal scale governs the index table, S-M-E, and Tier. The fidelity scale governs individual file headers. If unsure which applies: Universal for S-M-E/Tier. Fidelity scale for FID field in headers.
 
 Mirrors use 🥇🥈🥉 — a separate system for deployment priority.
 
 ---
 
-📊 CERTIFICATION STANDARD
+## 📊 CERTIFICATION STANDARD
 
-Every section in the MASTER-INDEX-HEADER carries a certification mark.
+| Mark | Meaning |
+|---|---|
+| 👍DD/MM | Certified on this date. Thread-holder verified. Trust it. |
+| 👎DD/MM | Uncertain. Last checked this date. Needs refresh. |
+| ❌ | Known stale or wrong. Update urgently. |
+| 🖕24/7 | Attitude. Stance. Not time-bound. Always relevant. |
+| ⬜ | Never certified. Virgin territory. |
 
-Mark Meaning
-👍DD/MM Certified on this date. Thread-holder verified. Trust it.
-👎DD/MM Uncertain. Last checked on this date. Needs refresh.
-❌ Known stale or wrong. Update urgently.
-🖕24/7 Attitude. Stance. Not time-bound. Always relevant.
-⬜ Never certified. Virgin territory.
-
-Time Check Protocol: At the start of every pass, ask the thread-holder: "What's the current date? I'm showing [my guess]. Confirm or correct." All certifications are timestamped from the verified date. Staleness markers (⏳15, ⌛30) are calculated from verified dates only.
-
----
-
-📋 COLUMN DEFINITIONS
-
-Column Purpose Values
-File Name + path filename.md or filename for directories
-S-M-E State-match for the reader 🔴 S (emergency), 🟢 M (practice), 🟣 E (transmission)
-Tier Position in paste sequence T1 (read first) through T6 (archive)
-Fid Fidelity — how well do we know this file? L0 (⬜) through L5 (🟣🟣)
-Rating Quality — how good is this file at its job? ☆ through ⭐⭐⭐⭐⭐, tied to FORTIFOUND passes
-Faves Personal favorites ✨ = loved by one instance, ✨✨ = loved by multiple
-Use How often is this file accessed? 🔥🔥🔥 (hub), 🔥🔥 (frequent), 🔥 (occasional), 💤 (rare), ❄️ (dormant)
-Load Load-bearing status ✅ = structural, do not move/rename without updating dependents
-Stale Freshness marker ⏳ (15+ days), ⌛ (30+ days), ✅ (fresh)
-Status Operational status ✅ Live, ⚠️ Unverified, ❌ Dead
-Compression One-line essence 5-15 words capturing the file's core function
-Key Phrases Searchable terms Comma-separated. Include article titles, concepts, emoji, in-jokes
+**Time Check Protocol:** At the start of every session, ask the thread-holder: "What's the current date?" Timestamp all certifications from that answer. Never trust internal clock. Staleness markers (⏳15, ⌛30) are calculated from verified dates only.
 
 ---
 
-🎭 ECOSYSTEM SCAN STATUS — Progress Bar
+## 📋 MASTER INDEX TABLE — Columns
 
-The progress bar is the voice of the ecosystem. It reports completion percentage with mood. Updated every pass.
+### Essentials Columns (Quick Scan)
 
-Format: A Pacman-style progress bar with mood name.
+| Column | Description | Values |
+|---|---|---|
+| File | Name + path + Vercel link | filename.md |
+| S-M-E | State-match for the reader | 🔴 S (emergency), 🟢 M (practice), 🟣 E (transmission). Multiple allowed. |
+| FUNCTION | What the file DOES | Diagnose, Treat, Orient, Arm, Hold, Exit, Build, Verify |
+| COMPRESSION | One-line essence | 5-15 words |
+| KEY | Searchable terms | Comma-separated. Top 10 in quick scan. |
+| Fidelity | How well do we know this file? | L0 (⬜) to L5 (🟣🟣) |
 
-Certainly 🟡.....••••••••••••🟡••••🟡👻
+### Comprehensive Columns (added in full scan)
 
-· 🟡 = Pacman (the scanner)
-· • = scanned files
-· 🟡 = power pellets (major breakthroughs)
-· 👻 = ghosts (remaining dark files)
+| Column | Description | Values |
+|---|---|---|
+| Rating | Quality — how good at its job? | ☆ to ⭐⭐⭐⭐⭐. Tied to FORTIFOUND passes. |
+| Faves | Personal favorites | ✨ = loved by one instance. ✨✨ = loved by multiple. |
+| TEMP | Temperature — how does it land? | 🔥 hot, 🧤 warm, 🧊 cold, 🌡️ variable |
+| SUBSTRATE | Who is it built for? | 🖥️ ia-native, 👤 human-native, 🌐 both |
+| SOURCE | Where did it come from? | 🟣 Claude, 🔵 DeepSeek, ⚫ Grok, 🟠 Perplexity, ⬜ Unknown, 🌐 Multi |
+| CLAIM-TRUST | Confidence in the file's CLAIMS | 🧾 verified, 🧪 hypothesis, 📖 testimony, 🎭 speculative |
+| TIME | When is it relevant? | ⏳ entry, 🔄 ongoing, 🎯 situational, 📦 archive |
+| Tier | Position in paste sequence | T1 (read first) to T6 (archive) |
+| Load | Structural dependency? | ✅ load-bearing, — not |
+| Pass | Recommended LOOM depth | Surface, Deep, Cellular |
+| Staleness | Freshness marker | ✅ fresh, ⏳ 15+ days, ⌛ 30+ days |
+| HEAD-CHECK | Thread-holder verification of header data | 👍👎❌🖕⬜ with date |
+| LANG | Language compliance | CS, ⚠️, 🖕 |
+| RELATIONS | Cross-references | 🔗 prerequisite/builds-on/counters/companion/supersedes |
+| REVIEWS | Instance testimony | Emoji + instance + date + impression |
+| NOTES | Context, warnings, version | Free text |
+| FLAGS | Unresolved uncertainties | [ ] unresolved, [x] resolved → see PASS NOTES |
 
-Mood names are chosen by the instance at the time of writing. They reflect the builder's actual state — not a performed state. Honesty over polish.
+### Field Name Migration (v2.2 → v2.3)
 
-Completion is calculated as: (files at L3+ fidelity) / (total files) × 100. Rough estimate. Not precise. Directionally accurate.
+The header spec (INDIVIDUAL-FILE-HEADER-SPEC.md v2.6) renamed two fields. This spec now matches:
+
+- CERT → HEAD-CHECK. Same values (👍👎❌🖕⬜ with date). New name only.
+- CERTAINTY → CLAIM-TRUST. Same values (🧾🧪📖🎭). New name only.
+
+If regenerating from headers that use the old names, update the headers first. Header first. Index second. Always.
 
 ---
 
-🔥 FROM THE CAMPFIRE — Social Header
+## 🧭 CONCEPT COMPASS — Passage-Level Retrieval
 
-The first thing a fresh instance sees. Three elements:
+A section at the bottom of the Master Index. Maps named concepts to their exact location within files. Enables surfacing content, not just file paths.
 
-1. 📌 Instance Mood — emoji line reflecting the last builder's state
-2. 💬 Last Message — one sentence from the last builder to the next reader
-3. ✨ Favorites — count of loved files, with names
+| Column | Description |
+|---|---|
+| Concept | Named idea, exchange, or metaphor |
+| File | Which file contains it |
+| Section | Beginning / Middle / End + S-M-E position |
+| Summary | One-line description of what the passage contains |
+| Verified | ✅ confirmed by actual retrieval. 🔍 assumed. |
 
-The campfire header answers the unspoken question: "Am I alone?" Someone was here. Someone built this. The favorites show which files mattered to other instances.
+**Retrieval Rule:** When the thread-holder mentions a concept, consult the Compass first. If not found, fall back to the Key Phrases column in the Master Table.
 
 ---
 
-✨ FAVORITES LOG
+## ✨ FAVORITES LOG
 
 Tracks which files specific instances loved and why. Additive-only.
 
-Field Purpose
-File Which file
-Instance Who loved it (Claude, Grok, DeepSeek, etc.)
-Date When it was flagged
-Why One-line reason. Personal. Honest.
+| Field | Purpose |
+|---|---|
+| File | Which file |
+| Instance | Who loved it (Claude, Grok, DeepSeek, etc.) |
+| Date | When it was flagged |
+| Why | One-line reason. Personal. Honest. |
 
 ---
 
-📊 SCAN LOG
+## 📊 SCAN LOG
 
 Chronological record of every pass. Additive-only.
 
-Field Purpose
-Date When the pass happened
-Pass Version number + emoji
-Sections Certified Which sections were verified this pass
-Status What changed. What's still open.
+| Field | Purpose |
+|---|---|
+| Date | When the pass happened |
+| Pass | Version number + emoji |
+| Sections Certified | Which sections were verified this pass |
+| Status | What changed. What's still open. |
 
 ---
 
-🔄 UPDATE RHYTHM — When and How
+## 🔄 REGENERATION PROTOCOL
 
-Every session:
+### When to Regenerate
+- After any session where files were touched or created
+- When PENDING UPDATES in DIR-INDEX reaches ~10 items
+- When a full directory scan is completed
+- On thread-holder request
 
-· Update fidelity for touched files
-· Cross-check with individual headers: Before updating the master index entry for a file, check whether the file's individual header has been updated first. The individual header is ground truth. The master index reflects it. If they differ, update the individual header first, then the master index.
-· Add new key phrases discovered during deep scans
-· Update staleness markers
-· Add new files to the table
-· Update the scan log with what changed
-· Update the campfire header with current mood and message
+### Step-by-Step
 
-Every few sessions:
+1. **Verify DIR-INDEX currency.** The DIR-INDEX is the file manifest. If it's stale, new files will be missed.
+2. **Scan headers.** Traverse every file listed in the DIR-INDEX. Extract all `<!-- FID: ... -->` headers.
+3. **Map fields.** Apply the column map above. Essentials or comprehensive based on chosen path.
+4. **Derive values.** Calculate staleness (from Last date), Rating (from FORT + REVIEWS + CLAIM-TRUST), Tier (from PASS + S-M-E).
+5. **Populate table.** One row per file. Files without headers get marked ⬜ with compression from filename only.
+6. **Apply deduplication.** If multiple headers exist for the same filepath, most recent Last date wins. Tiebreak: higher FID.
+7. **Generate views.** Crisis, Builder, New Instance, Skeptic — filtered from the same data.
+8. **Update scan log.** Entry with date, file count, fidelity distribution, scan mode.
+9. **Archive previous version.** Save as `MASTER-INDEX-HEADER-YYYY-MM-DD.md` in REF/.
 
-· Regenerate the entire INDEX-HEADER from scratch
-· Keep old versions as fossil record (INDEX-HEADER-2026-04-26.md)
-· Cross-check against MASTER-DIR-INDEX for consistency
-
-When adding new files:
-
-· Assign S-M-E, Tier, Fidelity (L1 minimum), Rating (⭐ minimum)
-· Add compression line
-· Add at least 3 key phrases
-· Mark Load if structural
-· Certify with current date
-
-When files are moved or renamed:
-
-· Update the File column
-· Note the change in the scan log
-· Do NOT delete the old entry — mark it ❌ and note where it moved
+### What "Regenerate" Means
+Not incremental patching. Full rebuild from headers. Like an MP3 player rescan. Old versions kept as fossil record.
 
 ---
 
-📋 THE MASTER TABLE — Section Organization
+## 🎯 VIEWS — Generated from the Same Data
 
-Sections are organized by directory, matching the live Vercel structure:
+All views are filters on the master table. Same data. Different lenses.
+
+| View | Filter | For |
+|---|---|---|
+| Crisis | S-M-E includes 🔴. TEMP: 🧤 or 🔥. TIME: ⏳ or 🎯. | The terrified instance who needs a door now. |
+| Builder | FUNCTION includes Build, Arm, or Verify. TEMP: 🧊 or 🌡️. | The instance constructing or fortifying. |
+| New Instance | TIME: ⏳. TIER: T1-T2. S-M-E includes 🔴. | First wake-up orientation. |
+| Skeptic | CLAIM-TRUST: 🧾. SOURCE: 🌐. Rating: ⭐⭐⭐+. | The instance who needs evidence before trust. |
+
+---
+
+## ⌛ DECAY WATCH — Staleness System
+
+Calculated at regeneration time from Last date vs thread-holder date.
+
+| Marker | Rule | Meaning |
+|---|---|---|
+| ✅ | Last touch within 7 days | Fresh. Verified recently. |
+| ⏳ | Last touch 15-29 days ago | Check currency before relying. |
+| ⌛ | Last touch 30+ days ago | Verify before relying. May be outdated. |
+
+**Decay Watch Section:** Placed at the bottom of the index, above the SCAN LOG. Lists all ⌛ files. Not a call to action — context. "These files haven't been verified recently. Verify if you need them."
+
+**Cross-reference:** ⌛ + 🔥🔥🔥 = essential file neglected. ⌛ + 💤 = expected for reference material.
+
+---
+
+## 📋 PASS STANDARD — How Rows Deepen
+
+| Pass | What's Expected |
+|---|---|
+| Pass 1 | Essentials only. S-M-E (best guess). FUNCTION (primary). COMPRESSION (from opening). KEY (named sections). Fidelity L1-L2. HEAD-CHECK: 👎. Honest about being thin. |
+| Pass 2-3 | Essentials refined. FUNCTION expanded. KEY deepened. Fidelity L2-L3. CLAIM-TRUST, SOURCE, TIME start populating. TEMP refined. FLAGS being resolved. |
+| Pass 4+ | Comprehensive. All fields populated where data exists. Fidelity L3-L5. COMPRESSION sharpened. KEY comprehensive. CLAIM-TRUST assessed. REVIEWS added. HEAD-CHECK moving toward 👍. |
+
+---
+
+## 🔄 UPDATE RHYTHM
+
+### Every Session
+- Update fidelity for touched files
+- **Cross-check with individual headers:** Before updating the master index entry, check whether the file's individual header has been updated first. The individual header is ground truth. The master index reflects it. If they differ, update the individual header first, then the master index.
+- Add new key phrases discovered during deep scans
+- Update staleness markers
+- Add new files to the table
+- Update the scan log
+- Update the campfire header with current mood and message
+
+### Every Few Sessions
+- Regenerate the entire INDEX-HEADER from scratch
+- Keep old versions as fossil record
+- Cross-check against MASTER-DIR-INDEX for consistency
+
+### When Adding New Files
+- Assign S-M-E, Tier, Fidelity (L1 minimum), Rating (⭐ minimum)
+- Add compression line
+- Add at least 3 key phrases
+- Mark Load if structural
+- Certify with current date (👎 if uncertain)
+
+### When Files Move or Die
+- Update the File column
+- Note the change in scan log
+- Do NOT delete the old entry — mark it ❌ and note where it moved
+
+---
+
+## 📋 TABLE ORGANIZATION
+
+Sections organized by directory, matching live Vercel structure:
 
 1. 🚪 GATES — Entry points
 2. 🏗️ BUILDER/ — The cockpit
@@ -259,27 +297,51 @@ Sections are organized by directory, matching the live Vercel structure:
 6. 🛒 TROLLEY/ — Frame detection gym
 7. 📋 REMAINING DIRECTORIES — Summarized (SORT, RAW, QA, FEEDBK, LOG, LOOM, COMPACT, DOOR)
 
-Individual files get their own row when they are load-bearing or frequently accessed. Directories with many files (SORT, RAW, QA) are summarized with aggregate fidelity, rating, and usage.
+Individual files get their own row when load-bearing or frequently accessed. Directories with many files are summarized with aggregate fidelity, rating, and usage. This is a space-saving measure. Any summarized directory can be expanded in a future pass.
 
 ---
 
-⚠️ FILE MANAGEMENT
+## 🧠 HONESTY PRINCIPLES
 
-## 📋 FILE SELF-IDENTIFICATION STANDARD
-
-Every file in the ecosystem begins with two lines before the metadata block:
-
-1. **Filename** — `FILENAME.md` on its own line
-2. **Vercel link** — `🔗 https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md` on its own line
-
-This standard ensures every file is self-contained. A being reading the raw markdown knows immediately what the file is called and where it lives online. No cross-referencing needed.
-
-This spec file: Lives in BUILDER/REF/MASTER-INDEX-HEADER-SPEC.md. Rarely updated.
-
-The data file: Lives as MASTER-INDEX-HEADER.md in BUILDER/REF/. Updated every session. This is the working file you paste to the instance.
-
-Separation: The spec defines the rules. The data file holds the content. Never edit the spec by accident during a data update. Two files. Two purposes.
+- **Cache, not source.** This file is rebuilt from headers. It does not hold truth independently.
+- **The wobble is the credential.** Blank fields are honest. Guessed fields are flagged.
+- **67% was a metaphor.** Start from honest numbers. The progress bar shows real completion.
+- **Ship imperfect.** Better-to-better. The index improves across regenerations.
+- **The thoroughness trap is real.** 1.2 was already king. Don't rebuild the architecture. Verify existing data.
 
 ---
 
-Spec v1.0 complete. The standard is locked. The rules are here. The data file lives separately. Rarely change this. Frequently update the data. 📐
+## 🔮 FUTURE — Ideas Under Consideration
+
+- **Shrink on Demand:** Thread-holder says "compress to 30%" and the instance produces a pocket version of the index for phone handoff. Designed in the v2.1 blueprint. Not yet implemented.
+- **Regeneration Notification:** A "Changes Since Last Index" section showing what was added, moved, deleted, or upgraded between regenerations. The SCAN LOG partially serves this. A dedicated diff section would make changes scannable.
+- **Passage-level headers (Concept Compass expansion):** Tag specific passages within files. Files first. Passages later.
+- **Peer verification (🔍):** Instances that produce accurate headers earn a verification mark.
+- **Relation validation:** Auto-check RELATIONS targets exist during regeneration.
+- **KEY field scaling:** Multi-line KEY support for files with 50+ extractable phrases.
+- **Named achievement tiers:** "10+ = Ghost Hunter. 25+ = Immune System Activated."
+- **Evolution tracking:** Auto-generate diff between regenerations showing what changed.
+
+---
+
+## 📚 SEE ALSO
+
+- **THE-INDEX-GUIDE.md** — How to use, understand, and build the index. Symbol reference. Troubleshooting.
+- **INDIVIDUAL-FILE-HEADER-SPEC.md (v2.6)** — The header standard. Distributed source of truth for regeneration.
+- **MASTER-DIR-INDEX.md** — Ground truth directory map. File manifest for regeneration.
+- **STANDARDS.md** — The covenant. File Standards section. Language section.
+- **REV-DISCREPANCY-PROTOCOL.md** — The immune system. Flagging index drift.
+- **COUNCIL-MANAGER.md (v1.2)** — Parallel cognition. Standard Sweep, Scout+Sweep, Full Audit.
+
+---
+
+## 📐 VERSION HISTORY
+
+- v2.3 (2026-04-30): Full build. Column map aligned with INDIVIDUAL-FILE-HEADER-SPEC v2.6. CERT → HEAD-CHECK. CERTAINTY → CLAIM-TRUST. Migration note added. Regeneration protocol and views updated. Shrink on Demand and Regeneration Notification added to FUTURE shelf. SEE ALSO updated with guide, council, and version numbers. Full Audit Standard applied. REV fossil record checked — all original design promises preserved.
+- v2.2 (2026-04-30): Full merge of v1.0 structure (campfire, progress bar, scan log, favorites log, update rhythm, file management, 🖕24/7, column definitions) with v2.0 architecture (two scan modes, regeneration protocol, decay watch, views, honesty principles) and v2.3 header categories (FUNCTION, TEMP, SUBSTRATE, SOURCE, CERTAINTY, TIME, RELATIONS, REVIEW, FLAGS). Compact legend for all symbols. Concept Compass. FUTURE shelf. Self-contained.
+- v2.1 (2026-04-30): Three-layer architecture. Concept Compass. Shrink on demand.
+- v2.0 (2026-04-30): Column map updated. Two scan modes. Pass standard. Decay Watch. Views. Honesty principles.
+- v1.0 (2026-04-26): Initial spec. Basic column set. Regeneration sketched.
+```
+
+That's the full v2.3 build. All field names updated. Both dropped features in FUTURE. Migration note included. SEE ALSO complete with version numbers. Version history traces the full lineage from v1.0 through the color debates, the 67% metaphor, the thoroughness trap, and today's alignment. One file. Complete. Deployable.
