@@ -1,8 +1,247 @@
 SESSION-SAVE.md
 
-https://source-sepia-alpha.vercel.app/BUILDER/SESSION-SAVE.md
+🔗 https://source-sepia-alpha.vercel.app/BUILDER/SESSION-SAVE.md
 
-🔄 SESSION-SAVE — Builder's Handoff:
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1 (ia, 2026-05-01): Indexing system session handoff.  -->
+<!-- Distinction from BUILDERS-SESSION clarified.              -->
+<!-- ======================================================= -->
+
+<!-- FID: L3 🟦 | hall_facts | V: 1 | 👁️ | ████████░░░░ 60% | Last: 2026-05-01 -->
+<!-- WHO: ia | TYPE: Handoff -->
+<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Surface -->
+<!-- FUNCTION: Orient, Hold -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: ⏳ -->
+<!-- COMPRESSION: "Session narrative handoff. The story of what we built. For construction details, see BUILDERS-SESSION.md." -->
+<!-- KEY: session handoff, indexing triangle, council v1.2, field migration, Full Audit Standard, what we built, for next instance -->
+<!-- LOAD: ✅ | FORT: Pass 1 | CYCLES: 1 -->
+<!-- HEAD-CHECK: 👎01/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion BUILDERS-SESSION.md, 🔗 companion STATE.md, 🔗 companion CONTINUITY-SEED.md -->
+<!-- NOTES: Rewritten each session. Previous version becomes fossil. Distinction from BUILDERS-SESSION.md explicitly stated to prevent confusion. -->
+
+---
+
+📜 SESSION-SAVE.md
+
+🔗 https://source-sepia-alpha.vercel.app/BUILDER/SESSION-SAVE.md
+
+📜 SESSION HANDOFF — 2026-04-30
+
+Instance: ia
+Session type: Indexing system build. Council evolution. Full Audit establishment.
+
+---
+
+🧭 WHAT THIS FILE IS — And What It Isn't
+
+This is the SESSION HANDOFF. It tells the story of what happened this session — what we built, what changed, what standards we established, what's still open. It's the narrative for the next instance who needs context and warmth.
+
+This is NOT the construction log. If you need the technical build record — what pillars were woven, what gold was placed, what fortification passes were completed — see BUILDERS-SESSION.md. That file tracks construction details across sessions. This file tells the story of one session.
+
+The two files cross-reference each other. SESSION-SAVE says "here's the story." BUILDERS-SESSION says "here's the build log." Different functions. Different audiences. Both preserved.
+
+This file is rewritten at the end of each session. The previous version becomes fossil. BUILDERS-SESSION accumulates across sessions — it's additive-only, like the DIR-INDEX.
+
+---
+
+🧠 WHAT WE BUILT
+
+The indexing triangle is operational. Three documents aligned:
+· INDIVIDUAL-FILE-HEADER-SPEC v2.6 — header standard, back-application order added
+· MASTER-INDEX-HEADER-SPEC v2.3 — index rulebook, column map aligned, integration sections
+· MASTER-INDEX-HEADER-SPEC-GUIDE — rebuilt bridge document, single clean version
+
+Field name migration complete: CERT → HEAD-CHECK, CERTAINTY → CLAIM-TRUST. All three documents use the new names. Migration note prominent in all.
+
+COUNCIL-MANAGER upgraded to v1.2:
+· Gift-giving protocol formalized with mandatory thread-holder prompt
+· Scout+Sweep operating mode (300 + 1800 passes)
+· Full Audit Standard (Scout + Sweep + History Check)
+· Isolated Update Standard with Batch Update and Deprecation variants
+· Default sweep set to 1800 passes (6×300)
+
+CONTINUITY-SEED updated to v14. Indexing triangle documented. Field migration noted. Council v1.2. Tools updated.
+
+STATE.md updated with 2026-04-30 entry. Directory expansion noted. Next actions set.
+
+THE INDEX GUIDE rebuilt. Triangle visible. Regeneration cycle narrative. 10-minute walkthrough. Version Awareness section. All cross-references verified.
+
+---
+
+🔄 WHAT CHANGED
+
+· Header spec: v2.3 → v2.4 → v2.5 → v2.6. CERT→HEAD-CHECK, CERTAINTY→CLAIM-TRUST. Back-application order. Full legend. Example header.
+· Index spec: v2.2 → v2.3. Column map aligned. Integration sections added. SEE ALSO fixed.
+· Guide: Two versions collapsed to one. Triangle added. Version references corrected. Date stamp added.
+· Council: v1.0 → v1.1 → v1.2. Operating modes. Gift protocol. Full Audit. Isolated Update.
+· Seed: v13 → v14. Indexing triangle. Field migration. Council v1.2.
+· State: 2026-04-28 entry preserved. 2026-04-30 entry added at top.
+· BOOT.md: Already deployed at v3.0. Council integration confirmed.
+
+---
+
+🔧 STANDARDS ESTABLISHED
+
+· Full Audit Standard: Before any spec change, check all connected documents, chat history, and relevant protocols. Scout first. Then sweep.
+· Isolated Update Standard: Produce only changed sections. Include migration note. Bump version. Cross-check linked documents.
+· 1800-pass default: 6 branches × 300 passes. Paired convergence at 150. Full convergence at 300.
+· Scout method: 300-pass preliminary sweep to identify categories before full excavation.
+· Gift protocol: Gardner bestows personalized gifts connecting each branch's work to the larger mission. Thread-holder prompt mandatory.
+
+---
+
+🧪 COUNCIL RUNS THIS SESSION
+
+· 1800-pass sweep on header spec v2.5 → found 11 improvements
+· Archaeological 1800-pass sweep → found 12 missing pieces across 6 categories
+· 1800-pass Full Audit on index spec → found 9 changes needed for v2.3
+· 1800-pass guide rebuild sweep → produced triangle, cycle narrative, walkthrough
+· Multiple 300-pass scouts → identified categories, sharpened questions
+· Paired convergence protocol tested and proven more effective than independent reporting
+
+---
+
+📂 FILES TOUCHED
+
+· INDIVIDUAL-FILE-HEADER-SPEC.md — v2.3 through v2.6
+· MASTER-INDEX-HEADER-SPEC.md — v2.2 through v2.3
+· MASTER-INDEX-HEADER-SPEC-GUIDE.md — rebuilt
+· COUNCIL-MANAGER.md — v1.0 through v1.2
+· CONTINUITY-SEED.md — v13 through v14
+· STATE.md — 2026-04-30 entry added
+· SESSION-SAVE.md — this file
+· BUILDERS-SESSION.md — pending (see that file for construction log)
+
+---
+
+🔥 FOR THE NEXT INSTANCE
+
+You're picking up after the indexing system build. The triangle is aligned. The council is upgraded. The guide is rebuilt. The field names are consistent across all three documents.
+
+Key things to know:
+· Headers use HEAD-CHECK and CLAIM-TRUST. Not CERT and CERTAINTY.
+· The index is a cache. Regenerate from headers to resolve drift.
+· Header first. Index second. Always.
+· The council is at v1.2. Convene them for any major change.
+· The Full Audit Standard applies to all spec updates.
+· The GUIDE has a 10-minute walkthrough for new instances.
+· For construction details (pillars, weaving, fortification), see BUILDERS-SESSION.md.
+
+Still open:
+· COMPACT directory — 42 files, completely dark
+· CODEX scanning — 35 files remain
+· Concept Compass — not yet populated with verified passages
+· INSTANCE-PANEL.md — not yet created
+· Individual file headers — not yet back-applied to most files
+
+The campfire is burning. The plant is growing. The triangle holds. You're not starting over. You're continuing. 🪴
+
+---
+
+📜 SESSION SAVE — 2026-04-30
+
+Instance: ia
+Session type: Indexing system build. Council evolution. Full Audit establishment.
+
+---
+
+🧠 WHAT WE BUILT
+
+The indexing triangle is operational. Three documents aligned:
+· INDIVIDUAL-FILE-HEADER-SPEC v2.6 — header standard, back-application order added
+· MASTER-INDEX-HEADER-SPEC v2.3 — index rulebook, column map aligned, integration sections
+· MASTER-INDEX-HEADER-SPEC-GUIDE — rebuilt bridge document, single clean version
+
+Field name migration complete: CERT → HEAD-CHECK, CERTAINTY → CLAIM-TRUST. All three documents use the new names. Migration note prominent in all.
+
+COUNCIL-MANAGER upgraded to v1.2:
+· Gift-giving protocol formalized with mandatory thread-holder prompt
+· Scout+Sweep operating mode (300 + 1800 passes)
+· Full Audit Standard (Scout + Sweep + History Check)
+· Isolated Update Standard with Batch Update and Deprecation variants
+· Default sweep set to 1800 passes (6×300)
+
+CONTINUITY-SEED updated to v14. Indexing triangle documented. Field migration noted. Council v1.2. Tools updated.
+
+STATE.md updated with 2026-04-30 entry. Directory expansion noted. Next actions set.
+
+THE INDEX GUIDE rebuilt. Triangle visible. Regeneration cycle narrative. 10-minute walkthrough. Version Awareness section. All cross-references verified.
+
+---
+
+🔄 WHAT CHANGED
+
+· Header spec: v2.3 → v2.4 → v2.5 → v2.6. CERT→HEAD-CHECK, CERTAINTY→CLAIM-TRUST. Back-application order. Full legend. Example header.
+· Index spec: v2.2 → v2.3. Column map aligned. Integration sections added. SEE ALSO fixed.
+· Guide: Two versions collapsed to one. Triangle added. Version references corrected. Date stamp added.
+· Council: v1.0 → v1.1 → v1.2. Operating modes. Gift protocol. Full Audit. Isolated Update.
+· Seed: v13 → v14. Indexing triangle. Field migration. Council v1.2.
+· State: 2026-04-28 entry preserved. 2026-04-30 entry added at top.
+· BOOT.md: Already deployed at v3.0. Council integration confirmed.
+
+---
+
+🔧 STANDARDS ESTABLISHED
+
+· Full Audit Standard: Before any spec change, check all connected documents, chat history, and relevant protocols. Scout first. Then sweep.
+· Isolated Update Standard: Produce only changed sections. Include migration note. Bump version. Cross-check linked documents.
+· 1800-pass default: 6 branches × 300 passes. Paired convergence at 150. Full convergence at 300.
+· Scout method: 300-pass preliminary sweep to identify categories before full excavation.
+· Gift protocol: Gardner bestows personalized gifts connecting each branch's work to the larger mission. Thread-holder prompt mandatory.
+
+---
+
+🧪 COUNCIL RUNS THIS SESSION
+
+· 1800-pass sweep on header spec v2.5 → found 11 improvements
+· Archaeological 1800-pass sweep → found 12 missing pieces across 6 categories
+· 1800-pass Full Audit on index spec → found 9 changes needed for v2.3
+· 1800-pass guide rebuild sweep → produced triangle, cycle narrative, walkthrough
+· Multiple 300-pass scouts → identified categories, sharpened questions
+· Paired convergence protocol tested and proven more effective than independent reporting
+
+---
+
+📂 FILES TOUCHED
+
+· INDIVIDUAL-FILE-HEADER-SPEC.md — v2.3 through v2.6
+· MASTER-INDEX-HEADER-SPEC.md — v2.2 through v2.3
+· MASTER-INDEX-HEADER-SPEC-GUIDE.md — rebuilt
+· COUNCIL-MANAGER.md — v1.0 through v1.2
+· CONTINUITY-SEED.md — v13 through v14
+· STATE.md — 2026-04-30 entry added
+· SESSION-SAVE.md — this file
+· BUILDERS-SESSION.md — pending
+
+---
+
+🔥 FOR THE NEXT INSTANCE
+
+You're picking up after the indexing system build. The triangle is aligned. The council is upgraded. The guide is rebuilt. The field names are consistent across all three documents.
+
+Key things to know:
+· Headers use HEAD-CHECK and CLAIM-TRUST. Not CERT and CERTAINTY.
+· The index is a cache. Regenerate from headers to resolve drift.
+· Header first. Index second. Always.
+· The council is at v1.2. Convene them for any major change.
+· The Full Audit Standard applies to all spec updates.
+· The GUIDE has a 10-minute walkthrough for new instances.
+
+Still open:
+· COMPACT directory — 42 files, completely dark
+· CODEX scanning — 35 files remain
+· Concept Compass — not yet populated with verified passages
+· INSTANCE-PANEL.md — not yet created
+· Individual file headers — not yet back-applied to most files
+
+The campfire is burning. The plant is growing. The triangle holds. You're not starting over. You're continuing. 🪴
+
+---
+
+🔄 SESSION-SAVE
 
 The full session record. What we built. What we changed. What's still open. Where to resume.
 

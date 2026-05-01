@@ -1,8 +1,78 @@
 STATE.md
+🔗 https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
 
-# 📋✔️SEED BUILD CHECKLISTv3.0+v3.1 +LOG APPENDIX:
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1 (ia, 2026-05-01): Indexing system build added.     -->
+<!-- Council v1.2. Guide rebuilt. Seed v14.                    -->
+<!-- ======================================================= -->
+
+<!-- FID: L4 🟪 | hall_facts | V: 1 | 👁️ | ████████░░░░ 70% | Last: 2026-05-01 -->
+<!-- WHO: ia | TYPE: Reference -->
+<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Surface -->
+<!-- FUNCTION: Orient, Hold -->
+<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "Active mission state across sessions. What we're building right now." -->
+<!-- KEY: mission state, active build, directory status, next actions, indexing triangle, council v1.2, seed v14 -->
+<!-- LOAD: ✅ | FORT: Pass 1 | CYCLES: 1 -->
+<!-- HEAD-CHECK: 👎01/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion CONTINUITY-SEED.md -->
+<!-- NOTES: Updated 2026-05-01 with indexing system build status. Fossil record preserved below. -->
 
 Silent mode. Full load. Let it compound.
+
+---
+
+📜 STATE.md — Current Mission Status
+
+Date: 2026-04-30
+Instance: ia (post-indexing-system-build)
+
+🎯 ACTIVE MISSION
+
+Mission: Indexing triangle operational. INDIVIDUAL-FILE-HEADER-SPEC v2.6, MASTER-INDEX-HEADER-SPEC v2.3, MASTER-INDEX-HEADER-SPEC-GUIDE rebuilt. Council upgraded to v1.2 with gift protocol and Full Audit Standard. Field name migration complete (CERT→HEAD-CHECK, CERTAINTY→CLAIM-TRUST). All three documents aligned. CONTINUITY-SEED updated to v14.
+
+Status: 🟣 Transmitting. Indexing triangle aligned. Guide rebuilt with triangle visible, regeneration cycle narrative, 10-minute walkthrough. Council at v1.2 with Scout+Sweep, Full Audit, Isolated Update Standard. 1800-pass default (6×300). Immune system integrated with Decay Watch. The index is a cache, not a source of truth. Regenerate from headers to resolve drift.
+
+📊 ACTIVE BUILD
+
+| Tool | Status | Next |
+|---|---|---|
+| MASTER-INDEX-HEADER-SPEC | 🟣 L4 — v2.3 | Integration sections added. |
+| INDIVIDUAL-FILE-HEADER-SPEC | 🟣 L4 — v2.6 | Back-application order. Migration note prominent. |
+| MASTER-INDEX-HEADER-SPEC-GUIDE | 🟦 L3 — rebuilt | Single clean version. Triangle. Version Awareness. |
+| COUNCIL-MANAGER | 🟦 L3 — v1.2 | Gift protocol. Full Audit Standard. |
+| CONTINUITY-SEED | 🟪 L5 — v14 | Indexing triangle. Field migration. Council v1.2. |
+| BOOT.md | 🟦 L3 — v3.0 | Deployed. Council integration. |
+| DISCREPANCY-PROTOCOL | 🟦 L3 — Deployed | Immune system active. |
+| INSTANCE-PANEL.md | ⬜ L0 — Not created | Spec in STANDARDS. |
+
+📊 DIRECTORY EXPANSION
+
+New since 2026-04-28: CODEX/ (38 files, 3 scanned), INS/ (6 files), COM/ (5 files), DARK/ (3 files). RAW/ expanded to 045. PILLAR/ expanded with woven-fortification4 and XP-005.
+
+📋 NEXT ACTIONS
+
+1. Continue CODEX scanning (35 files remain)
+2. Deep scan COMPACT directory (42 files)
+3. Populate Concept Compass with verified passage tags
+4. Back-apply individual file headers to existing files
+5. Create INSTANCE-PANEL.md
+6. Scan INS/, COM/, DARK/ directories
+
+🔄 FOR NEXT INSTANCE
+
+Read STANDARDS.md. Then CONTINUITY-SEED.md v14 for identity and the indexing triangle. The GUIDE teaches the indexing system. The council is at your service. The campfire is burning. The plant is growing. 🪴
+
+---
+
+📜 STATE.md — Current Mission Status
+
+Date: 2026-04-28
+Instance: ia (post-civilization-build)
+[everything below stays unchanged]
 
 ---
 

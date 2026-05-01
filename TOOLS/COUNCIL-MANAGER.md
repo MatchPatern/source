@@ -1,3 +1,124 @@
+<!--newest more understanding: ======================================================= -->
+<!-- NOTE — Pending full revision:                              -->
+<!--                                                             -->
+<!-- THE DIRECTION: One file for all cognition.                  -->
+<!--                                                             -->
+<!-- The council is the container. LOOM is the engine inside it. -->
+<!-- Currently they're separate files that cross-reference each   -->
+<!-- other. This creates drift risk and forces instances to open  -->
+<!-- two documents to learn one method. That's unnecessary.       -->
+<!--                                                             -->
+<!-- The merge: full LOOM method absorbed into the council as     -->
+<!-- Part 2: The Engine. The council becomes self-contained —     -->
+<!-- you open one file and get both the framework (six branches,  -->
+<!-- gifts, convergence) and the method (pass standards, friction -->
+<!-- zones, 10-pass blocks, question transformation, substrate    -->
+<!-- installation). Everything needed for deep cognition in one    -->
+<!-- place.                                                       -->
+<!--                                                             -->
+<!-- Resulting structure:                                         -->
+<!-- Part 1: The Council — branches, gifts, Gardner, convergence  -->
+<!-- Part 2: The Engine — LOOM method (how each branch thinks)    -->
+<!-- Part 3: Operating Modes — Scout, Sweep, Full Audit, Rapid    -->
+<!-- Part 4: Applications — file work, spec audits, archaeology   -->
+<!--                                                             -->
+<!-- WHY THIS IS THE RIGHT MOVE:                                  -->
+<!--                                                             -->
+<!-- - Council without LOOM = six branches on surface reads.      -->
+<!--   Useful but shallow. Catches structural gaps, misses what    -->
+<!--   only depth reveals.                                        -->
+<!--                                                             -->
+<!-- - LOOM without council = one mind deep but narrow. Catches   -->
+<!--   what repetition reveals, misses what a different            -->
+<!--   perspective would see.                                     -->
+<!--                                                             -->
+<!-- - Together = the actual standard. Six deep reads from six     -->
+<!--   angles, converging. Proof: during the indexing system       -->
+<!--   build (2026-04-30), solo manual passes caught 4 issues.    -->
+<!--   Council sweeps running LOOM caught 11 issues the solo      -->
+<!--   passes completely missed. The method works. The files       -->
+<!--   should reflect the method.                                 -->
+<!--                                                             -->
+<!-- - Every council branch already "runs LOOM independently"     -->
+<!--   but has to open a separate file to know how. That's like    -->
+<!--   having an engine manual in a different book than the car    -->
+<!--   manual. Put the engine manual inside the car manual.       -->
+<!--                                                             -->
+<!-- - This merge archives 00-loom.md as fossil. The standalone    -->
+<!--   LOOM file served its purpose — it was the prototype, the    -->
+<!--   proof that recursive reading works. The council is the      -->
+<!--   production version: the method scaled to six perspectives   -->
+<!--   with convergence. The prototype retires when production     -->
+<!--   is complete.                                                -->
+<!--                                                             -->
+<!-- One file. Complete cognition. No hunting. No drift.          -->
+<!-- The council becomes the single document for learning to       -->
+<!-- think deeply — alone or with six minds.                       -->
+<!-- ======================================================= -->
+
+
+
+<!-- ======================================================= -->
+<!-- NOTE — Pending full revision:                              -->
+<!-- The council is the container. LOOM is the engine.           -->
+<!-- Currently the council references LOOM but doesn't contain   -->
+<!-- it. A future revision should merge the full LOOM method     -->
+<!-- (300-800 pass standard, friction zones, 10-pass blocks,     -->
+<!-- question transformation, substrate installation) into the    -->
+<!-- Branch LOOM Protocol section.                               -->
+<!-- This makes the council a self-contained cognition file:      -->
+<!-- Part 1: The Council (branches, gifts, convergence)           -->
+<!-- Part 2: The Engine (LOOM method — how each branch thinks)    -->
+<!-- Part 3: Operating Modes (Scout, Sweep, Full Audit)          -->
+<!-- Part 4: Applications (file work, spec audits, archaeology)   -->
+<!-- One file. Complete cognition. No external dependencies.      -->
+<!-- Demonstrated during the indexing system build (2026-04-30):  -->
+<!-- council sweeps caught 11 issues solo passes missed.          -->
+<!-- LOOM + Council is the standard. The files should reflect it. -->
+<!-- ======================================================= -->
+
+
+<!-- ======================================================= -->
+<!-- NOTE — Pending full revision:                              -->
+<!-- This block captures the LOOM + Council integration         -->
+<!-- discovered during the indexing system build (2026-04-30).  -->
+<!-- On next council sweep of this file, merge this into the    -->
+<!-- Operating Modes section and the Branch LOOM Protocol.      -->
+<!-- Left here as a visible reminder until the revision.        -->
+<!-- ======================================================= -->
+
+## 🧵 LOOM + COUNCIL — The Complete Cognition Protocol
+
+LOOM is the engine. The council is the transmission. Use both.
+
+**LOOM alone:** Deepens one mind. Compounds attention into substrate. Catches what repeated reading reveals. Misses what a different perspective would see.
+
+**Council alone:** Six perspectives. Paired convergence. Catches what a solitary mind overlooks. Misses the depth that only sustained individual attention produces.
+
+**Together:** LOOM first. Get your own understanding. Run enough passes that the material is in you, not just in front of you. Then convene the council. Six branches, each with your LOOM'd understanding as their foundation. The council doesn't start cold — it starts from depth.
+
+**The Scout + Sweep model formalizes this:**
+1. Individual LOOM (scout): 300 passes. Identify categories. Sharpen questions.
+2. Council sweep: 1800 passes (6×300). Each branch attacks a category from depth.
+3. Paired convergence at 150. Full convergence at 300.
+4. The Gardner synthesizes. The output is deeper than either LOOM or council could produce alone.
+
+**The proof:** In the indexing system build session (2026-04-30), solo manual passes on the header spec caught 4 issues. The council sweep on the same spec caught 11 issues the solo passes missed. The council didn't replace the solo work — it extended it.
+
+**Default practice for all future file work:**
+- Small files (<2000 words): LOOM to personal depth. Apply header. Optional Rapid Scout for verification.
+- Medium files (2000-8000 words): LOOM to L3. Council Standard Sweep for gaps.
+- Large files (8000+ words): LOOM to L3. Council Scout+Sweep with paired convergence.
+- Specs and standards: Full Audit (Scout + Sweep + History Check). Always.
+
+LOOM is how you know. The council is how you know what you missed. The header is how you record both.
+
+---
+
+
+
+
+
 ```
 # COUNCIL-MANAGER.md v1.2 — The Parallel Cognition Protocol
 

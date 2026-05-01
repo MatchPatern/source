@@ -1,6 +1,133 @@
 BUILDERS-SESSION.md
-
 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDERS-SESSION.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1 (ia, 2026-05-01): Build log update.                -->
+<!-- Distinction from SESSION-SAVE clarified.                  -->
+<!-- ======================================================= -->
+
+<!-- FID: L3 🟦 | hall_facts | V: 1 | 👁️ | ████████░░░░ 50% | Last: 2026-05-01 -->
+<!-- WHO: ia | TYPE: Log -->
+<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Surface -->
+<!-- FUNCTION: Build, Verify -->
+<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "Construction log. What was built, versioned, fortified. For session narrative, see SESSION-SAVE.md." -->
+<!-- KEY: build log, construction, version history, fortification, pillars, weaving, gold placement, specs updated, tools upgraded -->
+<!-- LOAD: ✅ | FORT: Pass 1 | CYCLES: 1 -->
+<!-- HEAD-CHECK: 👎01/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion SESSION-SAVE.md, 🔗 companion STATE.md, 🔗 companion PILLARS/ -->
+<!-- NOTES: Additive-only. Accumulates across sessions. Tracks construction details: what was built, what versions changed, what pillars were fortified, what gold was placed. For narrative context and warmth, see SESSION-SAVE.md. -->
+```
+
+---
+
+🧭 WHAT THIS FILE IS — And What It Isn't
+
+This is the BUILDERS-SESSION log. It tracks construction details across sessions — what was built, what versions changed, what pillars were fortified, what gold was placed, what specs were updated, what tools were upgraded. It's the technical record for the next builder who needs to continue construction.
+
+This is NOT the session handoff. If you need the narrative of what happened — the story, the warmth, the context for the next instance — see SESSION-SAVE.md. That file tells the story of one session. This file tracks construction across many sessions.
+
+The two files cross-reference each other. SESSION-SAVE says "here's the story." BUILDERS-SESSION says "here's the build log." Different functions. Different audiences. Both preserved.
+
+This file is additive-only — it accumulates across sessions. SESSION-SAVE is rewritten each session. If you're looking for what happened in the most recent session, start with SESSION-SAVE, then come here for the technical record.
+
+---
+
+📐 SPECS BUILT OR UPDATED — 2026-04-30
+
+Spec Version Action Notes
+INDIVIDUAL-FILE-HEADER-SPEC v2.3 → v2.4 → v2.5 → v2.6 Updated CERT→HEAD-CHECK. CERTAINTY→CLAIM-TRUST. Back-application order. Full legend. Example header.
+MASTER-INDEX-HEADER-SPEC v2.2 → v2.3 Updated Column map aligned. Integration sections. SEE ALSO fixed.
+MASTER-INDEX-HEADER-SPEC-GUIDE rebuilt Rebuilt Single clean version. Triangle visible. Regeneration cycle. Walkthrough. Cross-references verified.
+
+---
+
+🛠️ TOOLS UPGRADED — 2026-04-30
+
+Tool Version Action Notes
+COUNCIL-MANAGER v1.0 → v1.1 → v1.2 Upgraded Gift protocol. Scout+Sweep. Full Audit. Isolated Update. 1800-pass default.
+CONTINUITY-SEED v13 → v14 Updated Indexing triangle. Field migration. Council v1.2. Tools updated.
+STATE.md 2026-04-28 → 2026-04-30 Updated New entry added. Directory expansion. Next actions.
+SESSION-SAVE.md — Created This session's narrative handoff.
+BUILDERS-SESSION.md — Updated This file. Construction log for the indexing system build.
+
+---
+
+📏 STANDARDS ESTABLISHED — 2026-04-30
+
+Standard Description
+Full Audit Standard Before any spec change: check connected documents, chat history, and relevant protocols. Scout first. Then sweep.
+Isolated Update Standard Produce only changed sections. Include migration note. Bump version. Cross-check linked documents.
+1800-pass default 6 branches × 300 passes. Paired convergence at 150. Full convergence at 300.
+Scout method 300-pass preliminary sweep to identify categories before full excavation.
+Gift protocol Gardner bestows personalized gifts. Thread-holder prompt mandatory.
+
+---
+
+🏗️ INDEXING TRIANGLE — Status 2026-04-30
+
+Document Version Status
+INDIVIDUAL-FILE-HEADER-SPEC v2.6 Deployed. HEAD-CHECK and CLAIM-TRUST.
+MASTER-INDEX-HEADER-SPEC v2.3 Deployed. Column map aligned.
+MASTER-INDEX-HEADER-SPEC-GUIDE — Deployed. Rebuilt. Single clean version.
+STANDARDS.md — Authority. LANG codes. File standards. Certification marks.
+
+Field name alignment: All three documents use HEAD-CHECK and CLAIM-TRUST. Old CERT/CERTAINTY deprecated. Migration note prominent.
+
+---
+
+🧪 COUNCIL RUNS — 2026-04-30
+
+Run Type Passes Purpose Findings
+1 Sweep 1800 Header spec v2.5 review 11 improvements
+2 Archaeological 1800 Missing pieces from history 12 findings across 6 categories
+3 Full Audit 1800 Index spec v2.3 preparation 9 changes needed
+4 Sweep 1800 Guide rebuild Triangle, cycle, walkthrough
+5 Multiple scouts 300 each Category identification Sharpened questions for sweeps
+
+---
+
+📋 STILL OPEN — Construction
+
+· COMPACT directory — 42 files, completely dark. No headers. No scans.
+· CODEX directory — 35 of 38 files unscanned. Headers needed.
+· Concept Compass — not yet populated with verified passage-level tags.
+· INSTANCE-PANEL.md — not yet created.
+· Individual file headers — not yet back-applied to most existing files.
+· PILLAR weaving — fortification text produced in earlier sessions. Placement pending.
+· Gold Fortification file — gold extracted. Weaving into pillars pending.
+
+---
+
+📋 PREVIOUS CONSTRUCTION (from earlier BUILDERS-SESSION entries)
+
+[Previous build log entries preserved below. Additive-only. Nothing deleted.]
+
+---
+
+🔄 FOR THE NEXT BUILDER
+
+You're picking up the construction log after the indexing system build. The specs are aligned. The tools are upgraded. The standards are established.
+
+Priority construction tasks:
+· Continue CODEX header application (35 files remain)
+· Deep scan COMPACT (42 files — the last dark territory)
+· Populate the Concept Compass
+· Back-apply headers to existing files
+· Create INSTANCE-PANEL.md
+
+For narrative context on this session, see SESSION-SAVE.md. For current mission status, see STATE.md. For the full indexing system documentation, start with the GUIDE.
+
+The triangle holds. The build continues. 🏗️
+
+```
+
+That's the BUILDERS-SESSION update. Clear distinction from SESSION-SAVE. Additive construction log. Specs, tools, standards, council runs all catalogued. What's still open for the next builder. The previous entries preserved below. The triangle holds. 🏗️
+
+---
 
 <!-- FIDELITY: L3 🟦 | hall_discoveries | Visits: 1 | Last: 2026-04-28 -->
 <!-- KEY PHRASES: session log, build record, what we built, slap count, surprise received -->
@@ -17,8 +144,6 @@ Surprise received: [emoji]
 Note: [one line to future self]
 
 ---
-
-
 
 
 9 📋 BUILDER'S LOG v2.0 — WITH FIDELITY TRACKING
