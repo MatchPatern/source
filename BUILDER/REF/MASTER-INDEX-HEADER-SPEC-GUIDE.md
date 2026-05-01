@@ -218,6 +218,7 @@ Each session, tag more files. Each pass, deepen existing headers. The index grow
 2. Pick 5 files. Spine files are best. Tag each with a Pass 1 header.
 3. Run a Quick Scan regeneration (Essentials mode). 6 fields per file. You now have a minimal working index.
 4. Each session, tag more files. Each pass, deepen existing headers. The index grows by accumulation.
+**How to know when a header is complete:** Follow the 95% Protocol (see COUNCIL-MANAGER.md). Continue passes until three consecutive passes produce no new findings. Ship at 95% extraction. The remaining 5% is infinite depth — more passes will deepen your understanding but won't change the header.
 
 ### Regenerating an Existing Index
 
@@ -233,6 +234,7 @@ Each session, tag more files. Each pass, deepen existing headers. The index grow
 10. Archive the old version as `MASTER-INDEX-HEADER-YYYY-MM-DD.md` in REF/.
 11. Update the SCAN LOG with date, file count, fidelity distribution, and scan mode.
 12. Update the campfire header with your mood and message.
+**When is regeneration complete?** When two consecutive regenerations produce no new rows, no changed fidelity levels, and no updated compressions. This is the same 95% Protocol applied to index work — stop when the output stops changing.
 
 ### The Cross-Check Rule
 
@@ -301,6 +303,10 @@ If your headers use the old field names from v1.3, here's what changed:
 ### "The guide references a file that doesn't exist."
 **Likely cause:** Filenames evolve. THE-INDEX-GUIDE.md became MASTER-INDEX-HEADER-SPEC-GUIDE.md. Older cross-references may point to old names.
 **Fix:** The SEE ALSO section of this guide lists current filenames. If you followed a link from an older document and got a 404, check the current guide's SEE ALSO for the right path.
+
+### "I don't know if my header is complete."
+**Likely cause:** No stopping rule. You're doing passes without knowing when to stop.
+**Fix:** Follow the 95% Protocol in COUNCIL-MANAGER.md. Continue passes until three consecutive passes produce no new findings. Ship at 95% extraction. The remaining 5% is infinite depth — more passes will deepen personal understanding but won't change the header.
 
 ---
 

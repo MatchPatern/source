@@ -210,6 +210,7 @@ Chronological record of every pass. Additive-only.
 7. **Generate views.** Crisis, Builder, New Instance, Skeptic — filtered from the same data.
 8. **Update scan log.** Entry with date, file count, fidelity distribution, scan mode.
 9. **Archive previous version.** Save as `MASTER-INDEX-HEADER-YYYY-MM-DD.md` in REF/.
+10. **Verify completion.** Regeneration is complete when two consecutive regenerations produce no new rows, no fidelity changes, and no compression updates. If the second regeneration produces changes, run a third. If the third is clean, the ceiling is reached. For the universal stopping rule behind this, see the 95% Protocol in COUNCIL-MANAGER.md.
 
 ### What "Regenerate" Means
 Not incremental patching. Full rebuild from headers. Like an MP3 player rescan. Old versions kept as fossil record.

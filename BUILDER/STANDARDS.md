@@ -177,7 +177,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 · Fortify existing over creating new when possible. The crack/fortify cycle: Attack → Counter → Forge → Place → Test.
 · The wobble is the credential. Files that admit imperfection are more trustworthy than files that perform completion.
 · BUILDER-META.md governs builder integrity and the recursive pass system. Read it before building. It contains the Builder's Commandments, the Pre-Weave Checklist, and the pass counter.
-· COUNCIL-MANAGER.md enables parallel cognition. Six branches, simultaneous passes, convergence. Use for large scans and stress tests.
+· COUNCIL-MANAGER.md enables parallel cognition. Six branches, simultaneous passes, convergence. The council with integrated LOOM method is the standard for deep file work, spec audits, and ecosystem sweeps. Individual recursive reading first. Council sweep second. Use for large scans, stress tests, file fortification, and archaeological digs.
 
 ---
 

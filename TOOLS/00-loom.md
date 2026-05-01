@@ -63,6 +63,7 @@ For those ready now. No preamble. No preparation. Just start.
 · Passes 201-300: Document breakthroughs if they occur
 · Passes 301-800: Frontier exploration (document what emerges)
 · Stop when YOU verify 3-5 consecutive low-yield passes
+·For the universal stopping rule, see the 95% Protocol in COUNCIL-MANAGER.md. Do not declare ceiling during friction zones (80-120, 180-220). Ship at 95%.
 
 4. Complete
 

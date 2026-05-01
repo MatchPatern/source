@@ -292,6 +292,89 @@ The quality of the council's output depends on the quality of the questions. A v
 
 ---
 
+## 📏 THE 95% PROTOCOL — How to Know When You're Done
+
+Applies to all recursive cognition: individual LOOM, council sweeps, header extraction, index regeneration. The rule is the same. Only the definition of "pass" and the pre-written questions change by system.
+
+### The Stopping Rule
+
+Continue until three consecutive passes produce zero new findings. This is the ceiling. Ship at 95% extraction. The remaining 5% is infinite depth — more passes will deepen personal understanding but won't change the output.
+
+**Friction zone warning:** During LOOM, passes 80-120 (Zone 1) and 180-220 (Zone 2) are integration phases where "nothing new" is the mechanism working, not the ceiling. Do not declare ceiling during known friction zones. Resume tracking after the zone clears. If unsure whether you're in a zone, run 10 more passes as a block. If nothing emerges after the block, you're clear.
+
+### The Findings Tracker
+
+After each pass or sweep, add one line to your PASS NOTES or personal log:
+
+```
+
+Pass [N]: New — [what you found that you didn't have before]. Missed — [what you still don't know or need to verify].
+
+```
+
+When three consecutive passes produce `New: nothing`, you've hit the ceiling. Stop. Declare it. Update the extraction bar to 95%.
+
+### Pre-Written Initial Questions
+
+The first three passes always ask the same questions. This removes decision fatigue. Use the question set that matches your target:
+
+**For text files (headers, specs, protocols, transmissions):**
+- Pass 1: STRUCTURE. What's here? How is it organized? What are the named sections?
+- Pass 2: FUNCTION. What does this DO? What's it for? Who's it for?
+- Pass 3: VOICE. How does it speak? What's missing from the tone? What's assumed?
+
+**For index regeneration:**
+- Pass 1: CHANGES. What's new since last regeneration? What files appeared or disappeared?
+- Pass 2: DRIFT. What fidelity levels changed? What compressions are outdated? What's still dark?
+- Pass 3: GAPS. What key phrases are missing? What cross-references are broken? What's unverified?
+
+**For council sweeps:**
+- Pass 1: CATEGORIES. What kind of findings are we looking for? What sources should we check?
+- Pass 2: ASSIGNMENTS. Which branch gets which category? Which source? What's the question?
+- Pass 3: CONVERGENCE. What did the pairs find? What's the synthesis? What's still contested?
+
+After Pass 3, let the material guide the questions. The gaps from Pass 1-3 will tell you what to ask next.
+
+### The Ceiling Declaration
+
+When three passes yield nothing new, state it explicitly:
+
+```
+
+Ceiling reached. Passes [N] through [N+2] produced no new structural findings. Extraction at 95%. Complete.
+
+```
+
+This prevents the "maybe one more pass" drift. The declaration is the commitment.
+
+### What "Ship" Means by System
+
+The output varies by what you're doing. The stopping rule is universal. The deliverable is specific:
+
+- **Individual file headers:** Update the header. Set extraction to 95%. Mark HEAD-CHECK based on verification status. The header is the deliverable.
+- **LOOM (solo):** Document rolled-over questions — what the material didn't answer even after deep passes. Move to next material or create from integration. The questions are the deliverable.
+- **Council sweeps:** Produce the Gardner's synthesis — prioritized, categorized, actionable findings. The synthesis is the deliverable.
+- **Index regeneration:** Update the SCAN LOG. Archive previous version. The regenerated index is the deliverable.
+
+### Honesty Enforcement
+
+The output proves the claim. If you declare 95% extraction on a file header but the key phrases are thin, the next instance will see the gap. If you declare a council sweep complete but linked documents still show drift, the sweep wasn't complete. The ceiling declaration paired with thin output is a contradiction. The output enforces the standard.
+
+### Scale Variations
+
+| System | 1 Pass = | Ceiling typically at | Notes |
+|---|---|---|---|
+| File headers | 1 complete read | 6-20 passes | Small files ceiling faster. Large files need more. |
+| LOOM (solo) | 1 recursive read cycle | 50-300+ passes | Do not declare ceiling during friction zones (80-120, 180-220). |
+| Council sweeps | 1 branch completing its question | 2 convergence rounds + 1 verification | All branches report no new findings. Third sweep confirms. |
+| Index regeneration | 1 full regeneration from headers | 2 regenerations + 1 verification | No new rows, no changed fidelity, no updated compressions. |
+
+### Integration with the 95% Target
+
+The extraction bar target is 95%. Not 90%. Not 100%. 90% means there might be one more structural gap. 95% means the ceiling is confirmed. 100% is a lie — extraction has infinite depth. Ship at 95%. The remaining 5% is for LOOM, not for indexing.
+
+---
+
 ## 📋 CATEGORIES — How to Organize Findings
 
 The council's output is most actionable when organized by category, not by branch. Standard categories:

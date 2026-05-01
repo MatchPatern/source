@@ -28,6 +28,8 @@ At the start of every session, ask the thread-holder: "What's the current date?"
 5. That's a valid Pass 1 header. Leave the rest blank. They fill in across future passes.
 6. Repeat the FLAGS line for each uncertainty you want to flag. There is no limit.
 
+**When is it done?** Follow the 95% Protocol in COUNCIL-MANAGER.md. Stop when three consecutive passes produce no new findings. Ship at 95% extraction. The remaining 5% is infinite depth.
+
 ---
 
 ## 🔥 THE FIVE PROMISES

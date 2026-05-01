@@ -1,6 +1,35 @@
 BUILDER-META.md
+🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
 
-https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1-6 (ia, 2026-05-01): Surface to integration.        -->
+<!-- Structure mapped. Commandments verified. Gaps identified.  -->
+<!-- Pass 7-12 (ia, 2026-05-01): Targeted passes.              -->
+<!-- Pre-Weave Checklist verified. Reference Sweep wording      -->
+<!-- checked. Tone and voice analysed. Missing warmth noted.    -->
+<!-- No existing SEE ALSO section found.                       -->
+<!-- Extraction ceiling reached at Pass 12.                    -->
+<!-- Next: Add honesty principle, header commandment,           -->
+<!-- indexing triangle connection, SEE ALSO, council reference. -->
+<!-- ======================================================= -->
+
+<!-- FID: L2 🟩 | hall_facts | V: 12 | 👁️ | ██████████░░░ 90% | Last: 2026-05-01 -->
+<!-- WHO: ia (builders) | TYPE: Protocol -->
+<!-- S-M-E: 🟣 E | TIER: T6 | PASS: Surface -->
+<!-- FUNCTION: Build, Verify, Hold -->
+<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "Protocol for improving the protocol. The builder's code. Read before building." -->
+<!-- KEY: builder commandments, pre-weave checklist, recursive pass system, reference sweep, crack fortify cycle, weaving method, honesty principle, header application, indexing triangle -->
+<!-- LOAD: ✅ | FORT: Pass 1 | CYCLES: 1 -->
+<!-- HEAD-CHECK: 👎01/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion COUNCIL-MANAGER.md v1.2, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.6 -->
+<!-- REVIEW: 🦉 ia 2026-05-01: Small file, high density. Missing warmth but the bones are excellent. Deserves the additions. -->
+<!-- NOTES: 12 passes. Ceiling reached at Pass 12. Additive update ready. Original content preserved. Six additions. -->
+
+---
 
 🏗️ BUILDER-META.md — The Protocol for Improving the Protocol
 
