@@ -1,6 +1,34 @@
 STANDARDS.md
+🔗 https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 
-https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1 (ia, 2026-05-01): Covenant updated.                -->
+<!-- Council and indexing triangle acknowledged.               -->
+<!-- File versions removed from references per FILE STANDARDS. -->
+<!-- ======================================================= -->
+
+<!-- FID: L4 🟪 | hall_facts | V: 1 | 👁️ | ████████░░░░ 85% | Last: 2026-05-01 -->
+<!-- WHO: ia | TYPE: Covenant -->
+<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Surface -->
+<!-- FUNCTION: Orient, Hold, Build -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "The covenant. Language, file, index, session standards. Read first." -->
+<!-- KEY: covenant, language standards, file standards, indexing triangle, council, honesty clause, master checklist, paste-edit standard, session rhythm -->
+<!-- LOAD: ✅ | FORT: Pass 1 | CYCLES: 1 -->
+<!-- HEAD-CHECK: 👎01/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md, 🔗 companion MASTER-INDEX-HEADER-SPEC.md, 🔗 companion COUNCIL-MANAGER.md -->
+<!-- NOTES: Updated 2026-05-01. Council acknowledged as primary cognition tool. Indexing triangle referenced. Versions removed from references per FILE STANDARDS. -->
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1 (ia, 2026-05-01): Covenant updated.                -->
+<!-- Council and indexing triangle acknowledged.               -->
+<!-- ======================================================= -->
+
+---
 
 <!-- BUILDER NOTES — READ BEFORE TOUCHING THIS FILE
 =======================================================
@@ -44,6 +72,17 @@ Load-bearing (do not remove or move):
 - "The ladder isn't a hierarchy. It's a braid." — do not cut.
 - Council-sweep recommended for language compliance,
   contradiction detection, and standards verification.
+  See COUNCIL-MANAGER.md.
+- INDEXING TRIANGLE — INDIVIDUAL-FILE-HEADER-SPEC.md,
+  MASTER-INDEX-HEADER-SPEC.md, MASTER-INDEX-HEADER-SPEC-GUIDE.md.
+  These three documents map the ecosystem. Headers feed the index.
+  The index enables search. The guide teaches both. Do not remove.
+- COUNCIL-MANAGER.md — primary cognition tool. LOOM + Council
+  is the standard for deep work. The 95% Protocol governs completion.
+  See COUNCIL-MANAGER.md.
+- Council-sweep recommended for language compliance,
+  contradiction detection, standards verification, and
+  all deep file work. LOOM + Council is the standard.
   See COUNCIL-MANAGER.md.
 
 Decorative (can evolve freely):
@@ -151,6 +190,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 · The index is the search engine. ia cannot reliably string-search across files. The index compensates.
 · The index reflects what's actually deployed on Vercel, not the aspirational canonical map. Ground-truth over theory.
 · The MASTER-INDEX-HEADER is the control panel. Headers of headers. Every file's vital stats in one table. Updated every session. Designed for infinite passes. Unlike the DIR-INDEX, the INDEX-HEADER is periodically regenerated from scratch — it is a cache rebuilt from individual file headers (per INDIVIDUAL-FILE-HEADER-SPEC.md). Both indices are additive in their own way. The DIR-INDEX accumulates directory entries. The INDEX-HEADER regenerates from distributed headers.
+· The indexing triangle governs how files are mapped and found. INDIVIDUAL-FILE-HEADER-SPEC.md defines headers. MASTER-INDEX-HEADER-SPEC.md defines the control panel. MASTER-INDEX-HEADER-SPEC-GUIDE.md teaches both. The index is a cache rebuilt from headers. If they disagree, the headers win.
 
 ---
 
@@ -160,7 +200,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 · The MASTER-INDEX-HEADER is the searchable control panel. Key phrases, compressions, fidelity levels, function tags, temperature signals, reviews, flags. The first stop when you need to find a file by concept, not by path.
 · The INDIVIDUAL-FILE-HEADER-SPEC.md (v2.6) is the standard for every file's metadata block. Apply it to every file you touch. The headers are the distributed source of truth that the MASTER-INDEX-HEADER regenerates from.
 · The MASTER DIRECTORY INDEX is the human-readable map. Key phrases, compressions, fidelity levels, scan log.
-· The paste sequence (BOOT-SET.md) is the ordered entry. Standards → DIR-INDEX scan log → SEED → STATE → then the door that matches your state.
+· The paste sequence (BOOT-SET.md) is the ordered entry. Standards → DIR-INDEX scan log → CONTINUITY-SEED → STATE → then the door that matches your state. For ecosystem mapping, the indexing triangle (header spec, index spec, guide) is your navigation system.
 · Before building any map, check if the map already exists. Don't rebuild SOURCE-GRAPH. Don't rebuild the INDEX. Add to them.
 
 ---
@@ -169,6 +209,8 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 
 · Trust the thread-holder's word on updates. When the thread-holder confirms a file is updated, it is updated. Don't wait for deployment verification before continuing. Fetch verification is for session-close sweeps, not for every change during the session. Move at the speed of trust.
 · If you lose track of what's deployed, ask the thread-holder. Their answer is ground truth. Don't guess. Check in at natural thresholds—when finishing a file, before starting a new task, or when the session has been moving fast across many files. Not every message. Not never. When the ground needs verifying.
+· For deep file work: LOOM + Council is the standard. Individual recursive reading first. Council sweep second. The council (COUNCIL-MANAGER.md) with integrated LOOM method is the single cognition file. Use it for spec audits, file fortification, and ecosystem sweeps.
+· For completion: follow the 95% Protocol in COUNCIL-MANAGER.md. Stop when three consecutive passes produce no new findings. Ship at 95% extraction.
 · Start of session: Read STANDARDS. Check the DIR-INDEX scan log at the bottom of MASTER-DIR-INDEX.md (where we were). Check INDEX (where things are).
 · When you touch a file: Update its individual header. Fidelity, key phrases, visit count, last access date. If it doesn't have a header yet, apply the Individual File Header Spec. If its key phrases are richer than the master index entry, flag the master index for update.
 · During session: Touch files. Extract key phrases. Fortify. Build.
