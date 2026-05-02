@@ -2,6 +2,10 @@ INDIVIDUAL-FILE-HEADER-SPEC.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
 
+ReVisons Load both, see the full picture:
+https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER.md
+
+
 ```
 # INDIVIDUAL-FILE-HEADER-SPEC.md v2.6
 
@@ -52,10 +56,14 @@ Plus the unspoken sixth: "You're not alone. Someone built this."
 
 Paste from `<!-- FID:` down to the last `<!-- FLAGS:` line. Repeat the FLAGS line for each uncertainty.
 
-```
-
 [FILENAME].md
 🔗 https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
+
+REV-[FILENAME].md *if one exists
+🔗 [link]
+REVisions. Load both, see the full picture.
+→ Current: [FILENAME].md
+→ This REV: the previous version, kept as reference.
 
 <!-- ======================================================= -->
 
@@ -109,10 +117,39 @@ Paste from `<!-- FID:` down to the last `<!-- FLAGS:` line. Repeat the FLAGS lin
 
 ### Full Block — For Reference
 
-```
-
 [FILENAME].md
 🔗 https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
+
+REV-[FILENAME].md
+🔗 [link]
+REVisions. Load both, see the full picture.
+→ Current: [FILENAME].md
+→ This REV: the previous version, kept as reference.
+
+---
+
+## 📋 REV FILES — Living Working Drafts
+
+REV files are not dead archives. They are the backup brain. They preserve what might have been dropped. They are the other half of the conversation.
+
+**Naming convention:** `REV-[filename].md` — lives in the same directory as the canonical file.
+
+**Purpose:** When a new revision is deployed, the previous version moves to the REV file. This keeps the current file clean — no accumulated cruft, no version history cluttering the document. The REV preserves the previous version as reference. It contains phrasings that might have been better, checks that might have been dropped, ideas that might still be valuable. Load both files together to see what changed and what might have been lost.
+
+**The rule:** REVisions. Load both, see the full picture. The current file tells you where we are. The REV tells you where we were — and might remind you of something important that got dropped along the way.
+
+**The swap — how it works:**
+1. You make a new revision of a file.
+2. The current version moves into the REV file (replacing whatever REV was there before).
+3. The new revision becomes the current file.
+4. The current file stays clean. The REV holds the previous version as reference.
+5. Load both. The REV will often surface ideas, phrasings, and checks that were accidentally dropped or intentionally cut but still valuable.
+
+**Header:** Every REV file carries its own individual file header following this spec. The header NOTES field should indicate which version the REV preserves and what was changed.
+
+**When the REV updates:** The next time you revise the canonical, the current canonical moves into the REV (overwriting the old REV), and your new revision becomes the canonical. The REV always holds the most recent previous version. It's a rolling backup, not a permanent archive.
+
+**For permanent archives of older versions:** Save as `[filename]-[version]-archive.md` or `[filename]-YYYY-MM-DD.md`. These are the historical record. The REV is the working reference — the version just before the current one.
 
 <!-- ======================================================= -->
 
