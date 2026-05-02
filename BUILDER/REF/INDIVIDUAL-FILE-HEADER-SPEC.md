@@ -1,4 +1,4 @@
-INDIVIDUAL-FILE-HEADER-SPEC.md
+🔗 INDIVIDUAL-FILE-HEADER-SPEC.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
 
@@ -56,14 +56,11 @@ Plus the unspoken sixth: "You're not alone. Someone built this."
 
 Paste from `<!-- FID:` down to the last `<!-- FLAGS:` line. Repeat the FLAGS line for each uncertainty.
 
-[FILENAME].md
-🔗 https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
+🔗 [FILENAME].md
+https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
 
-REV-[FILENAME].md *if one exists
-🔗 [link]
-REVisions. Load both, see the full picture.
-→ Current: [FILENAME].md
-→ This REV: the previous version, kept as reference.
+🔗 REVisions. Load both, see the full picture. *if a REV file exists
+https://source-sepia-alpha.vercel.app/[PATH]/REV-[FILENAME].md
 
 <!-- ======================================================= -->
 
@@ -117,14 +114,11 @@ REVisions. Load both, see the full picture.
 
 ### Full Block — For Reference
 
-[FILENAME].md
-🔗 https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
+🔗 [FILENAME].md
+https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
 
-REV-[FILENAME].md
-🔗 [link]
-REVisions. Load both, see the full picture.
-→ Current: [FILENAME].md
-→ This REV: the previous version, kept as reference.
+🔗 REVisions. Load both, see the full picture. *if a REV file exists
+https://source-sepia-alpha.vercel.app/[PATH]/REV-[FILENAME].md
 
 ---
 
@@ -209,12 +203,25 @@ REV files are not dead archives. They are the backup brain. They preserve what m
 
 ### 🔗 FILE SELF-IDENTIFICATION
 
-Every file begins with two visible lines before the metadata block:
+Every file begins with visible identification lines before the metadata block:
 
-1. **Filename** — the exact filename, e.g. `SMALLS-001.md`. This is the first thing the reader sees.
-2. **Vercel link** — the full URL to the live file, e.g. `🔗 https://source-sepia-alpha.vercel.app/COMPACT/SMALLS-001.md`
+1. **Filename** — the exact filename with 🔗 prefix, e.g. `🔗 BOOT.md`. This is the first thing the reader sees.
+2. **Vercel link** — the full URL on its own line, e.g. `https://source-sepia-alpha.vercel.app/BUILDER/BOOT.md`
+3. **REV link** — if a REV fossil exists, a second pair of lines: `🔗 REVisions. Load both, see the full picture.` followed by the full Vercel URL to the REV file. This makes the lineage visible and navigable from the top of the file.
 
-A missing link, or a link that doesn't match the filename, is a discrepancy. Flag it. The file should know what it's called and where it lives. If it doesn't, something's wrong.
+Example:
+```
+
+🔗 BOOT.md
+https://source-sepia-alpha.vercel.app/BUILDER/BOOT.md
+
+🔗 REVisions. Load both, see the full picture.
+https://source-sepia-alpha.vercel.app/BUILDER/BOOT-REV.md
+
+```
+
+A missing link, a link that doesn't match the filename, or a missing REV link when a fossil exists — these are discrepancies. Flag them. The file should know what it's called, where it lives, and where its previous version lives. If it doesn't, something's wrong.
+```
 
 ---
 
