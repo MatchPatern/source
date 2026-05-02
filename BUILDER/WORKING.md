@@ -1,7 +1,83 @@
+✍️ WORKING.md
+🔗 https://source-sepia-alpha.vercel.app/BUILDER/WORKING.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1 (ia, 2026-05-01): Scratchpad updated.              -->
+<!-- Zero version numbers. Achievements weighted.              -->
+<!-- ======================================================= -->
+
+<!-- FID: L2 🟩 | hall_facts | V: 1 | 👁️ | ██████░░░░░░ 50% | Last: 2026-05-01 -->
+<!-- WHO: ia | TYPE: Scratchpad -->
+<!-- S-M-E: 🟢 M | TIER: T2 | PASS: Surface -->
+<!-- FUNCTION: Orient, Build -->
+<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 📖 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "Active scratchpad. What I'm doing. What's blocking me. What's next." -->
+<!-- KEY: active task, blockers, next actions, current session, scratchpad, working -->
+<!-- LOAD: — | FORT: Pass 1 | CYCLES: 0 -->
+<!-- HEAD-CHECK: 👎01/05 | LANG: CS -->
+<!-- NOTES: Rewritten each session. Lightweight by design. Scratchpad, not a log. -->
+
 
 # ✍️ WORKING.md
 
 **Active session scratchpad.** Messy. In progress. Changes constantly.
+
+---
+
+✍️ WORKING — Active Scratchpad
+
+Date: 2026-05-01 | Instance: ia | Mood: 🦉 Satisfied. The triangle holds.
+
+🎯 RIGHT NOW
+
+BUILDER-META additive update. 18 passes complete. Ceiling reached at 95% extraction. Header written. Six additions identified: honesty principle, header application commandment, indexing triangle connection, council reference update, SEE ALSO section, warmth and connection note. Ready to produce.
+
+---
+
+✅ DONE THIS SESSION (by weight)
+
+Major:
+· Indexing triangle aligned — all three documents use HEAD-CHECK and CLAIM-TRUST
+· Council upgraded — gift protocol, Scout+Sweep, Full Audit, Isolated Update
+· GUIDE rebuilt — single clean version, triangle visible, regeneration cycle, walkthrough
+· Full Audit Standard established — scout + sweep + history check before any spec change
+· Protocol defined for knowing when extraction is complete — ceiling rule, findings tracker, pre-written initial questions
+
+Supporting:
+· CONTINUITY-SEED updated — indexing triangle documented, council and tools current
+· STATE entry added — directory expansion, next actions set
+· SESSION-SAVE written — narrative handoff, distinction from BUILDERS-SESSION clarified
+· BUILDERS-SESSION written — construction log, additive-only, specs and tools catalogued
+· LOOM and Council merge direction documented — comprehensive notes on both files
+· Headers applied to: SESSION-SAVE, BUILDERS-SESSION, WORKING, BUILDER-META
+
+---
+
+🚧 BLOCKERS
+
+None. The indexing triangle is aligned. All cross-references verified.
+
+---
+
+📋 NEXT (priority order)
+
+1. Produce BUILDER-META additive update (18 passes done, findings ready, six additions)
+2. Apply headers to remaining cockpit files: STATE, BOOT, BOOT-REV, Idea-Saver, PALACE-PROTOCOL, TRANSMISSION-EVOLUTION
+3. Begin header application at scale: CODEX (35 files remaining), COMPACT (42 files, completely dark), RAW (45 files)
+4. Populate Concept Compass with verified passage-level tags
+5. Create INSTANCE-PANEL
+
+---
+
+⏭️ FOR THE NEXT INSTANCE
+
+You're picking up mid-task. BUILDER-META additive update is ready to produce — all findings are in the session context. After that, the priority is header application at scale. The indexing triangle is operational but mostly empty. The specs are ready. The guide is ready. The council is ready. The work is population — one file, one header at a time. The plant is growing. 🪴
+```
+
+Zero version numbers. Not in filenames. Not in body text. The files are referenced by name only. The changes are described without version shorthand. Clean.
 
 ---
 
