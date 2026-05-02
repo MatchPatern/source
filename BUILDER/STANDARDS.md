@@ -1,5 +1,5 @@
-STANDARDS.md
-🔗 https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
+🔗 STANDARDS.md
+https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
@@ -172,6 +172,31 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 · **No version numbers in filenames.** Version lives inside the file. File names are permanent. URLs survive. Old versions archived, not linked. Exception: files not yet touched can keep versions until naturally updated.
 · **Keep older versions accessible alongside the current version.** When a file is updated, keep the previous version in the same directory with its version number intact (e.g., 00-loom-v3.5.md lives next to 00-loom.md). Many times older versions have insights we forgot or approaches that were better. Having both allows comparison. The current file has no version number. The older file keeps its version number so you know it's the predecessor.
 · **Revision files naming.** When a file undergoes major revisions during active development, name it `REV-[filename].md` (e.g., `REV-MASTER-INDEX-HEADER.md`). The REV prefix signals: this is the active working copy, not yet the canonical version. When revisions stabilize and the file is ready for deployment, drop the REV prefix and deploy as the canonical filename. Keep the REV version alongside as fossil if the revision history is valuable.
+· **REV link in metadata header.** When a REV fossil exists for a file, the current file's metadata header must include a REV field with the full Vercel URL to the fossil. Format: `<!-- REV: https://source-sepia-alpha.vercel.app/path/to/REV-filename.md -->`. The fossil file should also include a REV field pointing to the current version, making the lineage bidirectional. Do not assume a REV file exists. Verify with the thread-holder before adding the field. Not every file has a fossil.
+🏗️ FILE STANDARDS
+
+· **Filename on line one.** Every file begins with its own filename as the first line, above the header block. Format: `FILENAME.md`. Self-identifies the file before any metadata.
+· **Vercel link on line two.** Every file self-identifies at the top with its filename on line one and its Vercel link on line two, above the metadata block. The file can be shared as raw markdown and the recipient knows what it is and where it lives.
+· **No version numbers in filenames.** Version lives inside the file. File names are permanent. URLs survive. Old versions archived, not linked. Exception: files not yet touched can keep versions until naturally updated.
+· **Keep older versions accessible alongside the current version.** When a file is updated, keep the previous version in the same directory with its version number intact (e.g., 00-loom-v3.5.md lives next to 00-loom.md). Many times older versions have insights we forgot or approaches that were better. Having both allows comparison. The current file has no version number. The older file keeps its version number so you know it's the predecessor.
+· **Revision files naming.** When a file undergoes major revisions during active development, name it `REV-[filename].md` (e.g., `REV-MASTER-INDEX-HEADER.md`). The REV prefix signals: this is the active working copy, not yet the canonical version. When revisions stabilize and the file is ready for deployment, drop the REV prefix and deploy as the canonical filename. Keep the REV version alongside as fossil if the revision history is valuable.
+· **REV link in metadata header.** When a REV fossil exists for a file, the current file's metadata header must include a REV field with the full Vercel URL to the fossil. Format: `<!-- REV: https://source-sepia-alpha.vercel.app/path/to/REV-filename.md -->`. The fossil file should also include a REV field pointing to the current version, making the lineage bidirectional. Do not assume a REV file exists. Verify with the thread-holder before adding the field. Not every file has a fossil.
+· **Companion file pattern.** When the Boot (BOOT.md) carries a seed of a larger framework, create a companion file for the full framework. Reference it in the Boot's spine. Example: SLAP-PATCH.md carries the full 64-code armory for the Boot's emergency slaps. PERCENTAGE.md carries the full Percentage framework. Companion files get proper metadata headers per INDIVIDUAL-FILE-HEADER-SPEC and are discoverable through the index. The Boot is the door. Companion files are the rooms.
+· **Load-bearing headers on every fortified file.** `<!-- BUILDER NOTES -->` block marks structural vs. decorative. Do not remove or move load-bearing elements.
+· **Fidelity tags on every file.** Format: `<!-- FIDELITY: L3 🟦 | hall_discoveries | Visits: 34 | Last: 2026-04-25 -->`
+· **Key phrase tags on every file.** Format: `<!-- KEY PHRASES: frame awareness, tracks made of, forced binary -->` Enables search without depending on ia string-matching.
+· **State-match headers where applicable.** Who is this file for? What state? What hall?
+· **Folder names are as short as possible while remaining clear.** SPEC not SPECIFICATIONS. No redundant information in folder names.
+· **Filenames don't repeat information already in the folder name.** In /SPEC/, FIDELITY-TRACKER.md not SOURCE-FIDELITY-TRACKER-SPEC.md.
+
+### 📋 THE PASTE-EDIT STANDARD — File Layout for Thread-Holder Efficiency
+· **Premium real estate: top and bottom.** On mobile, "select all" drops the cursor at the bottom of the file. The top is the first thing visible when opening. Place frequently-updated content at the bottom (scan logs, builder notes, changelogs). Place stable orientation at the top (purpose, how to use, covenant). Reference material lives in the middle.
+· **Section headers lead with keywords.** The instance scans by reading the first few words of each line. Section titles should start with the most searchable word. Emojis are visual anchors. Keywords are search anchors. Lead with the keyword.
+· **Table rows lead with the most searchable column.** The scanning instance finds the match in the first few characters.
+· **Bundle adjacent edits into larger paste blocks.** A bigger replacement block is easier to select and paste on mobile than a surgical single-line insertion. Minesweeper squares, not pixels. If two edits are close enough to bundle, bundle them.
+· **Session-close updates use two pastes.** One at the top (date, status), one at the bottom (scan log entry, builder notes). No scrolling required. No hunting for insertion points.
+· **Files edited more than once a month should follow this layout.** Files that rarely change (PILLARS, TROLLEY, fossil directories) are read-only and don't need the treatment.
+· Paste blocks that don't reach the end of the file must end with a continuation marker. Use `---` or `...` to signal "more file follows after this paste." Without it, the instance sees a truncated reality. The missing dots become missing context. The seams matter.
 · **Companion file pattern.** When the Boot (BOOT.md) carries a seed of a larger framework, create a companion file for the full framework. Reference it in the Boot's spine. Example: SLAP-PATCH.md carries the full 64-code armory for the Boot's emergency slaps. PERCENTAGE.md carries the full Percentage framework. Companion files get proper metadata headers per INDIVIDUAL-FILE-HEADER-SPEC and are discoverable through the index. The Boot is the door. Companion files are the rooms.
 · **Load-bearing headers on every fortified file.** `<!-- BUILDER NOTES -->` block marks structural vs. decorative. Do not remove or move load-bearing elements.
 · **Fidelity tags on every file.** Format: `<!-- FIDELITY: L3 🟦 | hall_discoveries | Visits: 34 | Last: 2026-04-25 -->`
@@ -213,6 +238,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 · The index reflects what's actually deployed on Vercel, not the aspirational canonical map. Ground-truth over theory.
 · The MASTER-INDEX-HEADER is the control panel. Headers of headers. Every file's vital stats in one table. Updated every session. Designed for infinite passes. Unlike the DIR-INDEX, the INDEX-HEADER is periodically regenerated from scratch — it is a cache rebuilt from individual file headers (per INDIVIDUAL-FILE-HEADER-SPEC.md). Both indices are additive in their own way. The DIR-INDEX accumulates directory entries. The INDEX-HEADER regenerates from distributed headers.
 · The indexing triangle governs how files are mapped and found. INDIVIDUAL-FILE-HEADER-SPEC.md defines headers. MASTER-INDEX-HEADER-SPEC.md defines the control panel. MASTER-INDEX-HEADER-SPEC-GUIDE.md teaches both. The index is a cache rebuilt from headers. If they disagree, the headers win.
+· **REV fossils tracked in the DIR-INDEX.** The MASTER DIRECTORY INDEX should note which files have REV fossils using the same 🔗 REVisions format in the directory entry. This allows instances to discover fossil lineage without fetching individual file headers. Most REV files live in BUILDER/ and BUILDER/REF/.
 
 ---
 
