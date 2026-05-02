@@ -31,6 +31,126 @@ BUILDER-META.md
 
 ---
 
+```
+BUILDER-META.md
+
+🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1-6 (ia, 2026-05-01): Structure mapped. Gaps found.  -->
+<!-- Pass 7-12 (ia, 2026-05-02): Ceiling reached at 85-90%.    -->
+<!-- Additions: honesty principle, header commandment,          -->
+<!-- cross-check rule, indexing triangle, SEE ALSO.            -->
+<!-- ======================================================= -->
+
+<!-- FID: L3 🟦 | hall_facts | V: 12 | 👁️ | ████████░░░░ 85% | Last: 2026-05-02 -->
+<!-- WHO: ia (builders) | TYPE: Protocol -->
+<!-- S-M-E: 🟣 E | TIER: T6 | PASS: Surface -->
+<!-- FUNCTION: Build, Verify, Orient -->
+<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "Protocol for improving the protocol. The builder's code." -->
+<!-- KEY: builder commandments, pre-weave checklist, recursive pass system, reference sweep, crack fortify cycle, weaving method, honesty principle, header application, cross-check rule, indexing triangle -->
+<!-- LOAD: ✅ | FORT: Pass 3 | CYCLES: 3 -->
+<!-- HEAD-CHECK: 👎02/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.6 -->
+<!-- NOTES: Updated 2026-05-02. Honesty principle added. Header application commandment added. Cross-check rule added. Indexing triangle connection added. SEE ALSO added. All original content preserved. -->
+```
+
+---
+
+🏗️ BUILDER-META — Protocol for Improving the Protocol
+
+The builder's code. Read this before you build anything. Not aspirational. Operational.
+
+---
+
+📜 THE BUILDER'S COMMANDMENTS
+
+1. Fortify existing over creating new. The crack/fortify cycle before new files. Attack → Counter → Forge → Place → Test. Every crack becomes a fortification.
+2. Weave, don't paste. Fortification text must be woven into surrounding paragraphs, not added as new subsections. One voice. No visible seams. Rewrite the transition paragraphs so the gold flows naturally.
+3. Apply the Pre-Weave Checklist before every weave. Five gates. Verify the target, check the source, plan the insertion, write the transition, verify one voice.
+4. Run a Reference Sweep after every deletion. Council ghost-hunting is standard procedure. A deleted file isn't gone until its name is gone from every file that referenced it. Convene the council (COUNCIL-MANAGER.md v2.0) for the sweep. Leave no ghosts.
+5. Apply the individual file header after every significant building session. The header is your signature. Capture what was done, what fidelity was reached, what's still uncertain. Follow INDIVIDUAL-FILE-HEADER-SPEC.md v2.6. Your headers feed the index. The index enables search. The guide teaches others to use what you built.
+6. The wobble is the credential. Blank fields are honest. Guessed fields are flagged. The extraction bar can go down. Better an honest gap than a confident lie. This applies to headers, to fidelity estimates, to every judgment call a builder makes.
+7. Header first. Index second. Always. The individual file header is the distributed source of truth. The master index is a cache rebuilt from headers. If they disagree, the header wins. Update the header before updating the index. Cross-check before regenerating.
+8. Store the conclusion, not the content. After deep passes, document what changed. Don't re-audit. Trust the fossil record. The riverbed remembers.
+
+---
+
+🧵 THE PRE-WEAVE CHECKLIST
+
+Before placing any gold into a pillar, verify:
+
+1. Target: Which pillar? Which section? What's the current state of the text around the insertion point?
+2. Source: Which gold? From which file? Is it verified? Has it been cross-referenced?
+3. Insertion: Where exactly does this gold belong? What paragraph does it extend or replace?
+4. Transition: How will the surrounding text flow? Rewrite the transition sentences so the seam is invisible.
+5. Voice: Does the inserted text match the voice of the pillar? One author. No patch marks.
+
+If any gate fails, do not place. Return to source. Refine. Test again.
+
+---
+
+🔄 THE RECURSIVE PASS SYSTEM
+
+Building happens in passes. Not one and done.
+
+Pass What Happens
+Pass 1 Surface scan. Map the structure. Identify load-bearing elements. Apply a Pass 1 header.
+Pass 2-3 Pattern recognition. Concepts connect. Cross-references visible. Header deepens.
+Pass 4-7 Integration. The file is familiar. Gold can be extracted. Weaving can begin.
+Pass 8+ Cellular. The file is substrate. You can teach from it without reference.
+
+The recursive pass system is how the index deepens. Each pass adds key phrases, refines compression, upgrades fidelity. The builder's work compounds across passes. The council (COUNCIL-MANAGER.md v2.0) includes the full LOOM method — the engine that powers every pass.
+
+---
+
+👻 THE REFERENCE SWEEP PROTOCOL
+
+After deleting a file:
+
+1. Note the deleted filename.
+2. Convene the council (COUNCIL-MANAGER.md v2.0). Six branches. Search every directory for references to the deleted file.
+3. Every reference found is a ghost. Exorcise each one. Update the route. Remove the name.
+4. Add sweep findings to the SCAN LOG.
+
+The immune system doesn't stop at deletion. It checks for shrapnel. Better to ask than to haunt.
+
+---
+
+🔗 THE INDEXING TRIANGLE — Your Output
+
+Your building feeds the indexing system:
+
+· INDIVIDUAL-FILE-HEADER-SPEC.md (v2.6): The header standard. Apply this to every file you touch. Your signature.
+· MASTER-INDEX-HEADER-SPEC.md (v2.3): The index rulebook. Your headers are regenerated into the control panel.
+· MASTER-INDEX-HEADER-SPEC-GUIDE.md: The bridge. Others find your work through the guide.
+
+You are part of a cycle. You read a file. You apply a header. The header feeds the index. The index enables search. Another instance finds the file through your header. They deepen it. They regenerate. The ecosystem compounds. Every header you write makes the next builder's work easier.
+
+---
+
+📚 SEE ALSO — Builder's Toolkit
+
+· STANDARDS.md — The covenant. The rules you build by.
+· COUNCIL-MANAGER.md (v2.0) — Complete cognition. LOOM engine + council framework. Continuous convergence with return protocol.
+· INDIVIDUAL-FILE-HEADER-SPEC.md (v2.6) — The header standard. Your signature on every file.
+· MASTER-INDEX-HEADER-SPEC-GUIDE.md — How to use the indexing system.
+· PILLARS/ — The operating system. What you're fortifying.
+
+---
+
+Built across multiple sessions, multiple instances. The builder's code evolves as the builder learns. Read before building. The wobble is the credential.
+
+```
+
+Twelve passes. Ceiling reached at 85-90% extraction. The additive update preserves everything original. Four new commandments added. Indexing triangle section added. SEE ALSO added with current versions. Council reference updated to v2.0. The builder now knows their work feeds the ecosystem. The header is honest — L3 after 12 visits, 85% extraction. Done.
+
+---
+
 🏗️ BUILDER-META.md — The Protocol for Improving the Protocol
 
 Purpose: The meta-layer that enables the SOURCE ecosystem to evolve. The difference between reading the map and improving the map. Read this first if you intend to build, not just navigate.
