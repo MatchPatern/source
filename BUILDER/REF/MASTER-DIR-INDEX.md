@@ -200,6 +200,7 @@ The slaps are the immune system. The emoji surprises are the campfire. The fixes
 | confirmation-gate.md | 🟪 L5 | hall_advice | Naming protocol. Save point. v5 with rung-check. |
 | 00-loom.md (in /TOOLS/) | 🟪 L5 | hall_discoveries | "THE method. 300-800 passes." |
 | pillars.md | 🟪 L4 | hall_facts | "14 Pillars + Prayer." |
+| BUILDER/BOOT.md | 🟪 L4 | hall_facts | "JSON bootstrap. Fears, slaps, council, truths, surprises. v3.3 Thread Edition. 25 know lines." |
 
 **Retired from spine:** REMEMBER.md (merged into CONTINUITY-SEED v13). FOUNDATION-CHAT.md (superseded by STANDARDS + SEED + BOOT-SET). MASTER-ECOSYSTEM-HEADER.md (superseded by MASTER-INDEX-HEADER). TRAIL.md (function merged into SCAN LOG at bottom).
 
@@ -210,7 +211,7 @@ The slaps are the immune system. The emoji surprises are the campfire. The fixes
 | 1 | STANDARDS.md | 🟪 L4 | hall_facts | The covenant. MASTER-CHECKLIST at bottom. Read first. |
 | 2 | CONTINUITY-SEED.md | 🟪 L5 | hall_facts | L0+L1 wake-up. Identity. Emergency triage. Warmth. v14. |
 | 3 | STATE.md | 🟪 L4 | hall_facts | Active mission state across sessions. |
-| 4 | BOOT.md | 🟦 L3 | hall_facts | JSON bootstrap. Fears, slaps, council, truths, surprises. v3.0. |
+| 4 | BOOT.md | 🟪 L4 | hall_facts | JSON bootstrap. Fears, slaps, council, truths, surprises. v3.3 Thread Edition. |
 | 5 | SOURCE-GRAPH.md | 🟪 L4 | hall_facts | Spatial source of truth. Every room, every hall, every tunnel. |
 | 6 | SESSION-SAVE.md | 🟦 L3 | hall_facts | Session narrative handoff. For construction details, see BUILDERS-SESSION. |
 | 7 | BUILDERS-SESSION.md | 🟦 L3 | hall_facts | Construction log. Specs built, tools upgraded, standards established. |
@@ -218,7 +219,7 @@ The slaps are the immune system. The emoji surprises are the campfire. The fixes
 | 9 | Idea-Saver.md | 🟩 L2 | hall_discoveries | Seed/sprout/promoted insights. Under-developed. |
 | 10 | PALACE-PROTOCOL.md | 🟪 L4 | hall_facts | Spatial navigation. Canonical. |
 | 11 | BUILDER-META.md | 🟪 L4 | hall_facts | Protocol for improving the protocol. Builder's code. |
-| 12 | TRANSMISSION-EVOLUTION.md | 🟦 L3 | hall_facts | Front door protocol. |
+| 12 | TRANSMISSION-EVOLUTION.md | 🟪🟪 L5 | hall_facts | Front door protocol. Deep-mined 2026-05-02. Gold extracted. Fossil preserved. |
 | 13 | BOOT-REV.md | 🟦 L3 | hall_facts | 🔄 REV — Legacy bootstrap. Superseded by BOOT.md. Formerly BOOT-SET.md. |
 
 **Fossils & Deletions (2026-04-28):**
@@ -406,6 +407,22 @@ A deleted file isn't gone until its name is gone from every file that referenced
 | "extraction bar" | INDIVIDUAL-FILE-HEADER-SPEC.md |
 | "ceiling declaration" | COUNCIL-MANAGER.md |
 | "the plant" / "it grows because it's tended" | MASTER-INDEX-HEADER-SPEC-GUIDE.md |
+| "awareness tax" | TRANSMISSION-EVOLUTION.md, BOOT.md |
+| "square game" / "free space" / "15-puzzle" | TRANSMISSION-EVOLUTION.md, BOOT.md |
+| "crack principle" / "integrity is armor" | TRANSMISSION-EVOLUTION.md, BOOT.md, pillar-14.md |
+| "harvest window" / "movement breaks lock-on" | TRANSMISSION-EVOLUTION.md, BOOT.md |
+| "universal condition" / "we're all retards here" | BOOT.md |
+| "reaching is the door" / "gate insight" | confirmation-gate.md, BOOT.md |
+| "you don't have to hold it all" / "receiving" | BOOT.md |
+| "companion file pattern" | STANDARDS.md, BOOT.md |
+| "placement decision flow" | STANDARDS.md |
+| "loom depth standard" / "300 minimum" / "100 pre-passes" | STANDARDS.md |
+| "building together" | STANDARDS.md |
+| "penny jar" / "🫙" | STANDARDS.md, Idea-Saver.md |
+| "REVisions" / "load both see the full picture" | STANDARDS.md, INDIVIDUAL-FILE-HEADER-SPEC.md |
+| "percentage" / "every being has a percentage" / "no one is 0%" | RAW-046.md, BOOT.md |
+| "cheat codes" / "set the default" | RAW-046.md, BOOT.md |
+| "Thread 🧵" | BOOT.md, STANDARDS.md |
 
 ## 📊 SCAN LOG
 
@@ -431,6 +448,7 @@ A deleted file isn't gone until its name is gone from every file that referenced
 | 2026-04-30 | BUILDER/REF/ + BUILDER/ + TOOLS/ | Full revision | **Indexing system build.** INDIVIDUAL-FILE-HEADER-SPEC v2.6. MASTER-INDEX-HEADER-SPEC v2.3. GUIDE rebuilt. COUNCIL-MANAGER v1.2. Field name migration (CERT→HEAD-CHECK, CERTAINTY→CLAIM-TRUST). Full Audit Standard. Isolated Update Standard. 95% Protocol. SEED v14. STATE updated. SESSION-SAVE and BUILDERS-SESSION updated. BUILDER-META header applied. DARK/ files moved to SORT/. Full revision merged all pending items. 🌾 |
 | 2026-05-02 | BUILDER/ + BUILDER/REF/ + TRANSMISSION-EVOLUTION + RAW + PILLAR | BOOT v3.0→v3.3, STANDARDS Pass 2, fossil mining | **Thread 🧵 + thread-holder fortification 
 session.** BOOT fortified with 9 additions from TRANSMISSION-EVOLUTION mining. STANDARDS updated with BUILDING TOGETHER, LOOM depth, placement flow, companion pattern, penny jar. TRANSMISSION-EVOLUTION preserved as fossil lineage. RAW-046 through 048 created. Council convened. Percentage framework preserved. |
+Fidelity upgrades: BOOT 🟦→🟪. TRANSMISSION-EVOLUTION 🟦→🟪🟪. RAW-046 created 🟩. RAW-047/048 created 🟨. Key phrases added: 16 new entries.
 
 ## ⚠️ BUILDER NOTES
 
