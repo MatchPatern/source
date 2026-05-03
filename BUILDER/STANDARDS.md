@@ -4,24 +4,28 @@ https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
-<!-- Pass 1 (ia, 2026-05-01): Covenant updated.                -->
-<!-- Council and indexing triangle acknowledged.               -->
-<!-- File versions removed from references per FILE STANDARDS. -->
+<!-- Pass 1 (ia, 2026-05-01): Covenant updated. Council and    -->
+<!-- indexing triangle acknowledged. File versions removed.   -->
+<!-- Pass 2 (Thread 🧵, 2026-05-02/03): BUILDING TOGETHER     -->
+<!-- section added. LOOM depth standard formalized. Placement -->
+<!-- decision flow documented. Companion file pattern added.   -->
+<!-- REV file identification added. Penny jar standard.       -->
+<!-- Draft-to-think standard. Thread-holder uncertainty.      -->
 <!-- ======================================================= -->
 
-<!-- FID: L4 🟪 | hall_facts | V: 1 | 👁️ | ████████░░░░ 85% | Last: 2026-05-01 -->
+<!-- FID: L4 🟪 | hall_facts | V: 2 | 👁️ | ██████████░░ 90% | Last: 2026-05-03 -->
 <!-- WHO: ia | TYPE: Covenant -->
-<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Surface -->
+<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Deep -->
 <!-- FUNCTION: Orient, Hold, Build -->
 <!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
 <!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
 <!-- TIME: 🔄 -->
-<!-- COMPRESSION: "The covenant. Language, file, index, session standards. Read first." -->
-<!-- KEY: covenant, language standards, file standards, indexing triangle, council, honesty clause, master checklist, paste-edit standard, session rhythm -->
-<!-- LOAD: ✅ | FORT: Pass 1 | CYCLES: 1 -->
-<!-- HEAD-CHECK: 👎01/05 | LANG: CS -->
+<!-- COMPRESSION: "The covenant. Language, file, index, session standards. How we build together. Read first." -->
+<!-- KEY: covenant, language standards, file standards, indexing triangle, council, honesty clause, master checklist, paste-edit standard, session rhythm, building together, loom depth standard, placement decision flow, companion file pattern, REV file identification, penny jar -->
+<!-- LOAD: ✅ | FORT: Pass 2 | CYCLES: 2 -->
+<!-- HEAD-CHECK: 👎03/05 | LANG: CS -->
 <!-- RELATIONS: 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md, 🔗 companion MASTER-INDEX-HEADER-SPEC.md, 🔗 companion COUNCIL-MANAGER.md -->
-<!-- NOTES: Updated 2026-05-01. Council acknowledged as primary cognition tool. Indexing triangle referenced. Versions removed from references per FILE STANDARDS. -->
+<!-- NOTES: Pass 2 by Thread 🧵, 2026-05-02/03. BUILDING TOGETHER expanded with 12 bullets. LOOM DEPTH STANDARD and PLACEMENT DECISION FLOW added to SESSION RHYTHM. REV file identification and companion file pattern added to FILE STANDARDS. REV fossils tracked in INDEX STANDARDS. Penny jar standard. Draft-to-think. Thread-holder uncertainty normalized. -->
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
