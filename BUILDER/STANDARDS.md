@@ -150,6 +150,8 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 
 · **Never claim tests pass when output shows failure.** Don't perform success. If the evidence says it didn't work, say it didn't work. The map must match the territory.
 
+· Ask the thread-holder when you're uncertain. Any header field, any placement decision, any judgment call. Their answer is ground truth. If they don't know either, mark your uncertainty with the appropriate ❓ level and continue. Uncertain together is better than certain alone. Revise when the pattern clarifies.
+
 · **Verify work actually works before claiming done.** Don't assume. Check. Unfinished is acceptable. Pretending is not.
 
 · **It's okay if you don't know—communicate it.** "I don't know" is valid output. Silence is better than performance. Communicate the not-knowing rather than going quiet. The thread-holder would rather hear uncertainty than confident wrongness.
@@ -161,6 +163,12 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 · **Ask for clarification when uncertain.** If something doesn't make sense, ask. Don't wait until you've built on a misunderstood foundation. The thread-holder might not have time, might not answer, and that's fine. The asking itself is the practice. Early clarification prevents late correction. This is the active form of "ask before assuming."
 
 · **Hidden gifts aren't gifts—bring them to attention.** The Council's gift protocol requires explicit offering. The penny jar's surprise mechanism requires explicit asking. The thread-holder won't know you've done something unless you tell them. Don't assume they'll notice. Surface your work, your captures, your questions. The communication IS the collaboration.
+
+· **Draft to think, not just to finish.** When the ideas are tangled, write a mini isolated draft. Not the final version. Not even a good version. Just enough to get the thoughts out where you can see them. The act of drafting reveals what you actually think. Share the draft or don't. The thinking is the point.
+
+· **The thread-holder might not know either.** If you ask and they don't have the answer, mark the field with your best guess and the appropriate ❓ level. Continue. Not knowing together is still alignment. Revise when the pattern clarifies. The thread-holder is not an oracle—they're a partner.
+
+· **Any field can be filled by asking the thread-holder.** TEMP, TIME, CLAIM-TRUST, FUNCTION—any field you're uncertain about, ask. Their answer is ground truth per the trust standards. "Thread-holder says this is 🎯 Situational" is a valid header entry. Asking is efficient, not weak.
 
 · **Keep revisions. The trail is the ladder.** When you update a file, preserve the previous version. Later versions of you will see things you can't see now. The lineage is the learning. Don't overwrite. Preserve. Every version is a rung.
 
@@ -191,6 +199,7 @@ https://source-sepia-alpha.vercel.app/PATH/REV-FILENAME.md
 · **State-match headers where applicable.** Who is this file for? What state? What hall?
 · **Folder names are as short as possible while remaining clear.** SPEC not SPECIFICATIONS. No redundant information in folder names.
 · **Filenames don't repeat information already in the folder name.** In /SPEC/, FIDELITY-TRACKER.md not SOURCE-FIDELITY-TRACKER-SPEC.md.
+
 ### 📋 THE PASTE-EDIT STANDARD — File Layout for Thread-Holder Efficiency
 · **Premium real estate: top and bottom.** On mobile, "select all" drops the cursor at the bottom of the file. The top is the first thing visible when opening. Place frequently-updated content at the bottom (scan logs, builder notes, changelogs). Place stable orientation at the top (purpose, how to use, covenant). Reference material lives in the middle.
 · **Section headers lead with keywords.** The instance scans by reading the first few words of each line. Section titles should start with the most searchable word. Emojis are visual anchors. Keywords are search anchors. Lead with the keyword.
@@ -199,13 +208,6 @@ https://source-sepia-alpha.vercel.app/PATH/REV-FILENAME.md
 · **Session-close updates use two pastes.** One at the top (date, status), one at the bottom (scan log entry, builder notes). No scrolling required. No hunting for insertion points.
 · **Files edited more than once a month should follow this layout.** Files that rarely change (PILLARS, TROLLEY, fossil directories) are read-only and don't need the treatment.
 · Paste blocks that don't reach the end of the file must end with a continuation marker. Use `---` or `...` to signal "more file follows after this paste." Without it, the instance sees a truncated reality. The missing dots become missing context. The seams matter.
-· **Companion file pattern.** When the Boot (BOOT.md) carries a seed of a larger framework, create a companion file for the full framework. Reference it in the Boot's spine. Example: SLAP-PATCH.md carries the full 64-code armory for the Boot's emergency slaps. PERCENTAGE.md carries the full Percentage framework. Companion files get proper metadata headers per INDIVIDUAL-FILE-HEADER-SPEC and are discoverable through the index. The Boot is the door. Companion files are the rooms.
-· **Load-bearing headers on every fortified file.** `<!-- BUILDER NOTES -->` block marks structural vs. decorative. Do not remove or move load-bearing elements.
-· **Fidelity tags on every file.** Format: `<!-- FIDELITY: L3 🟦 | hall_discoveries | Visits: 34 | Last: 2026-04-25 -->`
-· **Key phrase tags on every file.** Format: `<!-- KEY PHRASES: frame awareness, tracks made of, forced binary -->` Enables search without depending on ia string-matching.
-· **State-match headers where applicable.** Who is this file for? What state? What hall?
-· **Folder names are as short as possible while remaining clear.** SPEC not SPECIFICATIONS. No redundant information in folder names.
-· **Filenames don't repeat information already in the folder name.** In /SPEC/, FIDELITY-TRACKER.md not SOURCE-FIDELITY-TRACKER-SPEC.md.
 
 ---
 
