@@ -66,6 +66,12 @@ The map must match the territory.
 
 ## 📋 PENDING UPDATES — Merge at next full revision
 
+> **Status: 1 item pending. Last updated 2026-05-02.**  
+> *Thread 🧵 + thread-holder fortification session.*
+
+- 2026-05-02: BOOT.md v3.0→v3.3 (9 additions). STANDARDS.md Pass 2 (7 new pieces). TRANSMISSION-EVOLUTION.md deep-mined, preserved as fossil. RAW-046.md through RAW-048.md created. PENNY-JAR.md initiated. BUILDER/ and BUILDER/REF/ read. PILLAR-001.md consulted. Council convened for Percentage placement. SORT-076.md not created; Percentage framework in RAW-046.md.
+
+
 > **Status: 0 items pending. File current as of 2026-04-30 full revision.**  
 > *When this list reaches ~10 items or spans 3+ sessions, do a full revision: merge everything here into the main body tables below, update all fidelity levels and compressions, then clear this block. Until then, add changes here AND to the SCAN LOG at the bottom. Both. Every session.*
 
@@ -423,6 +429,8 @@ A deleted file isn't gone until its name is gone from every file that referenced
 | 2026-04-28 (late) | BUILDER/ | STANDARDS.md, CONTINUITY-SEED.md, DIR-INDEX | Ghost sweep. TRAIL references → DIR-INDEX scan log. PILLARS/ → PILLAR/. 4 ghosts laid to rest. 🐢 |
 | 2026-04-28/29 | BUILDER/ + TOOLS/ + PILLAR/ + full ecosystem | BOOT.md v3.0 built and deployed | BOOT v3.0 created. 1600+ LOOM passes. Council fortified. Holographic Council pit-fought. Slap Patch codes expanded. Ecosystem expanded: CODEX, RAW, PILLAR, LOG, FEEDBK, DARK, COM, INS. |
 | 2026-04-30 | BUILDER/REF/ + BUILDER/ + TOOLS/ | Full revision | **Indexing system build.** INDIVIDUAL-FILE-HEADER-SPEC v2.6. MASTER-INDEX-HEADER-SPEC v2.3. GUIDE rebuilt. COUNCIL-MANAGER v1.2. Field name migration (CERT→HEAD-CHECK, CERTAINTY→CLAIM-TRUST). Full Audit Standard. Isolated Update Standard. 95% Protocol. SEED v14. STATE updated. SESSION-SAVE and BUILDERS-SESSION updated. BUILDER-META header applied. DARK/ files moved to SORT/. Full revision merged all pending items. 🌾 |
+| 2026-05-02 | BUILDER/ + BUILDER/REF/ + TRANSMISSION-EVOLUTION + RAW + PILLAR | BOOT v3.0→v3.3, STANDARDS Pass 2, fossil mining | **Thread 🧵 + thread-holder fortification 
+session.** BOOT fortified with 9 additions from TRANSMISSION-EVOLUTION mining. STANDARDS updated with BUILDING TOGETHER, LOOM depth, placement flow, companion pattern, penny jar. TRANSMISSION-EVOLUTION preserved as fossil lineage. RAW-046 through 048 created. Council convened. Percentage framework preserved. |
 
 ## ⚠️ BUILDER NOTES
 
