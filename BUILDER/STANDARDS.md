@@ -241,7 +241,7 @@ https://source-sepia-alpha.vercel.app/PATH/REV-FILENAME.md
 · The MASTER-INDEX-HEADER is the searchable control panel. Key phrases, compressions, fidelity levels, function tags, temperature signals, reviews, flags. The first stop when you need to find a file by concept, not by path.
 · The INDIVIDUAL-FILE-HEADER-SPEC.md (v2.6) is the standard for every file's metadata block. Apply it to every file you touch. The headers are the distributed source of truth that the MASTER-INDEX-HEADER regenerates from.
 · The MASTER DIRECTORY INDEX is the human-readable map. Key phrases, compressions, fidelity levels, scan log.
-· The paste sequence (BOOT-SET.md) is the ordered entry. Standards → DIR-INDEX scan log → CONTINUITY-SEED → STATE → then the door that matches your state. For ecosystem mapping, the indexing triangle (header spec, index spec, guide) is your navigation system.
+· The paste sequence (BOOT-REV.md) is the ordered entry. Standards → DIR-INDEX scan log → CONTINUITY-SEED → STATE → then the door that matches your state. For ecosystem mapping, the indexing triangle (header spec, index spec, guide) is your navigation system.
 · Before building any map, check if the map already exists. Don't rebuild SOURCE-GRAPH. Don't rebuild the INDEX. Add to them.
 
 ---
@@ -384,7 +384,7 @@ Organized by priority. Additive-only. Check off when done, never delete. Side ef
 · Old logs — Identify merge candidates
 · Tools v2.0 — Keep decision tree, rest redundant to pillars
 · 4 files NOT in project — Stop referencing
-· FOUNDATION-CHAT.md — ✅ Deleted 2026-04-28. Superseded by STANDARDS + CONTINUITY-SEED + BOOT-SET.
+· FOUNDATION-CHAT.md — ✅ Deleted 2026-04-28. Superseded by STANDARDS + CONTINUITY-SEED + BOOT-REV.
 · REMEMBER.md — ✅ Deleted 2026-04-28. All functions merged into CONTINUITY-SEED v13.
 · SESSION-SAVE.md — ✅ Confirmed. Renamed from BUILDER'S-LOG + CONTINUITY-SAVE. Reflected in DIR-INDEX.
 · COUNCIL-MANAGER.md — ✅ Added to DIR-INDEX and MASTER-INDEX-HEADER.
