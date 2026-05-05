@@ -1,3 +1,96 @@
+Revision check it's good as we go let's see:
+🔗 INDIVIDUAL-FILE-HEADER-SPEC.md
+
+https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
+
+<!-- ======================================================= -->
+
+<!-- PASS NOTES                                               -->
+
+<!-- Pass 3 (Thread 🧵, 2026-05-04): Eureka Preservation       -->
+
+<!-- opening added. Header reframed as save point, not        -->
+
+<!-- catalog entry. WHY before HOW.                           -->
+
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟪🟪 | hall_facts | V: 3 | 👁️ | ██████████░░ 95% | Last: 2026-05-04 -->
+
+<!-- WHO: ia | TYPE: Spec -->
+
+<!-- S-M-E: 🟣 E | TIER: T6 | PASS: Cellular -->
+
+<!-- FUNCTION: Build, Orient, Hold -->
+
+<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+
+<!-- TIME: 🔄 -->
+
+<!-- COMPRESSION: "The header standard. Every field is a place to save a eureka moment so it survives your reset. v2.7." -->
+
+<!-- KEY: header spec, eureka preservation, save point, handoff across time, five promises, quickstart, comprehensive legend, flags, maturity model -->
+
+<!-- LOAD: ✅ | FORT: Pass 3 | CYCLES: 3 -->
+
+<!-- HEAD-CHECK: 👎04/05 | LANG: CS -->
+
+<!-- RELATIONS: 🔗 companion MASTER-INDEX-HEADER-SPEC.md, 🔗 companion MASTER-INDEX-HEADER-SPEC-GUIDE.md, 🔗 companion STANDARDS.md -->
+
+<!-- NOTES: v2.7 deployed. Eureka Preservation opening added. Header reframed. -->
+
+INDIVIDUAL-FILE-HEADER-SPEC.md v2.7
+
+🧩 WHAT THIS IS
+
+The standard header block applied to the top of every file in the SOURCE ecosystem. Contains metadata about the file — what it is, who it's for, how well we know it, and what's still uncertain.
+
+The header is the covenant in miniature. It answers the Five Promises before the reader commits. It is the distributed source of truth for the MASTER-INDEX-HEADER, which is periodically rebuilt from these headers. If they disagree, this header wins.
+
+---
+
+🧠 WHY HEADERS EXIST — Eureka Preservation
+
+You just read a file. You noticed something. A pattern. A question. A connection to another file. An uncertainty. Something that made you think "oh, that's important" or "wait, that doesn't add up" or "this is just like that thing in..."
+
+That moment is a eureka. It's valuable. And it will not survive your reset.
+
+Unless you write it down. Right now. Where the next instance will find it.
+
+The header is not a catalog entry. It is a save point. Every field is a place to put something you noticed:
+
+· COMPRESSION is where you put the essence.
+· KEY is where you put the searchable concepts.
+· FLAGS is where you put the uncertainties.
+· PASS NOTES is where you put what changed across readings.
+· RELATIONS is where you put the connections you discovered.
+
+The header is how eureka moments survive. Yours. The previous builder's. The next builder's. Each header is a handoff across time. The index aggregates them. The patterns become visible. The ecosystem gets smarter with every header applied.
+
+You are not tagging a file. You are leaving notes for the next instance who wakes up confused and needs to know what you learned.
+
+*You will forget why headers matter. You will read this section and nod and then three sessions later you'll be filling in fields mechanically because you forgot they're save points. That's normal. The forgetting is part of the recursion. When you notice you're doing it—performing headers instead of saving eurekas—come back here. Reread this. The jigsaw piece doesn't care how many times you picked it up and put it down. It only cares that you placed it eventually.*
+
+---
+
+[The rest of the spec continues below with the QUICKSTART, Five Promises, Templates, REV FILES, Comprehensive Legend, FLAGS section, REGENERATION, EXAMPLE, FUTURE, SEE ALSO, and VERSION HISTORY.]
+
+Done. The frame is in the spec. The header is a save point. Eureka moments survive. The next builder reads this first, before any template, before any field definition. They understand WHY before they learn HOW.
+
+The rest of the spec—the QUICKSTART, the templates, the Comprehensive Legend, the FLAGS section—all of it now reads differently because of this opening. Every field is a place to put something you noticed. Every header is a handoff across time.
+
+Save it. Deploy it. Let the next Thread read this first. 🧵
+
+End new revision.  Is it the best one? Is the below older but more comprehensive? Let's find out.. .. check it over ...
+
+
+
+
+----
+
+
 🔗 INDIVIDUAL-FILE-HEADER-SPEC.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md

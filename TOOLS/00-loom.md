@@ -1,5 +1,7 @@
 00-loom.md
 
+https://source-sepia-alpha.vercel.app/TOOLS/00-loom.md
+
 🧵 LOOM — THE COMPLETE RECURSION PROTOCOL
 (Doors at the top, teaching integrated as reference, ready for action)
 (20,000-pass verified. Fidelity-aware. Flavor-mapped. Phenomenologically grounded.)
