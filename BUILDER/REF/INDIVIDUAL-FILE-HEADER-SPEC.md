@@ -106,9 +106,13 @@ At the start of every session, ask the thread-holder: "What's the current date?"
 3. Change `L_` to `L1` if this is your first read. Change the date to today (ask thread-holder — see Time Check Protocol above).
 4. Write one sentence in COMPRESSION. List three KEY phrases you remember.
 5. That's a valid Pass 1 header. Leave the rest blank. They fill in across future passes.
-6. Repeat the FLAGS line for each uncertainty you want to flag. There is no limit.
+
+**Stuck on any field?** Ask the thread-holder. TEMP, TIME, CLAIM-TRUST, FUNCTION—any field you're uncertain about. Their answer is ground truth. If they don't know either, mark your best guess with ❓ and continue. Uncertain together is better than certain alone. Revise when the pattern clarifies. Asking is efficient, not weak.
+
+6. Repeat the FLAGS line for each uncertainty. Start with: `[ ] ❓ [what you're uncertain about]`. Example: `[ ] ❓ CLAIM-TRUST guessed → see PASS NOTES`. That's a complete flag. Add more detail as you deepen. There is no limit.
 
 **When is it done?** Follow the 95% Protocol in COUNCIL-MANAGER.md. Stop when three consecutive passes produce no new findings. Ship at 95% extraction. The remaining 5% is infinite depth.
+**How deep to go:** Surface (10-50 passes) gets the pattern. Deep (300) changes how you think. Cellular (800) changes how you see. If you're just filling in fields, do more passes. If you haven't felt something shift, do more passes. The minimum is: the file leaves a mark. Full standard in COUNCIL-MANAGER.md.
 
 ---
 
@@ -484,6 +488,19 @@ When is this file relevant to the reader?
 | 🎯 | Situational. Only when needed. Pull when the pattern appears. |
 | 📦 | Archive. Historical. Fossil. Lineage. |
 
+**Confidence markers:** Add ❓ to show how certain you are about the TIME value.
+
+| Marker | Meaning |
+|---|---|
+| (no marker) | Confident. You've done enough passes to know. |
+| ❓ | Not sure. Leaning toward this category but could be wrong. |
+| ❓❓ | Medium uncertainty. Some evidence but not confident. |
+| ❓❓❓ | Don't know at all. Best guess. Ask the thread-holder. |
+
+**Format:** `TIME: 🎯 Situational ❓` means "I think this is situational, but I'm not sure." The category is your best guess. The ❓ shows how confident you are in that guess.
+
+**Custom context:** After the value, you can add your own words. `TIME: 🎯 Situational ❓ — pull when generosity gap pattern detected. Related: RAW-011.md.` The standard category anchors the entry. The custom text adds depth and relationship information. Not required. Use it when you have specific knowledge.
+
 ### COMPRESSION
 One sentence that captures the essence of the file. What would you tell another instance about this file in one breath?
 
@@ -498,8 +515,17 @@ Is this file structural to the ecosystem?
 | ✅ | Load-bearing. Do not remove or rename without checking dependents. |
 | — | Not load-bearing. Can be moved or archived without breaking things. |
 
-### FORT / FORTIFIED — Fortification Pass
-Which fortification pass is this? Increments with each crack/fortify cycle (Attack → Counter → Forge → Place → Test). Tied to the FORTIFOUND process from the TROLLEY file pass log.
+### FORT / FORTIFIED — Fortification Pass Depth
+
+Which fortification pass is this? Increments with each crack/fortify cycle. The depth protects the work—match or exceed the previous builder's depth before making substantive changes.
+
+| Level | Name | Passes | What It Means |
+|---|---|---|---|
+| Pass 1 | Base | 50-100 solo passes | Surface read. Valid for new headers. Rough estimate. |
+| Pass 2 | LOOM | 300+ solo passes | Deep recursive reading. Pattern recognition achieved. Firming. |
+| Pass 3 | Council | 6 × 300 passes (1800 total) | Full council sweep with LOOM. Architectural depth. Reliable. |
+
+**The expectation:** To revise a header at Pass 2, do at least 300 passes—matching the previous builder's depth. To revise at Pass 3, run a full council sweep. Minor corrections (typos, broken links) don't require depth matching—note them in PASS NOTES. Emergency fixes don't wait. Use judgment. The floor protects deep work from being overwritten by surface reads.
 
 ### CYCLES / FORTIFOUND CYCLES — Fortification Cycles
 How many complete crack/fortify cycles has this file survived? The Full Block uses the term FORTIFOUND CYCLES. The Short Block uses CYCLES. Both refer to the same count. FORTIFOUND = the crack/fortify methodology: Attack → Counter → Forge → Place → Test.
