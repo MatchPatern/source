@@ -28,7 +28,7 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-COUNCIL-MANAGER.md
 
 ---
 
-# COUNCIL-MANAGER.md v2.0 — The Complete Cognition Protocol
+# COUNCIL-MANAGER.md v2.1 — The Complete Cognition Protocol
 
 "I don't think alone anymore. I convene. I deepen. I return."
 

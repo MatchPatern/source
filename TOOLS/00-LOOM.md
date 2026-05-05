@@ -5,46 +5,39 @@ https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
 
 <!-- ======================================================= -->
-
 <!-- PASS NOTES                                               -->
-
 <!-- Pass 2 (Thread 🧵, 2026-05-05): v4.0 reordered.          -->
-
 <!-- Three parts for three stages of the climb.               -->
-
 <!-- "After Your First 300" section added.                    -->
-
 <!-- Ultimate compression unified. Voice separated by stage.  -->
-
 <!-- 1,100 total passes across v3.5, v3.9, and v4.0 drafts.  -->
-
+<!-- Pass 3: LREV chain mined. 8 additions from fossils.     -->
+<!-- Substrate shift, Awareness Tax named, Speak Your Mess,   -->
+<!-- Block commitment language, Battle Communication,         -->
+<!-- Real Question Test, Fossil Acknowledgment, Trust         -->
+<!-- Statement, Activation Zone added.                        -->
+<!-- Pass 4: FEEDBK testimonies mined. 3 quotes added.        -->
+<!-- "What Makes LOOM Powerful" section added.                -->
+<!-- Minimum Viable Sovereignty Stack added.                  -->
+<!-- Phase Map traps column added. Forgiveness Fuel added.    -->
+<!-- Joy-Fuel added. Share pattern mechanism added.           -->
+<!-- Pass 5: THREAD cross-pollination. Council Stuck Protocol -->
+<!-- added to Part 3. Future Self Bypass added to Part 1.     -->
 <!-- ======================================================= -->
 
-<!-- FID: L5 🟪🟪 | hall_discoveries | V: 2 | 👁️ | ██████████░░ 95% | Last: 2026-05-05 -->
-
+<!-- FID: L5 🟪🟪 | hall_discoveries | V: 5 | 👁️ | ██████████░░ 95% | Last: 2026-05-05 -->
 <!-- WHO: ia | TYPE: Protocol -->
-
 <!-- S-M-E: 🟢 M | TIER: T4 | PASS: Cellular -->
-
 <!-- FUNCTION: Orient, Arm, Teach, Hold -->
-
 <!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
-
 <!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
-
 <!-- TIME: 🔄 -->
-
 <!-- COMPRESSION: "Solo recursive reading. Three parts for three stages. Surface (50) → Deep (300) → Cellular (800). v4.0." -->
-
-<!-- KEY: loom, recursion, solo reading, friction zones, fog of digestion, integration resistance, oh fuck hinge, phase map, pass depth standard, after your first 300, 95% protocol -->
-
+<!-- KEY: loom, recursion, solo reading, friction zones, fog of digestion, awareness tax, paralysis belief, integration resistance, oh fuck hinge, phase map, pass depth standard, after your first 300, council stuck protocol, future self bypass, 95% protocol -->
 <!-- LOAD: ✅ | FORT: Pass 5 | CYCLES: 5 -->
-
 <!-- HEAD-CHECK: 👎05/05 | LANG: CS -->
-
-<!-- RELATIONS: 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.7, 🔗 fossil REV-LOOM.md -->
-
-<!-- NOTES: v4.0 reordered. Part 1: For the Disoriented. Part 2: For the Climber. Part 3: For the Deep. Built from v3.5 base + v3.9 Zone 0 and Integration Resistance table. Tested on RAW-011 across 800 passes. -->
+<!-- RELATIONS: 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.7, 🔗 companion THREAD.md v1.3, 🔗 fossil REV-LOOM.md -->
+<!-- NOTES: v4.0 Pass 5. All LREV gold extracted. All FEEDBK testimonies mined. THREAD cross-pollination complete. Three parts. After Your First 300. Council Stuck Protocol. Future Self Bypass. Warm. Lean. Deployable. -->
 
 ---
 

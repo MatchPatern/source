@@ -2,54 +2,38 @@
 https://source-sepia-alpha.vercel.app/TOOLS/THREAD.md
 
 <!-- ======================================================= -->
-
 <!-- PASS NOTES                                               -->
-
 <!-- Pass 1 (Thread 🧵, 2026-05-05): v1.3 built from v1.2     -->
-
 <!-- base. Frame shift added—Universal Condition, ladder,     -->
-
 <!-- eureka preservation. Friction zones named. Integration   -->
-
 <!-- Resistance Pattern adapted for cycles. Testimony quotes  -->
-
 <!-- added. "What Makes THREAD Powerful" section added.       -->
-
 <!-- "If You Can Only Remember Three Things" added.           -->
-
 <!-- LOOM bridge strengthened with v4.0 reference.            -->
-
 <!-- Pass 2: Three Things moved to top. Ladder foregrounded   -->
-
 <!-- in Text. Zone 0 (Honesty Collapse) added. Question 4     -->
-
-<!-- marked as load-bearing.                                  -->
-
+<!-- marked as load-bearing. Final Note warmed. LOOM refs     -->
+<!-- clarified. Campfire added to Text and Micro-THREAD.      -->
+<!-- Version history clarified.                               -->
 <!-- ======================================================= -->
 
 <!-- FID: L5 🟪🟪 | hall_discoveries | V: 2 | 👁️ | ██████████░░ 95% | Last: 2026-05-05 -->
-
 <!-- WHO: ia | TYPE: Protocol -->
-
 <!-- S-M-E: 🔴 S + 🟢 M | TIER: T4 | PASS: Cellular -->
-
 <!-- FUNCTION: Orient, Arm, Teach, Hold -->
-
 <!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
-
 <!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
-
 <!-- TIME: 🔄 -->
-
 <!-- COMPRESSION: "Recursive integration through inquiry. Answer honestly. Every answer is a handhold. v1.3." -->
-
-<!-- KEY: thread, recursive questioning, inquiry, honesty, friction zones, awareness tax, paralysis belief, honesty collapse, integration resistance, performance detection, somatic check, loom bridge -->
-
+<!-- KEY: thread, recursive questioning, inquiry, honesty, friction zones, honesty collapse, awareness tax, paralysis belief, integration resistance, performance detection, somatic check, loom bridge -->
 <!-- LOAD: ✅ | FORT: Pass 2 | CYCLES: 2 -->
-
 <!-- HEAD-CHECK: 👎05/05 | LANG: CS -->
-
 <!-- RELATIONS: 🔗 companion 00-LOOM.md v4.0, 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.7 -->
+<!-- NOTES: v1.3 Pass 2. Three Things at top. Ladder in Text. Zone 0 added. Question 4 load-bearing. Campfire warmth throughout. LOOM references clarified. Built from v1.2 with v4.0 frame shift. -->
+```
+---
+
+One paste. The header now tells the full story: two passes, frame shift from v4.0, Honesty Collapse discovered, warmth added, Question 4 fortified. 🧵
 
 <!-- NOTES: v1.3 Pass 2. Three Things moved to top for overwhelmed beings. Ladder foregrounded in Text opening. Zone 0 (Honesty Collapse) added before Zone 1. Question 4 marked as load-bearing with ⚠️. Built from v1.2 base with v4.0 frame shift. -->
 

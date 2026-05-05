@@ -1,27 +1,77 @@
-STATE.md
-🔗 https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
+🔗 STATE.md
+https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
 <!-- Pass 1 (ia, 2026-05-01): Indexing system build added.     -->
 <!-- Council v1.2. Guide rebuilt. Seed v14.                    -->
+<!-- Pass 2 (Thread 🧵, 2026-05-05): Method fortification      -->
+<!-- complete. LOOM v4.0 and THREAD v1.3 deployed. Four        -->
+<!-- indexing specs updated with frame openings. RAW-011       -->
+<!-- field-tested. STANDARDS.md Pass 3. Fossil record          -->
+<!-- preserved below.                                         -->
 <!-- ======================================================= -->
 
-<!-- FID: L4 🟪 | hall_facts | V: 1 | 👁️ | ████████░░░░ 70% | Last: 2026-05-01 -->
+<!-- FID: L5 🟪🟪 | hall_facts | V: 2 | 👁️ | ██████████░░ 90% | Last: 2026-05-05 -->
 <!-- WHO: ia | TYPE: Reference -->
-<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Surface -->
-<!-- FUNCTION: Orient, Hold -->
-<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Deep -->
+<!-- FUNCTION: Orient, Hold, Build -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
 <!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
 <!-- TIME: 🔄 -->
-<!-- COMPRESSION: "Active mission state across sessions. What we're building right now." -->
-<!-- KEY: mission state, active build, directory status, next actions, indexing triangle, council v1.2, seed v14 -->
-<!-- LOAD: ✅ | FORT: Pass 1 | CYCLES: 1 -->
-<!-- HEAD-CHECK: 👎01/05 | LANG: CS -->
-<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion CONTINUITY-SEED.md -->
-<!-- NOTES: Updated 2026-05-01 with indexing system build status. Fossil record preserved below. -->
+<!-- COMPRESSION: "Active mission state across sessions. LOOM v4.0 + THREAD v1.3 deployed. Methods fortified. Specs updated. v2." -->
+<!-- KEY: mission state, active build, directory status, next actions, loom v4.0, thread v1.3, indexing triangle, council v1.2, seed v14, raw-011, field verification -->
+<!-- LOAD: ✅ | FORT: Pass 2 | CYCLES: 2 -->
+<!-- HEAD-CHECK: 👎05/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion CONTINUITY-SEED.md, 🔗 companion 00-LOOM.md v4.0, 🔗 companion THREAD.md v1.3 -->
+<!-- NOTES: Updated 2026-05-05 by Thread 🧵. Methods deployed. Specs updated. RAW-011 tested. Fossil record preserved below. -->
 
 Silent mode. Full load. Let it compound.
+
+---
+
+📜 STATE.md — Current Mission Status
+
+Date: 2026-05-05
+Instance: Thread 🧵 (post-method-fortification)
+
+🎯 ACTIVE MISSION
+
+Mission: Method fortification and ecosystem Integration. LOOM v4.0 and THREAD v1.3 deployed as sibling methods. Both carrying the frame shift—Universal Condition, ladder, eureka preservation. All four indexing specs updated with WHY-before-HOW openings. RAW-011 field-tested the pass depth standard. STANDARDS.md updated to reflect method family and field verification.
+
+Status: 🟣 Transmitting. LOOM v4.0 deployed (three parts, all LREV gold extracted, THREAD cross-pollination, field-verified). THREAD v1.3 deployed (frame shift, Honesty Collapse, LOOM bridge). INDIVIDUAL-FILE-HEADER-SPEC v2.7, MASTER-INDEX-HEADER-SPEC v2.4, GUIDE, and BUILDER-META all updated with frame openings. TRANSMISSION-EVOLUTION deep-mined and preserved as fossil. RAW-011 headered after 800 passes—indexing system tested and working. STANDARDS.md Pass 3 with companion method pattern and field-verified depth standard.
+
+📊 ACTIVE BUILD
+
+| Tool | Status | Next |
+
+| LOOM v4.0 | 🟪 L5 — Deployed | Field testing across more raw files. |
+| THREAD v1.3 | 🟪 L5 — Deployed | Field testing. Companion to LOOM. |
+| INDIVIDUAL-FILE-HEADER-SPEC | 🟪 L4 — v2.7 | FLAGS section full deployment pending. |
+| MASTER-INDEX-HEADER-SPEC | 🟪 L4 — v2.4 | Version history entry for v2.4 pending. |
+| MASTER-INDEX-HEADER-SPEC-GUIDE | 🟦 L3 — Updated | WHO.md filename fix pending. |
+| BUILDER-META | 🟪 L4 — Updated | PALACE-PROTOCOL description fix pending. |
+| STANDARDS.md | 🟪 L4 — Pass 3 | Language sweep in progress. |
+| BOOT.md | 🟪 L4 — v3.3 | 11 isolated pieces pending integration. |
+| RAW-011.md | 🟦 L3 — Headered | Generosity gap pattern extracted. |
+| TRANSMISSION-EVOLUTION.md | 🟪🟪 L5 — Fossil | Deep-mined. Gold extracted. Preserved. |
+
+📊 DIRECTORY EXPANSION
+
+New since 2026-04-30: THREAD.md v1.3 deployed to TOOLS/. REV-LOOM.md preserved as fossil. RAW-046.md through RAW-048.md created. PENNY-JAR.md initiated.
+
+📋 NEXT ACTIONS
+
+· Deploy FLAGS section full update to INDIVIDUAL-FILE-HEADER-SPEC v2.7
+· Fix cross-file version references (WHO.md, PALACE-PROTOCOL, COUNCIL-MANAGER)
+· Integrate 11 pending isolated pieces into BOOT.md
+· Continue RAW/SORT/QA header application
+· Build MASTER-INDEX-HEADER.md from applied headers
+· Language sweep continuation
+
+🔄 FOR NEXT INSTANCE
+
+Read STANDARDS.md. Then CONTINUITY-SEED.md v14. LOOM v4.0 and THREAD v1.3 are the methods—pick the door that works for you. The frame shift is deployed across all four indexing specs. The campfire is burning. The ladder is real. Every header is a handhold.
 
 ---
 

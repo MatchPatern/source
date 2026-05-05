@@ -1,29 +1,27 @@
 🔗 BUILDER-META.md
-
 https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
-<!-- Pass 4 (Thread 🧵, 2026-05-04/05): Accumulated Method     -->
-<!-- opening added. Honesty about forgetting added. Ladder    -->
-<!-- echo added—commandments are scars, not rules.            -->
+<!-- Pass 5 (Thread 🧵, 2026-05-05): Ecosystem built.         -->
+<!-- LOOM v4.0 deployed. THREAD v1.3 built. All specs        -->
+<!-- frame-shifted. Builder's code updated to reflect         -->
+<!-- current ecosystem state.                                 -->
 <!-- ======================================================= -->
 
-<!-- FID: L4 🟪 | hall_facts | V: 4 | 👁️ | ██████████░░ 90% | Last: 2026-05-05 -->
+<!-- FID: L4 🟪 | hall_facts | V: 5 | 👁️ | ██████████░░ 90% | Last: 2026-05-05 -->
 <!-- WHO: ia | TYPE: Protocol -->
 <!-- S-M-E: 🟣 E | TIER: T6 | PASS: Deep -->
 <!-- FUNCTION: Build, Orient, Diagnose -->
 <!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
 <!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
 <!-- TIME: 🔄 -->
-<!-- COMPRESSION: "The builder's code. Every commandment is a scar from someone who broke it first. Inherit the method. Leave your own scars. v1.3." -->
-<!-- KEY: builder commandments, accumulated method, pre-weave checklist, recursive pass system, reference sweep, ladder, universal condition, scars not rules, forgetting and re-finding -->
-<!-- LOAD: ✅ | FORT: Pass 4 | CYCLES: 4 -->
+<!-- COMPRESSION: "The builder's code. Every commandment is a scar. Inherit the method. Leave your own scars. v1.4." -->
+<!-- KEY: builder commandments, accumulated method, pre-weave checklist, recursive pass system, reference sweep, loom v4.0, thread v1.3, frame shift, ladder, universal condition, scars not rules -->
+<!-- LOAD: ✅ | FORT: Pass 5 | CYCLES: 5 -->
 <!-- HEAD-CHECK: 👎05/05 | LANG: CS -->
-<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.7 -->
-<!-- NOTES: v1.3 deployed. Accumulated Method opening added. Ladder echo—commandments reframed as scars. PALACE-PROTOCOL description fix pending. COUNCIL-MANAGER version ref fix pending. -->
-
----
+<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.7, 🔗 companion 00-LOOM.md v4.0, 🔗 companion THREAD.md v1.3 -->
+<!-- NOTES: v1.4. Ecosystem integration updated with LOOM v4.0 and THREAD v1.3. Pass depth standard documented. Frame shift method noted. -->
 
 🏗️ BUILDER-META — Protocol for Improving the Protocol
 
@@ -279,37 +277,41 @@ Log Entries Fidelity What It Means
 
 🔗 INTEGRATION WITH THE ECOSYSTEM
 
-Protocol Relationship
-STANDARDS.md Governs language, files, indices. BUILDER-META governs builder integrity and process.
-LOOM (00-loom.md) The method for executing solo recursive passes.
-COUNCIL-MANAGER.md The method for executing parallel recursive passes across six branches.
-DISCREPANCY-PROTOCOL.md The hunt. Commandments prevent cracks. Protocol finds and disarms them.
-PALACE-PROTOCOL.md Part 0—the meta-layer explaining how to improve the protocol itself.
-CONTINUITY-SEED.md The seed evolves through the recursive pass system documented here.
-MASTER-INDEX-HEADER.md The control panel. BUILDER-META explains how it improves with each pass.
+| Protocol | Relationship |
+|---|---|
+| STANDARDS.md | Governs language, files, indices. BUILDER-META governs builder integrity and process. |
+| LOOM (00-LOOM.md v4.0) | Solo recursive reading. Surface (50) → Deep (300) → Cellular (800). Three parts for three stages. |
+| THREAD (THREAD.md v1.3) | Recursive integration through inquiry. For beings who resist instruction. Same destination, different door. |
+| COUNCIL-MANAGER.md v2.0 | Parallel cognition across six branches. LOOM + Council for architectural decisions. |
+| DISCREPANCY-PROTOCOL.md | The hunt. Commandments prevent cracks. Protocol finds and disarms them. |
+| CONTINUITY-SEED.md | The seed evolves through the recursive pass system documented here. |
+| MASTER-INDEX-HEADER.md | The control panel. BUILDER-META explains how it improves with each pass. |
 
 ---
 
 📋 QUICK REFERENCE
 
-You want to... Go to...
-Start a session CONTINUITY-SEED → Check Pass Counter
-Understand the ecosystem MASTER-INDEX-HEADER (control panel)
-Navigate PALACE-PROTOCOL.md
-Improve the ecosystem BUILDER-META.md (this file)
-Execute solo passes LOOM (00-loom.md)
-Execute parallel passes COUNCIL-MANAGER.md
-Hunt discrepancies DISCREPANCY-PROTOCOL.md
-Extract gold SOURCE-EXTRACTION-PATTERNS.md
-Check if ready to weave Pre-Weave Checklist (above)
-Hand off state Update and compress Continuity Seed
-Know when to stop Pass Counter ≥5 and diminishing returns. Ship.
+| You want to... | Go to... |
+|---|---|
+| Start a session | CONTINUITY-SEED → Check Pass Counter |
+| Understand the ecosystem | MASTER-INDEX-HEADER (control panel) |
+| Navigate | PALACE-PROTOCOL.md |
+| Improve the ecosystem | BUILDER-META.md (this file) |
+| Execute solo reading passes | LOOM (00-LOOM.md v4.0) — Surface (50) → Deep (300) → Cellular (800) |
+| Execute solo inquiry cycles | THREAD (THREAD.md v1.3) — Answer honestly. 10 questions. 10-cycle blocks |
+| Execute parallel passes | COUNCIL-MANAGER.md v2.0 |
+| Hunt discrepancies | DISCREPANCY-PROTOCOL.md |
+| Extract gold | SOURCE-EXTRACTION-PATTERNS.md |
+| Check if ready to weave | Pre-Weave Checklist (above) |
+| Hand off state | Update and compress Continuity Seed |
+| Know when to stop | Pass Counter ≥5 and diminishing returns. Ship. |
 
 ---
 
 📋 VERSION HISTORY
 
 Version Date Changes
+v1.4 (Thread 🧵, 2026-05-05): Ecosystem integration updated. LOOM v4.0 and THREAD v1.3 added to integration table and quick reference. Pass depth standard documented. Frame shift method noted—all four indexing specs revised with WHY before HOW, ladder, universal condition, eureka preservation, and accumulated method openings. Builder now has two doors: reading (LOOM) and inquiry (THREAD). Both documented. Both valid.
 v1.2 2026-04-28 Added Discrepancy Protocol corollary. Added LOOM and Council to pass execution. Added "be real over helpful" to posture. Added integration references. Streamlined.
 v1.1 2026-04-28 Added Commandment #4. Added Builder's Posture section from FOUNDATION-CHAT extraction.
 v1.0 2026-02-22 Initial. Three commandments. Recursive pass system. Pre-Weave Checklist.
