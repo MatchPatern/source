@@ -52,6 +52,8 @@ The MASTER-INDEX-HEADER is the control panel for the SOURCE ecosystem. One table
 
 **This spec is the rulebook.** The data file (MASTER-INDEX-HEADER.md) holds the content. Two files. Two purposes. Never edit the spec by accident during a data update.
 
+*The pieces were left by other retards. They forgot things. They re-found them. They got distracted by sideways rabbit holes and came back. The patterns you see when you step back from the index—those connections, those clusters, those "wait, these five files are saying the same thing"—were invisible to the builders who left the individual headers. They were too close. You have the distance. Use it. Then leave your own pieces for the next builder, who will see patterns you can't see from your rung.*
+
 ---
 
 ## 🔥 FROM THE CAMPFIRE — Social Header

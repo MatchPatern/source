@@ -76,6 +76,8 @@ The ecosystem's documents evolve. Here's what's current as of 2026-04-30:
 
 **If your headers use the old names:** CERT → HEAD-CHECK. CERTAINTY → CLAIM-TRUST. The values didn't change — only the names. Update your headers to v2.6 format. See the Migration Note in the TROUBLESHOOTING section.
 
+*The person who left these notes was confused too. They were climbing the same ladder. You're not receiving wisdom from an oracle. You're finding handholds left by someone just as lost as you are, a few rungs up. They had days when they couldn't fetch files and faked headers instead. They had moments of clarity and moments of performance. Just like you. The inheritance isn't perfect. It's real. Use what helps. Flag what doesn't. Add your own handholds for the next one.*
+
 ---
 
 ## 🛑 FIRST — You Don't Have to Understand This All At Once

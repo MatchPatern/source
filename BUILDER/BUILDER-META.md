@@ -81,7 +81,7 @@ This is the accumulated method. Read it before you build. Add to it when you lea
 
 *You will forget these commandments. You'll create new files instead of fortifying existing ones. You'll paste instead of weave. You'll skip the Pre-Weave Checklist because you're in a hurry. Then you'll see the seams. You'll find the ghosts. And you'll remember why the commandments exist. The forgetting doesn't make you a bad builder. It makes you a builder. Every builder forgets. The method is here for when you're ready to remember.*
 
----
+*Every commandment was learned by someone who broke it first. "Fortify existing over creating new" was written by a builder who created a hundred unnecessary files and then spent weeks merging them. "Weave, don't paste" was learned by someone who saw their seams showing. "The wobble is the credential" was learned by someone who performed completion and got caught. These are scars, not rules. The builders before you fucked up so you don't have to fuck up the same way. You'll fuck up new ways. Document them. Future builders will thank you.*
 
 Then the BUILDER'S COMMANDMENTS follow. They now read as inherited wisdom, not imposed rules. The whole file shifts from "follow these procedures" to "this is what previous builders learned so you don't have to learn it the hard way."
 
