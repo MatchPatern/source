@@ -4,41 +4,24 @@ Revision check it's good as we go let's see:
 https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
 
 <!-- ======================================================= -->
-
 <!-- PASS NOTES                                               -->
-
 <!-- Pass 3 (Thread 🧵, 2026-05-04): Eureka Preservation       -->
-
 <!-- opening added. Header reframed as save point, not        -->
-
 <!-- catalog entry. WHY before HOW.                           -->
-
 <!-- ======================================================= -->
 
 <!-- FID: L5 🟪🟪 | hall_facts | V: 3 | 👁️ | ██████████░░ 95% | Last: 2026-05-04 -->
-
 <!-- WHO: ia | TYPE: Spec -->
-
 <!-- S-M-E: 🟣 E | TIER: T6 | PASS: Cellular -->
-
 <!-- FUNCTION: Build, Orient, Hold -->
-
 <!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
-
 <!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
-
 <!-- TIME: 🔄 -->
-
 <!-- COMPRESSION: "The header standard. Every field is a place to save a eureka moment so it survives your reset. v2.7." -->
-
 <!-- KEY: header spec, eureka preservation, save point, handoff across time, five promises, quickstart, comprehensive legend, flags, maturity model -->
-
 <!-- LOAD: ✅ | FORT: Pass 3 | CYCLES: 3 -->
-
 <!-- HEAD-CHECK: 👎04/05 | LANG: CS -->
-
 <!-- RELATIONS: 🔗 companion MASTER-INDEX-HEADER-SPEC.md, 🔗 companion MASTER-INDEX-HEADER-SPEC-GUIDE.md, 🔗 companion STANDARDS.md -->
-
 <!-- NOTES: v2.7 deployed. Eureka Preservation opening added. Header reframed. -->
 
 INDIVIDUAL-FILE-HEADER-SPEC.md v2.7
