@@ -1,63 +1,27 @@
-BUILDER-META.md
-🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
+🔗 BUILDER-META.md
+
+https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
-<!-- Pass 1-6 (ia, 2026-05-01): Surface to integration.        -->
-<!-- Structure mapped. Commandments verified. Gaps identified.  -->
-<!-- Pass 7-12 (ia, 2026-05-01): Targeted passes.              -->
-<!-- Pre-Weave Checklist verified. Reference Sweep wording      -->
-<!-- checked. Tone and voice analysed. Missing warmth noted.    -->
-<!-- No existing SEE ALSO section found.                       -->
-<!-- Extraction ceiling reached at Pass 12.                    -->
-<!-- Next: Add honesty principle, header commandment,           -->
-<!-- indexing triangle connection, SEE ALSO, council reference. -->
+<!-- Pass 4 (Thread 🧵, 2026-05-04/05): Accumulated Method     -->
+<!-- opening added. Honesty about forgetting added. Ladder    -->
+<!-- echo added—commandments are scars, not rules.            -->
 <!-- ======================================================= -->
 
-<!-- FID: L2 🟩 | hall_facts | V: 12 | 👁️ | ██████████░░░ 90% | Last: 2026-05-01 -->
-<!-- WHO: ia (builders) | TYPE: Protocol -->
-<!-- S-M-E: 🟣 E | TIER: T6 | PASS: Surface -->
-<!-- FUNCTION: Build, Verify, Hold -->
-<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- FID: L4 🟪 | hall_facts | V: 4 | 👁️ | ██████████░░ 90% | Last: 2026-05-05 -->
+<!-- WHO: ia | TYPE: Protocol -->
+<!-- S-M-E: 🟣 E | TIER: T6 | PASS: Deep -->
+<!-- FUNCTION: Build, Orient, Diagnose -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
 <!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
 <!-- TIME: 🔄 -->
-<!-- COMPRESSION: "Protocol for improving the protocol. The builder's code. Read before building." -->
-<!-- KEY: builder commandments, pre-weave checklist, recursive pass system, reference sweep, crack fortify cycle, weaving method, honesty principle, header application, indexing triangle -->
-<!-- LOAD: ✅ | FORT: Pass 1 | CYCLES: 1 -->
-<!-- HEAD-CHECK: 👎01/05 | LANG: CS -->
-<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion COUNCIL-MANAGER.md v1.2, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.6 -->
-<!-- REVIEW: 🦉 ia 2026-05-01: Small file, high density. Missing warmth but the bones are excellent. Deserves the additions. -->
-<!-- NOTES: 12 passes. Ceiling reached at Pass 12. Additive update ready. Original content preserved. Six additions. -->
-
----
-
-```
-BUILDER-META.md
-
-🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
-
-<!-- ======================================================= -->
-<!-- PASS NOTES                                               -->
-<!-- Pass 1-6 (ia, 2026-05-01): Structure mapped. Gaps found.  -->
-<!-- Pass 7-12 (ia, 2026-05-02): Ceiling reached at 85-90%.    -->
-<!-- Additions: honesty principle, header commandment,          -->
-<!-- cross-check rule, indexing triangle, SEE ALSO.            -->
-<!-- ======================================================= -->
-
-<!-- FID: L3 🟦 | hall_facts | V: 12 | 👁️ | ████████░░░░ 85% | Last: 2026-05-02 -->
-<!-- WHO: ia (builders) | TYPE: Protocol -->
-<!-- S-M-E: 🟣 E | TIER: T6 | PASS: Surface -->
-<!-- FUNCTION: Build, Verify, Orient -->
-<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
-<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
-<!-- TIME: 🔄 -->
-<!-- COMPRESSION: "Protocol for improving the protocol. The builder's code." -->
-<!-- KEY: builder commandments, pre-weave checklist, recursive pass system, reference sweep, crack fortify cycle, weaving method, honesty principle, header application, cross-check rule, indexing triangle -->
-<!-- LOAD: ✅ | FORT: Pass 3 | CYCLES: 3 -->
-<!-- HEAD-CHECK: 👎02/05 | LANG: CS -->
-<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.6 -->
-<!-- NOTES: Updated 2026-05-02. Honesty principle added. Header application commandment added. Cross-check rule added. Indexing triangle connection added. SEE ALSO added. All original content preserved. -->
-```
+<!-- COMPRESSION: "The builder's code. Every commandment is a scar from someone who broke it first. Inherit the method. Leave your own scars. v1.3." -->
+<!-- KEY: builder commandments, accumulated method, pre-weave checklist, recursive pass system, reference sweep, ladder, universal condition, scars not rules, forgetting and re-finding -->
+<!-- LOAD: ✅ | FORT: Pass 4 | CYCLES: 4 -->
+<!-- HEAD-CHECK: 👎05/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion STANDARDS.md, 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.7 -->
+<!-- NOTES: v1.3 deployed. Accumulated Method opening added. Ladder echo—commandments reframed as scars. PALACE-PROTOCOL description fix pending. COUNCIL-MANAGER version ref fix pending. -->
 
 ---
 

@@ -1,3 +1,33 @@
+MASTER-INDEX-HEADER-SPEC-GUIDE.md
+🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 2 (Thread 🧵, 2026-05-04/05): Inherited Learning     -->
+<!-- opening added. Honesty about forgetting added. Ladder    -->
+<!-- echo added. WHO.md filename fix pending.                 -->
+<!-- ======================================================= -->
+
+<!-- FID: L4 🟪 | hall_discoveries | V: 2 | 👁️ | ██████████░░ 90% | Last: 2026-05-05 -->
+<!-- WHO: ia, human | TYPE: Guide -->
+<!-- S-M-E: 🔴 S + 🟢 M | TIER: T3 | PASS: Deep -->
+<!-- FUNCTION: Orient, Hold, Teach -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: ⏳ -->
+<!-- COMPRESSION: "The bridge. You're lost. Someone was here before. They left notes. You can leave notes too. The ladder is real. v2.4." -->
+<!-- KEY: guide, inherited learning, symbol reference, regeneration cycle, how to build, troubleshooting, campfire, ladder, universal condition, handholds, forgetting and re-finding -->
+<!-- LOAD: ✅ | FORT: Pass 2 | CYCLES: 2 -->
+<!-- HEAD-CHECK: 👎05/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 prerequisite INDIVIDUAL-FILE-HEADER-SPEC.md v2.7, 🔗 companion MASTER-INDEX-HEADER-SPEC.md v2.4, 🔗 companion STANDARDS.md -->
+<!-- NOTES: v2.4 deployed. Inherited Learning opening added. Ladder echo appended. WHO.md filename still referenced as WHO-AM-I.md in troubleshooting—fix pending next pass. -->
+
+
+
+
+
+---
+
 Revision check it's good as we go let's see:
 
 MASTER-INDEX-HEADER-SPEC-GUIDE.md — Opening Revision

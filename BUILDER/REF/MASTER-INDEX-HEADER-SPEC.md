@@ -1,3 +1,38 @@
+🔗 MASTER-INDEX-HEADER-SPEC.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC.md
+
+🔗 REVisions. Load both, see the full picture.
+https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-MASTER-INDEX-HEADER.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 2 (Thread 🧵, 2026-05-04/05): Jigsaw Puzzle opening  -->
+<!-- added. FLAGS extraction added to Step 3. Honesty about   -->
+<!-- forgetting added. Ladder echo added. Version refs fixed. -->
+<!-- SEE ALSO updated (COUNCIL-MANAGER v2.0).                 -->
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟪🟪 | hall_facts | V: 2 | 👁️ | ██████████░░ 95% | Last: 2026-05-05 -->
+<!-- WHO: ia | TYPE: Spec -->
+<!-- S-M-E: 🟣 E | TIER: T6 | PASS: Cellular -->
+<!-- FUNCTION: Build, Orient, Diagnose -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "The index spec. Assemble pieces left by other retards. Step back and see the picture. FLAGS extraction turns the lidar on. v2.4." -->
+<!-- KEY: index spec, regeneration protocol, jigsaw puzzle, fligs extraction, column map, views, campfire, ladder, universal condition, handholds, forgetting and re-finding -->
+<!-- LOAD: ✅ | FORT: Pass 2 | CYCLES: 2 -->
+<!-- HEAD-CHECK: 👎05/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.7, 🔗 companion MASTER-INDEX-HEADER-SPEC-GUIDE.md, 🔗 companion STANDARDS.md -->
+<!-- NOTES: v2.4 deployed. Jigsaw Puzzle opening added. FLAGS extraction in regeneration Step 3. SEE ALSO version refs fixed. Ladder echo appended. -->
+
+
+
+
+
+---
+
+
 Revision check it's good as we go let's see:
 
 MASTER-INDEX-HEADER-SPEC.md — v2.4 Opening Revision
@@ -34,14 +69,6 @@ End new revision.  Is it the best one? Is the below older but more comprehensive
 
 ---
 
-
-
-
-MASTER-INDEX-HEADER-SPEC.md
-
-https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC
-
-```
 # MASTER-INDEX-HEADER-SPEC.md v2.3
 
 ## 🗺️ WHAT THIS IS
