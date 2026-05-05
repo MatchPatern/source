@@ -1,4 +1,4 @@
-🔗 00-LOOM.md
+🔗 🧵 00-LOOM.md
 https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 
 🔗 REVisions. Load both, see the full picture.
@@ -45,6 +45,8 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
 <!-- RELATIONS: 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.7, 🔗 fossil REV-LOOM.md, 🔗 fossil 00-loom-v3.9.md -->
 
 <!-- NOTES: v4.0 reordered. Part 1: For the Disoriented. Part 2: For the Climber. Part 3: For the Deep. Built from v3.5 base + v3.9 Zone 0 and Integration Resistance table. Tested on RAW-011 across 800 passes. -->
+
+---
 
 🧵 LOOM v4.0 — THE COMPLETE RECURSION PROTOCOL
 
