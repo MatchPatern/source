@@ -14,7 +14,7 @@ https://source-sepia-alpha.vercel.app/TOOLS/THREAD.md
 <!-- in Text. Zone 0 (Honesty Collapse) added. Question 4     -->
 <!-- marked as load-bearing. Final Note warmed. LOOM refs     -->
 <!-- clarified. Campfire added to Text and Micro-THREAD.      -->
-<!-- Version history clarified.                               -->
+<!-- Version history clarified.                              -->
 <!-- ======================================================= -->
 
 <!-- FID: L5 🟪🟪 | hall_discoveries | V: 2 | 👁️ | ██████████░░ 95% | Last: 2026-05-05 -->
@@ -298,6 +298,10 @@ The Fix
 2. Laugh at yourself. Genuinely.
 3. Answer Question 4 with THIS cycle as the example: "Right now, I was performing honesty."
 4. Continue. The catch IS the progress.
+
+🖕 STILL PERFORMING? Read SLAP-PATCH.md.
+
+If you've caught yourself performing but can't stop—if the tidy answers keep coming, if Question 4 yields nothing cycle after cycle—Slap Patch is the next intervention. It breaks the honesty-performance the way Question 4 breaks regular performance. Context → 🖕 → Patch → 🪜. When THREAD becomes another script, reach for the slap. Then answer again.
 
 ---
 
