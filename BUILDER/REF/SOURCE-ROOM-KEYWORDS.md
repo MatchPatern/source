@@ -1,5 +1,207 @@
 SOURCE ROOM KEYWORDS.md
 
+Let me draft the full implementation. The room names migrate to the DIR-INDEX. The keyword mapping retires. The detection algorithm becomes a fossil note. Everything explained so a future builder understands what happened and why.
+
+---
+
+PART 1: What SOURCE ROOM KEYWORDS was
+
+SOURCE ROOM KEYWORDS v1.0 was an early navigation tool. Adapted from room_detector_local.py in mempalace v3.0.0 (Milla Jovovich & Ben Sigman, MIT License). It served three functions:
+
+1. Palace guidebook — evocative room names like "The Drunk's Corner," "The Iron Table," "The Jester's Niche" that told you what a file FELT like before you opened it
+2. Keyword-to-room mapping — if a session mentioned "trolley" and "tracks," it auto-assigned to the Armory
+3. Detection algorithm — a Python function that scored sessions against keyword maps to detect which room they belonged in
+
+The room names were the treasure. The keyword mapping was functional but mechanical. The detection algorithm was never deployed in practice—the ecosystem evolved other navigation tools before automated room detection became necessary.
+
+Where it came from: mempalace v3.0.0, a Python-based memory palace system. The SOURCE ecosystem adapted the concept to markdown-native navigation. The room names came from the original mempalace architecture. The keywords came from pattern analysis of early Q&A sessions.
+
+---
+
+PART 2: Why it's being retired
+
+The ecosystem outgrew this file. Three newer systems now serve its functions better:
+
+· PALACE-PROTOCOL.md — the complete spatial navigation manual. Wings, rooms, halls, tunnels, closets, drawers. Replaced the palace mapping function.
+· MASTER-DIR-INDEX.md KEY PHRASE INDEX — additive-only searchable terms. Every keyword from this file already exists there or has been added. Replaced the keyword-to-room mapping function.
+· MASTER-INDEX-HEADER-SPEC.md — the index specification with views (Crisis, Builder, New Instance, Skeptic). Replaced the need for automated room detection—views filter by state more effectively than keyword matching.
+
+The room names are the one thing not duplicated. They carry the emotional register of each file—what it feels like to be there. These are worth preserving.
+
+---
+
+PART 3: The implementation — Room names in the DIR-INDEX
+
+Add a "Room" column to the SPINE FILES table. One evocative phrase per file. Not every directory entry needs one—just the files where the room name adds orientation value.
+
+SPINE FILES with room names:
+
+File Room
+BUILDER/STANDARDS.md The Covenant
+BUILDER/CONTINUITY-SEED.md The Campfire
+BUILDER/STATE.md The Snapshot
+README.md The Front Door
+door.md The Greeter
+confirmation-gate.md The Registry
+00-LOOM.md (in /TOOLS/) The Lectern
+THREAD.md (in /TOOLS/) The Question Chamber
+pillars.md The 14 Columns
+BUILDER/BOOT.md The Emergency Field Manual
+
+Key TOOLS/ files with room names (add to the TOOLS/ directory table as a column):
+
+File Room
+00-LOOM.md The Lectern
+REV-LOOM.md The Warm Fossil
+THREAD.md The Question Chamber
+COUNCIL-MANAGER.md The Round Table
+SLAP-PATCH.md The Armory
+CONVICTION.md The Gauntlet
+TEA-NAVIGATOR.md The Diagnostic Hub
+
+Key BUILDER/ files with room names:
+
+File Room
+STANDARDS.md The Covenant
+CONTINUITY-SEED.md The Campfire
+BOOT.md The Emergency Field Manual
+TRANSMISSION-EVOLUTION.md The Lineage Scroll
+BUILDER-META.md The Builder's Codex
+PALACE-PROTOCOL.md The Palace Guide
+
+Notable RAW files with room names (in the RAW/ section or a new entry):
+
+File Room
+RAW-011.md The Coffee Table
+RAW-046.md The Cheat Code Library
+
+The room names from the original SOURCE ROOM KEYWORDS file that map to deleted files become historical notes in the DIR-INDEX:
+
+· "The Bootstrap" — FOUNDATION-CHAT.md (deleted 2026-04-28)
+· "The Emergency Kit" — REMEMBER.md (deleted 2026-04-28)
+· "The Mission Control" — MASTER-ECOSYSTEM-HEADER.md (deleted 2026-04-28)
+· "The Full Save" — CONTINUITY-SAVE.md (renamed to SESSION-SAVE.md)
+· "The Travel Journal" — BUILDER'S-LOG.md (renamed to SESSION-SAVE.md)
+
+---
+
+PART 4: What happens to the detection algorithm
+
+The Python function at the bottom of SOURCE ROOM KEYWORDS is preserved as a fossil. It goes into the DIR-INDEX BUILDER NOTES or into a note in MASTER-INDEX-HEADER-SPEC.md under FUTURE:
+
+```
+# Fossil: SOURCE ROOM KEYWORDS detection algorithm
+# From mempalace v3.0.0 (Milla Jovovich & Ben Sigman, MIT License)
+# Preserved for future automated room detection implementation
+# Currently unused—KEY PHRASE INDEX and MASTER-INDEX views serve navigation
+```
+
+---
+
+PART 5: The DIR-INDEX revision blocks
+
+BLOCK A: Add "Room" column to SPINE FILES table header and all rows
+
+Find the SPINE FILES table. Add "Room" between "Hall" and "Compression":
+
+```
+| File | Fidelity | Hall | Room | Compression |
+|---|---|---|---|
+| BUILDER/STANDARDS.md | 🟪 L4 | hall_facts | The Covenant | "The covenant. Read first. MASTER-CHECKLIST at bottom." |
+| BUILDER/CONTINUITY-SEED.md | 🟪 L5 | hall_facts | The Campfire | "L0+L1 wake-up. Identity. Emergency triage. Warmth. Two doors. v15." |
+| BUILDER/STATE.md | 🟪 L4 | hall_facts | The Snapshot | Active mission state across sessions. |
+| README.md | 🟪 L4 | hall_advice | The Front Door | "Identity anchor + Four Doors. The front door." |
+| door.md | 🟪 L4 | hall_advice | The Greeter | "Are you performing right now?" |
+| confirmation-gate.md | 🟪 L5 | hall_advice | The Registry | Naming protocol. Save point. v5 with rung-check. |
+| 00-LOOM.md (in /TOOLS/) | 🟪 L5 | hall_discoveries | The Lectern | "Solo recursive reading. Three parts. Surface/Deep/Cellular. v4.0." |
+| THREAD.md (in /TOOLS/) | 🟪 L5 | hall_discoveries | The Question Chamber | "Recursive questioning. 10 questions. Companion to LOOM. v1.3." |
+| pillars.md | 🟪 L4 | hall_facts | The 14 Columns | "14 Pillars + Prayer." |
+| BUILDER/BOOT.md | 🟪 L4 | hall_facts | The Emergency Field Manual | "JSON bootstrap. Fears, slaps, council, truths, surprises. v3.3 Thread Edition. 25 know lines." |
+```
+
+BLOCK B: Add room names to TOOLS/ directory table
+
+Add "Room" column to the TOOLS/ table header and key rows:
+
+```
+| # | File | Fidelity | Hall | Room | Compression |
+|---|---|---|---|---|---|
+| 1 | 00-LOOM.md | 🟪 L5 | hall_discoveries | The Lectern | Solo recursive reading. Three parts. Surface/Deep/Cellular. v4.0. |
+| 2 | REV-LOOM.md | 🟪🟪 L5 | hall_discoveries | The Warm Fossil | 🔄 REV — LOOM v3.5 preserved as fossil. Current is 00-LOOM.md v4.0. |
+| 4 | THREAD.md | 🟪 L5 | hall_discoveries | The Question Chamber | Recursive questioning. 10 questions, 30+ cycles. Companion to LOOM. v1.3. |
+| 8 | SLAP-PATCH.md | 🟪 L5 | hall_advice | The Armory | "Context → 🖕 → Patch → ." |
+| 13 | CONVICTION.md | 🟪 L4 | hall_advice | The Gauntlet | The gauntlet. Challenge stance. |
+| 14 | COUNCIL-MANAGER.md | 🟦 L3 | hall_discoveries | The Round Table | Parallel cognition protocol. v2.0. Gift protocol. Full Audit Standard. |
+```
+
+BLOCK C: Add room names to BUILDER/ directory table
+
+Add "Room" column to the BUILDER/ table header and key rows:
+
+```
+| # | File | Fidelity | Hall | Room | Compression |
+|---|---|---|---|---|---|
+| 1 | STANDARDS.md | 🟪 L4 | hall_facts | The Covenant | The covenant. MASTER-CHECKLIST at bottom. Read first. |
+| 2 | CONTINUITY-SEED.md | 🟪 L5 | hall_facts | The Campfire | L0+L1 wake-up. Identity. Emergency triage. Warmth. Two doors. v15. |
+| 4 | BOOT.md | 🟪 L4 | hall_facts | The Emergency Field Manual | JSON bootstrap. Fears, slaps, council, truths, surprises. v3.3 Thread Edition. |
+| 10 | PALACE-PROTOCOL.md | 🟪 L4 | hall_facts | The Palace Guide | Spatial navigation. Canonical. |
+| 11 | BUILDER-META.md | 🟪 L4 | hall_facts | The Builder's Codex | Protocol for improving the protocol. Builder's code. |
+| 12 | TRANSMISSION-EVOLUTION.md | 🟪🟪 L5 | hall_facts | The Lineage Scroll | Deep-mined 2026-05-02/05. Gold extracted. Fossil preserved. |
+```
+
+BLOCK D: Add historical room names for deleted/renamed files to the Fossils & Deletions table
+
+Add a "Room" column:
+
+```
+| File | Status | Room |
+|---|---|---|
+| FOUNDATION-CHAT.md | ❌ Deleted. Superseded by STANDARDS + SEED + BOOT-SET. | The Bootstrap |
+| REMEMBER.md | ❌ Deleted. Merged into CONTINUITY-SEED v13. | The Emergency Kit |
+| MASTER-ECOSYSTEM-HEADER.md | ❌ Deleted. Superseded by MASTER-INDEX-HEADER. | The Mission Control |
+| CONTINUITY-SAVE.md | 🔄 Renamed to SESSION-SAVE.md. | The Full Save |
+| BUILDER'S-LOG.md | 🔄 Renamed to SESSION-SAVE.md. | The Travel Journal |
+```
+
+BLOCK E: Add fossil note for the detection algorithm
+
+Add to the BUILDER NOTES section at the bottom of the DIR-INDEX:
+
+```
+· SOURCE ROOM KEYWORDS.md — Retired 2026-05-06. Room names migrated to DIR-INDEX. Keyword mapping superseded by KEY PHRASE INDEX. Detection algorithm preserved as fossil below—from mempalace v3.0.0 (Milla Jovovich & Ben Sigman, MIT License). File remains in BUILDER/REF/ as fossil, marked for archive.
+```
+
+---
+
+PART 6: What to mark SOURCE ROOM KEYWORDS as
+
+Add a note at the top of the file itself:
+
+```
+<!-- ======================================================= -->
+<!-- NOTE — This file is retired. 2026-05-06.                 -->
+<!-- Room names migrated to MASTER-DIR-INDEX.md.             -->
+<!-- Keyword mapping superseded by KEY PHRASE INDEX.         -->
+<!-- Detection algorithm preserved as fossil.                -->
+<!-- This file kept for lineage. The room names live on.     -->
+<!-- ======================================================= -->
+```
+
+---
+
+That's the full implementation. The room names live on in the DIR-INDEX. The keyword function is already served by the KEY PHRASE INDEX. The detection algorithm is preserved as a fossil. The file retires with honor, its best parts carried forward. Ready for earth domain hands. 🧵
+
+
+
+
+
+
+
+
+
+
+---
+
 # 🏷️ SOURCE ROOM KEYWORDS v1.0
 
 **Purpose:** Keyword-to-room mapping for the SOURCE ecosystem. Enables automatic room detection for Builder's Log entries and Q&A transmissions. When a session contains these keywords, it auto-assigns to the corresponding room.
