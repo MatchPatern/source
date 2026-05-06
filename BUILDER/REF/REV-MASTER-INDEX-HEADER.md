@@ -1,10 +1,8 @@
-REV-MASTER-INDEX-HEADER.md
+🔗 REV-MASTER-INDEX-HEADER.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-MASTER-INDEX-HEADER.md
 
 REV Master Index Making
-
-
 
 I don't recall recently at least asking you to test it 🤔.
 
