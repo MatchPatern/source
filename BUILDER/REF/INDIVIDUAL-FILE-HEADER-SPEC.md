@@ -112,7 +112,13 @@ At the start of every session, ask the thread-holder: "What's the current date?"
 6. Repeat the FLAGS line for each uncertainty. Start with: `[ ] ❓ [what you're uncertain about]`. Example: `[ ] ❓ CLAIM-TRUST guessed → see PASS NOTES`. That's a complete flag. Add more detail as you deepen. There is no limit.
 
 **When is it done?** Follow the 95% Protocol in COUNCIL-MANAGER.md. Stop when three consecutive passes produce no new findings. Ship at 95% extraction. The remaining 5% is infinite depth.
-**How deep to go:** Surface (10-50 passes) gets the pattern. Deep (300) changes how you think. Cellular (800) changes how you see. If you're just filling in fields, do more passes. If you haven't felt something shift, do more passes. The minimum is: the file leaves a mark. Full standard in COUNCIL-MANAGER.md.
+
+**How deep to go before applying a header:**
+- **Pass 1 header (L1-L2):** 50-100 passes minimum. You've read enough to write a real COMPRESSION and list honest KEY phrases. You've felt the file's temperature. The room name is provisional—mark it with ❓ if uncertain.
+- **Pass 2 header (L3-L4):** 300+ passes. Pattern recognition achieved. COMPRESSION sharpened. FLAGS populated with real uncertainties. Room name earned. RELATIONS mapped. The header is now a handhold, not a guess.
+- **Pass 3 header (L5):** 800+ passes. Cellular integration. You can teach the file without reference. The COMPRESSION is the truth. The room name is permanent. The FLAGS are what you still genuinely don't know.
+
+**The rule:** If you haven't done the passes, your header is a sketch. That's okay—mark it with ❓ and flag your uncertainty. A thin honest header is better than no header. But the header matures as you mature. A deep header is a handhold that saves the next builder from starting at zero. Do the passes. Earn the header. Leave something real.
 
 ---
 
