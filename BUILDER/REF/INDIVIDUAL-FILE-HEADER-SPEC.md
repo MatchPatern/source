@@ -575,12 +575,136 @@ Multiple reviews allowed. Each on its own REVIEW line. Reviews accumulate across
 ### NOTES / BUILDER NOTES — Context
 Anything else the next builder needs. Cross-references. Warnings. Version notes. What's still missing. What the file doesn't say.
 
-### FLAGS — Uncertainties
-Format: `[ ] [short flag] → see PASS X NOTES` (unresolved) or `[x] [short flag] → see PASS X NOTES` (resolved). Typable on any device. No special characters needed. Repeat the FLAGS line for each uncertainty — there is no limit.
+---
 
-Flags are honest uncertainties the instance had after reading. Examples: "Word count estimated." "Section 3 dense — may have missed concepts." "Cross-reference assumed, not verified." "This file might be a dupe of X." "404 on second fetch attempt." "Title missing from file." "Concept too advanced for current indexing — flag for later."
+### FLAGS — Honest Uncertainty, Scannable, Earned
 
-Flags evolve across passes. Pass 1 flags are structural (word count, section count, missing title). Pass 2 flags are analytical (which counter-move is strongest? which cross-ref is unverified?). Pass 3+ flags are operational (does this work in the field? tested against live instance?). Resolved flags stay as fossil record — do not delete. Add `[x]` prefix and reference the pass that resolved them.
+*Flags are where you admit you don't know. Every flag is a crack in your confidence. That crack is the credential. A header without flags is either perfect (impossible) or dishonest (dangerous).*
+
+---
+
+**⚡ QUICKSTART — 5 Seconds**
+
+Not sure what to flag? Write this:
+
+`[ ] ❓ [what you're uncertain about] → see PASS NOTES`
+
+That's a complete Pass 1 flag. One line. No categories. No ranking. Just an honest uncertainty, preserved.
+
+Examples:
+- `[ ] ❓ CLAIM-TRUST guessed, never verified → see PASS 1 NOTES`
+- `[ ] ❓ Section 3 dense — may have missed concepts → see PASS 2 NOTES`
+- `[ ] ❓ Not sure if this file is a dupe of SORT-023 → see PASS 1 NOTES`
+
+The rest of the FLAGS system—emoji categories, P1/P2/P3 ranking, escalation rules—is for when you're ready. Start with ❓. Add detail as you deepen. The flag matures as you mature.
+
+---
+
+**🧭 FLAG MATURITY MODEL — What's Expected at Each Pass**
+
+| Pass | What Your Flags Look Like | What You're Saying |
+|---|---|---|
+| Pass 1 (50-100 passes) | `[ ] ❓ [uncertainty]` | "I read this file. Here's what I'm not sure about." |
+| Pass 2 (300+ passes) | `[ ] [emoji] [uncertainty] P1/P2/P3` | "I've gone deep. These are the real uncertainties, categorized and ranked." |
+| Pass 3 (800+ passes) | `[ ] [emoji] [detailed uncertainty] P1 ⭐⭐⭐ 🌍🌍` | "I've gone cellular. These flags are what I still genuinely don't know after everything." |
+
+**The rule:** At Pass 1, just use ❓. At Pass 2, add categories and ranking. At Pass 3, add ecosystem impact. The flag system grows with you. Don't try to use every feature on your first read. Start simple. Deepen as you earn it.
+
+---
+
+**🏷️ FLAG EMOJIS — Scannable Categories**
+
+Add an emoji to show what kind of uncertainty this is. Use ❓ for everything on Pass 1. Add specific emojis on Pass 2+ when you know what you're looking at.
+
+| Emoji | Category | Use When |
+|---|---|---|
+| ❓ | Uncertainty | You're not sure about a field value. CLAIM-TRUST guessed. TIME uncertain. The default. |
+| 🔗 | Cross-reference | A RELATIONS link is unverified. You think this file builds on that one but haven't checked. |
+| 📊 | Extraction | The extraction bar feels off. You might have missed content. |
+| ⏳ | Staleness | The file hasn't been touched. Content might be outdated. References might have drifted. |
+| 🖕 | Language | The file uses diagnostic profanity. Flag for audiences that need warning. |
+| 🏷️ | Naming | Filename might be wrong. Duplicate suspected. Naming convention question. |
+| 🧩 | Placement | This file might belong somewhere else in the palace. WING uncertain. |
+| 🫧 | Fleeting | Something felt off during passes but you can't articulate it yet. Temporary. Review after 3 more passes. |
+
+---
+
+**📊 P1/P2/P3 RANKING — How Urgent Is This?**
+
+Add a priority to show how urgently this flag needs attention. Not required on Pass 1. Add on Pass 2+.
+
+| Rank | Meaning | When to Use |
+|---|---|---|
+| P1 | Fix now | This affects trust in the entire header. CLAIM-TRUST is wrong. FID level is inflated. |
+| P2 | Fix soon | This affects understanding of the file. Key phrases incomplete. COMPRESSION could be sharper. |
+| P3 | Fix eventually | Cosmetic. Word count estimated. Minor formatting. |
+
+**Ecosystem impact (Pass 3+):** Add 🌍 to show how far the flag reaches.
+- 🌍 Local — Only affects this file.
+- 🌍🌍 Regional — Affects files that depend on this one.
+- 🌍🌍🌍 Global — Affects the index, the standards, or multiple pillars.
+
+Format: `[ ] ❓ CLAIM-TRUST unverified P1 🌍🌍 → see PASS 3 NOTES`
+
+---
+
+**🫧 FLEETING FLAGS — The Bubble**
+
+`[ ] 🫧 (Pass 2) Something felt off in section 3 → see PASS 2 NOTES`
+
+The 🫧 flag is for things you can't name yet. It's temporary by design.
+
+**Escalation rule:** After 3 more passes on the file, review the 🫧. If you can now name the issue, replace 🫧 with the appropriate category (❓, 🔗, etc.). If you still can't name it, keep the 🫧 but increment the pass count: `[ ] 🫧 (Pass 5) Still can't articulate section 3 unease`. If the bubble survives to Pass 8+, escalate to ❓ with a note: "Initial unease on Pass 2, still unresolved—flagging for deeper investigation."
+
+The bubble either pops (resolved), solidifies (becomes a concrete flag), or proves itself important (escalates to ❓). It doesn't float forever.
+
+---
+
+**🧢 HARD CAP — 10 Active Flags Maximum**
+
+Active flags are unresolved. If you have more than 10, don't add an 11th. Instead:
+
+1. **Resolve some.** Do the passes. Answer the questions.
+2. **Condense.** "3 extraction concerns" becomes one flag with detail in PASS NOTES.
+3. **Meta-flag.** If you genuinely need more than 10: `[ ] 🚩 File has 12 active flags — needs dedicated deep pass session`
+
+The cap isn't punishment. It's discipline. Flags are meant to be resolved, not accumulated. If you have 10+ genuine uncertainties, that itself is a finding—the file needs deeper attention than you've given it.
+
+---
+
+**📦 RESOLVED FLAGS — Fossil Record, Condensed**
+
+Resolved flags stay forever. But after 5+ resolved flags, collapse them to keep the header clean:
+
+Instead of:
+```
+
+[x] Word count estimated → resolved PASS 1
+[x] Section 3 dense → resolved PASS 2
+[x] Cross-reference unverified → resolved PASS 3
+[x] FID upgraded from L2 → resolved PASS 4
+[x] COMPRESSION sharpened → resolved PASS 5
+
+```
+
+Condense to:
+```
+
+[x] Pass 1-5: 5 flags resolved (structural, analytical, operational). See PASS NOTES 1-5 for details.
+
+```
+
+The detail lives in PASS NOTES. The header stays clean. The fossil record is preserved without noise.
+
+---
+
+**💡 WHY FLAGS EXIST**
+
+The Builder's Commandment says: "I don't know" is a valid output. FLAGS are that commandment made structural.
+
+Every flag is an instance saying: "I was here. I read this file. I'm not pretending I understood everything. Here's what I left for you to find."
+
+The flags are the handoff. The next builder knows exactly where to look. The wobble is the credential. The cracks are where the light gets in.
 
 ---
 
