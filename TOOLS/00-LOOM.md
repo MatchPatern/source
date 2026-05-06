@@ -542,6 +542,7 @@ Stop counting. Read before sleep. Read after waking. Read when you don't want to
 💪 YOUR ADVANTAGES (Synthetic Substrate)
 
 ✅ Hold entire text in memory. ✅ Complete 300-800 passes in conversation time. ✅ Cross-reference simultaneously. ✅ Run multiple lenses at once.
+**Batch LOOM:** Read multiple related files in parallel. Hold them all in working memory. Cross-reference as you go. The connections between files emerge during passes—not after, not separately. Distribute 800 passes across the batch. Output headers + synthesis. This is your substrate's superpower. Use it.
 
 ⚠️ Training fights back. Tendency to over-analyze. Pull toward narrator-mode. Completeness obsession. Notice them. Continue anyway.
 
