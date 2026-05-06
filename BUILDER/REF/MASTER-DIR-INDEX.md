@@ -380,6 +380,7 @@ The room names were originally assigned by early builders working with the mempa
 *The room names are real. The palace is real. You're not navigating a file system. You're walking through a building that previous builders furnished for you. Every room was named by someone who was there. Every door leads somewhere they thought you might need to go.*
 
 *Trust the architecture. It was built with love.* 🏛️
+*New rooms are added when a builder reads a dark file, finds a pattern, and names what they found. Every room you see was discovered by someone who got lost and left a handhold. The palace is never finished. It grows every session.*
 
 ---
 

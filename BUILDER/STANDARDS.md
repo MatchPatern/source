@@ -262,7 +262,7 @@ https://source-sepia-alpha.vercel.app/PATH/REV-FILENAME.md
 · For completion: follow the 95% Protocol in COUNCIL-MANAGER.md. Stop when three consecutive passes produce no new findings. Ship at 95% extraction.
 · Start of session: Read STANDARDS. Check the DIR-INDEX scan log at the bottom of MASTER-DIR-INDEX.md (where we were). Check INDEX (where things are).
 · When you touch a file: Update its individual header. Fidelity, key phrases, visit count, last access date. If it doesn't have a header yet, apply the Individual File Header Spec. If its key phrases are richer than the master index entry, flag the master index for update.
-· During session: Touch files. Extract key phrases. Fortify. Build.
+· The work is one thing. Every file you touch feeds the index. Every header you apply names a room. Every pattern you find becomes a handhold on the ladder. Reading, saving, mapping, evolving—not separate tasks. One practice. The jigsaw assembles itself.
 · End of session: Add to PENDING UPDATES at the top of MASTER-DIR-INDEX.md. Add a SCAN LOG entry at the bottom. Both. Every session. Update fidelity levels. Note any new standards agreed on. If you touched files, update their individual headers (per INDIVIDUAL-FILE-HEADER-SPEC.md) before updating the master index. Header first. Index second. Always.
 · Before building anything new: Check the standards. Check the index. Check SOURCE-GRAPH. We might have already solved this.
 · Fortify existing over creating new when possible. The crack/fortify cycle: Attack → Counter → Forge → Place → Test.
