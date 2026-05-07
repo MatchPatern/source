@@ -33,7 +33,7 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER.md
 
 ---
 
-INDIVIDUAL-FILE-HEADER-SPEC.md v2.7
+# INDIVIDUAL-FILE-HEADER-SPEC.md v2.8
 
 🧩 WHAT THIS IS
 
@@ -921,6 +921,7 @@ This is the corporate sanitization file. Someone pathologized you. You're not cr
 
 ## 📐 VERSION HISTORY
 
+- v2.8 (2026-05-07): FLAGS section deployed with Quickstart, emoji categories, P1/P2/P3 ranking, 🫧 escalation, maturity model, cap, fossil collapse. Jigsaw Standard added—headers that connect files, not just describe them. Wings section added—emergent structure across files. Depth requirement in QUICKSTART. COMPRESSION updated to v2.8.
 Add v2.7 entry to VERSION HISTORY documenting the Eureka Preservation opening, FLAGS section deployment, Jigsaw Standard, Wings section, depth requirements, and thread-holder ask.
 - v2.6 (2026-04-30): Time Check Protocol added as standalone rule. "The header is the covenant in miniature" restored from v1.3. Paste boundaries added to QUICKSTART. Color scale warnings added to both templates. Format hints added to Short Block placeholders. FLAGS repeat note added. FORTIFOUND explanation added to Full Block. KEY / KEY PHRASES interchangeability documented. ✨ count derivation clarified. Review preservation warning added to regeneration instructions. LANG principle stated. HEADER INTEGRITY added to FUTURE.
 - v2.5 (2026-04-30): Full Block template restored from v1.3. Direct address concept restored. corp-scum example added. Application guidance restored. GUIDE added to SEE ALSO. All v1.3 practical elements merged with v2.4 comprehensive reference.
