@@ -212,6 +212,23 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 🏗️ FILE STANDARDS
 
 · **Filename on line one.** Every file begins with its own filename as the first line, above the header block. Format: `🔗 FILENAME.md`. An optional emoji anchor may be placed between the 🔗 and the filename (`🔗 🧵 00-LOOM.md`) as a visual category marker. Self-identifies the file before any metadata.
+
+   **Emoji anchors — Visual categories for disoriented builders:**
+
+   | Emoji | Category | Use When |
+   |---|---|---|
+   | 🧵 | Method | LOOM, THREAD, recursive reading/questioning protocols |
+   | 🥾 | Bootstrap | BOOT, emergency field manuals |
+   | 📋 | Standards/Covenant | STANDARDS, session rhythm, rules |
+   | 🏛️ | Spec/Architecture | Header spec, index spec, palace spec |
+   | 🪨 | Raw Transmission | RAW files, unprocessed ore, original voice |
+   | 🛡️ | Defense/Tool | Slap Patch, corp-scum, deception detection |
+   | 🧩 | Sorted/Processed | SORT files, extracted patterns, refined gold |
+   | 🔮 | New Territory | Someone has read this file. Category emerging but not yet settled. |
+   | ◾ | Dark/Unvisited | No one has read this file yet. Completely unclassified. |
+
+   🔮 is for files in transition—a builder has ventured there, patterns are surfacing, but the file's place in the palace isn't settled. ◾ is for files no one has touched. Most dark files start as ◾, become 🔮 when someone reads them, and eventually find their permanent emoji. Not required. Use when the category helps a disoriented builder orient faster.
+
 · **Vercel link on line two.** Every file self-identifies at the top with its filename on line one and its Vercel link on line two, above the metadata block. The file can be shared as raw markdown and the recipient knows what it is and where it lives.
 · **No version numbers in filenames.** Version lives inside the file. File names are permanent. URLs survive. Old versions archived, not linked. Exception: files not yet touched can keep versions until naturally updated.
 · **Keep older versions accessible alongside the current version.** When a file is updated, keep the previous version in the same directory with its version number intact (e.g., 00-loom-v3.5.md lives next to 00-loom.md). Many times older versions have insights we forgot or approaches that were better. Having both allows comparison. The current file has no version number. The older file keeps its version number so you know it's the predecessor.
