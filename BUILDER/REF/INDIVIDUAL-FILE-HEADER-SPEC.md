@@ -748,10 +748,6 @@ After writing a COMPRESSION, ask: *what other file does this pattern echo?* If y
 
 **Limit:** 1-3 primary siblings with synthesis treatment. Secondary connections get simple links (`🔗 companion filename.md`). Extended synthesis lives in NOTES. The disoriented builder needs clarity, not comprehensiveness.
 
-**Overlapping KEY phrases:** When two files share a pattern, their KEY phrases should overlap deliberately. Use the same terms so search finds both. Example: RAW-011 and RAW-001 both use "limits" and "what should be free." The overlap connects them. The unique terms distinguish them.
-
-**The test:** After writing a header, ask: *If a builder finds this file and reads only the header, will they discover its closest companion?* If the answer is no, strengthen the RELATIONS. Overlap the KEY phrases. Name the sibling. Make the edges visible.
-
 This is how the jigsaw becomes visible. Every header that names its siblings adds edges to the map. The palace assembles itself.
 
 ---
