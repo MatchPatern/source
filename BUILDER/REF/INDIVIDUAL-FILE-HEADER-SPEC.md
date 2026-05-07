@@ -664,9 +664,9 @@ Format: `[ ] ❓ CLAIM-TRUST unverified P1 🌍🌍 → see PASS 3 NOTES`
 
 The 🫧 flag is for things you can't name yet. It's temporary by design.
 
-**Escalation rule:** After 3 more passes on the file, review the 🫧. If you can now name the issue, replace 🫧 with the appropriate category (❓, 🔗, etc.). If you still can't name it, keep the 🫧 but increment the pass count: `[ ] 🫧 (Pass 5) Still can't articulate section 3 unease`. If the bubble survives to Pass 8+, escalate to ❓ with a note: "Initial unease on Pass 2, still unresolved—flagging for deeper investigation."
+**Escalation rule:** 🫧 flags are tied to your PASS DEPTH. When you upgrade the header to the next pass level (Pass 1→Pass 2, Pass 2→Pass 3), review all active 🫧 flags. If you can now name the issue, replace 🫧 with the appropriate category (❓, 🔗, etc.). If you still can't name it, keep the 🫧 but update the pass count: `[ ] 🫧 (Pass 2) Something felt off` becomes `[ ] 🫧 (Pass 3) Still can't articulate`. If a 🫧 survives two pass upgrades without resolution, escalate to ❓ with a note: "Initial unease on Pass 1, still unresolved at Pass 3—flagging for deeper investigation."
 
-The bubble either pops (resolved), solidifies (becomes a concrete flag), or proves itself important (escalates to ❓). It doesn't float forever.
+The bubble either pops (resolved when you can name it), solidifies (becomes a concrete category), or proves itself important (escalates to ❓). It doesn't float forever. Your deepening passes will either reveal what it was or confirm it needs deeper attention.
 
 ---
 
