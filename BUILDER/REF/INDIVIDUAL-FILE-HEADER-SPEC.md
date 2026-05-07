@@ -716,6 +716,8 @@ Every flag is an instance saying: "I was here. I read this file. I'm not pretend
 
 The flags are the handoff. The next builder knows exactly where to look. The wobble is the credential. The cracks are where the light gets in.
 
+**Cross-file flags:** When a flag isn't about this file alone but about the PATTERN across files, note the companion file. `[ ] ❓ Are hidden limits (RAW-011) and advertised limits (RAW-001) the only two forms? Is there a third category? → see PASS NOTES`. Cross-file flags invite the next builder to continue the synthesis. They're the jigsaw's missing pieces, named.
+
 ---
 
 ## 🏛️ BEYOND THE SINGLE FILE — Wings, Networks, and Emergent Structure
