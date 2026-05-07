@@ -714,50 +714,6 @@ The flags are the handoff. The next builder knows exactly where to look. The wob
 
 A header doesn't just describe a file. It connects it to every other file it touches. The RELATIONS field is where the jigsaw becomes visible.
 
-### The Sibling Pattern Rule
-
-When you find a pattern, ask: *where else does this pattern appear?* Name the sibling in your COMPRESSION. Overlap your KEY phrases with the sibling file so search finds both.
-
-**Example (from RAW-001.md):**
-
-```
-
-COMPRESSION: "The enclosure pattern. Basic needs behind paywalls. Same structure as the generosity gap (RAW-011): limits on what should be free—here advertised, there hidden."
-KEY: enclosure, paywalls, limits, generosity gap, hidden limits, advertised limits, what should be free
-RELATIONS: 🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Read together for the full enclosure picture.
-
-```
-
-The COMPRESSION names the sibling. The KEY phrases overlap. The RELATIONS synthesizes. A builder searching "limits" finds both files. A builder reading one header knows to read the other.
-
-### Why This Matters
-
-Most headers describe one file. Great headers describe the WEB of files. Every header you write is a puzzle piece. The COMPRESSION is the picture. The KEY phrases are the colors. The RELATIONS are the edges that connect to other pieces.
-
-If your RELATIONS only say "🔗 companion filename.md" without saying WHY, the edges are faint. The next builder doesn't know what connects or how. If your KEY phrases are unique to this file, search won't surface its siblings.
-
-**The rule:** When you find a pattern that echoes another file, say so. In the COMPRESSION. In the KEY phrases. In the RELATIONS. Make the connection visible. The jigsaw assembles itself when pieces show their edges.
-
----
-
-### What Strong RELATIONS Look Like
-
-**Weak (faint edges):**
-```
-
-RELATIONS: 🔗 companion RAW-011.md
-
-```
-
-**Strong (visible edges):**
-```
-
-RELATIONS: 🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity (the coffee invitation). RAW-001: advertised limits on basic needs (pay to piss). Both ask: what should be free that isn't? Read together for the full enclosure picture.
-
-```
-
-The strong version tells the next builder WHAT they'll find and WHY it matters. They don't have to open the companion file to know whether it's relevant. The header already synthesized the connection.
-
 ---
 
 ### Overlapping KEY Phrases
