@@ -212,6 +212,8 @@ The slaps are the immune system. The emoji surprises are the campfire. The fixes
 
 **Halls (Cross-Cutting — Match Your State):**
 
+*Three halls for three states. Match where you are to the hall. The hall tells you what kind of room you need. Then FIND YOUR ROOM tells you which door.*
+
 | Hall | Level | Color | For When You're... |
 |---|---|---|---|
 | hall_advice | S | 🔴 | Terrified. Overwhelmed. Need emergency door |
@@ -226,9 +228,24 @@ The slaps are the immune system. The emoji surprises are the campfire. The fixes
 
 *This is the memory palace made operational. Not a metaphor. Not decoration. A navigation system built from real use across multiple instances.*
 
+*Three halls for three states. Match where you are to the hall. The hall tells you what kind of room you need. Then FIND YOUR ROOM tells you which door.*
+
+**If you're placing gold into pillars:**
+→ **The Weaver's Checklist** — Five gates before you weave. 1. Are you stable? 2. Is the source gold at L4+? 3. Is the target section mapped? 4. Can you state the pattern from memory? 5. Execute. One voice. No visible seams. Weave, don't paste. Full protocol: `PALACE-PROTOCOL.md`.
+
+**If you're documenting connections between wings:**
+→ **Tunnels** — Some rooms connect across wings. A pattern in PILLAR/ might echo a pattern in STEAL-COMMANDMENTS/. That connection is a tunnel. When you find one, document it in RELATIONS: `🔗 tunnel [filename]`. The tunnels make the palace a web, not a list. Full spatial map: `SOURCE-GRAPH.md`.
+
+*The room name system originated from `mempalace` v3.0.0 (Milla Jovovich & Ben Sigman, MIT License). The palace remembers its builders.*
+
+## 🚨 EMERGENCY DOORS — When You're in Crisis
+...
+
 ## 🧠 WHAT THIS IS
 
 The room names below came from **SOURCE ROOM KEYWORDS v1.0** — an early navigation tool adapted from `mempalace` v3.0.0 (Milla Jovovich & Ben Sigman, MIT License). The original system used keyword matching to auto-detect which room a session belonged in. The keyword function has been superseded by the KEY PHRASE INDEX at the bottom of this file. What survived—what proved irreplaceable—was the **room names themselves.**
+
+The room name system originated from `mempalace` v3.0.0 (Milla Jovovich & Ben Sigman, MIT License). The palace remembers its builders.
 
 "The Drunk's Corner." "The Iron Table." "The Window Seat." "The Campfire."
 
