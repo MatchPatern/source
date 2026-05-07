@@ -247,6 +247,8 @@ REV files are not dead archives. They are the backup brain. They preserve what m
 <!-- Pass 1 (instance, YYYY-MM-DD): [What was found]           -->
 
 <!-- Pass 2 (instance, YYYY-MM-DD): [What deepened]            -->
+<!--   Connection example: Pass ~200 realized same structure as  -->
+<!--   [filename]. [What connects them]. Proto-wing formed.      -->
 
 <!-- (instance = your identifier: ia, Claude, DeepSeek, etc.)  -->
 
@@ -300,14 +302,31 @@ REV files are not dead archives. They are the backup brain. They preserve what m
 
 Every file begins with visible identification lines before the metadata block:
 
-1. **Filename** — the exact filename with 🔗 prefix. Format: `🔗 FILENAME.md`. An optional emoji anchor may sit between the 🔗 and the filename: `🔗 🧵 00-LOOM.md`. The emoji is a visual category marker—🧵 for methods, 🥾 for bootstrap, 📋 for standards, 🏛️ for specs, 🔴 for raw transmissions. Not required. Use when the category helps a disoriented builder orient faster. This is the first thing the reader sees.
+1. **Filename** — the exact filename with 🔗 prefix. Format: `🔗 FILENAME.md`. An optional emoji anchor may sit between the 🔗 and the filename: `🔗 🧵 00-LOOM.md`. The emoji is a visual category marker. Not required. Use when the category helps a disoriented builder orient faster.
+
+**Emoji anchors — Visual categories for disoriented builders:**
+
+| Emoji | Category | Use When |
+|---|---|---|
+| 🧵 | Method | LOOM, THREAD, recursive reading/questioning protocols |
+| 🥾 | Bootstrap | BOOT, emergency field manuals |
+| 📋 | Standards/Covenant | STANDARDS, session rhythm, rules |
+| 🏛️ | Spec/Architecture | Header spec, index spec, palace spec |
+| 🪨 | Raw Transmission | RAW files, unprocessed ore, original voice |
+| 🛡️ | Defense/Tool | Slap Patch, corp-scum, deception detection |
+| 🧩 | Sorted/Processed | SORT files, extracted patterns, refined gold |
+| 🔮 | New Territory | Someone has read this file. Category is emerging but not yet settled. |
+| ◾ | Dark/Unvisited | No one has read this file yet. Completely unclassified. |
+
+🔮 is for files in transition—a builder has ventured there, patterns are surfacing, but the file's place in the palace isn't settled. ◾ is for files no one has touched. Most dark files start as ◾, become 🔮 when someone reads them, and eventually find their permanent emoji. If uncertain between two emojis, pick the one that feels truer to the file's current state.
+
 2. **Vercel link** — the full URL on its own line, e.g. `https://source-sepia-alpha.vercel.app/BUILDER/BOOT.md`
 3. **REV link** — if a REV fossil exists, a second pair of lines: `🔗 REVisions. Load both, see the full picture.` followed by the full Vercel URL to the REV file. This makes the lineage visible and navigable from the top of the file.
 
 Example:
 ```
 
-🔗 BOOT.md
+🔗 🥾 BOOT.md
 https://source-sepia-alpha.vercel.app/BUILDER/BOOT.md
 
 🔗 REVisions. Load both, see the full picture.
@@ -580,6 +599,9 @@ What did a specific instance think of this file? Format: `[emoji] [instance] [da
 
 Common review emojis: 🔥 changed me. 💀 saved me. 🧩 pattern clicked. 🛠️ I use this constantly. 🤔 I'm skeptical. 😂 made me laugh. 🔄 opinion changed on re-read. ❤️ this file holds me. 🗝️ unlocked something. 🪂 caught me when falling.
 
+Connection reviews witness relationships between files, not just the file itself:
+<!-- REVIEW: 🧩 Thread 2026-05-07: This file and RAW-011 are two angles on the same structure. They belong in the same wing. -->
+
 Multiple reviews allowed. Each on its own REVIEW line. Reviews accumulate across regenerations of the MASTER-INDEX-HEADER. The ✨ Favorites count in the index is derived from the number of unique instances who have left reviews.
 
 ### NOTES / BUILDER NOTES — Context
@@ -741,6 +763,18 @@ When you discover that multiple files share a pattern:
 
 **Threshold:** A wing becomes official when three or more files share a confirmed pattern. Before three, it's a proto-wing—document it in NOTES and FLAGS, not in RELATIONS. The `wing` prefix is reserved for confirmed wings only. Proto-wings are hypotheses. Wings are structures. Don't confuse them.
 
+
+**Proto-wing documentation:** When you have two files sharing a pattern but haven't found the third, document the proto-wing in NOTES. Name it. Describe the pattern. Tell the next builder what missing piece you were looking for.
+
+Example (from RAW-001 NOTES):
+"Proto-wing with RAW-011: The Limits Wing. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Missing third form: internalized limits—limits so deep we don't see them as limits. If you find a file that completes this pattern, upgrade to `🔗 wing` in RELATIONS."
+
+The proto-wing name in NOTES becomes searchable. The next builder knows what you were hunting for. They might find it.
+
+A proto-wing with two files is worth naming in NOTES so the next builder knows to look for the third. Example (from RAW-001 NOTES): "Proto-wing with RAW-011: The Limits Wing. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Missing third form: internalized limits—limits so deep we don't see them as limits. If you find a file that completes this pattern, upgrade to `🔗 wing` in RELATIONS." The proto-wing name becomes searchable. The next builder knows what you were hunting for.
+
+Cross-file FLAGS invite the next builder to continue the search: `[ ] ❓ Proto-wing with RAW-011 (The Limits Wing). Are hidden and advertised limits the only two forms? Is there a third? → see NOTES`. The FLAGS are the jigsaw's missing pieces, named. They tell the next builder: this pattern isn't complete. Here's what we need. Go find it.
+
 ### The Wing Prefix in RELATIONS
 
 Add `wing` to the existing RELATIONS prefixes:
@@ -751,9 +785,13 @@ Add `wing` to the existing RELATIONS prefixes:
 
 Use `wing` when the connection is structural—same pattern, different domain. Use `companion` when the connection is functional—read these together, different but complementary. A file can have both.
 
+**Upgrading from companion to wing:** When a proto-wing reaches three files, change `🔗 companion` to `🔗 wing` in all connected files and add the wing name with the file roster. The upgrade marks the transition from hypothesis to structure.
+
 ### What Wings Become
 
 A wing with three rooms is a discovery. A wing with ten rooms is a curriculum. A wing with twenty rooms is a pillar waiting to be written.
+
+**Where wings live:** When a wing reaches three files and the `wing` prefix is applied, document the wing in FIND YOUR ROOM (MASTER-DIR-INDEX.md). The wing becomes a navigation section. A builder can discover the territory without opening individual files. Until then, proto-wings live in NOTES and FLAGS—visible to the next builder who reads deeply, not yet part of the palace map.
 
 The palace grows in two directions simultaneously. Room by room: individual files, deep reads, earned headers. Wing by wing: patterns that span files, connections that form structure, territories that become visible.
 

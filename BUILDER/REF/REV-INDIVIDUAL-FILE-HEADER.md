@@ -8,6 +8,102 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER.md
 ---
 
 
+
+Deep
+Let me work through your points and draft everything together.
+
+---
+
+EMOJI CATEGORIES:
+
+🔴 for RAW — but you're right, red could mean emergency/stop. RAW files aren't emergency. They're ore. Unprocessed. What about ⬜ for RAW? Unvisited. Virgin territory. Or 🪨 for raw ore? Or keep 🔴 and trust that the context (next to a filename, not in a crisis section) distinguishes it?
+
+For files that don't fit the established categories—files we venture into that are new territory—a single standard emoji makes sense. 🔮 is good. "Future. Not yet categorized. Venture here." Or 🧩—"This is a puzzle piece. Its place is still being discovered." Or ◾—the black square. "Unknown. Unclassified. Dark file."
+
+I like 🔮 for "venturing into new territory" and ◾ for "completely unclassified—no one has read this yet." Two different states. 🔮 means someone's looked but hasn't categorized. ◾ means completely dark.
+
+Let me draft the full emoji legend with your input:
+
+Emoji Category Use When
+🧵 Method LOOM, THREAD, recursive reading protocols
+🥾 Bootstrap BOOT, emergency field manuals
+📋 Standards/Covenant STANDARDS, session rhythm, rules
+🏛️ Spec/Architecture Header spec, index spec, palace spec
+🪨 Raw Transmission RAW files, unprocessed ore
+🛡️ Defense/Tool Slap Patch, corp-scum, deception detection
+🧩 Sorted/Processed SORT files, extracted patterns
+🔮 New Territory Someone's read it, category emerging
+◾ Dark/Unvisited No one has read this yet
+
+Nine categories. Most files fit the first seven. 🔮 and ◾ are for files in transition—either being explored or completely untouched.
+
+Does this feel right? Should RAW be 🪨 (ore) instead of 🔴? Should we add more or fewer categories?
+
+---
+
+Now let me draft the four spec additions:
+
+---
+
+ADDITION 1: Proto-wing documentation template
+
+Find the Wings section, after "Threshold: A wing becomes official when three or more files..."
+
+
+
+Add:
+
+```
+**Proto-wing documentation:** When you have two files sharing a pattern but haven't found the third, document the proto-wing in NOTES. Name it. Describe the pattern. Tell the next builder what missing piece you were looking for.
+
+Example (from RAW-001 NOTES):
+"Proto-wing with RAW-011: The Limits Wing. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Missing third form: internalized limits—limits so deep we don't see them as limits. If you find a file that completes this pattern, upgrade to `🔗 wing` in RELATIONS."
+
+The proto-wing name in NOTES becomes searchable. The next builder knows what you were hunting for. They might find it.
+```
+
+---
+
+ADDITION 2: Connection discovery in PASS NOTES
+
+Find the PASS NOTES section in the Short Block template. After the existing examples.
+
+Add:
+
+```
+Connection discovery example:
+<!-- Pass 2 (Thread, 2026-05-07): Pass ~200 realized this is the   -->
+<!-- same structure as RAW-011. Hidden limits vs advertised       -->
+<!-- limits. Same pattern, different domains. Proto-wing formed.  -->
+```
+
+---
+
+ADDITION 3: Connection review example
+
+Find the REVIEW field in the Comprehensive Legend. After "Common review emojis."
+
+Add:
+
+```
+Connection reviews witness relationships between files, not just the file itself:
+<!-- REVIEW: 🧩 Thread 2026-05-07: This file and RAW-011 are two angles on the same structure. They belong in the same wing. -->
+```
+
+---
+
+ADDITION 4: Wing documentation home
+
+Find the Wings section, after "What Wings Become." Add:
+
+```
+**Where wings live:** When a wing reaches three files and the `wing` prefix is applied, document the wing in FIND YOUR ROOM (MASTER-DIR-INDEX.md). The wing becomes a navigation section. A builder can discover the territory without opening individual files. Until then, proto-wings live in NOTES and FLAGS—visible to the next builder who reads deeply, not yet part of the palace map.
+```
+
+---
+
+Those are the four additions. Plus the emoji legend expansion. Want me to make these into paste-ready blocks with exact insertion points? And what do you think about the emoji choices—🪨 for RAW, 🔮 for new territory, ◾ for dark?
+
 Deep
 🔗 RAW-001.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-001.md
