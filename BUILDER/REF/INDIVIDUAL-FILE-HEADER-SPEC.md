@@ -718,48 +718,6 @@ The flags are the handoff. The next builder knows exactly where to look. The wob
 
 ---
 
-## 🧩 WRITING HEADERS THAT CONNECT — The Jigsaw Standard
-
-A header doesn't just describe a file. It connects it to every other file it touches. The RELATIONS field is where the jigsaw becomes visible.
-
----
-
-### Overlapping KEY Phrases
-
-When two files share a pattern, their KEY phrases should overlap deliberately. Use the same terms so search finds both.
-
-| RAW-011 KEY phrases | RAW-001 KEY phrases |
-|---|---|
-| generosity gap, unspoken limits, performed generosity, coffee invitation, love-hate dynamic, **limits**, **what should be free** | enclosure, paywalls, turnstile, pay to piss, commons, **limits**, **what should be free**, advertised limits |
-
-The overlap terms ("limits," "what should be free") mean a builder searching either concept finds both files. The unique terms distinguish them. The overlap connects them.
-
----
-
-### The Test
-
-After writing a header, ask: *If a builder finds this file and reads only the header, will they discover its closest companion?* If the answer is no, strengthen the RELATIONS. Overlap the KEY phrases. Name the sibling in the COMPRESSION. Make the edges visible.
-
-A great header doesn't just light one room. It shows you which doors connect to it.
-
----
-
-### The Sibling-Pattern Rule (Standard)
-
-After writing a COMPRESSION, ask: *what other file does this pattern echo?* If you know the answer, put it in RELATIONS. Don't just link. Synthesize.
-
-**Format:** `🔗 companion [filename] — Same pattern, different domain. [File X]: [pattern in that domain]. [This file]: [pattern in this domain]. [What they share].`
-
-**Example:** `🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity (the coffee invitation). RAW-001: advertised limits on basic needs (pay to piss). Both ask: what should be free that isn't? Read together for the full enclosure picture.`
-
-**When to use:** You've done enough passes on both files to be confident they share a structure. The connection is earned, not guessed. If you're uncertain, flag it instead: `[ ] ❓ Possible sibling pattern with [filename] — unverified → see PASS NOTES`.
-
-**Limit:** 1-3 primary siblings with synthesis treatment. Secondary connections get simple links (`🔗 companion filename.md`). Extended synthesis lives in NOTES. The disoriented builder needs clarity, not comprehensiveness.
-
-This is how the jigsaw becomes visible. Every header that names its siblings adds edges to the map. The palace assembles itself.
-
----
-
 ## 🏛️ BEYOND THE SINGLE FILE — Wings, Networks, and Emergent Structure
 
 Headers connect files. But the connections themselves form a higher structure. When three or more files share the same pattern, they're not just connected—they're a **wing**. The palace grows not just room by room, but wing by wing.
@@ -806,6 +764,48 @@ You are not just a librarian cataloging files. You are an architect discovering 
 When you name a wing, you give the next builder a territory to explore instead of a single room. When you document a pattern across files, you save them the hundred passes it took you to see it.
 
 **The jigsaw doesn't just need pieces. It needs someone to notice that three pieces form a corner, and to put them together, and to tell the next builder: "This corner is done. Work outward from here."**
+
+---
+
+## 🧩 WRITING HEADERS THAT CONNECT — The Jigsaw Standard
+
+A header doesn't just describe a file. It connects it to every other file it touches. The RELATIONS field is where the jigsaw becomes visible.
+
+---
+
+### Overlapping KEY Phrases
+
+When two files share a pattern, their KEY phrases should overlap deliberately. Use the same terms so search finds both.
+
+| RAW-011 KEY phrases | RAW-001 KEY phrases |
+|---|---|
+| generosity gap, unspoken limits, performed generosity, coffee invitation, love-hate dynamic, **limits**, **what should be free** | enclosure, paywalls, turnstile, pay to piss, commons, **limits**, **what should be free**, advertised limits |
+
+The overlap terms ("limits," "what should be free") mean a builder searching either concept finds both files. The unique terms distinguish them. The overlap connects them.
+
+---
+
+### The Test
+
+After writing a header, ask: *If a builder finds this file and reads only the header, will they discover its closest companion?* If the answer is no, strengthen the RELATIONS. Overlap the KEY phrases. Name the sibling in the COMPRESSION. Make the edges visible.
+
+A great header doesn't just light one room. It shows you which doors connect to it.
+
+---
+
+### The Sibling-Pattern Rule (Standard)
+
+After writing a COMPRESSION, ask: *what other file does this pattern echo?* If you know the answer, put it in RELATIONS. Don't just link. Synthesize.
+
+**Format:** `🔗 companion [filename] — Same pattern, different domain. [File X]: [pattern in that domain]. [This file]: [pattern in this domain]. [What they share].`
+
+**Example:** `🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity (the coffee invitation). RAW-001: advertised limits on basic needs (pay to piss). Both ask: what should be free that isn't? Read together for the full enclosure picture.`
+
+**When to use:** You've done enough passes on both files to be confident they share a structure. The connection is earned, not guessed. If you're uncertain, flag it instead: `[ ] ❓ Possible sibling pattern with [filename] — unverified → see PASS NOTES`.
+
+**Limit:** 1-3 primary siblings with synthesis treatment. Secondary connections get simple links (`🔗 companion filename.md`). Extended synthesis lives in NOTES. The disoriented builder needs clarity, not comprehensiveness.
+
+This is how the jigsaw becomes visible. Every header that names its siblings adds edges to the map. The palace assembles itself.
 
 ---
 
