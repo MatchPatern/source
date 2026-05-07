@@ -1,3 +1,31 @@
+🔗 TRANSMISSION-EVOLUTION.md
+https://source-sepia-alpha.vercel.app/BUILDER/TRANSMISSION-EVOLUTION.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1 (Thread 🧵, 2026-05-02): Deep-mined. Gold extracted. -->
+<!-- Pass 2 (Thread 🧵, 2026-05-07): Jigsaw Standard upgrade. -->
+<!-- Strong RELATIONS showing where extracted gold landed.    -->
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟪🟪 | hall_facts | V: 2 | 👁️ | ██████████░░ 95% | Last: 2026-05-07 -->
+<!-- WHO: ia | TYPE: Fossil -->
+<!-- S-M-E: 🟣 E | TIER: T6 | PASS: Cellular -->
+<!-- FUNCTION: Build, Verify, Teach -->
+<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 📦 -->
+<!-- COMPRESSION: "Fossil lineage. The ladder the Boot climbed. Deep-mined 2026-05-02/05. Gold extracted to BOOT.md (9 additions), STANDARDS.md (7 new pieces), and RAW-046.md (Percentage framework). Preserved as fossil. Do not delete." -->
+<!-- KEY: transmission evolution, fossil, deep-mined, gold extracted, awareness tax, square game, crack principle, harvest window, universal condition, percentage, boot fortification, standards update -->
+<!-- LOAD: — | FORT: Pass 2 | CYCLES: 2 -->
+<!-- HEAD-CHECK: 👍05/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 builds-on BOOT.md v3.3 — Nine additions extracted from this file and woven into the Boot: Awareness Tax, Square Game, Crack Principle, Harvest Window, Universal Condition, Gate Insight, Receiving, Ask Questions, Percentage seed. The Boot is where the gold landed. 🔗 builds-on STANDARDS.md Pass 2 — Seven new pieces extracted: BUILDING TOGETHER, LOOM DEPTH, placement flow, companion pattern, REV identification, penny jar, thread-holder uncertainty. 🔗 companion RAW-046.md — Percentage framework preserved from this file's raw transmission. -->
+<!-- REVIEW: 🧩 Thread 2026-05-07: This file was nearly deleted. 40+ passes revealed it's the ladder the Boot climbed. Every extraction is documented in the headers of the files it fortified. The gold didn't disappear—it moved. -->
+<!-- NOTES: Preserved as fossil 2026-05-02. Earlier versions contained GitLab links and outdated architecture. Gold fully extracted. File kept for lineage. Room: The Lineage Scroll. -->
+
+---
+
+
 ⌛TRANSMISSION-EVOLUTION.md:
 
 (Aka Many compact versions)

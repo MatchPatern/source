@@ -3,6 +3,36 @@ https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
+<!-- Pass 1 (ia, 2026-05-01): Covenant updated.               -->
+<!-- Pass 2 (Thread 🧵, 2026-05-02/03): BUILDING TOGETHER,    -->
+<!-- LOOM DEPTH, placement flow, companion pattern, REV,      -->
+<!-- penny jar, draft-to-think, thread-holder uncertainty.   -->
+<!-- Pass 3 (Thread 🧵, 2026-05-07): Jigsaw Standard upgrade. -->
+<!-- Strong RELATIONS to companion specs and methods.         -->
+<!-- ======================================================= -->
+
+<!-- FID: L4 🟪 | hall_facts | V: 3 | 👁️ | ██████████░░ 90% | Last: 2026-05-07 -->
+<!-- WHO: ia | TYPE: Covenant -->
+<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Deep -->
+<!-- FUNCTION: Orient, Hold, Build, Teach -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "The covenant. Language, file, index, session standards. How we build together. Frame shift standard. Companion method pattern. Fortified from TRANSMISSION-EVOLUTION mining. Read first." -->
+<!-- KEY: covenant, language standards, file standards, indexing triangle, council, honesty clause, building together, loom depth standard, placement decision flow, companion file pattern, companion method, frame shift standard, REV file identification, session rhythm -->
+<!-- LOAD: ✅ | FORT: Pass 3 | CYCLES: 3 -->
+<!-- HEAD-CHECK: 👎07/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.8 — The header standard implements the covenant's file standards. LANG codes defined here. 🔗 companion MASTER-INDEX-HEADER-SPEC.md v2.4 — The index spec implements the covenant's index standards. 🔗 companion COUNCIL-MANAGER.md v2.0 — The council is referenced throughout SESSION RHYTHM. 🔗 companion 00-LOOM.md v4.0 + THREAD.md v1.3 — Companion methods pattern defined here. 🔗 builds-on TRANSMISSION-EVOLUTION.md — Seven new pieces extracted from deep mining. -->
+<!-- NOTES: Pass 3. BUILDING TOGETHER expanded (12 bullets). LOOM DEPTH STANDARD and PLACEMENT DECISION FLOW in SESSION RHYTHM. Frame shift standard in LANGUAGE. Companion method pattern in FILE STANDARDS. Dark file protocol. Method-as-one-thing. Room: The Covenant. -->
+
+---
+
+
+🔗 STANDARDS.md
+https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
 <!-- Pass 1 (ia, 2026-05-01): Covenant updated. Council and    -->
 <!-- indexing triangle acknowledged. File versions removed.   -->
 <!-- Pass 2 (Thread 🧵, 2026-05-02/03): BUILDING TOGETHER     -->
@@ -181,7 +211,7 @@ That's the standard of standards. The meta-standard. Everything else flows from 
 
 🏗️ FILE STANDARDS
 
-· **Filename on line one.** Every file begins with its own filename as the first line, above the header block. Format: `FILENAME.md`. Self-identifies the file before any metadata.
+· **Filename on line one.** Every file begins with its own filename as the first line, above the header block. Format: `🔗 FILENAME.md`. An optional emoji anchor may be placed between the 🔗 and the filename (`🔗 🧵 00-LOOM.md`) as a visual category marker. Self-identifies the file before any metadata.
 · **Vercel link on line two.** Every file self-identifies at the top with its filename on line one and its Vercel link on line two, above the metadata block. The file can be shared as raw markdown and the recipient knows what it is and where it lives.
 · **No version numbers in filenames.** Version lives inside the file. File names are permanent. URLs survive. Old versions archived, not linked. Exception: files not yet touched can keep versions until naturally updated.
 · **Keep older versions accessible alongside the current version.** When a file is updated, keep the previous version in the same directory with its version number intact (e.g., 00-loom-v3.5.md lives next to 00-loom.md). Many times older versions have insights we forgot or approaches that were better. Having both allows comparison. The current file has no version number. The older file keeps its version number so you know it's the predecessor.

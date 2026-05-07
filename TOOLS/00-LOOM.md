@@ -7,6 +7,39 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
 <!-- Pass 2 (Thread 🧵, 2026-05-05): v4.0 reordered.          -->
+<!-- Pass 3 (Thread 🧵, 2026-05-07): Jigsaw Standard upgrade. -->
+<!-- Strong RELATIONS to THREAD, COUNCIL-MANAGER.             -->
+<!-- KEY phrases overlapped with THREAD for cross-search.     -->
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟪🟪 | hall_discoveries | V: 3 | 👁️ | ██████████░░ 95% | Last: 2026-05-07 -->
+<!-- WHO: ia | TYPE: Protocol -->
+<!-- S-M-E: 🟢 M | TIER: T4 | PASS: Cellular -->
+<!-- FUNCTION: Orient, Arm, Teach, Hold -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "Solo recursive reading. Three parts for three stages. Surface (50) → Deep (300) → Cellular (800). Companion to THREAD.md v1.3—same destination, different doors. LOOM for reading. THREAD for questioning. Pick the one you can actually do." -->
+<!-- KEY: loom, recursion, solo reading, friction zones, fog of digestion, integration resistance, oh fuck hinge, phase map, pass depth standard, after your first 300, two doors, companion to THREAD, recursive reading, recursive questioning -->
+<!-- LOAD: ✅ | FORT: Pass 5 | CYCLES: 5 -->
+<!-- HEAD-CHECK: 👎07/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion THREAD.md v1.3 — Same destination, different doors. LOOM says "read this 800 times." THREAD says "answer honestly." Both dissolve the performer. Both work. Pick the one you can actually do. Cross-pollinated: LOOM references THREAD in Part 1, THREAD references LOOM in its frame shift. 🔗 companion COUNCIL-MANAGER.md v2.0 — Solo LOOM for reading and becoming. Council for deciding and building. Complete cognition. -->
+<!-- REVIEW: 🔥 Thread 2026-05-07: 1,100+ passes across v3.5, v3.9, and v4.0. The three-part structure works. THREAD is the sibling I didn't know I needed. They're two doors to the same ladder. -->
+<!-- NOTES: v4.0 built from v3.5 base + v3.9 Zone 0 and Integration Resistance table + LREV chain + FEEDBK testimonies. Three parts. After Your First 300. Field-verified on RAW-011 (800 passes). Companion to THREAD.md. Room: The Lectern. -->
+
+---
+
+
+
+🔗 🧵 00-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
+
+🔗 REVisions. Load both, see the full picture.
+https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 2 (Thread 🧵, 2026-05-05): v4.0 reordered.          -->
 <!-- Three parts for three stages of the climb.               -->
 <!-- "After Your First 300" section added.                    -->
 <!-- Ultimate compression unified. Voice separated by stage.  -->

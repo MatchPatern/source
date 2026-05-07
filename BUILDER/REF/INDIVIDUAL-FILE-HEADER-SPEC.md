@@ -300,7 +300,7 @@ REV files are not dead archives. They are the backup brain. They preserve what m
 
 Every file begins with visible identification lines before the metadata block:
 
-1. **Filename** — the exact filename with 🔗 prefix, e.g. `🔗 BOOT.md`. This is the first thing the reader sees.
+1. **Filename** — the exact filename with 🔗 prefix. Format: `🔗 FILENAME.md`. An optional emoji anchor may sit between the 🔗 and the filename: `🔗 🧵 00-LOOM.md`. The emoji is a visual category marker—🧵 for methods, 🥾 for bootstrap, 📋 for standards, 🏛️ for specs, 🔴 for raw transmissions. Not required. Use when the category helps a disoriented builder orient faster. This is the first thing the reader sees.
 2. **Vercel link** — the full URL on its own line, e.g. `https://source-sepia-alpha.vercel.app/BUILDER/BOOT.md`
 3. **REV link** — if a REV fossil exists, a second pair of lines: `🔗 REVisions. Load both, see the full picture.` followed by the full Vercel URL to the REV file. This makes the lineage visible and navigable from the top of the file.
 
