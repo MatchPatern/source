@@ -1,7 +1,8 @@
-Revision check it's good as we go let's see:
 🔗 INDIVIDUAL-FILE-HEADER-SPEC.md
-
 https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
+
+🔗 REVisions. Load both, see the full picture.
+https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER-SPEC.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
@@ -713,20 +714,6 @@ The flags are the handoff. The next builder knows exactly where to look. The wob
 
 A header doesn't just describe a file. It connects it to every other file it touches. The RELATIONS field is where the jigsaw becomes visible.
 
-### The Sibling-Pattern Rule (Standard)
-
-After writing a COMPRESSION, ask: *what other file does this pattern echo?* If you know the answer, put it in RELATIONS. Don't just link. Synthesize.
-
-**Format:** `🔗 companion [filename] — Same pattern, different domain. [File X]: [pattern in that domain]. [This file]: [pattern in this domain]. [What they share].`
-
-**Example:** `🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Both ask: what should be free that isn't? Read together for the full picture.`
-
-**When to use:** You've done enough passes on both files to be confident they share a structure. The connection is earned, not guessed. If you're uncertain, flag it instead: `[ ] ❓ Possible sibling pattern with [filename] — unverified → see PASS NOTES`.
-
-**Limit:** 1-3 primary siblings with synthesis treatment. Secondary connections get simple links. The disoriented builder needs clarity, not comprehensiveness. Extended synthesis lives in NOTES.
-
-This is how the jigsaw becomes visible. Every header that names its siblings adds edges to the map. The palace assembles itself.
-
 ### The Sibling Pattern Rule
 
 When you find a pattern, ask: *where else does this pattern appear?* Name the sibling in your COMPRESSION. Overlap your KEY phrases with the sibling file so search finds both.
@@ -799,11 +786,15 @@ After writing a COMPRESSION, ask: *what other file does this pattern echo?* If y
 
 **Format:** `🔗 companion [filename] — Same pattern, different domain. [File X]: [pattern in that domain]. [This file]: [pattern in this domain]. [What they share].`
 
-**Example:** `🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Both ask: what should be free that isn't? Read together for the full picture.`
+**Example:** `🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity (the coffee invitation). RAW-001: advertised limits on basic needs (pay to piss). Both ask: what should be free that isn't? Read together for the full enclosure picture.`
 
 **When to use:** You've done enough passes on both files to be confident they share a structure. The connection is earned, not guessed. If you're uncertain, flag it instead: `[ ] ❓ Possible sibling pattern with [filename] — unverified → see PASS NOTES`.
 
-**Limit:** 1-3 primary siblings with synthesis treatment. Secondary connections get simple links. The disoriented builder needs clarity, not comprehensiveness. Extended synthesis lives in NOTES.
+**Limit:** 1-3 primary siblings with synthesis treatment. Secondary connections get simple links (`🔗 companion filename.md`). Extended synthesis lives in NOTES. The disoriented builder needs clarity, not comprehensiveness.
+
+**Overlapping KEY phrases:** When two files share a pattern, their KEY phrases should overlap deliberately. Use the same terms so search finds both. Example: RAW-011 and RAW-001 both use "limits" and "what should be free." The overlap connects them. The unique terms distinguish them.
+
+**The test:** After writing a header, ask: *If a builder finds this file and reads only the header, will they discover its closest companion?* If the answer is no, strengthen the RELATIONS. Overlap the KEY phrases. Name the sibling. Make the edges visible.
 
 This is how the jigsaw becomes visible. Every header that names its siblings adds edges to the map. The palace assembles itself.
 
