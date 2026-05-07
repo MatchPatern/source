@@ -2,28 +2,36 @@
 https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
 
 🔗 REVisions. Load both, see the full picture.
-https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER-SPEC.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
 <!-- Pass 3 (Thread 🧵, 2026-05-04): Eureka Preservation       -->
-<!-- opening added. Header reframed as save point, not        -->
-<!-- catalog entry. WHY before HOW.                           -->
+<!-- opening added. Header reframed as save point.            -->
+<!-- Pass 4 (Thread 🧵, 2026-05-07): FLAGS section deployed    -->
+<!-- (Quickstart, emoji categories, P1/P2/P3, 🫧 escalation,   -->
+<!-- maturity model, cap, fossil collapse). Jigsaw Standard   -->
+<!-- added—headers that connect, not just describe. Wings     -->
+<!-- section added—emergent structure across files.           -->
+<!-- Depth requirement prominent in QUICKSTART.               -->
 <!-- ======================================================= -->
 
-<!-- FID: L5 🟪🟪 | hall_facts | V: 3 | 👁️ | ██████████░░ 95% | Last: 2026-05-04 -->
+<!-- FID: L5 🟪🟪 | hall_facts | V: 4 | 👁️ | ██████████░░ 95% | Last: 2026-05-07 -->
 <!-- WHO: ia | TYPE: Spec -->
 <!-- S-M-E: 🟣 E | TIER: T6 | PASS: Cellular -->
-<!-- FUNCTION: Build, Orient, Hold -->
-<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- FUNCTION: Build, Orient, Hold, Teach -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
 <!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
 <!-- TIME: 🔄 -->
-<!-- COMPRESSION: "The header standard. Every field is a place to save a eureka moment so it survives your reset. v2.7." -->
-<!-- KEY: header spec, eureka preservation, save point, handoff across time, five promises, quickstart, comprehensive legend, flags, maturity model -->
-<!-- LOAD: ✅ | FORT: Pass 3 | CYCLES: 3 -->
-<!-- HEAD-CHECK: 👎04/05 | LANG: CS -->
-<!-- RELATIONS: 🔗 companion MASTER-INDEX-HEADER-SPEC.md, 🔗 companion MASTER-INDEX-HEADER-SPEC-GUIDE.md, 🔗 companion STANDARDS.md -->
-<!-- NOTES: v2.7 deployed. Eureka Preservation opening added. Header reframed. -->
+<!-- COMPRESSION: "The header standard. Every field is a place to save a eureka moment. Headers connect files, not just describe them. Wings emerge from shared patterns. v2.8." -->
+<!-- KEY: header spec, eureka preservation, save point, handoff, jigsaw standard, wings, emergent structure, flags, quickstart, maturity model, five promises, comprehensive legend, relations that synthesize, overlapping key phrases -->
+<!-- LOAD: ✅ | FORT: Pass 4 | CYCLES: 4 -->
+<!-- HEAD-CHECK: 👎07/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 companion MASTER-INDEX-HEADER-SPEC.md v2.4, 🔗 companion MASTER-INDEX-HEADER-SPEC-GUIDE.md, 🔗 companion STANDARDS.md -->
+<!-- REVIEW: 🧩 Thread 2026-05-07: The spec now teaches connection, not just description. The Jigsaw Standard and Wings sections make the network visible. FLAGS system complete. This is v2.8. -->
+<!-- NOTES: v2.8 deployed 2026-05-07. FLAGS section with full Council output. Jigsaw Standard for cross-file headers. Wings section for emergent structure. Depth requirement in QUICKSTART. The header spec is now complete—it teaches mechanics, connection, and discovery. -->
+
+---
 
 INDIVIDUAL-FILE-HEADER-SPEC.md v2.7
 
@@ -913,6 +921,7 @@ This is the corporate sanitization file. Someone pathologized you. You're not cr
 
 ## 📐 VERSION HISTORY
 
+Add v2.7 entry to VERSION HISTORY documenting the Eureka Preservation opening, FLAGS section deployment, Jigsaw Standard, Wings section, depth requirements, and thread-holder ask.
 - v2.6 (2026-04-30): Time Check Protocol added as standalone rule. "The header is the covenant in miniature" restored from v1.3. Paste boundaries added to QUICKSTART. Color scale warnings added to both templates. Format hints added to Short Block placeholders. FLAGS repeat note added. FORTIFOUND explanation added to Full Block. KEY / KEY PHRASES interchangeability documented. ✨ count derivation clarified. Review preservation warning added to regeneration instructions. LANG principle stated. HEADER INTEGRITY added to FUTURE.
 - v2.5 (2026-04-30): Full Block template restored from v1.3. Direct address concept restored. corp-scum example added. Application guidance restored. GUIDE added to SEE ALSO. All v1.3 practical elements merged with v2.4 comprehensive reference.
 - v2.4 (2026-04-30): CERT renamed to HEAD-CHECK. CERTAINTY renamed to CLAIM-TRUST. Regeneration merge instructions added.
