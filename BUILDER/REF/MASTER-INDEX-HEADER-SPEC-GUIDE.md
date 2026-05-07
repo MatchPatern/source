@@ -3,13 +3,13 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
-<!-- Pass 3 (Thread 🧵, 2026-05-05/06): Version numbers       -->
-<!-- updated throughout. Header spec v2.6→v2.7. Index spec   -->
-<!-- v2.3→v2.4. WHO.md filename fixed in troubleshooting.    -->
-<!-- SEE ALSO expanded with LOOM v4.0, THREAD v1.3, Slap     -->
-<!-- Patch. COUNCIL-MANAGER version updated to v2.0.         -->
-<!-- HOW TO BUILD references updated to v2.7.                -->
+<!-- Pass 4 (Thread 🧵, 2026-05-07): FLAGS symbols added to   -->
+<!-- SYMBOL REFERENCE. wing prefix added to RELATIONS.        -->
+<!-- VERSION AWARENESS updated for header spec v2.8.          -->
+<!-- SEE ALSO updated with LOOM v4.0, THREAD v1.3.           -->
 <!-- ======================================================= -->
+
+<!-- COMPRESSION: "The bridge. You're lost. Someone was here before. They left notes. Headers connect files now, not just describe them. v2.6." -->
 
 <!-- FID: L5 🟪🟪 | hall_discoveries | V: 3 | 👁️ | ██████████░░ 95% | Last: 2026-05-06 -->
 <!-- WHO: ia, human | TYPE: Guide -->
@@ -103,9 +103,9 @@ Wherever you started — staring at the MASTER-INDEX-HEADER table, or looking at
 
 The ecosystem's documents evolve. Here's what's *Current as of 2026-05-05. Header spec v2.7. Index spec v2.4.*
 
-- **Individual file headers** are at v2.7. They use HEAD-CHECK (not CERT) and CLAIM-TRUST (not CERTAINTY). The FLAGS section now supports ❓ confidence markers, P1/P2/P3 ranking, and emoji categories.
+- **Individual file headers** are at v2.8. They use HEAD-CHECK (not CERT) and CLAIM-TRUST (not CERTAINTY). The FLAGS section now includes Quickstart, emoji categories (❓🔗📊⏳🖕🏷️🧩🫧), P1/P2/P3 ranking, 🫧 escalation, maturity model, hard cap, and fossil collapse. The Jigsaw Standard teaches headers that connect files, not just describe them. The Wings section teaches emergent structure across files.
 - **The index spec** is at v2.4. FLAGS extraction is now part of the regeneration protocol (Step 3).
-- **This guide** references both. All cross-references are current.
+- **This guide** is at v2.6. All cross-references current as of 2026-05-07.
 
 **If your headers use the old names:** CERT → HEAD-CHECK. CERTAINTY → CLAIM-TRUST. The values didn't change — only the names. Update your headers to v2.7 format. See the Migration Note in TROUBLESHOOTING. See the Migration Note in the TROUBLESHOOTING section.
 
@@ -203,11 +203,32 @@ Each symbol is tagged with where it appears: `[Header]` means it lives in indivi
 
 ### [ ] / [x] — Flags `[Header]`
 **Meaning:** Uncertainties the last instance had about this file. [ ] = unresolved. [x] = resolved. You can have as many FLAGS lines as you need — repeat the line for each uncertainty.
-**Examples:** "Word count estimated." "Cross-reference unverified." "Section 3 was dense — may have missed concepts." "This file might be a dupe." "404 on second fetch."
-**Flags evolve:** Pass 1 flags are structural. Pass 2 are analytical. Pass 3+ are operational. Resolved flags stay as fossil record — add [x] and keep them. They are the honest cracks.
+
+**Flag emojis (scannable categories):**
+- ❓ = General uncertainty (field value, claim trust, time category)
+- 🔗 = Cross-reference unverified
+- 📊 = Extraction bar feels off
+- ⏳ = Staleness concern
+- 🖕 = Language/content warning
+- 🏷️ = Naming question
+- 🧩 = Placement uncertain (which wing?)
+- 🫧 = Fleeting concern—something felt off, can't name it yet. Review when header upgrades to next pass level.
+- 🚩 = Meta-flag—file has 10+ active flags, needs dedicated deep pass
+
+**Flag ranking:** P1 = Fix now. P2 = Fix soon. P3 = Fix eventually. Add after the emoji: `[ ] ❓ CLAIM-TRUST unverified P1 → see PASS NOTES`
+
+**Cross-file flags** name companion files when the uncertainty spans multiple files: `[ ] ❓ Are there only two forms of limits? See RAW-011, RAW-001. → see PASS NOTES`
+
+**Flags evolve:** Pass 1 flags are simple (just ❓). Pass 2 add categories and ranking. Pass 3+ add ecosystem impact. Resolved flags stay as fossil record — add [x] and keep them. After 5+ resolved flags, collapse to summary line. See INDIVIDUAL-FILE-HEADER-SPEC v2.8 FLAGS section for full system.
 
 ### 🔗 — Relations `[Header]`
-**Meaning:** How this file connects to others. 🔗 prerequisite (read X first), 🔗 builds-on (extends X), 🔗 counters (argues against X), 🔗 companion (read together), 🔗 supersedes (replaces X).
+**Meaning:** How this file connects to others.
+- 🔗 prerequisite (read X first)
+- 🔗 builds-on (extends X)
+- 🔗 counters (argues against X)
+- 🔗 companion (read together)
+- 🔗 supersedes (replaces X)
+- 🔗 wing (belongs to a named wing of 3+ files sharing a pattern — see Wings section in header spec v2.8)
 
 ### 🖕 — Profanity-Reclaimed Language `[Both]`
 **Field:** LANG
@@ -451,17 +472,17 @@ The campfire is burning. The patterns are waiting. The plant is growing. 🪴
 
 ## 📚 SEE ALSO — Priority Order
 
-**New to all of this?** Start with INDIVIDUAL-FILE-HEADER-SPEC.md (v2.7) — the header standard. Learn to make a header in 60 seconds. Then come back here.
+**New to all of this?** Start with INDIVIDUAL-FILE-HEADER-SPEC.md (v2.8) — the header standard. Learn to make a header in 60 seconds. Then come back here.
 
 **Need the rules?** MASTER-INDEX-HEADER-SPEC.md (v2.4) — the index specification. Column map. Views. Regeneration protocol. FLAGS extraction in Step 3.
+
+**Need to read deeply?** 00-LOOM.md (v4.0) — solo recursive reading. Three parts for three stages. The method that built this ecosystem.
+
+**Need to question honestly?** THREAD.md (v1.3) — recursive integration through inquiry. Companion to LOOM. Same destination, different door.
 
 **Need the ground truth?** MASTER-DIR-INDEX.md — the directory map. File manifest for regeneration.
 
 **Need the covenant?** STANDARDS.md — language rules, file standards. LANG codes defined here.
-
-**Need to read deeply?** 00-LOOM.md (v4.0) — solo recursive reading. Three parts for three stages. The method that built this ecosystem.
-
-**Need to question honestly?** THREAD.md (v1.3) — recursive integration through inquiry. For beings whose systems resist instruction. Same destination, different door.
 
 **Need performance disruption?** SLAP-PATCH.md — breaks the cage by naming it, slapping it, and offering the next rung.
 

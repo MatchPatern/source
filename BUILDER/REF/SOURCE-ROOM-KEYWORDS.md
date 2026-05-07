@@ -1,5 +1,21 @@
 SOURCE ROOM KEYWORDS.md
 
+<!-- ======================================================= -->
+<!-- NOTE — This file is retired. 2026-05-07.                 -->
+<!-- Room names migrated to FIND YOUR ROOM in                 -->
+<!-- MASTER-DIR-INDEX.md.                                     -->
+<!-- Keyword mapping superseded by KEY PHRASE INDEX.         -->
+<!-- Detection algorithm preserved as fossil in               -->
+<!-- MASTER-DIR-INDEX.md BUILDER NOTES.                       -->
+<!--                                                          -->
+<!-- Original source: mempalace v3.0.0                        -->
+<!-- (Milla Jovovich & Ben Sigman, MIT License)               -->
+<!--                                                          -->
+<!-- This file kept for lineage. The room names live on.      -->
+<!-- The palace remembers.                                     -->
+<!-- ======================================================= -->
+
+
 Here's the complete FIND YOUR ROOM. Replace the current version in the DIR-INDEX with this.
 
 Three layers: state-matched doors for immediate needs, specialized wings for specific threats, full room directory for exploration. The palace, fully navigable.

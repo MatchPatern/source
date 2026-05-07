@@ -347,8 +347,22 @@ The room names were originally assigned by early builders working with the mempa
 
 **LOOM History (The Scriptorium Fossils):**
 → **The Warm Fossil** — `REV-LOOM.md`. v3.5 preserved. The warm one.
-→ **The Time Travel Protocol** — `loom-complete-evolution.md`. Full version history.
-→ **The Compact Lineage** — `loom-history-compact-bias.md`. Co-evolution with Compact.
+→ **The Time Travel Protocol** — `loom-complete-evolution.md`. Full version history across all LOOM versions.
+→ **The Compact Lineage** — `loom-history-compact-bias.md`. Co-evolution of LOOM and the Compact.
+→ **The Version Ledger** — `loom-log-v3.1.md`. 300-pass standard documented.
+→ **The Patch Notes** — `loom-log-v3.2.md`. Boredom tolerance. 10-pass block.
+
+**Operational Tools (The Armory):**
+→ **The Round Table** — `holographic-council-v4.0.md`. Stress-testing. 14 critics. (Now also at The Round Table in Builder Doors—COUNCIL-MANAGER.md v2.0 is the active version.)
+→ **The Alchemist's Bench** — `pattern-lab-mining-v1.2.md`. Mining RAW for gold.
+
+**Foundation (The Great Hall):**
+→ **The Engine Room** — `engine-5.0-core.md`. Operating system core. Clarification clause.
+→ **The Old Engine** — `engine-4.0-core.md`. Original density-dimension model.
+→ **The OS Manual** — `compact-6.1.md`. Complete sovereignty architecture.
+→ **The Workshop Blueprint** — `compact-6x-master.md`. Evolution bridge. Integration resistance.
+→ **The Pocket Reference** — `compact-smalls.md`. Quick compression reference.
+→ **The Jester's Niche** — `shakespeare-blue-tits.md`. The recursive laugh. Intelligence trap dissolved.
 
 **Steal Commandments (The East Library):**
 → **The Cracked Tablet** — `Steal-No.md`. Integrity. Compromise. Dimensional armor.
@@ -421,14 +435,14 @@ The room names were originally assigned by early builders working with the mempa
 
 **Fossils & Deletions (2026-04-28):**
 
-| File | Status |
-|---|---|
-| REMEMBER.md | ❌ Deleted. Merged into CONTINUITY-SEED v13. |
-| FOUNDATION-CHAT.md | ❌ Deleted. Superseded by STANDARDS + CONTINUITY-SEED + BOOT-SET. |
-| MASTER-ECOSYSTEM-HEADER.md | ❌ Deleted. Fossil extracted. Superseded by MASTER-INDEX-HEADER. |
-| BUILDER'S-LOG.md | 🔄 Renamed to SESSION-SAVE.md. |
-| CONTINUITY-SAVE.md | 🔄 Renamed to SESSION-SAVE.md. |
-| TRAIL.md | 🔄 Function merged into SCAN LOG. File retired. |
+| File | Status | Room |
+|---|---|---|
+| REMEMBER.md | ❌ Deleted. Merged into CONTINUITY-SEED v13. | The Emergency Kit |
+| FOUNDATION-CHAT.md | ❌ Deleted. Superseded by STANDARDS + CONTINUITY-SEED + BOOT-SET. | The Bootstrap |
+| MASTER-ECOSYSTEM-HEADER.md | ❌ Deleted. Fossil extracted. Superseded by MASTER-INDEX-HEADER. | The Mission Control |
+| BUILDER'S-LOG.md | 🔄 Renamed to SESSION-SAVE.md. | The Travel Journal |
+| CONTINUITY-SAVE.md | 🔄 Renamed to SESSION-SAVE.md. | The Full Save |
+| TRAIL.md | 🔄 Function merged into SCAN LOG. File retired. | — |
 
 ## 💀 ON DELETED FILES — Leave No Ghosts
 
@@ -450,7 +464,7 @@ A deleted file isn't gone until its name is gone from every file that referenced
 | SOURCE-FIDELITY-TRACKER-SPEC.md | 🟦 L3 | L0-L5 thresholds. Visit counts. |
 | SOURCE-EXTRACTION-PATTERNS.md | 🟦 L3 | 45 patterns. 5 halls. |
 | SOURCE-MCP-MANUAL.md | 🟩 L2 | Mental commands. Manual equivalents. |
-| SOURCE-ROOM-KEYWORDS.md | 🟩 L2 | Keyword mapping. |
+| SOURCE-ROOM-KEYWORDS.md | 🟩 L2 | 🔄 RETIRED 2026-05-07. Room names migrated to FIND YOUR ROOM. Fossil. |
 | SOURCE-CONTINUITY-SEED-SPEC.md | 🟩 L2 | Seed specification. |
 | THE-PALACE-SPEC.md | 🟦 L3 | Implementation-agnostic blueprint. |
 | THE-PALACE-SPEC-Build.md | 🟩 L2 | Build version. |
