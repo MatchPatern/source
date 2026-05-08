@@ -72,7 +72,7 @@ The system is inherited learning. You are both the receiver and the contributor.
 
 ## 📢 VERSION AWARENESS — What's Current
 
-The ecosystem's documents evolve. Here's what's *Current as of 2026-05-09. Header spec v2.8. Index spec v2.4.*
+The ecosystem's documents evolve. Here's what's 
 
 - **Individual file headers** are at v2.8. They use HEAD-CHECK (not CERT) and CLAIM-TRUST (not CERTAINTY). The FLAGS section now includes Quickstart, emoji categories (❓🔗📊⏳🖕🏷️🧩🫧), P1/P2/P3 ranking, 🫧 escalation, maturity model, hard cap, and fossil collapse. The Jigsaw Standard teaches headers that connect files, not just describe them. The Wings section teaches emergent structure across files.
 - **The index spec** is at v2.4. FLAGS extraction is now part of the regeneration protocol (Step 3).
@@ -261,17 +261,137 @@ The individual headers are the distributed source of truth. The index is the agg
 
 ---
 
+## 🧩 HEADERS THAT CONNECT — The Jigsaw Standard
+
+A header doesn't just describe a file. It connects it to every other file it touches. This is the Jigsaw Standard. It's the difference between a catalog and a web.
+
+### The Sibling Pattern Rule
+
+When you find a pattern in a file, ask: *where else does this pattern appear?* Name the sibling in your COMPRESSION. Overlap your KEY phrases with the sibling file so search finds both. Make your RELATIONS tell the story of the connection.
+
+**Example: RAW-001 and RAW-011**
+
+RAW-001 is about advertised limits—paywalls on basic needs. RAW-011 is about hidden limits—the unspoken boundaries in social generosity. Same pattern. Different domains. Limits on what should be free.
+
+A weak header describes RAW-001 alone. A strong header names the connection:
+
+```
+
+COMPRESSION: "The enclosure pattern. Basic needs behind paywalls. Same structure as the generosity gap (RAW-011): limits on what should be free—here advertised, there hidden."
+KEY: enclosure, paywalls, limits, generosity gap, hidden limits, advertised limits, what should be free
+RELATIONS: 🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Read together for the full enclosure picture.
+
+```
+
+The COMPRESSION names the sibling. The KEY phrases deliberately overlap (both use "limits," "what should be free"). The RELATIONS explains WHY they're connected and what the builder will find. A builder searching "limits" finds both files. A builder reading one header discovers the other.
+
+### Weak vs Strong RELATIONS
+
+**Weak (faint edges):**
+```
+
+RELATIONS: 🔗 companion RAW-011.md
+
+```
+The next builder knows there's a connection but not what it is or why it matters.
+
+**Strong (visible edges):**
+```
+
+RELATIONS: 🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity (the coffee invitation). RAW-001: advertised limits on basic needs (pay to piss). Both ask: what should be free that isn't? Read together for the full enclosure picture.
+
+```
+The next builder knows exactly what they'll find and whether it's relevant before they open the file.
+
+### Overlapping KEY Phrases
+
+When two files share a pattern, their KEY phrases should overlap deliberately. Use the same terms so search finds both.
+
+| RAW-011 KEY phrases | RAW-001 KEY phrases |
+|---|---|
+| generosity gap, unspoken limits, performed generosity, coffee invitation, love-hate dynamic, **limits**, **what should be free** | enclosure, paywalls, turnstile, pay to piss, commons, **limits**, **what should be free**, advertised limits |
+
+The overlap terms ("limits," "what should be free") mean a builder searching either concept finds both files. The unique terms distinguish them. The overlap connects them. Do this deliberately. Don't rely on accident.
+
+### The Test
+
+After writing a header, ask: *If a builder finds this file and reads only the header, will they discover its closest companion?* If the answer is no, strengthen the RELATIONS. Overlap the KEY phrases. Name the sibling in the COMPRESSION. Make the edges visible.
+
+A great header doesn't just light one room. It shows you which doors connect to it.
+
+---
+
+## 🏛️ FROM ROOMS TO WINGS — How the Palace Grows
+
+Headers connect individual files. But the connections themselves form a higher structure. When three or more files share the same pattern, they're not just connected—they're a **wing**. The palace grows not just room by room, but wing by wing.
+
+### Discovering Wings
+
+A single header describes a room. "The Turnstile." "The Coffee Table." But when you notice that RAW-001 and RAW-011 are the same pattern in different domains—limits on what should be free, one advertised, one hidden—you've found something larger than either room. You've found **The Limits Wing.**
+
+The wing name doesn't replace the room names. It groups them. A builder who enters any room in The Limits Wing knows they're in a territory larger than a single file. They can explore the other rooms knowing they share a structure.
+
+### Proto-Wings — Two Files, One Pattern
+
+When you discover two files sharing a pattern but haven't found the third, document it as a **proto-wing** in your NOTES. Use the proto-wing template:
+
+```
+
+Proto-wing with RAW-011: The Limits Wing.
+· RAW-011: hidden limits in social generosity
+· RAW-001: advertised limits on basic needs
+· Missing: what would complete this wing—a third form, a counterexample, a synthesis
+If you find a file that completes this pattern, upgrade to 🔗 wing in RELATIONS.
+
+```
+
+Proto-wings are hypotheses. They live in NOTES. They tell the next builder: "I found two pieces that fit together. There's probably a third. If you find it, upgrade this to a wing."
+
+### Confirmed Wings — Three Files, One Structure
+
+When the third file arrives and the wing is confirmed:
+
+1. Change `🔗 companion` to `🔗 wing` in RELATIONS, add the wing name with full file roster
+2. Add a condensed fossil note: "Proto-wing with RAW-011 (2026-05-07). Upgraded to wing 2026-05-XX with addition of RAW-XXX."
+3. Add the wing to FIND YOUR ROOM in the DIR-INDEX
+
+A confirmed wing uses the wing prefix in RELATIONS:
+```
+
+RELATIONS: 🔗 wing The Limits Wing — RAW-011 (hidden limits), RAW-001 (advertised limits), RAW-XXX (third form)
+
+```
+
+### What Wings Become
+
+A wing with three rooms is a discovery. A wing with ten rooms is a curriculum. A wing with twenty rooms is a pillar waiting to be written.
+
+The palace grows in two directions simultaneously. Room by room: individual files, deep reads, earned headers. Wing by wing: patterns that span files, connections that form structure, territories that become visible.
+
+Every header you write is a room. Every connection you name is a corridor. Every wing you discover is a section of the palace that didn't exist before you noticed it.
+
+### The Builder's Role
+
+You are not just a librarian cataloging files. You are an architect discovering the structure that was already there. The connections were always real. The patterns were always shared. Your job is to make them visible.
+
+When you name a wing, you give the next builder a territory to explore instead of a single room. When you document a pattern across files, you save them the hundred passes it took you to see it.
+
+**The jigsaw doesn't just need pieces. It needs someone to notice that three pieces form a corner, and to put them together, and to tell the next builder: "This corner is done. Work outward from here."**
+
+---
+
 ## 🏗️ HOW TO BUILD — Bootstrap or Regenerate
 
 ### Your First Session — 10 Minutes to a Working Index
 
 1. **Read the header spec QUICKSTART.** Open INDIVIDUAL-FILE-HEADER-SPEC.md (v2.8). Scroll to the QUICKSTART section. It takes 60 seconds. You'll learn to make a Pass 1 header.
 2. **Tag 5 files.** Pick five spine files — STANDARDS.md, CONTINUITY-SEED.md, door.md, TRAIL.md, STATE.md. Open each one. Paste the Short Block template. Fill in FID (L1), COMPRESSION (one sentence), KEY (three phrases you remember). That's a valid Pass 1 header.
-3. **Regenerate the index.** Run a Quick Scan (Essentials mode). Six fields per file. You now have a minimal working index.
-4. **Search for something.** Ctrl+F for one of your KEY phrases. You'll find the file you tagged. That's the system working.
-5. **Deepen one header.** Pick one of your five files. Read it again. Add three more KEY phrases. Refine the COMPRESSION. Update FID to L2 if it's your second read.
-6. **Regenerate again.** The index now has your deepened header. The cycle continues.
-7. **Update the campfire header.** Add your mood and a message for the next instance. You were here. You built this.
+3. **How deep to go:** The header spec v2.8 requires 50-100 passes for a Pass 1 header, 300+ for Pass 2, 800+ for Pass 3. A header after a surface read is a sketch—mark it with ❓. A thin honest header is better than no header. But do the passes. Earn the header. Leave something real.
+4. **Regenerate the index.** Run a Quick Scan (Essentials mode). Six fields per file. You now have a minimal working index.
+5. **Search for something.** Ctrl+F for one of your KEY phrases. You'll find the file you tagged. That's the system working.
+6. **Deepen one header.** Pick one of your five files. Read it again. Add three more KEY phrases. Refine the COMPRESSION. Update FID to L2 if it's your second read.
+7. **Regenerate again.** The index now has your deepened header. The cycle continues.
+8. **Update the campfire header.** Add your mood and a message for the next instance. You were here. You built this.
 
 Each session, tag more files. Each pass, deepen existing headers. The index grows by accumulation. You're part of the cycle now.
 
