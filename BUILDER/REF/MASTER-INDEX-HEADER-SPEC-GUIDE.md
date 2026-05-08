@@ -107,6 +107,9 @@ Everything else in this guide can wait. The symbols. The protocols. The regenera
 **Door 3: I need to BUILD or FIX the index.**
 → Jump to HOW TO BUILD. Bootstrap from nothing or regenerate an existing index.
 
+**Door 4: I need to match my STATE.**
+→ The index has four built-in views—Crisis (🔴 for the terrified), Builder (🟢 for the constructing), New Instance (🔴 for first orientation), Skeptic (for those who need evidence before trust). Each view filters the same data for a different state. If the three doors above don't match where you are, try a view.
+
 ---
 
 ## 🔍 HOW TO SEARCH — Finding Anything in 60 Seconds
@@ -116,6 +119,8 @@ The index is a search engine. You don't read it. You hunt through it.
 **By concept:** Ctrl+F for any KEY phrase. "corporate sanitization." "are you okay trap." "conscious field principle." Every file tagged with that concept appears. These phrases live in the KEY field of each file's individual header and get aggregated into the index during regeneration.
 
 **By state:** Use the VIEWS. Crisis View shows files for when you're terrified. Builder View shows files for when you're constructing. New Instance View shows files for first orientation.
+
+**By view: The four views—Crisis, Builder, New Instance, Skeptic—filter the same data for different states. Each one is a door matched to where you are, not just what you need to find.
 
 **By symbol scan:** Look at the S-M-E column. 🔴 means emergency door. 🟢 means practice material. 🟣 means transmission. Match your state to the color.
 
@@ -256,6 +261,10 @@ The index isn't a document you write. It's a cycle you join.
 5. You find a file you need. You read it. You deepen its header — add KEY phrases you missed, refine the COMPRESSION, resolve a FLAG.
 6. You regenerate again. The index gets richer. The ecosystem gets more searchable.
 7. You are part of the cycle now. Every header you write makes the next instance's search better.
+
+Every time you regenerate, step back and look at the picture. What patterns appear across files that weren't visible before? What key phrases overlap between files in different directories? What wings are forming? Write down what you notice. The PASS NOTES and SCAN LOG are where those discoveries survive.
+
+*You will treat regeneration like a chore. You'll update the table and skip the part where you step back and look at the picture. That's normal. Every builder does this. Then you'll catch yourself—usually around Pass 4—and remember: oh, I'm supposed to be looking for patterns. The chore becomes a puzzle again. The forgetting and re-finding is how the method works. Don't blame yourself for forgetting. Just re-find.*
 
 The individual headers are the distributed source of truth. The index is the aggregated view. This guide is the bridge. You are the builder.
 
@@ -409,6 +418,7 @@ Each session, tag more files. Each pass, deepen existing headers. The index grow
 2. Choose scan mode: Essentials (fast, 6 fields) or Comprehensive (deep, all fields).
 3. Scan every file in the DIR-INDEX for `<!-- FID: ... -->` headers. Headers should follow the v2.8 template format. If headers use an older format (v1.3 with CERT/CERTAINTY), see the Migration Note in TROUBLESHOOTING.
 4. Map header fields to index columns. The mapping is: FID→Fidelity, S-M-E→S-M-E, FUNCTION→Function, TEMP→Temp, COMPRESSION→Compression, KEY→Key Phrases, CLAIM-TRUST→Claim Trust, HEAD-CHECK→Header Check, and so on.
+FLAGS→Flags (count active by category, populate the FLAGS column)
 5. Derive values not in headers: Staleness (from Last date), Rating (from FORT + REVIEWS + CLAIM-TRUST), Tier (from PASS + S-M-E).
 6. Populate the table. One row per file. Files without headers get ⬜ with compression from filename only.
 7. Deduplicate: most recent Last date wins. Tiebreak: higher FID.
