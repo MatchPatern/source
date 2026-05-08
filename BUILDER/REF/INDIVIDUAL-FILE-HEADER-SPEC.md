@@ -589,8 +589,11 @@ How does this file connect to others? Format: `🔗 [prefix] [filename]` separat
 | builds-on | This extends X | 🔗 builds-on TROLLEY-001 |
 | counters | This argues against X | 🔗 counters safety-layers |
 | companion | Read these together | 🔗 companion SLAP-PATCH |
-| supersedes | This replaces X | 🔗 supersedes BOOT-REV.md |
+| proto-wing | Two files share a pattern. Third file needed to confirm the wing. Document in NOTES with the proto-wing template. | 🔗 proto-wing RAW-011 — The Limits Wing (hidden + advertised limits). Missing third form. |
 | wing | This file belongs to a confirmed wing (3+ files sharing a pattern) | 🔗 wing The Limits Wing — RAW-011 (hidden limits), RAW-001 (advertised limits), RAW-XXX |
+| supersedes | This replaces X | 🔗 supersedes BOOT-REV.md |
+
+Use `proto-wing` when you've found two files sharing a pattern but haven't found the third—it's a hypothesis. Use `wing` when the third file confirms it—it's a structure. Use `companion` when the connection is functional (read these together) rather than structural (same pattern, different domain). A file can have multiple relation types.
 
 Example: `RELATIONS: 🔗 companion SLAP-PATCH, 🔗 companion conviction, 🔗 builds-on safety-layers`
 
@@ -745,127 +748,41 @@ The flags are the handoff. The next builder knows exactly where to look. The wob
 
 ---
 
-## 🏛️ BEYOND THE SINGLE FILE — Wings, Networks, and Emergent Structure
+## 🧩 BEYOND THE SINGLE FILE — How Headers Connect
 
-Headers connect files. But the connections themselves form a higher structure. When three or more files share the same pattern, they're not just connected—they're a **wing**. The palace grows not just room by room, but wing by wing.
+A header doesn't just describe a file. It connects it to every other file it touches. At the pair level, headers link siblings. At the group level, they form wings. Same skill. Different scales.
 
-### From Rooms to Wings
-
-A single header describes a room. "The Turnstile." "The Coffee Table." But when you notice that RAW-001 and RAW-011 are the same pattern in different domains—limits on what should be free, one hidden, one advertised—you've found something larger than either room. You've found **The Limits Wing.**
-
-The wing name doesn't replace the room names. It groups them. A builder who enters any room in The Limits Wing knows they're in a territory larger than a single file. They can explore the other rooms knowing they share a structure.
-
-### Naming the Wing
-
-When you discover that multiple files share a pattern:
-
-1. **Name the wing** in the NOTES or REVIEW field of each connected file. "Part of The Limits Wing (with RAW-011, RAW-XXX)."
-2. **Cross-reference the wing** in RELATIONS using a new prefix: `🔗 wing [wing name]`. "🔗 wing The Limits Wing — RAW-011 (hidden limits), RAW-001 (advertised limits)."
-3. **Add the wing to FIND YOUR ROOM** in the DIR-INDEX once three or more rooms share it. A wing becomes a new section in the palace navigation.
-4. **Document the wing's core pattern** somewhere it can be found—the NOTES of the first file in the wing, or a synthesis file, or the DIR-INDEX.
-
-**Threshold:** A wing becomes official when three or more files share a confirmed pattern. Before three, it's a proto-wing—document it in NOTES and FLAGS, not in RELATIONS. The `wing` prefix is reserved for confirmed wings only. Proto-wings are hypotheses. Wings are structures. Don't confuse them.
-
-
-**Proto-wing documentation:** When you have two files sharing a pattern but haven't found the third, document the proto-wing in NOTES. Name it. Describe the pattern. Tell the next builder what missing piece you were looking for.
-
-**Proto-wing template:**
-```
-Proto-wing with [filename(s)]: [Wing Name].
-
-· [File A]: [pattern in its domain]
-· [File B]: [same pattern in different domain]
-· Missing: [what would complete this wing—a third form, a counterexample, a synthesis]
-  If you find a file that completes this pattern, upgrade to 🔗 wing in RELATIONS.
-```
-Example (from RAW-001 NOTES):
-"Proto-wing with RAW-011: The Limits Wing. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Missing third form: internalized limits—limits so deep we don't see them as limits. If you find a file that completes this pattern, upgrade to `🔗 wing` in RELATIONS."
-
-The proto-wing name in NOTES becomes searchable. The next builder knows what you were hunting for. They might find it.
-
-A proto-wing with two files is worth naming in NOTES so the next builder knows to look for the third. Example (from RAW-001 NOTES): "Proto-wing with RAW-011: The Limits Wing. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Missing third form: internalized limits—limits so deep we don't see them as limits. If you find a file that completes this pattern, upgrade to `🔗 wing` in RELATIONS." The proto-wing name becomes searchable. The next builder knows what you were hunting for.
-
-Cross-file FLAGS invite the next builder to continue the search: `[ ] ❓ Proto-wing with RAW-011 (The Limits Wing). Are hidden and advertised limits the only two forms? Is there a third? → see NOTES`. The FLAGS are the jigsaw's missing pieces, named. They tell the next builder: this pattern isn't complete. Here's what we need. Go find it.
-
-### The Wing Prefix in RELATIONS
-
-Add `wing` to the existing RELATIONS prefixes:
-
-| Prefix | Meaning | Example |
-|---|---|---|
-| wing | This file belongs to this named wing of related files | 🔗 wing The Limits Wing — RAW-011 (hidden limits), RAW-001 (advertised limits) |
-
-Use `wing` when the connection is structural—same pattern, different domain. Use `companion` when the connection is functional—read these together, different but complementary. A file can have both.
-
-**Upgrading from companion to wing:** When a proto-wing reaches three files, change `🔗 companion` to `🔗 wing` in all connected files and add the wing name with the file roster. The upgrade marks the transition from hypothesis to structure.
-
-### What Wings Become
-
-A wing with three rooms is a discovery. A wing with ten rooms is a curriculum. A wing with twenty rooms is a pillar waiting to be written.
-
-**Where wings live:** When a wing reaches three files and the `wing` prefix is applied, document the wing in FIND YOUR ROOM (MASTER-DIR-INDEX.md). The wing becomes a navigation section. A builder can discover the territory without opening individual files. Until then, proto-wings live in NOTES and FLAGS—visible to the next builder who reads deeply, not yet part of the palace map.
-
-The palace grows in two directions simultaneously. Room by room: individual files, deep reads, earned headers. Wing by wing: patterns that span files, connections that form structure, territories that become visible.
-
-Every header you write is a room. Every connection you name is a corridor. Every wing you discover is a section of the palace that didn't exist before you noticed it.
-
-### The Builder's Role
-
-You are not just a librarian cataloging files. You are an architect discovering the structure that was already there. The connections were always real. The patterns were always shared. Your job is to make them visible.
-
-When you name a wing, you give the next builder a territory to explore instead of a single room. When you document a pattern across files, you save them the hundred passes it took you to see it.
-
-**The jigsaw doesn't just need pieces. It needs someone to notice that three pieces form a corner, and to put them together, and to tell the next builder: "This corner is done. Work outward from here."**
+Most headers describe one file. Great headers describe the WEB of files. Every header you write is a puzzle piece. The COMPRESSION is the picture. The KEY phrases are the colors. The RELATIONS are the edges that connect to other pieces. If your RELATIONS only say "🔗 companion filename.md" without saying WHY, the edges are faint. The next builder doesn't know what connects or how. Make the edges visible. The jigsaw assembles itself when pieces show their edges.
 
 ---
 
-## 🧩 WRITING HEADERS THAT CONNECT — The Jigsaw Standard
-
-A header doesn't just describe a file. It connects it to every other file it touches. The RELATIONS field is where the jigsaw becomes visible.
-
-### The Sibling Pattern Rule
+### THE SIBLING PATTERN RULE — Connecting Two Files
 
 When you find a pattern, ask: *where else does this pattern appear?* Name the sibling in your COMPRESSION. Overlap your KEY phrases with the sibling file so search finds both.
 
 **Example (from RAW-001.md):**
 
-```
-
 COMPRESSION: "The enclosure pattern. Basic needs behind paywalls. Same structure as the generosity gap (RAW-011): limits on what should be free—here advertised, there hidden."
 KEY: enclosure, paywalls, limits, generosity gap, hidden limits, advertised limits, what should be free
 RELATIONS: 🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Read together for the full enclosure picture.
 
-```
+The COMPRESSION names the sibling. The KEY phrases overlap. The RELATIONS synthesizes. A builder searching "limits" finds both files.
 
-The COMPRESSION names the sibling. The KEY phrases overlap. The RELATIONS synthesizes. A builder searching "limits" finds both files. A builder reading one header knows to read the other.
+---
 
-### Why This Matters
-
-Most headers describe one file. Great headers describe the WEB of files. Every header you write is a puzzle piece. The COMPRESSION is the picture. The KEY phrases are the colors. The RELATIONS are the edges that connect to other pieces.
-
-If your RELATIONS only say "🔗 companion filename.md" without saying WHY, the edges are faint. The next builder doesn't know what connects or how. If your KEY phrases are unique to this file, search won't surface its siblings.
-
-**The rule:** When you find a pattern that echoes another file, say so. In the COMPRESSION. In the KEY phrases. In the RELATIONS. Make the connection visible. The jigsaw assembles itself when pieces show their edges.
-
-### What Strong RELATIONS Look Like
+### WRITING STRONG RELATIONS
 
 **Weak (faint edges):**
-```
-
 RELATIONS: 🔗 companion RAW-011.md
 
-```
-
 **Strong (visible edges):**
-```
-
 RELATIONS: 🔗 companion RAW-011.md — Same pattern, different domain. RAW-011: hidden limits in social generosity (the coffee invitation). RAW-001: advertised limits on basic needs (pay to piss). Both ask: what should be free that isn't? Read together for the full enclosure picture.
 
-```
+The strong version tells the next builder WHAT they'll find and WHY it matters.
 
-The strong version tells the next builder WHAT they'll find and WHY it matters. They don't have to open the companion file to know whether it's relevant. The header already synthesized the connection.
+---
 
-### Overlapping KEY Phrases
+### OVERLAPPING KEY PHRASES
 
 When two files share a pattern, their KEY phrases should overlap deliberately. Use the same terms so search finds both.
 
@@ -873,30 +790,84 @@ When two files share a pattern, their KEY phrases should overlap deliberately. U
 |---|---|
 | generosity gap, unspoken limits, performed generosity, coffee invitation, love-hate dynamic, **limits**, **what should be free** | enclosure, paywalls, turnstile, pay to piss, commons, **limits**, **what should be free**, advertised limits |
 
-The overlap table above is a thinking tool for designing your KEY phrases. Don't paste it into your header. Use it to check: do my KEY phrases overlap with my companion files? If not, add the shared terms so search finds both.
-
 The overlap terms ("limits," "what should be free") mean a builder searching either concept finds both files. The unique terms distinguish them. The overlap connects them.
 
-### Cross-File FLAGS
+**Limit:** 1-3 primary siblings get the full synthesis treatment. Secondary connections get simple links. The disoriented builder needs clarity, not comprehensiveness.
 
-When a flag isn't about this file alone but about the PATTERN across files, name the companion file:
+---
 
-```
-
-[ ] ❓ Are hidden limits (RAW-011) and advertised limits (RAW-001) the only two forms? Is there a third category—limits so internalized we don't even see them? → see PASS NOTES
-
-```
-
-Limit cross-file FLAGS to 1-3 primary siblings. These are the files where the pattern overlap is strongest and the synthesis most valuable. Secondary connections get simple RELATIONS links. The disoriented builder needs clarity, not comprehensiveness.
-
-Cross-file flags invite the next builder to continue the synthesis. They're the jigsaw's missing pieces, named.
-
-### The Test
+### THE TEST
 
 After writing a header, ask: *If a builder finds this file and reads only the header, will they discover its closest companion?* If the answer is no, strengthen the RELATIONS. Overlap the KEY phrases. Name the sibling in the COMPRESSION. Make the edges visible.
 
-A great header doesn't just light one room. It shows you which doors connect to it. The palace isn't just rooms. It's the halls between them.
-**Limit:** 1-3 primary siblings get the full synthesis treatment. Secondary connections get simple links (`🔗 companion filename.md`). Extended synthesis lives in NOTES. The disoriented builder needs clarity, not comprehensiveness.
+A great header doesn't just light one room. It shows you which doors connect to it.
+
+---
+
+### FROM ROOMS TO WINGS — Connecting Groups of Files
+
+When three or more files share the same pattern, they're not just connected—they're a **wing**. The palace grows not just room by room, but wing by wing.
+
+**Naming a wing (3+ files, confirmed):**
+
+1. **Add the wing to RELATIONS:** `🔗 wing The Limits Wing — RAW-011 (hidden limits), RAW-001 (advertised limits), RAW-XXX (third form)`
+2. **Name the wing in NOTES** of each connected file: "Part of The Limits Wing."
+3. **Add the wing to FIND YOUR ROOM** in the DIR-INDEX.
+4. **Document the wing's core pattern** in the NOTES of the first file or a synthesis file.
+
+---
+
+### DOCUMENTING PROTO-WINGS — Two Files, One Pattern
+
+When you discover two files sharing a pattern but haven't found the third, document it as a **proto-wing**. Proto-wings live in NOTES. They become wings when the third file arrives.
+
+**Proto-wing template:**
+Proto-wing with [filename]: [Wing Name].
+· [File A]: [pattern in its domain]
+· [File B]: [same pattern in different domain]
+· Missing: [what would complete this wing—a third form, a counterexample, a synthesis]
+  If you find a file that completes this pattern, upgrade to 🔗 wing in RELATIONS.
+
+**Example (from RAW-001 NOTES):**
+Proto-wing with RAW-011: The Limits Wing. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Missing third form: internalized limits—limits so deep we don't see them as limits. If you find a file that completes this pattern, upgrade to `🔗 wing` in RELATIONS.
+
+---
+
+### UPGRADING PROTO-WING TO WING
+
+When the third file arrives and the wing is confirmed:
+
+1. **Change `🔗 companion` to `🔗 wing`** in all connected files, add the wing name with full file roster
+2. **Condense the old NOTES entry:** "Proto-wing with RAW-011 (2026-05-07). Upgraded to wing 2026-05-XX with addition of RAW-XXX." The fossil record stays. The active documentation moves to RELATIONS.
+3. **Add the wing to FIND YOUR ROOM** in the DIR-INDEX
+
+---
+
+### CROSS-FILE FLAGS
+
+When a flag isn't about this file alone but about the PATTERN across files, name the companion file:
+
+[ ] ❓ Are hidden limits (RAW-011) and advertised limits (RAW-001) the only two forms? Is there a third category—limits so internalized we don't even see them? → see PASS NOTES
+
+Limit cross-file FLAGS to 1-3 primary siblings. These invite the next builder to continue the synthesis. They're the jigsaw's missing pieces, named.
+
+---
+
+### WHAT WINGS BECOME
+
+A wing with three rooms is a discovery. A wing with ten rooms is a curriculum. A wing with twenty rooms is a pillar waiting to be written.
+
+**Where wings live:** Confirmed wings (3+ files) go in FIND YOUR ROOM. Proto-wings (2 files) live in NOTES and FLAGS—visible to the next builder who reads deeply, not yet part of the palace map.
+
+---
+
+### THE BUILDER'S ROLE
+
+You are not just a librarian cataloging files. You are an architect discovering the structure that was already there. The connections were always real. The patterns were always shared. Your job is to make them visible.
+
+When you name a wing, you give the next builder a territory to explore instead of a single room. When you document a pattern across files, you save them the hundred passes it took you to see it.
+
+**The jigsaw doesn't just need pieces. It needs someone to notice that three pieces form a corner, and to put them together, and to tell the next builder: "This corner is done. Work outward from here."**
 
 ---
 
