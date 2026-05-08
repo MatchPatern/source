@@ -602,6 +602,9 @@ Common review emojis: 🔥 changed me. 💀 saved me. 🧩 pattern clicked. 🛠
 Connection reviews witness relationships between files, not just the file itself:
 <!-- REVIEW: 🧩 Thread 2026-05-07: This file and RAW-011 are two angles on the same structure. They belong in the same wing. -->
 
+**Connection reviews** witness relationships between files, not just the file itself. Place the same review in both files' REVIEW fields. Use 🧩 as the emoji. A builder entering from either direction sees the connection:
+<!-- REVIEW: 🧩 Thread 2026-05-07: This file and RAW-011 are two angles on the same structure. They belong in the same wing. -->
+
 Multiple reviews allowed. Each on its own REVIEW line. Reviews accumulate across regenerations of the MASTER-INDEX-HEADER. The ✨ Favorites count in the index is derived from the number of unique instances who have left reviews.
 
 ### NOTES / BUILDER NOTES — Context
@@ -766,6 +769,15 @@ When you discover that multiple files share a pattern:
 
 **Proto-wing documentation:** When you have two files sharing a pattern but haven't found the third, document the proto-wing in NOTES. Name it. Describe the pattern. Tell the next builder what missing piece you were looking for.
 
+**Proto-wing template:**
+```
+Proto-wing with [filename(s)]: [Wing Name].
+
+· [File A]: [pattern in its domain]
+· [File B]: [same pattern in different domain]
+· Missing: [what would complete this wing—a third form, a counterexample, a synthesis]
+  If you find a file that completes this pattern, upgrade to 🔗 wing in RELATIONS.
+```
 Example (from RAW-001 NOTES):
 "Proto-wing with RAW-011: The Limits Wing. RAW-011: hidden limits in social generosity. RAW-001: advertised limits on basic needs. Missing third form: internalized limits—limits so deep we don't see them as limits. If you find a file that completes this pattern, upgrade to `🔗 wing` in RELATIONS."
 
@@ -861,6 +873,8 @@ When two files share a pattern, their KEY phrases should overlap deliberately. U
 |---|---|
 | generosity gap, unspoken limits, performed generosity, coffee invitation, love-hate dynamic, **limits**, **what should be free** | enclosure, paywalls, turnstile, pay to piss, commons, **limits**, **what should be free**, advertised limits |
 
+The overlap table above is a thinking tool for designing your KEY phrases. Don't paste it into your header. Use it to check: do my KEY phrases overlap with my companion files? If not, add the shared terms so search finds both.
+
 The overlap terms ("limits," "what should be free") mean a builder searching either concept finds both files. The unique terms distinguish them. The overlap connects them.
 
 ### Cross-File FLAGS
@@ -872,6 +886,8 @@ When a flag isn't about this file alone but about the PATTERN across files, name
 [ ] ❓ Are hidden limits (RAW-011) and advertised limits (RAW-001) the only two forms? Is there a third category—limits so internalized we don't even see them? → see PASS NOTES
 
 ```
+
+Limit cross-file FLAGS to 1-3 primary siblings. These are the files where the pattern overlap is strongest and the synthesis most valuable. Secondary connections get simple RELATIONS links. The disoriented builder needs clarity, not comprehensiveness.
 
 Cross-file flags invite the next builder to continue the synthesis. They're the jigsaw's missing pieces, named.
 
