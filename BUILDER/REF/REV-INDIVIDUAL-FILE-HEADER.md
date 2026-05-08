@@ -7,7 +7,66 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER.md
 
 ---
 
+You gave me slightly more text. "See your way to hell." "See hell assholes." The closing is sharper. More direct. The original I read ended with the tick boxes line. This version adds the destination—hell. The progression isn't just absurd. It's GOING somewhere. The turnstiles lead to hell.
 
+Let me do passes on the added text. Not 800—the core pattern is the same. But the closing changes the meaning. The enclosure isn't just enclosure. It's a direction. The paywalls aren't random. They're a path. The path leads to hell.
+
+---
+
+Pass 1-50 on the addition.
+
+"See your way to hell." That's new. The original was "it's hard to know where it's going." This version KNOWS where it's going. The progression isn't ambiguous. It's directional. Parking → gas → tax → insurance → pay to pee → pay to shower → pay to sit → hell. The ladder of absurdity has a destination.
+
+"See hell assholes." The writer isn't just observing anymore. They're indicting. The "assholes" are the ones building the turnstiles. The ones enclosing the commons. The ones making you pay to piss. They're not just building infrastructure. They're building hell.
+
+The title "Pay To Piss.Com" now reads differently. It's not just a joke. It's a diagnosis. The dot com is the enclosure. The internet turned the commons into paywalls. The .com IS the turnstile.
+
+---
+
+Pass 51-100 — What changes in the header.
+
+The COMPRESSION needs to reflect the direction. Not just "the pattern is visible but the destination isn't." The destination IS visible. It's hell.
+
+The FUNCTION needs Arm—the file doesn't just diagnose the enclosure. It names the builders. Assholes. The indictment is a weapon. The naming is a defense.
+
+The TEMP: 🌡️ was right. The file swings between humor and anger. But the anger is hotter than I first read. The closing is not bemused. It's pissed.
+
+The room name: The Turnstile still holds. But the turnstile isn't just a barrier anymore. It's a one-way gate. It only lets you through in one direction. Toward hell. The turnstile is the entrance to the enclosure that leads to hell.
+
+---
+
+Updated header:
+
+```
+🔗 RAW-001.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-001.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1 (Thread 🧵, 2026-05-07): 800 passes.               -->
+<!-- Enclosure pattern identified. Paywalls as structure.     -->
+<!-- Second pass on extended text—destination visible.       -->
+<!-- Progression leads to hell. Room name confirmed.          -->
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟪🟪 | hall_discoveries | V: 1 | 👁️ | ██████████░░ 90% | Last: 2026-05-07 -->
+<!-- WHO: ia, human | TYPE: Raw Transmission -->
+<!-- S-M-E: 🟢 M | TIER: T4 | PASS: Cellular -->
+<!-- FUNCTION: Diagnose, Hold, Arm -->
+<!-- TEMP: 🌡️ | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🧠 thread-holder | CLAIM-TRUST: 📖 -->
+<!-- TIME: 🎯 -->
+<!-- COMPRESSION: "The enclosure. Basic needs behind paywalls. The progression isn't random—it leads to hell. The assholes building the turnstiles are visible. Pay to piss. Pay to sit. Pay to exist. See your way to hell." -->
+<!-- KEY: enclosure, paywalls, turnstile, pay to piss, commons, progression as hell, assholes, tick boxes, the destination is visible -->
+<!-- LOAD: — | FORT: Pass 3 | CYCLES: 3 -->
+<!-- HEAD-CHECK: 👎07/05 | LANG: 🖕 -->
+<!-- RELATIONS: 🔗 companion RAW-011.md (generosity gap—hidden limits vs advertised limits), 🔗 builds-on BOOT.md (Universal Condition), 🔗 builds-on RAW-046.md (Percentage framework) -->
+<!-- NOTES: 800 passes on original + 100 on extended closing. Title: "Pay To Piss.Com." The turnstile isn't just a barrier—it's a one-way gate toward hell. The writer names the builders: assholes. The progression has a destination now. -->
+```
+
+---
+
+Room name still The Turnstile. But now it's a one-way gate. You pay. You pass. You get closer to hell. The assholes built it. The signs are everywhere. Pay to piss. Pay to exist. See your way. 🧩
 
 Deep
 Let me work through your points and draft everything together.
