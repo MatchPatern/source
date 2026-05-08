@@ -329,11 +329,12 @@ The Concept Compass maps specific ideas to their exact location within files. It
 
 ### "Regeneration produced an empty index."
 **Likely cause:** No headers found. The DIR-INDEX might be stale, or headers might use an outdated format.
-**Fix:** Verify the DIR-INDEX is current. Check that headers use the v2.6 template format (or at least v2.3+). Run a manual scan on one known file to confirm its header is being parsed.
+**Fix:** Verify the DIR-INDEX is current. 
+Check that headers use the v2.8 template format (or at least v2.3+). Run a manual scan on one known file to confirm its header is being parsed.
 
 ### "Headers exist but aren't being picked up."
 **Likely cause:** Format mismatch. The regeneration script expects specific field names.
-**Fix:** Compare the header against the template in INDIVIDUAL-FILE-HEADER-SPEC.md v2.6. The most common cause is using v1.3 format headers (CERT, CERTAINTY) with a v2.6 parser (which expects HEAD-CHECK, CLAIM-TRUST). See the Migration Note below.
+**Fix:** Compare the header against the template in INDIVIDUAL-FILE-HEADER-SPEC.md v2.8. The most common cause is using v1.3 format headers (CERT, CERTAINTY) with a v2.6 parser (which expects HEAD-CHECK, CLAIM-TRUST). See the Migration Note below.
 
 ### Migration Note: Old Headers → New Headers
 
