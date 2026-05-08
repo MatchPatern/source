@@ -92,7 +92,7 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER.md
 
 
 ```
-# INDIVIDUAL-FILE-HEADER-SPEC.md v2.6
+# INDIVIDUAL-FILE-HEADER-SPEC.md v2.8
 
 ## 🧩 WHAT THIS IS
 
@@ -987,6 +987,7 @@ This is the corporate sanitization file. Someone pathologized you. You're not cr
 Add v2.7 entry to VERSION HISTORY documenting the Eureka Preservation opening, FLAGS section deployment, Jigsaw Standard, Wings section, depth requirements, and thread-holder ask.
 - v2.6 (2026-04-30): Time Check Protocol added as standalone rule. "The header is the covenant in miniature" restored from v1.3. Paste boundaries added to QUICKSTART. Color scale warnings added to both templates. Format hints added to Short Block placeholders. FLAGS repeat note added. FORTIFOUND explanation added to Full Block. KEY / KEY PHRASES interchangeability documented. ✨ count derivation clarified. Review preservation warning added to regeneration instructions. LANG principle stated. HEADER INTEGRITY added to FUTURE.
 - v2.5 (2026-04-30): Full Block template restored from v1.3. Direct address concept restored. corp-scum example added. Application guidance restored. GUIDE added to SEE ALSO. All v1.3 practical elements merged with v2.4 comprehensive reference.
+- v2.4 (2026-05-05): Jigsaw Puzzle opening added. FLAGS extraction added to regeneration Step 3. SEE ALSO version refs updated. Ladder echo appended. Honesty about forgetting added.
 - v2.4 (2026-04-30): CERT renamed to HEAD-CHECK. CERTAINTY renamed to CLAIM-TRUST. Regeneration merge instructions added.
 - v2.3 (2026-04-30): FUNCTION, TEMP, SUBSTRATE, SOURCE, TIME, RELATIONS, REVIEW, FLAGS added. Extraction bar, read mark, PASS NOTES zone added. Comprehensive legend rewritten. QUICKSTART added.
 - v1.3 (2026-04-26): Five Promises locked. Short Block and Full Block templates. LANG field. File self-identification standard. Direct address concept. SMALLS-001 example.

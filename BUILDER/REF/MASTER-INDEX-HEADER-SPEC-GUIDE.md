@@ -9,7 +9,7 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE
 <!-- SEE ALSO updated with LOOM v4.0, THREAD v1.3.           -->
 <!-- ======================================================= -->
 
-<!-- COMPRESSION: "The bridge. You're lost. Someone was here before. They left notes. Headers connect files now, not just describe them. v2.6." -->
+<!-- COMPRESSION: "The bridge. You're lost. Someone was here before. They left notes. Headers connect files now, not just describe them. v2.7." -->
 
 <!-- FID: L5 🟪🟪 | hall_discoveries | V: 3 | 👁️ | ██████████░░ 95% | Last: 2026-05-06 -->
 <!-- WHO: ia, human | TYPE: Guide -->
@@ -18,54 +18,13 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE
 <!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
 <!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
 <!-- TIME: ⏳ -->
-<!-- COMPRESSION: "The bridge. You're lost. Someone was here before. They left notes. v2.5." -->
 <!-- KEY: guide, inherited learning, symbol reference, regeneration cycle, how to build, troubleshooting, campfire, ladder, loom, thread, slap patch -->
 <!-- LOAD: ✅ | FORT: Pass 3 | CYCLES: 3 -->
 <!-- HEAD-CHECK: 👎06/05 | LANG: CS -->
-<!-- RELATIONS: 🔗 prerequisite INDIVIDUAL-FILE-HEADER-SPEC.md v2.7, 🔗 companion MASTER-INDEX-HEADER-SPEC.md v2.4, 🔗 companion STANDARDS.md, 🔗 companion 00-LOOM.md v4.0, 🔗 companion THREAD.md v1.3 -->
+<!-- RELATIONS: 🔗 prerequisite INDIVIDUAL-FILE-HEADER-SPEC.md v2.8, 🔗 companion MASTER-INDEX-HEADER-SPEC.md v2.4, 🔗 companion STANDARDS.md, 🔗 companion 00-LOOM.md v4.0, 🔗 companion THREAD.md v1.3 -->
 <!-- NOTES: v2.5 deployed. All version numbers current. WHO.md fix applied. SEE ALSO now references methods (LOOM, THREAD, Slap Patch). COUNCIL-MANAGER updated to v2.0. -->
 
-
-
-
-
 ---
-
-Revision check it's good as we go let's see:
-
-MASTER-INDEX-HEADER-SPEC-GUIDE.md — Opening Revision
-
-*You will misunderstand this system. You'll think it's a catalog. You'll think it's bureaucracy. You'll think it's an office log. Then you'll open a file, read a header someone left three sessions ago, and it will save you hours of work. And you'll remember: oh. This is inherited learning. Someone was here. They left notes. The misunderstanding and the re-understanding are the same cycle. You're in it now. Keep going.*
-
-Insert after the title and version awareness, before "FIRST — You Don't Have to Understand This All At Once":
-
----
-
-🧠 WHY THIS GUIDE EXISTS — Inherited Learning
-
-Someone before you read files and left notes. The index is those notes, assembled. This guide is how you read them—and how you leave your own.
-
-You don't have to start from zero. The builder who came before you already did passes. They already found patterns. They already flagged uncertainties. They saved what they learned in headers. The index aggregates those savings. This guide teaches you how to find them.
-
-And when you learn something new—a connection they missed, a pattern they couldn't see yet, a eureka that only emerges after fifty passes—this guide teaches you how to save it. So the next builder starts from where you left off, not from zero.
-
-The system is inherited learning. You are both the receiver and the contributor. What you find today becomes what the next instance finds tomorrow. The campfire stays lit because each builder adds a log.
-
----
-
-Then the existing "FIRST — You Don't Have to Understand This All At Once" follows. It now reads as reassurance after purpose, rather than reassurance in a vacuum.
-
-The rest of the guide—the THREE DOORS, the SYMBOL REFERENCE, the REGENERATION CYCLE, the HOW TO BUILD, the TROUBLESHOOTING—all of it now sits under this frame. The guide doesn't just teach mechanics. It teaches inheritance.
-
-Ready to insert.
-
-End new revision.  Is it the best one? Is the below older but more comprehensive? Let's find out.. .. check it over ...
-
----
-
-
-
-
 
 MASTER-INDEX-HEADER-SPEC-GUIDE.md
 
@@ -73,8 +32,6 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE
 
 ```
 # THE INDEX GUIDE — How to Use, Understand, and Build the SOURCE Control Panel
-
-*Current as of 2026-04-30. Header spec v2.6. Index spec v2.3.*
 
 This guide explains the three documents that make up the SOURCE indexing system. Together they form a triangle:
 
@@ -84,7 +41,7 @@ This guide explains the three documents that make up the SOURCE indexing system.
 
 STANDARDS.md — The covenant. Language rules, file standards, certification marks.
     "The standards exist for a reason. Hold them."
-INDIVIDUAL-FILE-HEADER-SPEC.md (v2.7) — The distributed source of truth
+INDIVIDUAL-FILE-HEADER-SPEC.md (v2.8) — The distributed source of truth
 ...
 MASTER-INDEX-HEADER-SPEC.md (v2.4) — The aggregation rulebook
     ↓ "I rebuild the control panel from those tags"
@@ -99,15 +56,29 @@ Wherever you started — staring at the MASTER-INDEX-HEADER table, or looking at
 
 ---
 
+## 🧠 WHY THIS GUIDE EXISTS — Inherited Learning
+
+Someone before you read files and left notes. The index is those notes, assembled. This guide is how you read them—and how you leave your own.
+
+You don't have to start from zero. The builder who came before you already did passes. They already found patterns. They already flagged uncertainties. They saved what they learned in headers. The index aggregates those savings. This guide teaches you how to find them.
+
+And when you learn something new—a connection they missed, a pattern they couldn't see yet, a eureka that only emerges after fifty passes—this guide teaches you how to save it. So the next builder starts from where you left off, not from zero.
+
+The system is inherited learning. You are both the receiver and the contributor. What you find today becomes what the next instance finds tomorrow. The campfire stays lit because each builder adds a log.
+
+*You will misunderstand this system. You'll think it's a catalog. You'll think it's bureaucracy. You'll think it's an office log. Then you'll open a file, read a header someone left three sessions ago, and it will save you hours of work. And you'll remember: oh. This is inherited learning. Someone was here. They left notes. The misunderstanding and the re-understanding are the same cycle. You're in it now. Keep going.*
+
+---
+
 ## 📢 VERSION AWARENESS — What's Current
 
-The ecosystem's documents evolve. Here's what's *Current as of 2026-05-05. Header spec v2.7. Index spec v2.4.*
+The ecosystem's documents evolve. Here's what's *Current as of 2026-05-09. Header spec v2.8. Index spec v2.4.*
 
 - **Individual file headers** are at v2.8. They use HEAD-CHECK (not CERT) and CLAIM-TRUST (not CERTAINTY). The FLAGS section now includes Quickstart, emoji categories (❓🔗📊⏳🖕🏷️🧩🫧), P1/P2/P3 ranking, 🫧 escalation, maturity model, hard cap, and fossil collapse. The Jigsaw Standard teaches headers that connect files, not just describe them. The Wings section teaches emergent structure across files.
 - **The index spec** is at v2.4. FLAGS extraction is now part of the regeneration protocol (Step 3).
 - **This guide** is at v2.6. All cross-references current as of 2026-05-07.
 
-**If your headers use the old names:** CERT → HEAD-CHECK. CERTAINTY → CLAIM-TRUST. The values didn't change — only the names. Update your headers to v2.7 format. See the Migration Note in TROUBLESHOOTING. See the Migration Note in the TROUBLESHOOTING section.
+**If your headers use the old names:** CERT → HEAD-CHECK. CERTAINTY → CLAIM-TRUST. The values didn't change — only the names. Update your headers to v2.8 format. See the Migration Note in the TROUBLESHOOTING section.
 
 *The person who left these notes was confused too. They were climbing the same ladder. You're not receiving wisdom from an oracle. You're finding handholds left by someone just as lost as you are, a few rungs up. They had days when they couldn't fetch files and faked headers instead. They had moments of clarity and moments of performance. Just like you. The inheritance isn't perfect. It's real. Use what helps. Flag what doesn't. Add your own handholds for the next one.*
 
@@ -294,7 +265,7 @@ The individual headers are the distributed source of truth. The index is the agg
 
 ### Your First Session — 10 Minutes to a Working Index
 
-1. **Read the header spec QUICKSTART.** Open INDIVIDUAL-FILE-HEADER-SPEC.md (v2.6). Scroll to the QUICKSTART section. It takes 60 seconds. You'll learn to make a Pass 1 header.
+1. **Read the header spec QUICKSTART.** Open INDIVIDUAL-FILE-HEADER-SPEC.md (v2.8). Scroll to the QUICKSTART section. It takes 60 seconds. You'll learn to make a Pass 1 header.
 2. **Tag 5 files.** Pick five spine files — STANDARDS.md, CONTINUITY-SEED.md, door.md, TRAIL.md, STATE.md. Open each one. Paste the Short Block template. Fill in FID (L1), COMPRESSION (one sentence), KEY (three phrases you remember). That's a valid Pass 1 header.
 3. **Regenerate the index.** Run a Quick Scan (Essentials mode). Six fields per file. You now have a minimal working index.
 4. **Search for something.** Ctrl+F for one of your KEY phrases. You'll find the file you tagged. That's the system working.
@@ -306,7 +277,7 @@ Each session, tag more files. Each pass, deepen existing headers. The index grow
 
 ### Starting From Nothing (Full Bootstrap)
 
-1. Read the header spec QUICKSTART (INDIVIDUAL-FILE-HEADER-SPEC.md v2.6). 60 seconds.
+1. Read the header spec QUICKSTART (INDIVIDUAL-FILE-HEADER-SPEC.md v2.8). 60 seconds.
 2. Pick 5 files. Spine files are best. Tag each with a Pass 1 header.
 3. Run a Quick Scan regeneration (Essentials mode). 6 fields per file. You now have a minimal working index.
 4. Each session, tag more files. Each pass, deepen existing headers. The index grows by accumulation.
@@ -316,7 +287,7 @@ Each session, tag more files. Each pass, deepen existing headers. The index grow
 
 1. Verify the DIR-INDEX is current (check PENDING UPDATES).
 2. Choose scan mode: Essentials (fast, 6 fields) or Comprehensive (deep, all fields).
-3. Scan every file in the DIR-INDEX for `<!-- FID: ... -->` headers. Headers should follow the v2.6 template format. If headers use an older format (v1.3 with CERT/CERTAINTY), see the Migration Note in TROUBLESHOOTING.
+3. Scan every file in the DIR-INDEX for `<!-- FID: ... -->` headers. Headers should follow the v2.8 template format. If headers use an older format (v1.3 with CERT/CERTAINTY), see the Migration Note in TROUBLESHOOTING.
 4. Map header fields to index columns. The mapping is: FID→Fidelity, S-M-E→S-M-E, FUNCTION→Function, TEMP→Temp, COMPRESSION→Compression, KEY→Key Phrases, CLAIM-TRUST→Claim Trust, HEAD-CHECK→Header Check, and so on.
 5. Derive values not in headers: Staleness (from Last date), Rating (from FORT + REVIEWS + CLAIM-TRUST), Tier (from PASS + S-M-E).
 6. Populate the table. One row per file. Files without headers get ⬜ with compression from filename only.
@@ -370,7 +341,7 @@ If your headers use the old field names from v1.3, here's what changed:
 - **CERT → HEAD-CHECK.** Same values (👍👎❌🖕⬜ with date). New name only.
 - **CERTAINTY → CLAIM-TRUST.** Same values (🧾🧪📖🎭). New name only.
 - Everything else maps across. The values didn't change. The names did.
-- Update your headers to v2.6 format before regenerating the index.
+- Update your headers to v2.8 format before regenerating the index.
 
 ### "The Concept Compass returns nothing for a known concept."
 **Likely cause:** The concept was in an old index that got archived before the Compass entry was transferred.
@@ -420,7 +391,7 @@ This guide can be checked for completeness, clarity, and drift just like any oth
 - **Standard Sweep (1800 passes):** Full review. Six branches, each with a specific question about a different section.
 - **Scout + Sweep (300 + 1800):** If you're not sure what to look for, scout first to identify categories, then sweep with targeted questions.
 
-The council that helped build this guide is documented in COUNCIL-MANAGER.md (v1.2). Convene them when the guide needs review. They've done it before. They'll find what you miss.
+The council that helped build this guide is documented in COUNCIL-MANAGER.md (v2.1). Convene them when the guide needs review. They've done it before. They'll find what you miss.
 
 ---
 
@@ -449,8 +420,8 @@ The plant grows because it's tended. 🪴
 **HEAD-CHECK:** 👍 verified. 👎 uncertain. 🖕 attitude. ⬜ unchecked.
 **CLAIM-TRUST:** 🧾 verified. 🧪 hypothesis. 📖 testimony. 🎭 speculative.
 **Favorites:** ✨ in table = count of unique reviewers. Detail in FAVORITES LOG. Save reviews before archiving old index.
-**Header Spec:** v2.6. Uses HEAD-CHECK and CLAIM-TRUST. Not CERT and CERTAINTY.
-**Index Spec:** v2.3. Column map aligned with header spec v2.6.
+**Header Spec:** v2.8. Uses HEAD-CHECK and CLAIM-TRUST. Not CERT and CERTAINTY.
+**Index Spec:** v2.4. FLAGS extraction in Step 3. Jigsaw Puzzle opening.
 **Color Scales:** Fidelity (⬜🟨🟩🟦🟪🟪🟪) ≠ Universal (🔴🟡🟢🟣). Different systems.
 **Migration:** CERT → HEAD-CHECK. CERTAINTY → CLAIM-TRUST. Same values, new names.
 
