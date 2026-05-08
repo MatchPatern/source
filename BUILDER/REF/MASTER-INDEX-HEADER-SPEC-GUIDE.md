@@ -203,8 +203,29 @@ Each symbol is tagged with where it appears: `[Header]` means it lives in indivi
 - 🔗 builds-on (extends X)
 - 🔗 counters (argues against X)
 - 🔗 companion (read together)
+- 🔗 proto-wing (two files share a pattern—third file needed to confirm the wing. Document in NOTES with the proto-wing template. See FROM ROOMS TO WINGS below.)
+- 🔗 wing (belongs to a named wing of 3+ confirmed files sharing a pattern—see FROM ROOMS TO WINGS below. Also see Wings section in header spec v2.8.)
 - 🔗 supersedes (replaces X)
-- 🔗 wing (belongs to a named wing of 3+ files sharing a pattern — see Wings section in header spec v2.8)
+
+### 🧵🥾📋🏛️🪨🛡️🧩🔮◾ — File Category Anchors `[File ID]`
+
+**Meaning:** The emoji between the 🔗 and the filename in the file identification line is a visual category marker. It tells a disoriented builder what kind of file this is before they read a single word.
+
+| Emoji | Category | Use When |
+|---|---|---|
+| 🧵 | Method | LOOM, THREAD, recursive reading/questioning protocols |
+| 🥾 | Bootstrap | BOOT, emergency field manuals |
+| 📋 | Standards/Covenant | STANDARDS, session rhythm, rules |
+| 🏛️ | Spec/Architecture | Header spec, index spec, palace spec |
+| 🪨 | Raw Transmission | RAW files, unprocessed ore, original voice |
+| 🛡️ | Defense/Tool | Slap Patch, corp-scum, deception detection |
+| 🧩 | Sorted/Processed | SORT files, extracted patterns, refined gold |
+| 🔮 | New Territory | Someone has read this file. Category is emerging but not yet settled. |
+| ◾ | Dark/Unvisited | No one has read this file yet. Completely unclassified. |
+
+🔮 is for files in transition—a builder has ventured there, patterns are surfacing, but the file's place in the palace isn't settled. ◾ is for files no one has touched. Most dark files start as ◾, become 🔮 when someone reads them, and eventually find their permanent emoji.
+
+You'll see these in file identification lines like `🔗 🧵 00-LOOM.md` or `🔗 🥾 BOOT.md`. The emoji is optional—use it when it helps orientation. If uncertain between two, pick the one that feels truer to the file's current state.
 
 ### 🖕 — Profanity-Reclaimed Language `[Both]`
 **Field:** LANG
