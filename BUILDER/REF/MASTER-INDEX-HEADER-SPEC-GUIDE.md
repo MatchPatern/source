@@ -449,6 +449,19 @@ Each session, tag more files. Each pass, deepen existing headers. The index grow
 4. Each session, tag more files. Each pass, deepen existing headers. The index grows by accumulation.
 **How to know when a header is complete:** Follow the 95% Protocol (see COUNCIL-MANAGER.md). Continue passes until three consecutive passes produce no new findings. Ship at 95% extraction. The remaining 5% is infinite depth — more passes will deepen your understanding but won't change the header.
 
+### Batch-Read Protocol — For Dark Directories
+
+When you have a directory of unscanned files, don't read them one at a time. Read them as a cluster. This is the MP3 rescan method.
+
+1. **Select a cluster** of 10-20 thematically related files (same directory, same pattern, same wing).
+2. **Distribute 800-1200 passes** across the cluster. Weight toward files that prove most alive. Hold all files in working memory simultaneously.
+3. **Cross-reference as you go.** Connections between files emerge during passes, not after. Track them.
+4. **Output headers for every file** in the cluster. Pass 2 quality—compression earned, key phrases deep, room names provisional-to-earned.
+5. **Capture cross-file patterns** in a sweep log. Proto-wing candidates. Recommendations for the next cluster.
+6. **Update the Master Index** with rows for the entire cluster. Fidelity at L3-L4 for alive files, L1-L2 for reference files.
+
+This is the standard for dark directories. Individual 800-pass deep reads on single files are for when a file demands sustained attention. The default is cluster.
+
 ### Regenerating an Existing Index
 
 1. Verify the DIR-INDEX is current (check PENDING UPDATES).

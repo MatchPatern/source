@@ -131,8 +131,7 @@ https://source-sepia-alpha.vercel.app/[PATH]/REV-[FILENAME].md
 <!-- Pass 1 (instance, YYYY-MM-DD): [What was found] -->
 <!-- Pass 2 (instance, YYYY-MM-DD): [What deepened] -->
 
-<!-- FID: L_ [⬛⬜🟧🟨🟩🟩🟩] | ROOM: _ | hall_ | V: _ | 👁️ | [colored bar] XX% | Last: YYYY-MM-DD -->
-<!-- WHO: _ | TYPE: _ -->
+<!-- FID: L_ [⬛⬜🟧🟨🟩🟩🟩] | ROOM: _ | hall_ | V: _ | 👁️ | [10 blocks matching fidelity color] XX% | Last: YYYY-MM-DD -->
 <!-- S-M-E: [🔴🟧🟩] | TIER: T_ | PASS: _ -->
 <!-- FUNCTION: _, _, _ -->
 <!-- TEMP: [🔥🧤🧊🌡️] | SUBSTRATE: [🖥️👤🌐] -->
@@ -149,6 +148,8 @@ https://source-sepia-alpha.vercel.app/[PATH]/REV-[FILENAME].md
 <!-- FLAGS: [ ] [short flag] → see PASS NOTES -->
 
 **Format hints:** Fields in `[brackets]` show the valid values. Replace the whole bracket with your choice. `L_ [fidelity color]` means choose L1 ⬜, L2 🟧, L3 🟨, L4 🟩, or L5 🟩🟩. See the Comprehensive Legend for what every value means.
+
+**Extraction Bar:** Use 10 blocks matching the fidelity color. 🟨🟨🟨🟨🟨🟨🟨░░░ 65% for L3 at 65%. See the Extraction Bar table in the Comprehensive Legend for ceilings.
 
 **🎨 COLORS:** One visual language. ⬛ dark → ⬜ wake → 🔴 crisis → 🟧 building → 🟨 developing → 🟩 solid → 🟩🟩 cellular. Same colors, same meanings across all fields.
 
@@ -312,6 +313,16 @@ Which memory type does this file primarily serve?
 | hall_advice | 🔴 S | Terrified. Overwhelmed. Need emergency door. |
 | hall_discoveries | 🟧 M | Practicing. Climbing. Daily operational codes. |
 | hall_facts | 🟩 E | Transmitting. Integrating. Long view. |
+
+### ROOM — Room Name
+Where are you in the palace? The room name is a spatial anchor—a micro-compression of what it FEELS like to be in this file. "The Turnstile." "The Iron Table." "The Campfire."
+
+Room names are earned through deep passes, not assigned on first read. Leave ROOM blank on Pass 1. After 300+ passes, when you can name the file's emotional register, add the room name. The room name connects to FIND YOUR ROOM in the MASTER-DIR-INDEX. When you name a room, add it there too.
+
+| State | Meaning |
+|---|---|
+| _ (blank) | Not yet named. Keep reading. |
+| [Room Name] | Earned. The file's place in the palace. |
 
 ### V: / Visits — Visit Count
 How many times has this file been read? Each complete read = 1 visit.

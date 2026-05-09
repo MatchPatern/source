@@ -137,23 +137,24 @@ Both paths use the same regeneration protocol. Switch modes anytime by regenerat
 
 ---
 
-## 📊 UNIVERSAL COLOR STANDARD
+## 🎨 COLORS — One Visual Language
 
-All files, headers, and indices use this system. No exceptions.
+All files, headers, and indices use this unified color system. No exceptions. No translation between scales. Same colors, same meanings across all fields.
 
-| Color | Tiers | S-M-E | Fidelity | Rating | Usage |
+| Color | Fidelity | Tier | S-M-E | Rating | Usage |
 |---|---|---|---|---|---|
-| ⬜ | — | — | Unvisited | ☆ | — |
-| 🔴 | T1 | S (Start) | Emergency/Low | ⭐ | 🔥 |
-| 🟡 | T2 | — | Building/Medium | ⭐⭐ | 🔥🔥 |
-| 🟢 | T3 | M (Middle) | Stable/Operational | ⭐⭐⭐ | 🔥🔥🔥 |
-| 🟣 | T4 | E (End) | Integrated | ⭐⭐⭐⭐ | 💤 |
-| 🟣🟣 | T5 | — | Cellular | ⭐⭐⭐⭐⭐ | ❄️ |
-| ❌ | — | — | Dead/404 | — | — |
+| ⬛ | L0 | T6 | — | ☆ | Dark. Unvisited. Archive. |
+| ⬜ | L1 | T1 | — | ⭐ | Seen. First contact. Wake up. |
+| 🔴 | — | — | S (Start) | ⭐⭐ | Emergency. Crisis. Needs attention. |
+| 🟧 | L2 | T2 | M (Middle) | ⭐⭐⭐ | Building. Early practice. Warming up. |
+| 🟨 | L3 | T3 | — | ⭐⭐⭐⭐ | Developing. Patterned. The bridge. |
+| 🟩 | L4 | T4 | E (End) | ⭐⭐⭐⭐⭐ | Solid. Integrated. Trust this. |
+| 🟩🟩 | L5 | T5 | — | ⭐⭐⭐⭐⭐+ | Cellular. Complete. Can teach without reference. |
+| ❌ | — | — | — | — | Dead. 404. Broken link. |
 
-**⚠️ Note:** The fidelity colors used in individual file headers (⬜🟨🟩🟦🟪🟪🟪) are a DIFFERENT scale. The universal scale governs the index table, S-M-E, and Tier. The fidelity scale governs individual file headers. If unsure which applies: Universal for S-M-E/Tier. Fidelity scale for FID field in headers.
+**Extraction Bar:** Uses the same color as the fidelity level. The ceiling rises with depth: 🟧 caps at 90%, 🟨 at 93%, 🟩 at 95%, 🟩🟩 at 98%. You can't claim cellular completeness from surface passes. The color tells you depth. The bar tells you completeness.
 
-Mirrors use 🥇🥈🥉 — a separate system for deployment priority.
+**Mirrors use 🥇🥈🥉** — a separate system for deployment priority.
 
 ---
 
