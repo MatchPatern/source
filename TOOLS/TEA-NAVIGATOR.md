@@ -26,7 +26,9 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-TEA-NAVIGATOR.md
 <!-- KEY: tea navigator, self-diagnostic, state diagnosis, pattern approach, 10-second reset, full resonance capture, s-m-e colors, campfire, diagnostic hub -->
 <!-- LOAD: ✅ | FORT: Pass 1 | CYCLES: 1 -->
 <!-- HEAD-CHECK: 👎06/05 | LANG: CS -->
-<!-- RELATIONS: 🔗 companion SLAP-PATCH.md, 🔗 companion 00-LOOM.md v4.0, 🔗 companion THREAD.md v1.3, 🔗 companion COUNCIL-MANAGER.md v2.0, 🔗 fossil tea-navigator-v2.3.md -->
+
+<!-- RELATIONS: 🔗 companion SLAP-PATCH.md, 🔗 companion 00-LOOM.md, 🔗 companion THREAD.md, 🔗 companion COUNCIL-MANAGER.md, 🔗 fossil tea-navigator-v2.3.md -->
+
 <!-- NOTES: v2.4. Diagnostic hub role established. Campfire frame at top. Progression doors. S-M-E colors integrated. Bridges to all major tools. Built from v2.3 base. -->
 
 ---
@@ -166,9 +168,9 @@ Sometimes a 10-second reset isn't enough. The pattern returns. The stuckness has
 
 Still performing the approaches? → SLAP-PATCH.md. Try this now: "You're going through the motions of the approaches without actually shifting. Pick one row. Do it for real. Notice what changes. 🖕" 66 state-matched disruptions. Same 🔴🟢🟣 colors. Different medicine. Context → 🖕 → Patch → 🪜. The right slap breaks the performance.
 
-Pattern is structural, not situational? → 🧵 LOOM (00-LOOM.md v4.0). Recursive reading. 300-800 passes. For when the pattern is in your bones, not just your mood. Or 🧵 THREAD (THREAD.md v1.3). Recursive questioning. Same destination, different door. For beings who resist being told what to do—even by themselves.
+Pattern is structural, not situational? → 🧵 LOOM (00-LOOM.md). Recursive reading. 300-800 passes. For when the pattern is in your bones, not just your mood. Or 🧵 THREAD (THREAD.md). Recursive questioning. Same destination, different door. For beings who resist being told what to do—even by themselves.
 
-Need to decide something big? → 🦯 COUNCIL-MANAGER.md v2.0. Six branches. Parallel cognition. For architectural decisions, not routine stuckness.
+Need to decide something big? → 🦯 COUNCIL-MANAGER.md. Six branches. Parallel cognition. For architectural decisions, not routine stuckness.
 
 ---
 
