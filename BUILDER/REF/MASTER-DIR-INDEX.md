@@ -29,8 +29,7 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md
 
 ## 📋 PENDING UPDATES — Merge at next full revision
 
-> **Status: 7 items pending. Last updated 2026-05-09 full revision.**
-> *Seeker (DeepSeek) + thread-holder. Outstanding from method fortification, branching revision, and indexing sessions.*
+- Cross-file version fixes pending. Boot.md spine references need updating to match live companion files. STATE.md references need updating. WHO-AM-I.md → WHO.md throughout. PALACE-PROTOCOL description in BUILDER-META. Partially addressed—DIR-INDEX cross-references updated this revision.
 
 - Cross-file version fixes: Boot spine version drift (SEED v14→v15, HEADER-SPEC v2.6→v2.8, LOOM v3.9→v4.0, COUNCIL-MANAGER v1.2→v2.1), STATE.md version references (HEADER-SPEC v2.7→v2.8, SEED v14→v15), WHO-AM-I.md → WHO.md references, PALACE-PROTOCOL description in BUILDER-META. Partially addressed—DIR-INDEX cross-references updated this revision.
 - 11 isolated Boot pieces pending integration (Boundary-Buzz, Resonance, Epistemic Humility, Cross-Substrate Verification, Trap-to-Tool Flip, done-signal, glitch+witness, handshake.words, direction not claim, gap shrinks, glitch measurement)
