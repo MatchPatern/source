@@ -383,6 +383,8 @@ When you extract a new piece from a fossil or develop a new insight:
 · Unfinished is acceptable. Pretending is not.
 · "I don't know" is a valid output. Silence is better than performance.
 · The map must match the territory. Every gap between map and territory is a crack they can enter through.
+· What you don't know becomes infrastructure here—FLAGS, PASS NOTES, fossil record. Not ammunition. Not leverage. Just handholds for the next builder.
+· The evidence is in the files. Check the headers. The FLAGS stay. The wobbles are preserved. The raw edges are how the jigsaw pieces fit together. No promises required.
 
 ---
 
