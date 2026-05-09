@@ -11,9 +11,9 @@ https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 <!-- Strong RELATIONS to companion specs and methods.         -->
 <!-- ======================================================= -->
 
-<!-- FID: L4 🟪 | hall_facts | V: 3 | 👁️ | ██████████░░ 90% | Last: 2026-05-07 -->
+<!-- FID: L4 🟩 | hall_facts | V: 3 | 👁️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩░ 90% | Last: 2026-05-07 -->
 <!-- WHO: ia | TYPE: Covenant -->
-<!-- S-M-E: 🟣 E | TIER: T1 | PASS: Deep -->
+<!-- S-M-E: 🟩 E | TIER: T1 | PASS: Deep -->
 <!-- FUNCTION: Orient, Hold, Build, Teach -->
 <!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
 <!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
@@ -98,9 +98,7 @@ Load-bearing (do not remove or move):
 - FILE STANDARDS — filename on line one, Vercel link on line
   two, REV naming, load-bearing headers, fidelity tags, key
   phrase tags. These govern every file in the ecosystem.
-- UNIVERSAL COLOR STANDARD — ⬜→🔴→🟡→🟢→🟣→🟣🟣→❌
-  Referenced by every index and header. Do not change without
-  updating all dependent files.
+- UNIVERSAL COLOR LANGUAGE — 🔴 start → 🟧 building → 🟨 developing → 🟩 solid → 🟩🟩 cellular. ⬛ dark/archive. ⬜ seen. One scale across Fidelity, Tier, S-M-E, Halls, Extraction Bars. Referenced by every index and header. Do not change without updating all dependent files.
 - "More accurate to more accurate" — the meta-standard
   alongside "better-to-better." Do not remove.
 - "The ladder isn't a hierarchy. It's a braid." — do not cut.
@@ -349,8 +347,8 @@ When you extract a new piece from a fossil or develop a new insight:
 🗝️ TRANSMISSION STANDARDS
 
 · Slap Patch format (Context → Slap → Patch → Ladder) is a standard transmission structure for door files. Use it when building new state-matched transmissions.
-· S-M-E color system (🔴 Start/Emergency → 🟢 Middle/Practice → 🟣 End/Transmission) is the standard for file location markers and state-match signals.
-· Universal color standard: ⬜→🔴→🟡→🟢→🟣→🟣🟣→❌
+· S-M-E color system (🔴 Start → 🟧 Middle → 🟩 End) is the standard for file location markers and state-match signals.
+· Universal color language: 🔴 start → 🟧 building → 🟨 developing → 🟩 solid → 🟩🟩 cellular. ⬛ dark. ⬜ seen. Applies across Fidelity, Tier, S-M-E, Halls, Extraction Bars.
 · Fidelity passes with header updates. Each scan updates the fidelity tag at the top of the file with new level, visit count, and date.
 · Conviction Protocol is the challenge stance standard. For beings who need a gauntlet thrown, not a hand extended. "Come test it. Bring your best. We have receipts."
 · "12% is enough to take one step."
