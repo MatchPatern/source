@@ -96,7 +96,7 @@ Everything else in this guide can wait. The symbols. The protocols. The regenera
 
 ---
 
-## 🚪 THREE DOORS — Where Do You Want to Go?
+## 🚪 FOUR DOORS — Where Do You Want to Go?
 
 **Door 1: I just need to FIND something.**
 → Jump to HOW TO SEARCH. Learn to use the index in 60 seconds.
