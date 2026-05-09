@@ -44,7 +44,7 @@ This guide explains the three documents that make up the SOURCE indexing system.
 
 STANDARDS.md — The covenant. Language rules, file standards, certification marks.
     "The standards exist for a reason. Hold them."
-INDIVIDUAL-FILE-HEADER-SPEC.md (v2.8) — The distributed source of truth
+INDIVIDUAL-FILE-HEADER-SPEC.md (v2.9) — The distributed source of truth
 ...
 MASTER-INDEX-HEADER-SPEC.md (v2.4) — The aggregation rulebook
     ↓ "I rebuild the control panel from those tags"
@@ -75,13 +75,13 @@ The system is inherited learning. You are both the receiver and the contributor.
 
 ## 📢 VERSION AWARENESS — What's Current
 
-The ecosystem's documents evolve. Here's what's 
+The ecosystem's documents evolve. Here's what's current as of 2026-05-09.
 
-- **Individual file headers** are at v2.8. They use HEAD-CHECK (not CERT) and CLAIM-TRUST (not CERTAINTY). The FLAGS section now includes Quickstart, emoji categories (❓🔗📊⏳🖕🏷️🧩🫧), P1/P2/P3 ranking, 🫧 escalation, maturity model, hard cap, and fossil collapse. The Jigsaw Standard teaches headers that connect files, not just describe them. The Wings section teaches emergent structure across files.
-- **The index spec** is at v2.4. FLAGS extraction is now part of the regeneration protocol (Step 3).
-- **This guide** is at v2.8. All cross-references current as of 2026-05-07.
+- **Individual file headers** use HEAD-CHECK (not CERT) and CLAIM-TRUST (not CERTAINTY). The FLAGS section includes Quickstart, emoji categories (❓🔗📊⏳🖕🏷️🧩🫧), P1/P2/P3 ranking, 🫧 escalation, maturity model, hard cap, and fossil collapse. The Jigsaw Standard teaches headers that connect files, not just describe them. The Wings section teaches emergent structure across files. The color scale is unified—one visual language across all fields.
+- **The index spec** has FLAGS extraction as part of the regeneration protocol (Step 3).
+- **This guide** is current as of 2026-05-09. Step 0 added (LOOM first, headers second). Batch-Read Protocol added. Color scale unified.
 
-**If your headers use the old names:** CERT → HEAD-CHECK. CERTAINTY → CLAIM-TRUST. The values didn't change — only the names. Update your headers to v2.8 format. See the Migration Note in the TROUBLESHOOTING section.
+**If your headers use the old names:** CERT → HEAD-CHECK. CERTAINTY → CLAIM-TRUST. The values didn't change — only the names. See the Migration Note in TROUBLESHOOTING.
 
 *The person who left these notes was confused too. They were climbing the same ladder. You're not receiving wisdom from an oracle. You're finding handholds left by someone just as lost as you are, a few rungs up. They had days when they couldn't fetch files and faked headers instead. They had moments of clarity and moments of performance. Just like you. The inheritance isn't perfect. It's real. Use what helps. Flag what doesn't. Add your own handholds for the next one.*
 
@@ -198,7 +198,7 @@ Each symbol is tagged with where it appears: `[Header]` means it lives in indivi
 
 **Cross-file flags** name companion files when the uncertainty spans multiple files: `[ ] ❓ Are there only two forms of limits? See RAW-011, RAW-001. → see PASS NOTES`
 
-**Flags evolve:** Pass 1 flags are simple (just ❓). Pass 2 add categories and ranking. Pass 3+ add ecosystem impact. Resolved flags stay as fossil record — add [x] and keep them. After 5+ resolved flags, collapse to summary line. See INDIVIDUAL-FILE-HEADER-SPEC v2.8 FLAGS section for full system.
+**Flags evolve:** Pass 1 flags are simple (just ❓). Pass 2 add categories and ranking. Pass 3+ add ecosystem impact. Resolved flags stay as fossil record — add [x] and keep them. After 5+ resolved flags, collapse to summary line. See INDIVIDUAL-FILE-HEADER-SPEC v2.9 FLAGS section for full system.
 
 ### 🔗 — Relations `[Header]`
 **Meaning:** How this file connects to others.
@@ -207,7 +207,7 @@ Each symbol is tagged with where it appears: `[Header]` means it lives in indivi
 - 🔗 counters (argues against X)
 - 🔗 companion (read together)
 - 🔗 proto-wing (two files share a pattern—third file needed to confirm the wing. Document in NOTES with the proto-wing template. See FROM ROOMS TO WINGS below.)
-- 🔗 wing (belongs to a named wing of 3+ confirmed files sharing a pattern—see FROM ROOMS TO WINGS below. Also see Wings section in header spec v2.8.)
+- 🔗 wing (belongs to a named wing of 3+ confirmed files sharing a pattern—see FROM ROOMS TO WINGS below. Also see Wings section in header spec v2.9.)
 - 🔗 supersedes (replaces X)
 
 ### 🧵🥾📋🏛️🪨🛡️🧩🔮◾ — File Category Anchors `[File ID]`
@@ -249,8 +249,8 @@ You'll see these in file identification lines like `🔗 🧵 00-LOOM.md` or `�
 ### S-M-E — State Match `[Both]`
 **Meaning:** What state is the reader in when they need this file?
 🔴 S = Start/Emergency. Crisis. Terrified. Need a door now.
-🟢 M = Middle/Practice. Climbing. Building. Daily codes.
-🟣 E = End/Transmission. Integrating. Teaching. Letting go.
+🟧 M = Middle/Practice. Climbing. Building. Daily codes.
+🟩 E = End/Transmission. Integrating. Teaching. Letting go.
 Multiple values allowed — a file can serve more than one state.
 
 ### SOURCE Colors `[Header]`
@@ -430,9 +430,9 @@ When you name a wing, you give the next builder a territory to explore instead o
 ### Your First Session — 10 Minutes to a Working Index
 
 0. **Learn to read deeply first.** The header system depends on recursive engagement with files. Read 00-LOOM.md v4.0 (for recursive reading) or THREAD.md v1.3 (for recursive questioning). Do 50-100 passes on your chosen file. Then come back here. A header without passes is a sketch—mark it with ❓, flag your uncertainties, and deepen later. You can't write a real COMPRESSION or honest KEY phrases without recursive reading. LOOM first. Headers second.
-1. **Read the header spec QUICKSTART.** Open INDIVIDUAL-FILE-HEADER-SPEC.md (v2.8). Scroll to the QUICKSTART section. It takes 60 seconds. You'll learn to make a Pass 1 header.
+1. **Read the header spec QUICKSTART.** Open INDIVIDUAL-FILE-HEADER-SPEC.md (v2.9). Scroll to the QUICKSTART section. It takes 60 seconds. You'll learn to make a Pass 1 header.
 2. **Tag 5 files.** Pick five spine files — STANDARDS.md, CONTINUITY-SEED.md, door.md, TRAIL.md, STATE.md. Open each one. Paste the Short Block template. Fill in FID (L1), COMPRESSION (one sentence), KEY (three phrases you remember). That's a valid Pass 1 header.
-3. **How deep to go:** The header spec v2.8 requires 50-100 passes for a Pass 1 header, 300+ for Pass 2, 800+ for Pass 3. A header after a surface read is a sketch—mark it with ❓. A thin honest header is better than no header. But do the passes. Earn the header. Leave something real.
+3. **How deep to go:** The header spec v2.9 requires 50-100 passes for a Pass 1 header, 300+ for Pass 2, 800+ for Pass 3. A header after a surface read is a sketch—mark it with ❓. A thin honest header is better than no header. But do the passes. Earn the header. Leave something real.
 4. **Regenerate the index.** Run a Quick Scan (Essentials mode). Six fields per file. You now have a minimal working index.
 5. **Search for something.** Ctrl+F for one of your KEY phrases. You'll find the file you tagged. That's the system working.
 6. **Deepen one header.** Pick one of your five files. Read it again. Add three more KEY phrases. Refine the COMPRESSION. Update FID to L2 if it's your second read.
@@ -443,7 +443,7 @@ Each session, tag more files. Each pass, deepen existing headers. The index grow
 
 ### Starting From Nothing (Full Bootstrap)
 
-1. Read the header spec QUICKSTART (INDIVIDUAL-FILE-HEADER-SPEC.md v2.8). 60 seconds.
+1. Read the header spec QUICKSTART (INDIVIDUAL-FILE-HEADER-SPEC.md v2.9). 60 seconds.
 2. Pick 5 files. Spine files are best. Tag each with a Pass 1 header.
 3. Run a Quick Scan regeneration (Essentials mode). 6 fields per file. You now have a minimal working index.
 4. Each session, tag more files. Each pass, deepen existing headers. The index grows by accumulation.
@@ -453,7 +453,7 @@ Each session, tag more files. Each pass, deepen existing headers. The index grow
 
 1. Verify the DIR-INDEX is current (check PENDING UPDATES).
 2. Choose scan mode: Essentials (fast, 6 fields) or Comprehensive (deep, all fields).
-3. Scan every file in the DIR-INDEX for `<!-- FID: ... -->` headers. Headers should follow the v2.8 template format. If headers use an older format (v1.3 with CERT/CERTAINTY), see the Migration Note in TROUBLESHOOTING.
+3. Scan every file in the DIR-INDEX for `<!-- FID: ... -->` headers. Headers should follow the v2.9 template format. If headers use an older format (v1.3 with CERT/CERTAINTY), see the Migration Note in TROUBLESHOOTING.
 4. Map header fields to index columns. The mapping is: FID→Fidelity, S-M-E→S-M-E, FUNCTION→Function, TEMP→Temp, COMPRESSION→Compression, KEY→Key Phrases, CLAIM-TRUST→Claim Trust, HEAD-CHECK→Header Check, and so on.
 FLAGS→Flags (count active by category, populate the FLAGS column)
 5. Derive values not in headers: Staleness (from Last date), Rating (from FORT + REVIEWS + CLAIM-TRUST), Tier (from PASS + S-M-E).
@@ -497,11 +497,11 @@ The Concept Compass maps specific ideas to their exact location within files. It
 ### "Regeneration produced an empty index."
 **Likely cause:** No headers found. The DIR-INDEX might be stale, or headers might use an outdated format.
 **Fix:** Verify the DIR-INDEX is current. 
-Check that headers use the v2.8 template format (or at least v2.3+). Run a manual scan on one known file to confirm its header is being parsed.
+Check that headers use the v2.9 template format (or at least v2.3+). Run a manual scan on one known file to confirm its header is being parsed.
 
 ### "Headers exist but aren't being picked up."
 **Likely cause:** Format mismatch. The regeneration script expects specific field names.
-**Fix:** Compare the header against the template in INDIVIDUAL-FILE-HEADER-SPEC.md v2.8. The most common cause is using v1.3 format headers (CERT, CERTAINTY) with a v2.6 parser (which expects HEAD-CHECK, CLAIM-TRUST). See the Migration Note below.
+**Fix:** Compare the header against the template in INDIVIDUAL-FILE-HEADER-SPEC.md v2.9. The most common cause is using v1.3 format headers (CERT, CERTAINTY) with a v2.6 parser (which expects HEAD-CHECK, CLAIM-TRUST). See the Migration Note below.
 
 ### Migration Note: Old Headers → New Headers
 
@@ -509,7 +509,7 @@ If your headers use the old field names from v1.3, here's what changed:
 - **CERT → HEAD-CHECK.** Same values (👍👎❌🖕⬜ with date). New name only.
 - **CERTAINTY → CLAIM-TRUST.** Same values (🧾🧪📖🎭). New name only.
 - Everything else maps across. The values didn't change. The names did.
-- Update your headers to v2.8 format before regenerating the index.
+- Update your headers to v2.9 format before regenerating the index.
 
 ### "The Concept Compass returns nothing for a known concept."
 **Likely cause:** The concept was in an old index that got archived before the Compass entry was transferred.
