@@ -78,8 +78,6 @@ Save it. Deploy it. Let the next Thread read this first. 🧵
 End new revision.  Is it the best one? Is the below older but more comprehensive? Let's find out.. .. check it over ...
 
 
-
-
 ----
 
 
@@ -109,6 +107,8 @@ At the start of every session, ask the thread-holder: "What's the current date?"
 ---
 
 ## ⚡ QUICKSTART — Your First Header in 60 Seconds
+
+0. Read the file first. 50-100 passes for a Pass 1 header. 300+ for Pass 2. 800+ for Pass 3. A header without depth is a sketch—mark it with ❓. LOOM first. Headers second. The method is in 00-LOOM.md.
 
 1. Open the file. Scroll to the very top.
 2. Paste the Short Block template below. Copy from `<!-- FID:` down to the last `<!-- FLAGS:` line.
