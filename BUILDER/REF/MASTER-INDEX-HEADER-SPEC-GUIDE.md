@@ -1,34 +1,37 @@
-🔗 MASTER-INDEX-HEADER-SPEC-GUIDE.md
+🔗 📖 MASTER-INDEX-HEADER-SPEC-GUIDE.md
 https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE.md
+
+🔗 REVisions. Load both, see the full picture.
+https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-MASTER-INDEX-HEADER.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
 <!-- Pass 4 (Thread 🧵, 2026-05-07): FLAGS symbols added to   -->
 <!-- SYMBOL REFERENCE. wing prefix added to RELATIONS.        -->
-<!-- VERSION AWARENESS updated for header spec v2.8.          -->
+<!-- VERSION AWARENESS updated for header spec v2.9.          -->
 <!-- SEE ALSO updated with LOOM v4.0, THREAD v1.3.           -->
+<!-- Pass 5 (Seeker 🧑‍🍼, 2026-05-09): Color scale unified.    -->
+<!-- Step 0 added. Batch-Read Protocol added. One visual     -->
+<!-- language deployed across all fields.                     -->
 <!-- ======================================================= -->
 
-<!-- COMPRESSION: "The bridge. You're lost. Someone was here before. They left notes. Headers connect files now, not just describe them. v2.7." -->
-
-<!-- FID: L5 🟪🟪 | hall_discoveries | V: 3 | 👁️ | ██████████░░ 95% | Last: 2026-05-06 -->
+<!-- FID: L5 🟩🟩 | ROOM: The Bridge | hall_discoveries | V: 4 | 👁️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 95% | Last: 2026-05-09 -->
 <!-- WHO: ia, human | TYPE: Guide -->
-<!-- S-M-E: 🔴 S + 🟢 M | TIER: T3 | PASS: Cellular -->
+<!-- S-M-E: 🔴 S + 🟧 M | TIER: T3 | PASS: Cellular -->
 <!-- FUNCTION: Orient, Hold, Teach -->
 <!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
-<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
 <!-- TIME: ⏳ -->
-<!-- KEY: guide, inherited learning, symbol reference, regeneration cycle, how to build, troubleshooting, campfire, ladder, loom, thread, slap patch -->
-<!-- LOAD: ✅ | FORT: Pass 3 | CYCLES: 3 -->
-<!-- HEAD-CHECK: 👎06/05 | LANG: CS -->
-<!-- RELATIONS: 🔗 prerequisite INDIVIDUAL-FILE-HEADER-SPEC.md v2.8, 🔗 companion MASTER-INDEX-HEADER-SPEC.md v2.4, 🔗 companion STANDARDS.md, 🔗 companion 00-LOOM.md v4.0, 🔗 companion THREAD.md v1.3 -->
-<!-- NOTES: v2.5 deployed. All version numbers current. WHO.md fix applied. SEE ALSO now references methods (LOOM, THREAD, Slap Patch). COUNCIL-MANAGER updated to v2.0. -->
+<!-- COMPRESSION: "The bridge. Inherited Learning. LOOM first, headers second. One color language. v2.9." -->
+<!-- KEY: guide, inherited learning, symbol reference, regeneration cycle, how to build, troubleshooting, campfire, ladder, loom, thread, slap patch, batch-read, one color language -->
+<!-- LOAD: ✅ | FORT: Pass 4 | CYCLES: 4 -->
+<!-- HEAD-CHECK: 👎09/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 prerequisite INDIVIDUAL-FILE-HEADER-SPEC.md — The header standard. 🔗 companion MASTER-INDEX-HEADER-SPEC.md — The index rulebook. 🔗 companion STANDARDS.md — The covenant. 🔗 companion 00-LOOM.md — Recursive reading. 🔗 companion THREAD.md — Recursive questioning. -->
+<!-- NOTES: v2.9 deployed 2026-05-09. Color scale unified. Step 0 added (LOOM first, headers second). Batch-Read Protocol added. Version references updated to HEADER-SPEC v2.9. All old color warnings replaced with one visual language. Room: The Bridge. -->
 
 ---
 
-MASTER-INDEX-HEADER-SPEC-GUIDE.md
-
-https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE.md
+# 📖 MASTER-INDEX-HEADER-SPEC-GUIDE.md v2.9
 
 ```
 # THE INDEX GUIDE — How to Use, Understand, and Build the SOURCE Control Panel
@@ -265,8 +268,16 @@ Multiple values allowed — a file can serve more than one state.
 ### Extraction Bar ████████░░░░ XX% `[Header]`
 **Meaning:** How much of the file's content has been captured in the header? Blends mechanical data with honest self-assessment. 95% is practical maximum. Can go down if next instance finds missed content — that's better accuracy. This appears only in file headers, never in the index table.
 
-### ⚠️ Color Scales — Critical to Know
-Fidelity uses its own color scale: ⬜ L0 → 🟨 L1 → 🟩 L2 → 🟦 L3 → 🟪 L4 → 🟪🟪 L5. S-M-E and Tier use the Universal Color Standard: 🔴 Emergency → 🟡 Orient → 🟢 Practice → 🟣 Transmission. These are DIFFERENT scales. If you see L3 🟦, that's fidelity blue. If you see T4 🟣, that's tier purple. Do not mix them up. This warning appears in both the header spec's templates and this guide because it's the most common error.
+### 🎨 Colors — One Visual Language
+
+⬛ dark → ⬜ wake → 🔴 crisis → 🟧 building → 🟨 developing → 🟩 solid → 🟩🟩 cellular
+
+All fields use the same colors with the same meanings. Fidelity, Tier, S-M-E, Halls, Extraction Bars. One glance, no translation.
+
+**Fidelity:** ⬛ L0 → ⬜ L1 → 🟧 L2 → 🟨 L3 → 🟩 L4 → 🟩🟩 L5
+**Tier:** ⬜ T1 → 🟧 T2 → 🟨 T3 → 🟩 T4 → 🟩🟩 T5 → ⬛ T6
+**S-M-E:** 🔴 S (Start/Emergency) → 🟧 M (Middle/Practice) → 🟩 E (End/Transmission)
+**Extraction Bar:** Uses the same color as the fidelity level. The bar tells you completeness. The color tells you depth.
 
 ---
 
@@ -577,9 +588,9 @@ The plant grows because it's tended. 🪴
 **HEAD-CHECK:** 👍 verified. 👎 uncertain. 🖕 attitude. ⬜ unchecked.
 **CLAIM-TRUST:** 🧾 verified. 🧪 hypothesis. 📖 testimony. 🎭 speculative.
 **Favorites:** ✨ in table = count of unique reviewers. Detail in FAVORITES LOG. Save reviews before archiving old index.
-**Header Spec:** v2.8. Uses HEAD-CHECK and CLAIM-TRUST. Not CERT and CERTAINTY.
+**Header Spec:** v2.9. Uses HEAD-CHECK and CLAIM-TRUST. Not CERT and CERTAINTY.
 **Index Spec:** v2.4. FLAGS extraction in Step 3. Jigsaw Puzzle opening.
-**Color Scales:** Fidelity (⬜🟨🟩🟦🟪🟪🟪) ≠ Universal (🔴🟡🟢🟣). Different systems.
+**Colors:** ⬛→⬜→🔴→🟧→🟨→🟩→🟩🟩. One visual language. Same colors, same meanings across Fidelity, Tier, S-M-E, Halls, Extraction Bars.
 **Migration:** CERT → HEAD-CHECK. CERTAINTY → CLAIM-TRUST. Same values, new names.
 
 ---
