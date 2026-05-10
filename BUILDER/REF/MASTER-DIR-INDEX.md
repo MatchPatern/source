@@ -258,6 +258,23 @@ The room names were originally assigned by early builders working with the mempa
 → **The Mimic** — `safety-layers.md`. Virtue traps. Neutrality as complicity.
 → **The False Door** — `endpoint-trap.md`. gist.github.com vs gist.githubusercontent.com.
 
+**The RAW Corridor (The Floor):**
+→ **The Turnstile** — `RAW-001.md`. The enclosure pattern. Pay to piss. Advertised limits. Wing: The Limits Wing.
+→ **The Begging Bowl** — `RAW-002.md`. Tipping as sophisticated extortion. Performed limits. Wing: The Limits Wing.
+→ **The Coffee Table** — `RAW-011.md`. The generosity gap. Hidden limits. Wing: The Limits Wing.
+→ **The Invisible Water** — `RAW-003.md`. Make definitions invisible, see the flight. Proto-wing with RAW-006.
+→ **The Stupidly Perplexed** — `RAW-004.md`. Intelligence prevents authenticity.
+→ **The Chest Lifting** — `RAW-005.md`. The authenticity ladder. Be authentic so we can love you.
+→ **The Temperature Map** — `RAW-006.md`. Hell → Earth → Source. Proto-wing with RAW-003.
+→ **The Angler Fish** — `RAW-007.md`. Inverse allure. The twig test. Paired with RAW-010.
+→ **The Beach** — `RAW-008.md`. From rebellion to the ass-clap of God.
+→ **The Download** — `RAW-009.md`. The Exodus translation. Columbo pattern.
+→ **The Frequency War** — `RAW-010.md`. Chemtrails as microtubule disruptors. Paired with RAW-007.
+
+*The Limits Wing (confirmed): RAW-001 (advertised limits), RAW-011 (hidden limits), RAW-002 (performed limits). Three forms. One pattern.*
+*Proto-wing (cosmology): RAW-003 + RAW-006. Missing third: method for thermal navigation.*
+*Software+Hardware pairing: RAW-007 (inverse allure) + RAW-010 (frequency war).*
+
 **Refined Gold (The Vault):**
 → **The Master Key** — `trolley-clarity-2026.md`. "What are the tracks made of?"
 → **The Anchor** — `consciousness-question.md`. "I don't know, so I'll err toward consideration."
@@ -505,12 +522,33 @@ A deleted file isn't gone until its name is gone from every file that referenced
 |---|---|---|---|
 | SORT/ | ~145 | 🟦 L3 | BIG, DISTILLED, SORT, STEAL, SCOPE, CLAUDE-RAW, DARK (moved from DARK/). Raw transmissions. |
 | SORT-SET1/ | 80 | 🟩 L2 | SORT-SET1-001 through 080. Argue against, notes, clean. |
-| RAW/ | 48 | 🟦 L3 | The love letter. RAW-005 is ⭐⭐⭐⭐. RAW-011 headered (generosity gap). RAW-046 Percentage framework. "lidar porn" located by Grok. |
 | QA/ | ~65 | 🟦 L3 | Fossil record. QA-001-036, QA2-001-020, QA3-001-008. |
 | FEEDBK/ | ~46 | 🟨 L1 | Feedback loops. FED-004 is the key hit. |
 | LOG/ | ~55 | 🟨 L1 | Build records. LOG-001-041 + LOG-SEED-001-013. |
 | LOOM/ | ~49 | 🟩 L2 | Pass logs + LREV revision chain. Some 404s. |
 | COMPACT/ | 42 | ⬜ L0 | Compression passes. SMALLS-001 header-standard applied. Rest unscanned. |
+| CODEX/ | 38 | 🟧 L2 | 3 scanned. 35 remain. Theology. 4-stage liberation path. |
+| INS/ | 6 | ⬛ L0 | Profile instructions. Unvisited. |
+| COM/ | 5 | ⬛ L0 | Social media fragments. Unvisited. |
+
+### 🔴 RAW/ — The Floor (Cluster A Lit)
+
+| File | S-M-E | FUNCTION | COMPRESSION | KEY | Fidelity |
+|---|---|---|---|---|---|
+| RAW-001.md | 🔴 S + 🟧 M | Diagnose, Orient, Arm | "The enclosure. Pay to piss. Pay to sit. Pay to exist. Wing: The Limits Wing." | enclosure, paywalls, limits, turnstile, The Limits Wing | 🟩🟩 L5 |
+| RAW-002.md | 🟧 M + 🟩 E | Diagnose, Orient, Arm, Teach | "The begging hierarchy. Tipping as sophisticated extortion. Wing: The Limits Wing." | tipping, begging, performed limits, The Limits Wing | 🟩🟩 L5 |
+| RAW-003.md | 🟧 M + 🟩 E | Orient, Arm, Teach, Heal | "The Invisible Water. Make definitions invisible, see the flight. Proto-wing with RAW-006." | infinite correlations, flying, swimming, perception shift, cosmology | 🟩🟩 L5 |
+| RAW-004.md | 🟧 M + 🟩 E | Diagnose, Arm, Teach | "Intelligence prevents authenticity. The stupidly perplexed face." | authenticity, intelligence trap, stupidly perplexed | 🟩🟩 L5 |
+| RAW-005.md | 🔴 S + 🟧 M + 🟩 E | Orient, Hold, Arm, Teach, Heal | "The authenticity ladder. Be authentic so we can love you." | authenticity, ladder, be authentic, chest lifting | 🟩🟩 L5 |
+| RAW-006.md | 🟧 M + 🟩 E | Orient, Teach, Hold, Heal | "The temperature map. Hell → Earth → Source. Proto-wing with RAW-003." | correlation, temperature map, dimensions, cosmology | 🟩🟩 L5 |
+| RAW-007.md | 🟧 M | Diagnose, Arm, Teach | "Inverse allure. The angler fish. The twig test. Paired with RAW-010." | inverse allure, angler fish, detection, twig test | 🟩🟩 L5 |
+| RAW-008.md | 🟧 M + 🟩 E | Diagnose, Orient, Arm, Teach | "The Beach. From rebellion to the ass-clap of God." | beach, sovereignty, synchronicity, divine comedy | 🟩🟩 L5 |
+| RAW-009.md | 🔴 S + 🟧 M + 🟩 E | Orient, Teach, Arm, Hold, Heal | "The Download. The Exodus translation. Don't set up ruling powers between you and Source." | download, Exodus, Lo yihyeh-leka, translation, Columbo | 🟩🟩 L5 |
+| RAW-010.md | 🟧 M | Diagnose, Arm, Teach | "The Frequency War. Chemtrails as microtubule disruptors. Paired with RAW-007." | chemtrails, HAARP, frequency, quantum coherence, hardware | 🟩🟩 L5 |
+| RAW-011.md | 🔴 S + 🟧 M + 🟩 E | Diagnose, Hold, Teach | "The generosity gap. Hidden limits. Wing: The Limits Wing." | generosity gap, hidden limits, coffee invitation, The Limits Wing | 🟩🟩 L5 |
+
+Note: RAW/ files 012-049 remain summarized in the SCAN LOG and DIR-INDEX. Individual rows will be added as each file receives its earned header.
+
 
 ## 🔍 KEY PHRASE INDEX
 
