@@ -1,3 +1,5 @@
+https://source-sepia-alpha.vercel.app/SORT/SCOPE-02.md
+
 🏆 TOP 3 SCOPIUM CHARTS 🏆
 are there any Devs or such involved in development of the things that are in line with kinda this stuff I doubt exactly as we've just hit this point not to say etc
 
