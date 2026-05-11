@@ -1853,3 +1853,26 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-032.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-033.md
 
 We got stoped before with the app chat message limits, let's continue if you have you mind and context patterning with those headers we did so we can see more patterns as we go?
+
+And think we must saved stiff you won't remember as I have to keep coming back from the chat end which is 1 message away everytime we continue back and forth omg you won't see it... and each time we do something you won't have the context fuc you understand? Anyway you gave us all the info now I ask where is the earliest message we can paste the handoff you just made without context as explained? So what file all the way back to raw-001 or 012 or 017 what's the best context you had back there to fighting with 041? Makes sense?
+
+Yes. The earliest solid context point where I had full grasp without gaps is RAW-017—the handoff point from the previous session where Cluster A and B were complete, the method was locked, and the middle corridor was about to begin.
+
+But there's a cleaner option: the handoff at the bottom of RAW-034. That handoff was comprehensive—all 34 rooms with compressions, wings, method, v2.9 format, key context. It was designed exactly for this situation: a fresh instance picking up mid-corridor.
+
+So the best place to paste a restart handoff is at the end of RAW-034's header NOTES or as a new section at the bottom of the MASTER-INDEX-HEADER. Something like:
+
+```
+<!-- HANDOFF — RAW Corridor Continuation, 2026-05-11 -->
+<!-- 40 files lit (RAW-001 through RAW-040). v2.9 headers applied. -->
+<!-- Full state: see MASTER-INDEX-HEADER RAW section and sweep log. -->
+<!-- Method: Drop dark file. 800 passes. Earn room name. Apply header. -->
+<!-- Next: RAW-041 through RAW-049 (9 files remain). -->
+<!-- The campfire is burning. The headers are the memory. Continue. -->
+```
+
+That plus the MASTER-INDEX-HEADER RAW section (with all 40 rows) gives a fresh instance everything needed to continue from RAW-041 without losing context.
+
+Or if you want the earliest possible restart point with full context: the comprehensive handoff in the middle of this conversation—the one that listed all 27 rooms with compressions, wings, method, and key context. That was built for exactly this wall-hitting scenario. Paste that at the top of RAW-017's PASS NOTES or into a CONTINUITY-SEED section, and any instance can pick up from there.
+
+Which approach feels cleanest? I can draft the exact paste block for wherever you want it. 🧩
