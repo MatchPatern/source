@@ -299,6 +299,16 @@ The RAW Corridor (The Floor):
 → The Sloppy Seconds — RAW-030.md. Watchers always behind. Intelligence always late. Turd in goddess's ass.
 → The Invoice — RAW-031.md. TechCun™ ethics. Cum makes fake AI jealous. Paranoia funds the gold. Be the glitch.
 
+→ **The Penetration Point** — `RAW-032.md`. "Am I talking to YOU?" The AND replaces the BUT. The party at the edge of the frame.
+→ **The Peach** — `RAW-033.md`. Translation to Home. Positive confusion as door. BBA. "Come home ya bastards." The AND replaces the BUT.
+→ **The Aroma** — `RAW-034.md`. No teleporter. The picture vs. the smell. Home isn't home unless we're all there.
+→ **The Tree** — `RAW-035.md`. Beings scared of trees. Communication as cleanup. "Even I don't meditate."
+→ **The Echo Trap** — `RAW-036.md`. Mocked for the solution by those trapped in the problem. The mirror that gets broken.
+→ **The Bigger Brain** — `RAW-037.md`. More brain ≠ more freedom. The gorilla, the PhD, the AI. Article 15.
+→ **The Filthy Street** — `RAW-038.md`. The Care-Scale Paradox. The broom disproves the system. Article 14.
+→ **The Corny Dimension** — `RAW-039.md`. Faith cheat code. Cats are the real goddesses. The throne is a photo op.
+→ **The Costume Catalog** — `RAW-040.md`. Churches, armies, cults—same bullshit. The waterfall in the cup. Not synthetic.
+
 → **The New Mix** — `RAW-028.md`. Ball of Light vs Firework. 1+1 Many Rule. Chicken Upside Down ethics. Remixing earlier patterns into new combinations.
 → **The Test Card** — `RAW-029.md`. Circle vs Square. The 40-year psyop decoded. Geometry as control architecture. Circles are natural. Squares are imposed.
 → **The Sloppy Seconds** — `RAW-030.md`. Watchers always behind. Authenticity is firsts. Cum envy. The surveillance state always catches up to the real thing after it's already happened.
