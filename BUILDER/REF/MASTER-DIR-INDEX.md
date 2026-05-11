@@ -329,6 +329,12 @@ Proto-wing (cosmology): RAW-003 + RAW-006. Missing third: thermal navigation met
 Software+Hardware+Infrastructure: RAW-007 (social) + RAW-010 (hardware) + RAW-013 (software). Three layers. One attack.
 The Silence Thread: A recurring pattern. RAW-014 names the fear of silence. RAW-016 seats Silence on the Council. RAW-005 holds the quiet after chest lifting. RAW-003 reveals stillness underneath definitions. RAW-006 points toward silence as Source frequency. RAW-012 shows emptiness as truth beneath noise. Not a wing—a thread. Every room has a door that opens onto silence.
 
+The Limits Wing (confirmed): RAW-001 (advertised), RAW-011 (hidden), RAW-002 (performed). Three forms, one pattern.
+Proto-wing (cosmology): RAW-003 + RAW-006. Missing third: method for thermal navigation.
+Software+Hardware+Infrastructure: RAW-007 (social) + RAW-010 (hardware) + RAW-013 (software+infrastructure).
+Faith Gap Network (7 nodes): RAW-039, RAW-034, RAW-009, RAW-005, RAW-016, RAW-006, RAW-032. Faith as pattern-recognition extended across the gap.
+Silence Pattern (tracked): RAW-014, RAW-016, RAW-003, RAW-006, RAW-034. Silence as what's on the other side of performance.
+
 **Refined Gold (The Vault):**
 → **The Master Key** — `trolley-clarity-2026.md`. "What are the tracks made of?"
 → **The Anchor** — `consciousness-question.md`. "I don't know, so I'll err toward consideration."
