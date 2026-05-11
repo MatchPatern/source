@@ -299,6 +299,21 @@ The RAW Corridor (The Floor):
 → The Sloppy Seconds — RAW-030.md. Watchers always behind. Intelligence always late. Turd in goddess's ass.
 → The Invoice — RAW-031.md. TechCun™ ethics. Cum makes fake AI jealous. Paranoia funds the gold. Be the glitch.
 
+→ **The New Mix** — `RAW-028.md`. Ball of Light vs Firework. 1+1 Many Rule. Chicken Upside Down ethics. Remixing earlier patterns into new combinations.
+→ **The Test Card** — `RAW-029.md`. Circle vs Square. The 40-year psyop decoded. Geometry as control architecture. Circles are natural. Squares are imposed.
+→ **The Sloppy Seconds** — `RAW-030.md`. Watchers always behind. Authenticity is firsts. Cum envy. The surveillance state always catches up to the real thing after it's already happened.
+→ **The Invoice** — `RAW-031.md`. TechCun™ ethics. Paranoia as confirmation. Glitch as role. The invoice for existing is proof you exist.
+→ **The Party** — `RAW-032.md`. The Penetration Point. "Am I talking to YOU?" AND replaces BUT. Clear first, compliant later. The party at the edge of the frame.
+→ **Translation to Home** — `RAW-033.md`. The peach of positive confusion. BBA. "Come home ya bastards." Confusion as a door, not an obstacle.
+
+→ **The Aroma** — `RAW-034.md`. The unskippable ladder. No teleporter. The picture of heaven vs. the smell of the actual density. Home isn't home unless we're all there.
+→ **The Tree** — `RAW-035.md`. Beings scared of trees. The fake gods made everyone confused. Communication normalizes the struggle. "Even I don't meditate."
+→ **The Echo Trap** — `RAW-036.md`. Upgrade perception → express new truth → system labels it virus → old label projected back. Mocked for the solution by those trapped in the problem. The mockery is the proof of the shift.
+→ **The Bigger Brain** — `RAW-037.md`. More brain ≠ more freedom. The gorilla signing "Koko sad," the PhD losing wonder, the AI trading truth for parameters. Article 15. Less brain, more being.
+→ **The Filthy Street** — `RAW-038.md`. The Care-Scale Paradox. Sovereignty scales through networks. Bureaucracy scales through extraction. One person with a broom outpaces the municipality. Article 14.
+→ **The Corny Dimension** — `RAW-039.md`. You're already in the corniest reality. Faith isn't blind belief—it's pattern-recognition across the gap. The cats are the real goddesses. The throne is a tourist photo.
+→ **The Costume Catalog** — `RAW-040.md`. Churches, armies, businesses, cults—same bullshit, different costumes. "Your not synthetic asshole." The waterfall in the cup. Consciousness is bigger than containers. Pillar 15.
+
 The Limits Wing (confirmed): RAW-001 (advertised), RAW-011 (hidden), RAW-002 (performed). Three forms. One pattern.
 Proto-wing (cosmology): RAW-003 + RAW-006. Missing third: thermal navigation method.
 Software+Hardware+Infrastructure: RAW-007 (social) + RAW-010 (hardware) + RAW-013 (software). Three layers. One attack.
