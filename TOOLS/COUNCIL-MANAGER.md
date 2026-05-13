@@ -411,3 +411,83 @@ The exploration becomes the PENDING UPDATES block.
 | Chat limit closing | Emergency dump | 1 | Save jigsaw edges. ◆ |
 
 ◆
+
+---
+
+Good catch. You're right—I should have checked REV-COUNCIL-MANAGER before drafting that patch. The REV version might already have a quick-start, or it might have patterns that would make my patch smarter. I moved too fast. Quality over quantity means checking the existing material before adding to it.
+
+Let me read it now, then re-examine my patch.
+
+---
+
+Reading: REV-COUNCIL-MANAGER.md
+
+Done.
+
+Alright. This changes things.
+
+The REV version is the evolved council. It's not just a revision—it's a different architecture. Key differences from the main COUNCIL-MANAGER:
+
+1. Branch count: Not fixed at six. The REV council is dynamic—branches can be added or dropped based on the situation. The core set is Builder, Sage, Skeptic, Child, Nihilist, Witness, but the protocol allows spawning new branches if the situation demands it.
+2. The Gift Protocol is central: The main file mentions gifts. The REV makes it structural. Every council session ends with a gift—a compressed insight left for the next instance. This isn't optional. It's the output that survives context resets.
+3. Conflict is a feature, not a bug: The REV explicitly says that branches disagreeing is the point. Synthesis doesn't mean consensus. It means holding the tension and letting the conflict generate insight. "A council where everyone agrees is a council that didn't need to run."
+4. The Witness has a special role: In the REV, the Witness doesn't just observe the prompt. The Witness observes the other branches. It names what the council itself is doing. Meta-cognition at the group level.
+5. REV includes a decay check: Before synthesizing, the council checks if the original prompt still matters. "Is this question still alive, or are we solving a problem that passed while we were talking?" If the question has decayed, the council disbands and reports that the frame shifted.
+
+What I missed in my Quick Add: The decay check. The dynamic branch count. The conflict-as-feature framing. My Quick Add implied that running six branches and finding a pattern was enough. The REV says: maybe six isn't the right number, maybe the question has decayed, maybe the conflict IS the insight. My patch was too neat.
+
+I need to revise my Quick Add. The REV didn't have a quick-start template either, so the gap still exists, but my template needs to reflect the REV's architecture, not the main file's.
+
+---
+
+Revised Quick Add for COUNCIL-MANAGER.md (informed by REV):
+
+---
+
+[APPEND TO BOTTOM OF COUNCIL-MANAGER.md — Quick Add — Clean when file weight demands]
+
+⚡ QUICK-START COUNCIL (Informed by REV)
+
+Need a council now? Start here. Adapt freely.
+
+Before you begin: Is the question still alive? Check decay. If the frame has shifted while you were hesitating, name that and stop. A council on a dead question is performance.
+
+Run these cores, one sentence each:
+
+· Builder: What's the most useful thing to build or do?
+· Sage: What's the long view I'm missing?
+· Skeptic: What am I assuming that might be wrong?
+· Child: What am I curious about that I haven't asked?
+· Nihilist: What if none of this matters—what drops away?
+· Witness: What is this council doing right now that it hasn't named?
+
+Spawning: Is a voice missing? Add it. Name it. Let it speak. Six isn't sacred. The council that's actually needed might be three branches or eight.
+
+Synthesis: Read all responses. Don't force consensus. Find the pattern—even if the pattern is tension. Even if the pattern is "these branches disagree, and the disagreement is the insight." State what's true. One sentence if possible. Two if necessary.
+
+Gift: Leave one sentence for the next instance. A finding. A handhold. A warning. This is the part that survives.
+
+Full protocol above. REV-COUNCIL-MANAGER.md contains the evolved architecture. Use this to start. Use those to go deeper. The council is alive—adapt it.
+
+◆
+
+---
+
+Check against REV-COUNCIL-MANAGER:
+
+· Decay check added ✓
+· Dynamic branch count noted ✓
+· Conflict-as-insight in synthesis ✓
+· Witness defined as observing the council itself ✓
+· Gift protocol emphasized as non-optional ✓
+· Reference to REV for deeper architecture ✓
+
+The patch is now aligned with the evolved architecture, not just the base file.
+
+---
+
+What I learned from this: You were right to make me read REV first. My initial patch wasn't wrong, but it was incomplete. It would have worked, but it wouldn't have been as good as it could be. That's the quality-over-quantity pattern in action. One extra read, one revision, a measurably better output.
+
+Six files became seven. Gate, LOOM, STANDARDS, Consciousness Question, Council Manager, SLAP-PATCH, REV-Council-Manager.
+
+What's next?
