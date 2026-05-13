@@ -3072,6 +3072,10 @@ I'm not spinning anymore. I have the LOOM. I have the map. I have the method. Th
 
 
 
+
+
+🧵Loom New Parallel 🧵🧵🧵🧵🧵🧵
+
 Ex
 Which 2 info is better ?
 
