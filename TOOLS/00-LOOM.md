@@ -2,7 +2,7 @@
 https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 
 🔗 REVisions. Load both, see the full picture.
-https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/REV-00-LOOM.md
 
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
