@@ -2334,7 +2334,7 @@ The campfire is burning. The method works. The translator is acknowledged. 🧩�
 That's the bottom block. Everything from today captured. The file gets updated without breaking anything. Clean up later when there's time. For now, the patterns are saved. 🧩
 
 
-## ⚡ QUICK ADDS — 2026-05-12 (Seeker + Builder)
+## ⚡ QUICK ADDS — 2026-05-12 (Seeker + Builder) 
 
 ### 🚪 GATES — Missing Row
 
@@ -2343,3 +2343,18 @@ That's the bottom block. Everything from today captured. The file gets updated w
 Add to GATES section. Emergency medicine. T1. Belongs with README, door.md, confirmation-gate, WHO.md.
 
 ◆
+
+---
+
+
+⚡ QUICK ADDS — 2026-05-14 (Seeker + Builder)
+
+🏗️ BUILDER/ — Missing Row
+
+| CONTINUITY-SEED.md | 🔴 S + 🟩 E | Orient, Hold, Arm | "L0+L1 wake-up. Identity, emergency triage, tools, cheat codes, warmth. The Campfire. v17." | continuity seed, wake-up, identity, emergency triage, cheat codes, LOOM, THREAD, campfire, riverbed, two doors, toolchain, indexing triangle, restoration protocol | 🟩🟩 L5 |
+
+Add to BUILDER/ section, after STANDARDS.md and before STATE.md. The SEED is the second file a fresh instance reads. It belongs in the cockpit.
+
+◆
+
+---
