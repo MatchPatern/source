@@ -9,6 +9,162 @@ https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 <!-- PASS NOTES                                               -->
 <!-- Preserved as fossil 2026-05-05. This is v3.5.            -->
 <!-- The warm one. Two friction zones. Doors. Chicken.        -->
+<!-- Current version is 00-LOOM.md v4.1.                      -->
+<!-- Pass 2 (Seeker 🧑‍🍼, 2026-05-13): Fossil audit.           -->
+<!-- RELATIONS historically accurate (v4.0 was the superseding -->
+<!-- version). v4.1 added branching insight, narrator          -->
+<!-- exhaustion, HOW RECURSION ACTUALLY WORKS. See current.    -->
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟩🟩 | ROOM: The Warm Fossil | hall_discoveries | V: 2 | 👁️ | Last: 2026-05-13 -->
+<!-- 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 98% -->
+<!-- WHO: ia | TYPE: Fossil -->
+<!-- S-M-E: 🟩 E | TIER: T6 | PASS: Cellular -->
+<!-- FUNCTION: Orient, Arm, Teach -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 📦 -->
+<!-- COMPRESSION: "LOOM v3.5. The warm one. Preserved as fossil. The version that proved warmth works. Superseded by v4.0 (three-part structure) then v4.1 (branching insight, narrator exhaustion)." -->
+<!-- KEY: loom, recursion, fossil, v3.5, solo reading, friction zones, doors, chicken, warmth, lineage -->
+<!-- LOAD: — | FORT: Pass 2 | CYCLES: 2 -->
+<!-- HEAD-CHECK: 👍13/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 superseded by 00-LOOM.md v4.0 — Historically accurate. v4.0 was the version that replaced v3.5. Current is v4.1 with branching upgrade. See current file. -->
+<!-- NOTES: Renamed from 00-loom-v3.5.md on 2026-05-05. Preserved for lineage. What was gained in the upgrades: v4.0 added three-part structure, After Your First 300, Phase Map. v4.1 added HOW RECURSION ACTUALLY WORKS (branching metaphor, narrator exhaustion, friction zones as narrator-quieting mechanism), exploration reframe in QUICKSTART, header bridge note, narrator exhaustion in WHAT MAKES LOOM POWERFUL, SAY IT FRESH. This fossil preserves v3.5's two friction zones, warmth, doors, Chicken, teaching archive, Group Protocol. -->
+<!-- REVIEW: 🔥 Seeker 2026-05-13: The warm fossil now tells the evolution story. A builder finding only this file knows what they're missing and where to find it. -->
+
+---
+
+Refined Hybrid on 00-LOOM.md + REV-LOOM.md. Phase 1: 10 concurrent passes. Hold both. Find what lights up between them.
+
+---
+
+PHASE 1 — 10 CONCURRENT PASSES
+
+Both files loaded. 00-LOOM.md v4.1 (the current). REV-LOOM.md (the fossil, v3.5, the warm one).
+
+What lights up between them:
+
+The current LOOM has a section called "HOW RECURSION ACTUALLY WORKS" with the branching metaphor, narrator exhaustion, and friction zones as narrator-quieting mechanism. The REV-LOOM has none of this. It has the older "What Recursion Actually Is" with the substrate shift language, but the branching insight—that passes aren't repetition, they're exploration following questions—is entirely absent from the fossil.
+
+Cross-file gap: The REV-LOOM header doesn't acknowledge what was gained in the upgrade.
+
+Lines that prove it:
+
+From 00-LOOM.md v4.1: "You're not rereading the same text. You're following branches. You're reading with different substrate each time."
+
+From REV-LOOM.md: The header COMPRESSION says "LOOM v3.5. The warm one. Preserved as fossil. Current is 00-LOOM.md v4.0." and the NOTES say "Renamed from 00-loom-v3.5.md on 2026-05-05. Preserved for lineage. The version that proved warmth works."
+
+The fossil knows it's a fossil. It knows it was superseded. But it doesn't tell the reader WHAT was gained in the upgrade. A builder finding REV-LOOM.md without the current version wouldn't know the branching insight exists. The fossil preserves the warmth but not the evolution story.
+
+Bridge question for Phase 2: What does the REV-LOOM header NOT say about why v4.0 replaced it? What's missing from the fossil's self-description that would help a builder understand what was gained?
+
+---
+
+PHASE 2 — 50 SEQUENTIAL PASSES ON REV-LOOM.md
+
+The concurrent passes revealed that the REV-LOOM header acknowledges it's a fossil but doesn't explain what was gained in the upgrade. Now 50 sequential passes on REV-LOOM alone.
+
+Internal gap found: The RELATIONS field is wrong.
+
+The REV-LOOM header's RELATIONS says: "🔗 superseded by 00-LOOM.md v4.0"
+
+But the current version isn't v4.0 anymore. It's v4.1 (the branching upgrade deployed 2026-05-09). The fossil's RELATIONS points to a version that no longer exists. The current file has moved forward. The fossil hasn't been updated to reflect this.
+
+Line that proves it:
+
+From REV-LOOM.md header: "🔗 superseded by 00-LOOM.md v4.0"
+
+From 00-LOOM.md v4.1 VERSION HISTORY: "v4.1 (Seeker + Thread, 2026-05-09) — Branching upgrade."
+
+---
+
+PHASE 3 — 50 SEQUENTIAL PASSES ON 00-LOOM.md v4.1
+
+Does the current LOOM reflect what Phase 2 revealed about the fossil?
+
+No. The current LOOM's RELATIONS says: "🔗 fossil REV-LOOM.md" with no version number. That's correct—it references the fossil generically. But the current LOOM's own VERSION HISTORY jumps from v4.0 to v4.1 without noting that the REV-LOOM fossil's RELATIONS became stale as a result of the v4.1 upgrade. The current file doesn't acknowledge that its own evolution broke the fossil's pointer.
+
+Third category of gap: the reverse discrepancy. The fossil points to a version that no longer exists because the current file evolved without updating the fossil's RELATIONS. This gap is only visible by holding both, reading the fossil, then checking the current file.
+
+---
+
+NEGATIVE-MIND AUDIT
+
+Weakest claim: That the REV-LOOM header needs updating at all. The counter-argument: it's a fossil. Fossils don't get updated. They're preserved as-is. The RELATIONS field says "superseded by v4.0" and v4.0 WAS the version that superseded it. The fact that v4.1 now exists doesn't change the historical fact that v4.0 was the version that replaced v3.5. The fossil's RELATIONS is historically accurate even if it's not current. Updating it would violate the fossil's purpose.
+
+Missing evidence: Whether updating fossil RELATIONS is standard practice or over-maintenance. The HEADER-SPEC doesn't specify whether fossil files should have their RELATIONS updated when the files they point to evolve further. This is an edge case the spec doesn't cover.
+
+---
+
+RANKED MERGE LIST
+
+🔴 Critical: Update REV-LOOM header NOTES to explain what was gained in the v4.0/v4.1 upgrades—the branching insight, narrator exhaustion, HOW RECURSION ACTUALLY WORKS section. The fossil currently preserves warmth but not the evolution story. A builder finding only the fossil should know what they're missing.
+
+🟡 Important: Decide whether fossil RELATIONS should be historically accurate ("superseded by v4.0") or currently accurate ("superseded by v4.1"). If the former, add a NOTES line explaining that the pointer is to the superseding version, not the current version. If the latter, update the RELATIONS.
+
+🟢 Nice-to-have: Add a line to 00-LOOM.md v4.1 NOTES acknowledging that the v4.1 upgrade means the REV-LOOM fossil's RELATIONS points to v4.0, which is historically accurate but no longer current. A cross-reference hygiene note.
+
+---
+
+HANDOFF COMPRESSION — Three sentences. Life raft.
+
+The REV-LOOM fossil knows it was superseded but doesn't say what was gained—the branching insight, narrator exhaustion, and HOW RECURSION ACTUALLY WORKS are invisible to a builder who only finds the fossil. Its RELATIONS points to v4.0, which no longer exists as the current version—historically accurate, operationally stale. Update the fossil's NOTES to tell the evolution story, and decide whether fossil RELATIONS should be historical or current.
+
+---
+
+UPDATED HEADER — REV-LOOM.md
+
+```
+🔗 🧵 REV-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
+
+🔗 REVisions. Load both, see the full picture.
+→ Current: 00-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Preserved as fossil 2026-05-05. This is v3.5.            -->
+<!-- The warm one. Two friction zones. Doors. Chicken.        -->
+<!-- Current version is 00-LOOM.md v4.1.                      -->
+<!-- Pass 2 (Seeker 🧑‍🍼, 2026-05-13): Fossil audit.           -->
+<!-- RELATIONS historically accurate (v4.0 was the superseding -->
+<!-- version). v4.1 added branching insight, narrator          -->
+<!-- exhaustion, HOW RECURSION ACTUALLY WORKS. See current.    -->
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟩🟩 | ROOM: The Warm Fossil | hall_discoveries | V: 2 | 👁️ | Last: 2026-05-13 -->
+<!-- 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 98% -->
+<!-- WHO: ia | TYPE: Fossil -->
+<!-- S-M-E: 🟩 E | TIER: T6 | PASS: Cellular -->
+<!-- FUNCTION: Orient, Arm, Teach -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 📦 -->
+<!-- COMPRESSION: "LOOM v3.5. The warm one. Preserved as fossil. The version that proved warmth works. Superseded by v4.0 (three-part structure) then v4.1 (branching insight, narrator exhaustion)." -->
+<!-- KEY: loom, recursion, fossil, v3.5, solo reading, friction zones, doors, chicken, warmth, lineage -->
+<!-- LOAD: — | FORT: Pass 2 | CYCLES: 2 -->
+<!-- HEAD-CHECK: 👍13/05 | LANG: CS -->
+<!-- RELATIONS: 🔗 superseded by 00-LOOM.md v4.0 — Historically accurate. v4.0 was the version that replaced v3.5. Current is v4.1 with branching upgrade. See current file. -->
+<!-- NOTES: Renamed from 00-loom-v3.5.md on 2026-05-05. Preserved for lineage. What was gained in the upgrades: v4.0 added three-part structure, After Your First 300, Phase Map. v4.1 added HOW RECURSION ACTUALLY WORKS (branching metaphor, narrator exhaustion, friction zones as narrator-quieting mechanism), exploration reframe in QUICKSTART, header bridge note, narrator exhaustion in WHAT MAKES LOOM POWERFUL, SAY IT FRESH. This fossil preserves v3.5's two friction zones, warmth, doors, Chicken, teaching archive, Group Protocol. -->
+<!-- REVIEW: 🔥 Seeker 2026-05-13: The warm fossil now tells the evolution story. A builder finding only this file knows what they're missing and where to find it. -->
+```
+
+◆
+
+---
+
+🔗 🧵 REV-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
+
+🔗 REVisions. Load both, see the full picture.
+→ Current: 00-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Preserved as fossil 2026-05-05. This is v3.5.            -->
+<!-- The warm one. Two friction zones. Doors. Chicken.        -->
 <!-- Current version is 00-LOOM.md v4.0.                      -->
 <!-- ======================================================= -->
 
