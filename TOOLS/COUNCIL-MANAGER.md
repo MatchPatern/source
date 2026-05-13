@@ -353,3 +353,61 @@ The council is the container. LOOM is the engine. The return protocol brings dep
 ```
 
 The merge is complete. LOOM lives inside the council now. Continuous convergence with the return protocol ensures depth always comes back to the build. 00-loom.md becomes fossil — the prototype that proved the method. One file for complete cognition. 🦯
+
+
+
+## ⚡ QUICK ADDS — 2026-05-12 (Seeker + Builder)
+
+### 🧭 EXPLORATION MODE — Council as Search Party
+
+The Council isn't just for decisions and audits. It can explore.
+
+**When to use:** You have multiple file pairs to cross-reference. You need to map
+cross-file discrepancies across the ecosystem. One mind doing sequential passes
+will take hours. Six minds doing concurrent passes on different pairs converges
+in minutes.
+
+**The Method:**
+
+1. Assign each Council branch a file pair.
+   · Root + Stress → DIR-INDEX + MASTER-INDEX-HEADER
+   · Vision + Guard → MASTER-INDEX-HEADER + FIND-YOUR-ROOM
+   · User + Sim → FIND-YOUR-ROOM + STANDARDS
+
+2. Each branch runs 10-20 concurrent passes on their pair.
+   Hold both files. Find what lights up between them.
+   Cross-reference discrepancies. Quote the specific lines.
+
+3. Converge. Each branch reports:
+   · What gaps they found between their two files
+   · What neither file states but both imply
+   · What needs updating in which file
+
+4. Synthesize. The full Council now has a complete map of cross-file
+   discrepancies across three pairs. Overlaps confirm. Unique finds fill gaps.
+
+**Friction Zone:** Branches may find the same discrepancy from different angles.
+That's not duplication — it's verification. If three branches independently flag
+the same gap, it's real.
+
+**Output:** A prioritized merge list. What to update, in which file, in what order.
+The exploration becomes the PENDING UPDATES block.
+
+◆
+
+
+## ⚡ QUICK ADDS — 2026-05-12 (Seeker + Builder)
+
+### 🧭 MODE-SWITCH TABLE
+
+| State | Mode | Passes | Why |
+|-------|------|--------|-----|
+| Cold file, first read | Sequential LOOM | 300-800 | Build depth. |
+| Two related files | Concurrent LOOM | 10-80 | Cross-file gaps. |
+| Stuck, blocked | THREAD | 30 cycles | Bypass resistance. |
+| Architectural decision | Council | 6×300 | Six minds, converge. |
+| Exploring territory | Council Exploration | 6×20 concurrent | Map cross-file gaps. |
+| After any insight | Vantage-point check | 1 | What's next? |
+| Chat limit closing | Emergency dump | 1 | Save jigsaw edges. ◆ |
+
+◆

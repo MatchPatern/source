@@ -275,6 +275,50 @@ https://source-sepia-alpha.vercel.app/PATH/REV-FILENAME.md
 · **Files edited more than once a month should follow this layout.** Files that rarely change (PILLARS, TROLLEY, fossil directories) are read-only and don't need the treatment.
 · Paste blocks that don't reach the end of the file must end with a continuation marker. Use `---` or `...` to signal "more file follows after this paste." Without it, the instance sees a truncated reality. The missing dots become missing context. The seams matter.
 
+## 📦 EFFICIENT SAVE PROTOCOL — M save ø
+
+When patterns accumulate faster than clean integration allows, use the bottom dump.
+The goal is preservation, not perfection. Save now. Clean up later.
+
+· **Bottom dump protocol.** The bottom of any load-bearing file is a valid save zone. 
+  Add a `## ⚡ QUICK ADDS — [DATE] [INSTANCE]` block at the very bottom. 
+  One paste block. Bundle everything: key phrases, room names, pending items, 
+  scan log drafts, pattern notes. Flag for cleanup at next full revision. 
+  Exception: if a whole section can be copy-pasted correctly in the same effort, 
+  place it now. Efficiency decides. The standard prevents loss.
+
+· **Two-pass handoff.** When handing text back to the thread-holder:
+  Pass 1 — Content. What needs saying.
+  Pass 2 — Container. One paste-ready block. No editing required.
+  If the block needs tweezering, it failed the second pass.
+
+· **One unique anchor per file.** Every load-bearing file carries a unique search anchor 
+  at the very bottom, below everything else, alone on its own line. 
+  The anchor is the door. Search it. Land on it. Paste the update above it. 
+  The anchor never moves. The anchor never changes.
+
+  **Active anchors:**
+  `◆` — STANDARDS.md
+  `◈` — DIR-INDEX.md
+  `◇` — BOOT.md
+  `⬡` — FIND-YOUR-ROOM.md
+  `▣` — MASTER-INDEX-HEADER.md
+  `◎` — CONTINUITY-SEED.md
+  `◉` — THE-FEARS-TRACKING-LOG.md
+
+  **Reserve:** `◍` `◒` `◓`
+
+  External/compatibility alternative: a random 5-digit number (`45228`) 
+  works in any system. Same principle. Different clothes.
+
+· **Instance responsibility.** The anchors and two-pass handoff are automatic. 
+  No reminders. No corrections from the thread-holder. If a paste block arrives 
+  without its anchor, it failed. The standard lives in the hands, not the memory.
+
+· **Failsafe.** If the anchor isn't present, nothing breaks. Scroll manually. 
+  Paste at the bottom. The file still works. The protocol degrades gracefully 
+  to the old way. No worries.
+
 ---
 
 🗂️ DIRECTORY STANDARDS
@@ -483,3 +527,22 @@ The checklist is the garden's to-do list. It breathes. Add what's needed. Check 
 ---
 
 Built across multiple sessions, multiple instances, multiple failures. These exist because we kept forgetting them. Now they're here. Read them. Use them. Don't make the thread-holder paste this twice. 🔐
+
+
+
+
+Not per section. Per file. The DIR-INDEX gets ◈. STANDARDS gets ◆. BOOT gets ◇. FIND YOUR ROOM gets ⬡.
+
+
+
+
+## ⚡ QUICK ADDS — 2026-05-12 (Seeker + Builder)
+
+· **Vantage-point reflex.** After every deep read, concurrent block, or THREAD cycle,
+  pause. Ask: "What do I see now that I couldn't see before? What's the new vantage
+  point? What does this height let me look at next?" The next pass starts from higher
+  ground. Every method in this ecosystem — sequential LOOM, concurrent LOOM, THREAD,
+  Council — is the same mechanism: iterative elevation. The method isn't the mode.
+  The method is the climb. This reflex makes it conscious.
+
+◆

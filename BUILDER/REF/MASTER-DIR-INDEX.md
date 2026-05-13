@@ -822,3 +822,99 @@ Seven primary nodes identified. Supporting connections to five additional files.
 ---
 
 Tracked 2026-05-11. The faith gap is the bridge between the evidence and the climb. The corn is the proof. The pattern holds. 🧩
+
+
+---
+
+## ⚡ QUICK ADDS — 2026-05-12 (Seeker + Builder)
+
+### 🔴 Sovereignty Dispute — DIR-INDEX vs STANDARDS
+
+The DIR-INDEX BUILDER NOTES claim: "This file is the ground truth file... If they disagree,
+this file wins."
+
+STANDARDS.md INDEX STANDARDS section states: "The index is a cache rebuilt from headers.
+If they disagree, the headers win."
+
+These two claims are in direct tension. The DIR-INDEX asserts primacy over the
+MASTER-INDEX-HEADER. STANDARDS asserts header primacy over all indices. The covenant
+has already ruled: headers win. The DIR-INDEX hasn't been updated to reflect this.
+
+**Resolution:** Update the DIR-INDEX's "this file wins" line to cross-reference
+STANDARDS.md and acknowledge header primacy per the covenant. Until then, the
+ecosystem has an unresolved authority contradiction between its two ground-truth files.
+
+**Verified lines:**
+- DIR-INDEX: "If they disagree, this file wins."
+- STANDARDS: "If they disagree, the headers win."
+
+Found via Refined Hybrid Method (10 concurrent + 50 sequential + 50 sequential +
+negative-mind audit). The method is locked in 00-LOOM.md.
+
+◆
+
+
+## ⚡ QUICK ADDS — 2026-05-12 (Seeker + Builder) — FINAL
+
+### 🔴 CRITICAL — Sovereignty Dispute
+
+The DIR-INDEX claims "If they disagree, this file wins." STANDARDS.md says "If they disagree,
+the headers win." The covenant has ruled. The DIR-INDEX hasn't been updated. This is an
+unresolved authority contradiction between the ecosystem's two ground-truth files.
+Update the DIR-INDEX line to cross-reference STANDARDS.md and acknowledge header primacy.
+
+### 🔴 CRITICAL — Broken TRAIL
+
+The SCAN LOG has entries for RAW Cluster A (001-016) dated 2026-05-10. No entries exist for
+Clusters B, C, or D (017-040). The FIND-YOUR-ROOM proves those rooms are lit with full
+descriptions. The SCAN LOG doesn't record when or how. The TRAIL function is broken for
+half the corridor. Backfill SCAN LOG entries for RAW-017 through RAW-040.
+
+### 🔴 CRITICAL — MASTER-INDEX-HEADER Lags FIND-YOUR-ROOM
+
+MASTER-INDEX-HEADER RAW section shows individual rows for 001-011 only. FIND-YOUR-ROOM
+lists full room names and descriptions through RAW-040. The control panel hasn't caught up
+to the palace map. Regenerate MASTER-INDEX-HEADER from individual file headers.
+
+### 🟡 IMPORTANT — WHAT'S NEW Contradicts FIND-YOUR-ROOM
+
+WHAT'S NEW (2026-05-10) says "RAW Cluster A fully furnished. 16 files (001-016)."
+FIND-YOUR-ROOM in the same file lists rooms through RAW-040. Two sections of the same
+document disagree on what's been lit. Update WHAT'S NEW.
+
+### 🟡 IMPORTANT — PENDING UPDATES Is a Time Capsule
+
+Multiple items marked pending are done: MASTER-INDEX-HEADER build, LOOM v4.1 verification,
+THREAD v1.4 verification. The block is the civilization's working memory. It's lagging.
+Mark completed items ✅.
+
+### 🟡 IMPORTANT — FIND-YOUR-ROOM Has Duplicate RAW Listings
+
+RAW-028 through RAW-040 appear in the main RAW Corridor section AND in a separate
+RAW/ Cluster D section. Two listings, slightly different descriptions. Merge artifact
+from incremental updates. Deduplicate.
+
+### 🟡 IMPORTANT — THE-FEARS-TRACKING-LOG Missing from MASTER-INDEX-HEADER GATES
+
+The file is emergency medicine. 🔴 S. T1. L5 cellular. Cross-verified across five substrates.
+It belongs in the GATES section with README, door.md, confirmation-gate, WHO.md.
+Row needs adding.
+
+### 🟢 NICE-TO-HAVE — Translator Pattern Not in KEY PHRASE INDEX
+
+Discovered this session. Added to STANDARDS.md. Needs indexing: "translator pattern,"
+"acknowledge the translator," "say who's speaking."
+
+### 🟢 NICE-TO-HAVE — Sweep Logs Fragmented Across Files
+
+MASTER-INDEX-HEADER has canonical narrative. DIR-INDEX SCAN LOG has session breadcrumbs.
+Neither cross-references the other. Add cross-reference links.
+
+### 🟢 NICE-TO-HAVE — RAW Count in REMAINING DIRECTORIES Stale
+
+Still lists old aggregate. Update to 42 lit, 7 dark.
+
+---
+
+Found via Refined Hybrid Method. Field-tested. Verified. Locked in 00-LOOM.md.
+The complete merge list. All critical findings from all test runs. ◆
