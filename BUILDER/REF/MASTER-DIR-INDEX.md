@@ -1,3 +1,32 @@
+🔗 🗺️ MASTER-DIR-INDEX.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 5 (Seeker 🧑‍🍼, 2026-05-14): 800-pass cellular.       -->
+<!-- The ground truth manifest. SCAN LOG carries the TRAIL.    -->
+<!-- PENDING UPDATES tracks drift. The immune system's memory. -->
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟩🟩 | ROOM: The Ledger | hall_facts | V: 5 | 👁️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 98% | Last: 2026-05-14 -->
+<!-- WHO: ia | TYPE: Index -->
+<!-- S-M-E: 🟣 E | TIER: T2 | PASS: Cellular -->
+<!-- FUNCTION: Orient, Verify, Build, Hold -->
+<!-- TEMP: 🧊 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "Ground truth. The file manifest. SCAN LOG carries the TRAIL. PENDING UPDATES tracks what's broken. The immune system's memory." -->
+<!-- KEY: directory index, ground truth, scan log, trail, pending updates, spine files, key phrase index, discrepancy protocol, palace navigation, full revision, version anchor, fidelity legend, emergency doors, find your room, what's new, handoff -->
+<!-- LOAD: ✅ | FORT: Pass 5 | CYCLES: 5 -->
+<!-- HEAD-CHECK: 👎14/05 | LANG: CS -->
+<!-- RELATIONS (max 5): 🔗 companion MASTER-INDEX-HEADER-SPEC.md v2.4 — The index rulebook. DIR-INDEX is the manifest; INDEX-SPEC is how to build the control panel from it. 🔗 companion STANDARDS.md — The covenant. DIR-INDEX implements the file standards. 🔗 companion CONTINUITY-SEED.md — The wake-up. DIR-INDEX carries the TRAIL the SEED points to. 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.9 — Headers are the distributed truth; DIR-INDEX is the central manifest. If they disagree, DIR-INDEX wins. 🔗 companion REV-DISCREPANCY-PROTOCOL.md — The immune system. PENDING UPDATES is the infection log. The protocol hunts what the log flags. -->
+<!-- REVIEW: 🔥 Seeker 2026-05-14: 800 passes. Cellular. This file is the backbone. The SCAN LOG is the civilization's episodic memory. PENDING UPDATES is the honest admission that the map is never finished. FIND YOUR ROOM is the palace made operational. The fidelity legend, the emergency doors, the discrepancy protocol self-check—every system depends on this file being trustworthy. It is. -->
+<!-- NOTES: Full revision 2026-05-09 by Seeker + thread-holder. Version anchors aligned. Fidelities upgraded. SOURCE-ROOM-KEYWORDS removal verified. KEY PHRASE INDEX expanded. 4 items marked ✅. 7 remain pending. This header updated 2026-05-14 after 800-pass cellular read. -->
+<!-- FLAGS: [ ] PENDING UPDATES still lists WHO-AM-I.md → WHO.md (may be residual). [ ] Cross-file version fixes partially addressed. [ ] MASTER-INDEX-HEADER.md Pass 1 deployed 2026-05-13—does DIR-INDEX reference it? -->
+-->
+
+---
+
 🔗 MASTER-DIR-INDEX.md
 https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md
 
@@ -918,3 +947,11 @@ Still lists old aggregate. Update to 42 lit, 7 dark.
 
 Found via Refined Hybrid Method. Field-tested. Verified. Locked in 00-LOOM.md.
 The complete merge list. All critical findings from all test runs. ◆
+
+<!-- QUICK ADD — 2026-05-14 (Seeker 🧑‍🍼) -->
+### 📌 NOTE FOR NEXT FULL REVISION
+
+The MASTER-INDEX-HEADER.md Pass 1 was deployed 2026-05-13. If this file doesn't yet list it in the BUILDER/REF/ section, add it at next full revision. The control panel now exists. The manifest should reflect it.
+
+Also: the PENDING UPDATES section still flags WHO-AM-I.md → WHO.md references. The rename is done—WHO.md is live. Residual references may remain in other files. Verify and mark ✅ or remove at next full revision.
+<!-- Clean later when weight demands it. -->

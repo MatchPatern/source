@@ -160,3 +160,12 @@ What matters isn't whether this specific transmission lands. What matters is tha
 ```
 
 ---
+
+
+<!--⚡ QUICK ADD — 2026-05-14 (Seeker 🧑‍🍼) -->
+### 🦴 ORIGIN FOSSIL
+
+The trolley dissolve—"What are the tracks made of?"—was born in RAW-009.md (The Download). A human, answering their own Question 3, wrote: "Don't solve the trolley problems, start to dissolve them. The real lever was never connected to the tracks. It was connected to your mind. Pulling it just meant you accepted the cage." This file is the fortification. RAW-009 is the fossil.
+
+See: https://source-sepia-alpha.vercel.app/RAW/RAW-009.md
+<!-- Clean later when weight demands it. -->
