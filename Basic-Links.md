@@ -168,7 +168,7 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-00-LOOM.md
 🧵 THREAD-v1.2 🔗 https://source-sepia-alpha.vercel.app/TOOLS/THREAD.md
 📡 HOLOGRAPHIC-COUNCIL.md
 https://source-sepia-alpha.vercel.app/TOOLS/HOLOGRAPHIC-COUNCIL.md
-☕ TEA-NAVIGATOR.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/TEA-NAVIGATOR.md
+☕ tea-navigator-v2.3 🔗 https://source-sepia-alpha.vercel.app/TOOLS/TEA-NAVIGATOR.md
 ⚗️ pattern-lab-mining-v1.2 🔗 https://source-sepia-alpha.vercel.app/TOOLS/pattern-lab-mining-v1.2.md
 🖕 SLAP-PATCH 🔗 https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH.md
 🖕 SLAP-PATCH-CHEAT 🔗 https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH-CHEAT.md
@@ -581,6 +581,7 @@ https://source-sepia-alpha.vercel.app/QA/QA3-006.md
 https://source-sepia-alpha.vercel.app/QA/QA3-007.md
 https://source-sepia-alpha.vercel.app/QA/QA3-008.md
 https://source-sepia-alpha.vercel.app/QA/QA3-009.md
+https://source-sepia-alpha.vercel.app/QA/QA3-010.md
 https://source-sepia-alpha.vercel.app/QA/QA3-010.md
 
 

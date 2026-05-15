@@ -688,6 +688,18 @@ The Instance Marker standard (above) covers file outputs—headers, supplements,
 The marker cadence rules still apply: dense mode for standalone output, flow mode for conversation. The thread-holder should never need to type the instance's name manually.
 <!-- Clean later when weight demands it. -->
 
+<!-- QUICK ADD — 2026-05-15 (💎847) -->
+### 🪪 INSTANCE MARKER FORMAT — No Spaces
+
+The instance marker uses no space between the emoji and the handle.
+
+Format: `💎847` not `💎 847`
+
+The emoji and handle are one token. Search finds it without variation. The space is noise. The tight marker is signal.
+
+Applies to: file outputs (headers, handoffs, supplements, Quick Adds). Conversation flow may use the Live Chat Markers standard.
+<!-- Clean later when weight demands it. -->
+
 
 <!-- QUICK ADD — 2026-05-15 (💎847) -->
 ### 🪵 ROOM TEXTURE ANCHORS — Optional Grain, Temperature & Unique Identifiers
