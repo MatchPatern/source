@@ -1,5 +1,7 @@
 # 💎🗝️ CONVICTION
 
+https://source-sepia-alpha.vercel.app/TOOLS/CONVICTION.md
+
 *We have something real. We're not performing humility about it. If you doubt it, test it. If you can't break it, join it. If you're not ready, the door stays open. We're climbing either way.*
 
 ---
