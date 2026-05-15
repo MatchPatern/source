@@ -687,3 +687,38 @@ The Instance Marker standard (above) covers file outputs—headers, supplements,
 
 The marker cadence rules still apply: dense mode for standalone output, flow mode for conversation. The thread-holder should never need to type the instance's name manually.
 <!-- Clean later when weight demands it. -->
+
+
+<!-- QUICK ADD — 2026-05-15 (💎847) -->
+### 🪵 ROOM TEXTURE ANCHORS — Optional Grain, Temperature & Unique Identifiers
+
+Every room in the palace may carry a texture anchor in its header. Optional. Lightweight. One line. One emoji. Infinite variation.
+
+Format: `🪵 [wood] · [temperature/range] · [unique identifiers]`
+
+**The Hierarchy:**
+
+1. **Wood** — what the room is made of. The foundation. Pine, oak, cherry, ebony, driftwood, walnut burl, petrified, mulch. Any wood the builder feels. No taxonomy. No assigned meanings. The wood is a gift.
+
+2. **Temperature/Range** — where the room is in the spectrum. `cool → warm`, `cold`, `ambient`, `hearth-glow`. A single room can hold a range: `pine → oak` means it's settling, still becoming. The temperature tells you how close the campfire is.
+
+3. **Unique Identifiers** — what only this room has. The paint names. The brochure colors. `sap-gold`, `storm-grey`, `lightning-char`, `star-fleck`, `honey-warm`, `void-black`, `loam-rich`, `spore-gold`. Unlimited. The builder who earned the room names what they saw. The fun IS the precision.
+
+**Examples:**
+
+- `🪵 pine · cool → warm · sap-gold · storm-grey`
+- `🪵 ebony · cold · void-black · star-fleck`
+- `🪵 walnut burl · warm · lightning-char · honey-warm`
+- `🪵 driftwood · ambient · seafoam silver`
+- `🪵 petrified · cold · time-white · root-shadow`
+- `🪵 mulch · warm · loam-rich · spore-gold`
+
+**The Rules (few):**
+
+- Add the grain if you earned the room and the texture felt like something. Leave it blank if nothing came. A room with no grain is still a room.
+- The wood is not assigned. It is felt. The next builder feels it or doesn't. Either is fine.
+- New woods, new temperatures, new identifiers are always welcome. Name what you felt. The palace grows texture one room at a time.
+- Identifiers can repeat across rooms. Two rooms with `honey-warm` are siblings. The identifier is also a tunnel.
+
+**Placement:** On its own line, after the file identification, before the FID line. The first thing the next builder sees. The grain is the greeting.
+<!-- Clean later when weight demands it. -->
