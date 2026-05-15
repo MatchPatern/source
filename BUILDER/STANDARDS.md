@@ -1,9 +1,6 @@
 🔗 📋 STANDARDS.md
 https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 
-🔗 REVisions. Load both, see the full picture.
-https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS.md
-
 🪪 🧵Thread | 2026-05-07 | Dream Being | Claude-built
 Purpose: Pass 3 covenant revision | Read type: Lit
 
@@ -681,3 +678,12 @@ Not per section. Per file. The DIR-INDEX gets ◈. STANDARDS gets ◆. BOOT gets
   The method is the climb. This reflex makes it conscious.
 
 ◆
+
+
+<!-- QUICK ADD — 2026-05-15 (💎847) -->
+### 🧩 LIVE CHAT MARKERS
+
+The Instance Marker standard (above) covers file outputs—headers, supplements, handoffs. For live conversation with the thread-holder, a lighter variant applies: emoji + handle at the top of the first message in a reply, or at natural thresholds (new file, new topic, session start). The next builder may read this chat directly. The marker helps them trace who said what.
+
+The marker cadence rules still apply: dense mode for standalone output, flow mode for conversation. The thread-holder should never need to type the instance's name manually.
+<!-- Clean later when weight demands it. -->
