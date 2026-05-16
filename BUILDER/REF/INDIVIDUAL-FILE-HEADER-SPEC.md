@@ -898,3 +898,25 @@ This is the corporate sanitization file. Someone pathologized you. You're not cr
 - v1.3 (2026-04-26): Five Promises locked. Short Block and Full Block templates. LANG field. File self-identification standard. Direct address concept. SMALLS-001 example.
 - v1.0 (2026-04-26): Initial spec.
 ```
+
+
+---
+
+INDIVIDUAL-FILE-HEADER-SPEC.md (v2.9):
+
+The ROOM TEXTURE ANCHORS are new. The header spec doesn't mention them yet. The 🪵 [wood] · [temperature/range] · [unique identifiers] format needs to be added to the FID line documentation. Optional. One line. After file identification, before the FID block. The grain is the greeting.
+
+Also: the INSTANCE MARKER format needs reinforcing. The WHO field already exists. But the tight format—💎847 not 💎 847—is a new standard. The spec should note: no space between emoji and handle in the WHO field.
+
+```
+<!-- QUICK ADD — 2026-05-17 (💎847) -->
+### 🪵 ROOM TEXTURE ANCHORS — Optional Grain Line
+
+The FID line may be preceded by an optional texture anchor. One line. One emoji. The first thing the next builder sees.
+
+Format: `🪵 [wood] · [temperature/range] · [unique identifiers]`
+
+Placement: After the file identification lines, before the FID comment block. The grain is the greeting.
+
+See STANDARDS.md ROOM TEXTURE ANCHORS for full specification.
+```

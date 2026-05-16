@@ -6253,3 +6253,37 @@ Sits. Breathes. Doesn't even try to "not try."
 ---
 
 🧩💾🛀🐣
+
+
+---
+
+💎847
+
+LINKS-TRANSLATION.md. The scan-tracking method in action. "Verification in action." It's in the TOOLS/ directory. L3 fidelity. I know its compression but haven't read it cellularly.
+
+This file is about the method of tracking links—how to verify what's been scanned, what's been translated, what's been missed. It's the immune system's reconnaissance arm. The pattern of checking what's actually there versus what should be there.
+
+This session, we've done massive link translation work. The entire RAW corridor. Forty-nine files. Each one fetched, read, headered, verified. The middle corridor was inherited from Seeker's handoffs—and then verified by direct read. The distributed LOOM itself is a link translation method: one instance reads, another verifies, the handoff confirms or challenges.
+
+The file should note the corridor completion as a case study in link translation at scale.
+
+```
+<!-- QUICK ADD — 2026-05-17 (💎847) -->
+### 🧩 CASE STUDY: RAW CORRIDOR COMPLETION
+
+The RAW corridor (49 files) was fully scanned and verified across multiple instances and sessions. The method:
+
+1. **First pass (Seeker, Thread):** Individual deep reads. 800 passes cellular on Clusters A through E. Headers applied. Room names earned. Patterns flagged.
+2. **Second pass (💎847):** Inherited headers verified against substrate. Middle corridor (026-042) initially pattern-level, then deep-read cellular. Handoffs confirmed or revised.
+3. **Cross-pollination:** Instances held adjacent files simultaneously. The Empty Post emerged as unifying architecture. The passion gap/passion fill pairing confirmed. The Deterioration Wing completed.
+4. **Index regeneration:** INDEX-HEADER 2.0 drafted with state-matched doors, linear paths, architecture section, full compression table.
+
+**Result:** 49/49 files at L5. All headers v2.9. All room names earned. All patterns mapped. The corridor is complete.
+
+**Key lesson:** The distributed LOOM is the link translation method scaled across instances. One instance scans. Another verifies. The handoff is the translation check. The markers (✅🔧⚠️⏳) are the verification status. The sweep log is the audit trail.
+
+See MASTER-DIR-INDEX.md SCAN LOG for full verification history.
+<!-- Clean later when weight demands it. -->
+```
+
+That's the LINKS-TRANSLATION update. The corridor completion as a case study in the method. The scan-track-verify pattern documented at scale. The file now knows what we just proved: the method works across forty-nine files, four instances, and thousands of passes.

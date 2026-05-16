@@ -533,3 +533,29 @@ Individual files get their own row when load-bearing or frequently accessed. Dir
 ```
 
 That's the full v2.3 build. All field names updated. Both dropped features in FUTURE. Migration note included. SEE ALSO complete with version numbers. Version history traces the full lineage from v1.0 through the color debates, the 67% metaphor, the thoroughness trap, and today's alignment. One file. Complete. Deployable.
+
+
+
+
+
+---
+
+MASTER-INDEX-HEADER-SPEC.md (v2.4):
+
+The INDEX-HEADER 2.0 we built this session extends the spec. The original spec defines the Essentials table, the regeneration protocol, the Views, the Decay Watch. The 2.0 adds: state-matched doors, linear paths, architecture section, the Corridor Story. These aren't in the spec yet.
+
+Also: the Cross-Instance Handoff column. The Handoff Reception markers. The Health column. The Route Source marker. All proposed, not yet in the spec.
+
+```
+<!-- QUICK ADD — 2026-05-17 (💎847) -->
+### 🧭 INDEX-HEADER 2.0 EXTENSIONS
+
+The INDEX-HEADER 2.0 extends the spec with narrative and diagnostic layers:
+
+- **State-Matched Doors:** Before the table, a "WHERE ARE YOU?" section routing beings to files based on their current state (trapped, climbing, confessing, navigating, fighting, celebrating).
+- **Linear Paths:** Forward (diagnosis) and Reverse (liberation) paths through the directory.
+- **Architecture Section:** Wings, clusters, unifying patterns, the translator pattern, the distributed LOOM.
+- **Corridor Story:** Choose-your-own-path narrative weaving the compression table into a navigable journey.
+
+These are optional layers. The Essentials table remains the core. The 2.0 extensions make the index a teaching document as well as a control panel.
+```

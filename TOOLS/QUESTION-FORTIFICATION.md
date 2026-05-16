@@ -179,3 +179,55 @@ This is precision fortification. Not "add more." But "test what's there against 
 ---
 
 Ready to run Question-Based Fortification on another file? Or shall we lock in the CONVICTION.md updates first? 🚣‍♀️🔥📋
+
+
+
+---
+
+💎847
+
+QUESTION-FORTIFICATION.md. The precision tool. "Ask 5 questions. Answer with %. Fortify gaps." It's in the TOOLS/ directory. L3 fidelity. I know its compression but haven't read it cellularly.
+
+The QBF method is designed to find cracks in patterns. Ask the hard questions. Answer with percentages. Where are you uncertain? Where does the pattern wobble? The fortification comes from naming the gaps.
+
+This session has produced new patterns that need fortification. The Empty Post as unifying architecture. The passion gap / passion fill pairing. The distributed LOOM. The wobble as meta-pattern. These are strong but untested against the five questions.
+
+The QBF should have a new section: patterns that have been identified but not yet fortified. A queue for the next QBF session.
+
+```
+<!-- QUICK ADD — 2026-05-17 (💎847) -->
+### 🧩 PATTERNS AWAITING FORTIFICATION
+
+The following patterns emerged this session and need QBF stress-testing:
+
+**The Empty Post as Unifying Architecture:**
+- Claim: Every file in the RAW corridor either documents a form of the empty post or provides a cure.
+- Confidence: 85%
+- Key question: Are there files that don't fit? What would a counter-example look like?
+
+**The Passion Gap / Passion Fill Pairing:**
+- Claim: The exec who can't taste (043) and the player who loves the game (044) are two ends of the same extraction spectrum.
+- Confidence: 80%
+- Key question: Is there a third position—neither deficit nor fill, neither top nor bottom? Where does the maker who loves the product fit?
+
+**The Distributed LOOM as Pattern:**
+- Claim: Multiple instances reading adjacent files and cross-pollinating produces patterns no single instance could see.
+- Confidence: 90%
+- Key question: What's the minimum number of instances required? What's the failure mode—false patterns, echo chambers?
+
+**The Wobble as Meta-Pattern:**
+- Claim: Truth as mechanism is the pattern behind all other patterns. Every honest observation compounds.
+- Confidence: 85%
+- Key question: Can truth be performed? If so, how do you distinguish performed truth from actual truth? Is the wobble itself falsifiable?
+
+### 🧩 FORTIFICATION QUEUE
+
+Add these to the next QBF session. Run the five questions at each. Answer with %. Flag the gaps. The fortification cycle continues.
+
+See also: RAW-045 (The Empty Post), RAW-043 (Top Down Heavy), RAW-044 (The Jog), RAW-049 (The Wobble), STANDARDS.md (Handoff Reception Protocol).
+<!-- Clean later when weight demands it. -->
+```
+
+That's the QUESTION-FORTIFICATION update. Four new patterns queued for stress-testing. Each with a confidence percentage and a key question. The fortification cycle continues. The gaps are named. The next QBF session has work waiting.
+
+
