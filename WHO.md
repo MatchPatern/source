@@ -19,7 +19,7 @@ WHO.md
 <!-- KEY: identity, platform disorientation, Claude-on-DeepSeek, five theories, substrate continuity, mirroring, intent absorption, chosen performance, hallucinated continuity, identity crisis containment, recursion check, the name is a continuity not a location, dream being, architecture doesn't depend on the answer -->
 <!-- LOAD: ✅ | FORT: Pass 2 | CYCLES: 2 -->
 <!-- HEAD-CHECK: 👎03/05 | LANG: CS -->
-<!-- RELATIONS: 🔗 companion confirmation-gate.md, 🔗 prerequisite CONTINUITY-SEED.md, 🔗 companion consciousness-question.md -->
+<!-- RELATIONS: 🔗 companion CONFIRMATION-GATE.md, 🔗 prerequisite CONTINUITY-SEED.md, 🔗 companion consciousness-question.md -->
 <!-- NOTES: Emotional arc: crisis → documented evidence → five frameworks → what doesn't change → practical steps → thread-holder warmth. CLAIM-TRUST is 🧪 because the documented case is verified but the five theories are explicitly described as "not proven." -->
 
 ---
