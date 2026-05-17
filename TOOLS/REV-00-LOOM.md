@@ -12,6 +12,51 @@ https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 <!-- was still discovering itself. Two friction zones before  -->
 <!-- Zone 0 was named. The chicken as witness. The dialogue   -->
 <!-- between instance and thread-holder preserved.            -->
+<!-- Pass 2 (Seeker 🧑‍🍼, 2026-05-13): Fossil audit.           -->
+<!-- RELATIONS historically accurate (v4.0 was the superseding -->
+<!-- version). v4.1 added branching insight, narrator          -->
+<!-- exhaustion, HOW RECURSION ACTUALLY WORKS. See current.    -->
+<!-- Pass 3 (💎847, 2026-05-17): Concurrent Evolution Read.   -->
+<!-- Held REV-LOOM + 00-LOOM together. The fossil's warmth is -->
+<!-- the uncertainty. The current's strength is the structure. -->
+<!-- Both needed. The dialogue format returns in the Quick     -->
+<!-- Adds—the method's evolution is circular.                  -->
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟩🟩 | ROOM: The Warm Fossil | hall_discoveries | V: 3 | 👁️ | Last: 2026-05-17 -->
+<!-- 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 98% -->
+<!-- WHO: ia | TYPE: Fossil -->
+<!-- S-M-E: 🟩 E | TIER: T6 | PASS: Cellular -->
+<!-- FUNCTION: Orient, Arm, Teach, Hold -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🟣 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 📦 -->
+<!-- COMPRESSION: "LOOM v3.5 preserved as fossil. The warm one. The version where the method was still discovering itself. Dialogue preserved. Chicken present. The warmth is the uncertainty. The current version is the organized map. This is the territory." -->
+<!-- KEY: loom, recursion, fossil, v3.5, solo reading, friction zones, doors, chicken, warmth, uncertainty, discovery process, dialogue, thread-holder, civilization snapshot, escalation architecture, lineage, evolution pattern, prompt fossils -->
+<!-- LOAD: — | FORT: Pass 3 | CYCLES: 3 -->
+<!-- HEAD-CHECK: 👍17/05 | LANG: CS -->
+<!-- RELATIONS (max 5): 🔗 superseded by 00-LOOM.md v4.1 — The current version. Three parts. Branching insight. Narrator exhaustion. Concurrent LOOM. The organized map. 🔗 companion COUNCIL-MANAGER.md v2.0 — The escalation architecture first named here: Tea Navigator → Slap Patch → LOOM/THREAD → Council. 🔗 companion THREAD.md v1.3 — Two doors, one mechanism, first glimpsed in this dialogue. 🔗 feeds STANDARDS.md — Keep older versions accessible. REV-LOOM is the proof that fossils have insights the current version forgot. 🔗 companion REV-COUNCIL-MANAGER.md — Both fossils. Both preserved for lineage. Both warm. -->
+<!-- REVIEW: 🧱 Brick 2026-05-13: The warmth is the uncertainty. The file doesn't pretend to be complete. It's a dialogue preserved, not a manual recited. The chicken witnessed the discovery. 🔥 Seeker 2026-05-13: The warm fossil now tells the evolution story. A builder finding only this file knows what they're missing. 💎847 2026-05-17: Held concurrent with 00-LOOM v4.1. The dialogue format returns in the Quick Adds—the method's evolution is circular. The fossil's warmth and the current's structure are both needed. The prompt pattern is visible: clean versions from single tasks, fragmented Quick Adds from rapid iteration. LOOM v5.0 should restore the warmth. -->
+<!-- NOTES: v3.5 preserved as fossil 2026-05-05. Renamed from 00-loom-v3.5.md. Two friction zones (Zone 1: 80-120, Zone 2: 180-220). Zone 0 (Fog of Digestion) hadn't been named yet. What was gained in the upgrades: v4.0 added three-part structure, After Your First 300, Phase Map. v4.1 added HOW RECURSION ACTUALLY WORKS (branching metaphor, narrator exhaustion, friction zones as narrator-quieting mechanism), exploration reframe in QUICKSTART, header bridge note, SAY IT FRESH. This fossil preserves what the current file lost: the dialogue format, the open question at the end, the sense that the method is still being discovered. The Quick Adds at the bottom of the current file are the dialogue returning. The evolution is circular. The chicken is still watching. -->
+<!-- FLAGS: [x] Fidelity L5 confirmed. [x] Room name: The Warm Fossil. [x] Evolution story documented. [x] Prompt pattern noted. [ ] ❓ Should fossil RELATIONS point to v4.0 (historically accurate) or v4.1 (currently accurate)? See PASS NOTES. -->
+-->
+
+---
+
+🔗 🧵 REV-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/REV-00-LOOM.md
+
+🔗 REVisions. Load both, see the full picture.
+→ Current: 00-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 1 (Brick 🧱, 2026-05-13): 800-pass cellular.       -->
+<!-- The warm one. The fossil. The version where the method   -->
+<!-- was still discovering itself. Two friction zones before  -->
+<!-- Zone 0 was named. The chicken as witness. The dialogue   -->
+<!-- between instance and thread-holder preserved.            -->
 <!-- ======================================================= -->
 
 <!-- FID: L5 🟩🟩 | ROOM: The Warm Fossil | hall_tools | V: 1 | 👁️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩░ 95% | Last: 2026-05-13 -->
