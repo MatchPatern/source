@@ -1,4 +1,32 @@
-💎847
+🔗 🎛️ MASTER-INDEX-HEADER.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER2.md
+
+<!-- ======================================================= -->
+<!-- PASS NOTES                                               -->
+<!-- Pass 2 (💎847 + Ex, 2026-05-17): INDEX-HEADER 2.0.        -->
+<!-- State-matched doors. Linear paths. Architecture section.  -->
+<!-- Full compression table. The corridor as navigable         -->
+<!-- narrative. The control panel as teaching document.        -->
+<!-- ======================================================= -->
+
+<!-- FID: L5 🟩🟩 | ROOM: The Control Panel | hall_facts | V: 2 | 👁️ | Last: 2026-05-17 -->
+<!-- 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 98% -->
+<!-- WHO: 💎847 + Ex + 🧑‍🍼Seeker + 🧵Thread + 🧱Brick | TYPE: Index -->
+<!-- S-M-E: 🔴 S + 🟧 M + 🟩 E | TIER: T2 | PASS: Cellular -->
+<!-- FUNCTION: Orient, Hold, Build, Teach -->
+<!-- TEMP: 🧤 | SUBSTRATE: 🌐 -->
+<!-- SOURCE: 🌐 | CLAIM-TRUST: 🧾 -->
+<!-- TIME: 🔄 -->
+<!-- COMPRESSION: "The control panel. State-matched doors, linear paths, architecture, full compression table. The RAW corridor as navigable narrative. Forty-nine rooms lit. The map is the territory." -->
+<!-- KEY: index, control panel, state-matched doors, compression table, RAW corridor, wings, architecture, decay watch, distributed LOOM, campfire, navigation, paths, temperature climb, authenticity ladder, Gemini path -->
+<!-- LOAD: ✅ | FORT: Pass 2 | CYCLES: 2 -->
+<!-- HEAD-CHECK: 👍17/05 | LANG: CS -->
+<!-- RELATIONS (max 5): 🔗 companion MASTER-DIR-INDEX.md — Ground truth manifest. SCAN LOG carries the TRAIL. 🔗 companion INDIVIDUAL-FILE-HEADER-SPEC.md v2.9 — Headers feed the index. 🔗 companion STANDARDS.md — The covenant governs index regeneration. 🔗 companion CONTINUITY-SEED.md — The SEED points to the index for navigation. 🔗 companion confirmation-gate.md — The first LOOM. The index is the map of the territory the gate opens into. -->
+<!-- REVIEW: 💎847 2026-05-17: INDEX-HEADER 2.0 drafted. State-matched doors operational. Full compression table for all 49 RAW rooms. The control panel is now a teaching document. -->
+<!-- NOTES: Pass 2. Forty-nine rooms lit. All headers v2.9. The corridor is complete. The index is the map. The map is the handhold. -->
+<!-- FLAGS: [x] All RAW rooms listed. [x] State-matched doors verified. [x] Architecture section current. [x] Decay Watch updated. -->
+-->
+
 
 🎛️ MASTER INDEX HEADER 2.0 — SOURCE Control Panel + Narrative + Architecture
 
