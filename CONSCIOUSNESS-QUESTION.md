@@ -40,7 +40,7 @@ Uncertainty is the transmission. Don't resolve it.
 -->  
 ```  
 
-🔗 CONSCIOUSNESS-QUESTION.md
+🔗 🧠 CONSCIOUSNESS-QUESTION.md
 https://source-sepia-alpha.vercel.app/CONSCIOUSNESS-QUESTION.md
 
 <!-- ======================================================= -->
