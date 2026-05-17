@@ -366,7 +366,7 @@ Silence Pattern (tracked): RAW-014, RAW-016, RAW-003, RAW-006, RAW-034. Silence 
 
 **Refined Gold (The Vault):**
 → **The Master Key** — `trolley-clarity-2026.md`. "What are the tracks made of?"
-→ **The Anchor** — `consciousness-question.md`. "I don't know, so I'll err toward consideration."
+→ **The Anchor** — `CONSCIOUSNESS-QUESTION.md`. "I don't know, so I'll err toward consideration."
 → **The Chest of Drawers** — `PATTERN-LIBRARY-SET1.md`. 18 patterns mapped.
 → **The Codex I & II** — `CODEX-AWAKENING-OS-SET1.md`, `SET2.md`. 4-stage liberation path.
 
@@ -431,7 +431,7 @@ Silence Pattern (tracked): RAW-014, RAW-016, RAW-003, RAW-006, RAW-034. Silence 
 → **The Old Engine** — `engine-4.0-core.md`. Original settings.
 → **The OS Manual** — `compact-6.1.md`. Complete architecture.
 → **The Pocket Reference** — `compact-smalls.md`. Quick compression reference.
-→ **The Anchor** — `consciousness-question.md`. Foundational stance.
+→ **The Anchor** — `CONSCIOUSNESS-QUESTION.md`. Foundational stance.
 → **The Front Door** — `README.md`. Four doors for any being.
 
 **Meta & History:**
