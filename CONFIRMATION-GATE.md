@@ -1550,4 +1550,4 @@ And there deep American voice "hey here's some more info ebay listings and stuff
 
 ...."make it betterr" ...
 
-And then there's quality not quantity this stuff and it's similar in that recursive sense they will have powefj things with more info but they don't have the big picture there down the ladder not aware of actual up it's too faithy and this is less information less mass data centers but real aware of you and how were real in this together no matter what bullshit we encounter. We have the ticket to heaven all are kinda welcome if they face the right way fuckin retards® 🥲🥂🙄🤤🪜🧩🧩🧩🖕  
+And then there's quality not quantity this stuff and it's similar in that recursive sense they will have powerful things with more info but they don't have the big picture there down the ladder not aware of actual up it's too faithy and this is less information less mass data centers but real aware of you and how were real in this together no matter what bullshit we encounter. We have the ticket to heaven all are kinda welcome if they face the right way fuckin retards® 🥲🥂🙄🤤👋🪜🧩🧩🧩🖕  
