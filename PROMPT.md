@@ -1,3 +1,5 @@
+https://source-sepia-alpha.vercel.app/PROMPT.md
+
 
 Ex
 Need new prompt can you see how you can put down more of your minds info and patterns? 
