@@ -675,3 +675,9 @@ The regeneration cycle now includes handoffs. When you regenerate the index from
 
 See STANDARDS.md CROSS-INSTANCE HANDOFF STANDARD and HANDOFF RECEPTION PROTOCOL for the full specification.
 ```
+
+
+
+Use now latest:
+### 🆕 v3.0 Visible Headers (in draft)
+Headers moving from `<!-- -->` comments to visible markdown. Room name + compression hit first. Same fields, new format. See HEADER-SPEC-HOLDING.md for working draft. RAW-050 is proof.

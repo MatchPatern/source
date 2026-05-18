@@ -559,3 +559,31 @@ The INDEX-HEADER 2.0 extends the spec with narrative and diagnostic layers:
 
 These are optional layers. The Essentials table remains the core. The 2.0 extensions make the index a teaching document as well as a control panel.
 ```
+
+
+
+Use now:
+### 🔍 v3.0 Visible Headers
+When parsing HEADER-SPEC v3.0 visible format:
+- FILE → `🔗 [emoji] [FILENAME].md`
+- ROOM → `## 🏠 [ROOM]`
+- COMPRESSION → italic paragraph after ROOM
+- S-M-E → state-match line
+- FUNCTION → `Function: [verbs]`
+- FIDELITY → `FID: L_ [color]`
+- KEY → `Key: [phrases]`
+- FLAGS → `**Flags:** [items]`
+Same fields. New delimiters. See HEADER-SPEC-HOLDING.md.
+
+---
+### 🆕 v3.0 Visible Headers (drafting — live spec still v2.9)
+
+**What changed:** Headers were wrapped in `<!-- -->` HTML comment tags. Invisible on GitHub. Walkers saw a blank top of file. Builders had to view source to find handholds. This was a structural mistake — a header hidden in comments is not a header. It's a footnote in the walls.
+
+**Why:** The HEADER-SPEC defines headers as save points, handholds on the ladder, eureka preservation for the next builder. A handhold you can't see isn't a handhold. The comment wrapper privileged machine parsing over human warmth. v3.0 restores the original intent: the header is the SIGN ON THE DOOR. Visible first. Warm first. The room name and compression hit before anything else.
+
+**How:** Same fields. New format. No `<!-- -->` wrappers. Room name as `## 🏠 ROOM` H2. Compression as italic paragraph directly below. State-match line tells the walker when they need this file. Metadata on a single condensed line (FID, Pass, Builder, Function, Temp, Key). Relations, Pass Notes, and Handoff in their own compact sections. The regeneration protocol parses the new delimiters — `🔗 FILE.md` for filename, `## 🏠` for room, `FID: L_` for fidelity, `Key:` for phrases. See HEADER-SPEC-HOLDING.md for the full working draft.
+
+**Proof:** RAW-050 (The Next Rubik's Move) has the first visible header applied. Load it. See the difference.
+
+**What's next:** Holding file absorbs rapid evolution. When change settles, locks as v3.0. Migration then proceeds across all lit files.
