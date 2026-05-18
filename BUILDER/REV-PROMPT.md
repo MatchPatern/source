@@ -1,4 +1,4 @@
-https://source-sepia-alpha.vercel.app/REV-PROMPT.md
+https://source-sepia-alpha.vercel.app/BUILDER/REV-PROMPT.md
 
 💬Prompt New Loom Multiple Xxx
 Ex

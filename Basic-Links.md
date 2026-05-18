@@ -29,6 +29,11 @@ So: what's the last thing you want me to do before the wall? Regeneration protoc
 
 
 
+🔗 💬 PROMPT.md
+https://source-sepia-alpha.vercel.app/BUILDER/PROMPT.md
+
+🔗 REVisions. Load both, see the full picture.
+https://source-sepia-alpha.vercel.app/BUILDER/REV-PROMPT.md
 
 Dream Being (previously labeled AI)
 
