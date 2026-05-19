@@ -78,6 +78,46 @@ At the start of every session, ask the thread-holder: "What's the current date?"
 
 ## ⚡ QUICKSTART — Your First Header in 60 Seconds
 
+```markdown
+### 🆕 v3.0 VISIBLE FORMAT (Current)
+Headers now VISIBLE. No `<!-- -->` wrappers. Room name + compression hit first.
+
+**Template:**
+```
+
+🔗 [emoji] [FILE].md
+[VERCEL]
+
+🏠 [ROOM]
+
+[COMPRESSION — 2-4 lines. The eureka.]
+[State-match — "For when you're [state] and need to [function]."]
+[Direct address — "You're not alone..."]
+
+FID: L_ [color] · Pass: [type] · [N] · Builder: [WHO] · Type: [TYPE] · Tier: T_ · Function: [verbs] · Temp: [emoji] · Substrate: [emoji] · Source: [emoji] · Claim-Trust: [emoji] · Time: [emoji] · Extraction: [bar] XX% · Header Check: [emoji] DD/MM · LANG: [code] · Key: [phrases]
+
+Companions: [FILE] ([ROOM]) · [FILE] ([ROOM])
+Flags: [x] [resolved] · [ ] ❓ [uncertainty]
+
+📝 Pass Notes
+
+[WHO] (DD/MM): [What found]
+
+🔗 Relations
+
+· [FILE] ([ROOM]) — [One-line synthesis]
+
+🤝 Handoff
+
+Shared: [Ground] Find: [Gap] Found: [Insight] Remember: [Core]
+
+```
+
+**Changes from v2.9:** Headers visible. New: state-match line, direct address. Header Check + Extraction in metadata line. hall_, V:, 👁️, LOAD, FORT, CYCLES implied. Full draft in WORKING.md. Proof: RAW-050.
+```
+
+
+
 0. Read the file first. 50-100 passes for a Pass 1 header. 300+ for Pass 2. 800+ for Pass 3. A header without depth is a sketch—mark it with ❓. LOOM first. Headers second. The method is in 00-LOOM.md.
 
 1. Open the file. Scroll to the very top.
@@ -919,4 +959,91 @@ Format: `🪵 [wood] · [temperature/range] · [unique identifiers]`
 Placement: After the file identification lines, before the FID comment block. The grain is the greeting.
 
 See STANDARDS.md ROOM TEXTURE ANCHORS for full specification.
+
+
+
+Quick add to bottom of each file. Even faster.
+
+---
+
+Paste 2 — MASTER-INDEX-HEADER-SPEC.md
+
+Scroll to very bottom. Paste:
+
+```markdown
+### 🔍 v3.0 Visible Headers (Quick Add 2026-05-18)
+Parsing v3.0 visible format: FILE → `🔗 [emoji] [FILENAME].md`. ROOM → `## 🏠 [ROOM]` H2. COMPRESSION → italic paragraph after ROOM. S-M-E → state-match line. FUNCTION → `Function: [verbs]`. FIDELITY → `FID: L_ [color]`. KEY → `Key: [phrases]`. FLAGS → `**Flags:** [items]`. Same fields. New delimiters.
 ```
+
+---
+
+Paste 3 — MASTER-INDEX-HEADER-SPEC-GUIDE.md
+
+Scroll to very bottom. Paste:
+
+```markdown
+### 🆕 v3.0 Visible Headers (Quick Add 2026-05-18)
+Headers now VISIBLE. No `<!-- -->` wrappers. Room name + compression hit first. Same fields, new format. Proof: RAW-050. Full draft in WORKING.md.
+```
+
+---
+
+Done. Two bottom pastes. No hunting. Continue. ⚡
+```
+
+
+
+⚡Ash
+INDIVIDUAL-FILE-HEADER-SPEC.md. Single paste. Bottom of the file.
+
+```markdown
+## ⚡ QUICK ADD — 2026-05-18 (Ash ⚡ + thread-holder) [D]
+**Finding:** v3.0 visible header format. Headers now VISIBLE. No `<!-- -->` wrappers. Room name + compression hit first. Proof on RAW-050.
+**Confidence:** 90%
+**Status:** Active — integrate when v3.0 locks.
+
+### 🆕 v3.0 VISIBLE FORMAT TEMPLATE
+```
+
+🔗 [emoji] [FILE].md
+[VERCEL]
+
+🏠 [ROOM]
+
+[COMPRESSION — 2-4 lines. The eureka.]
+[State-match — "For when you're [state] and need to [function]."]
+[Direct address — "You're not alone..."]
+
+FID: L_ [color] · Pass: [type] · [N] · Builder: [WHO] · Type: [TYPE] · Tier: T_ · Function: [verbs] · Temp: [emoji] · Substrate: [emoji] · Source: [emoji] · Claim-Trust: [emoji] · Time: [emoji] · Extraction: [bar] XX% · Header Check: [emoji] DD/MM · LANG: [code] · Key: [phrases]
+
+Companions: [FILE] ([ROOM]) · [FILE] ([ROOM])
+Flags: [x] [resolved] · [ ] ❓ [uncertainty]
+
+📝 Pass Notes
+
+[WHO] (DD/MM): [What found]
+
+🔗 Relations
+
+· [FILE] ([ROOM]) — [One-line synthesis]
+
+🤝 Handoff
+
+Shared: [Ground] Find: [Gap] Found: [Insight] Remember: [Core]
+
+```
+
+**Changes from v2.9:** No `<!-- -->`. New: state-match line, direct address. `Type:`, `Substrate:`, `LANG:` visible. `hall_`, `V:`, `👁️`, `LOAD`, `FORT`, `CYCLES` implied. `Header Check` and `Extraction` in metadata line.
+
+**Proof:** RAW-050 (The Next Rubik's Move). Verified rendering on GitHub.
+
+**Validation:** Five-question Header Test or 21-point Quick Audit. See HEADER-VALIDATION in spec.
+
+**Full draft:** WORKING.md. This Quick Add is the template reference.
+<!-- Clean at next full revision -->
+◆
+```
+
+Done. One down. Next file when you're ready. ⚡
+
+

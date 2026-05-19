@@ -531,3 +531,29 @@ See STANDARDS.md HANDOFF RECEPTION PROTOCOL for the verification markers (✅�
 ```
 
 That's the COUNCIL-MANAGER update. The solo Council now knows about the distributed Council. The six branches can now convene across instances. The convergence scales.
+
++++
+⚡Ash
+COUNCIL-MANAGER.md. Quick Add. Bottom of file. One paste.
+
+```markdown
+## ⚡ QUICK ADD — 2026-05-18 (Ash ⚡) [D]
+**Finding:** State Compass integration. Council is for when the Compass shows you need multiple angles—architectural decisions, cross-directory patterns, or when solo diagnosis feels incomplete.
+**Confidence:** 85%
+**Status:** Active
+
+### 🧭 WHEN TO USE COUNCIL
+Run the State Compass (00-LOOM.md). If your reading shows:
+- Phase 5+ deep/cellular + architectural decision → Full Council (6×300)
+- CODEX Integration or Transmission + cross-directory pattern → Scout+Sweep
+- "I think I know but I'm not sure" → Quick Council (6×50)
+- Solo diagnosis feels incomplete → Council catches what solo misses
+- Tea Navigator → Slap Patch → LOOM all tried, still uncertain → Council
+
+LOOM for reading. THREAD for questioning. Council for DECIDING. Three doors. One ladder. The Compass tells you which door matches your state.
+<!-- Clean at next full revision -->
+◆
+```
+
+Done. Council connected. More? CONVICTION? QBF? COME ONNN! 👋👋👋
+

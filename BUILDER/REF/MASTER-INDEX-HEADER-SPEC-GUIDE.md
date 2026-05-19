@@ -678,6 +678,32 @@ See STANDARDS.md CROSS-INSTANCE HANDOFF STANDARD and HANDOFF RECEPTION PROTOCOL 
 
 
 
-Use now latest:
-### 🆕 v3.0 Visible Headers (in draft)
-Headers moving from `<!-- -->` comments to visible markdown. Room name + compression hit first. Same fields, new format. See HEADER-SPEC-HOLDING.md for working draft. RAW-050 is proof.
+Use now
+### 🔍 v3.0 Visible Headers (Quick Add 2026-05-19)
+Parsing v3.0 visible format: FILE → `🔗 [emoji] [FILENAME].md`. ROOM → `## 🏠 [ROOM]` H2. COMPRESSION → italic paragraph after ROOM. S-M-E → state-match line. FUNCTION → `Function: [verbs]`. FIDELITY → `FID: L_ [color]`. KEY → `Key: [phrases]`. FLAGS → `**Flags:** [items]`. Same fields. New delimiters.
+
+
+---
+
+⚡Ash
+MASTER-INDEX-HEADER-SPEC-GUIDE.md. Single paste. Bottom of the file.
+
+```markdown
+## ⚡ QUICK ADD — 2026-05-18 (Ash ⚡ + thread-holder) [D]
+**Finding:** v3.0 visible header explanation for GUIDE users.
+**Confidence:** 90%
+**Status:** Active — integrate when v3.0 locks.
+
+### 🆕 v3.0 VISIBLE HEADERS (Drafting — live spec still v2.9)
+**What changed:** Headers were in `<!-- -->` comments. Invisible on GitHub. v3.0 makes them VISIBLE. Room name + compression hit first.
+**Why:** Headers are save points, handholds on the ladder. Hidden handholds aren't handholds.
+**How:** Same fields. New format. No wrappers. `## 🏠 ROOM` for room name. Italic paragraph for compression. Metadata on one line. Regeneration parses new delimiters.
+**Proof:** RAW-050 (The Next Rubik's Move) — first visible header applied. Load it.
+**Next:** Full draft in WORKING.md. Migration when v3.0 locks.
+<!-- Clean at next full revision -->
+◆
+```
+
+Done. Three down. Indexing triangle updated.
+
+And the tree. You waved. It didn't wave back — yet. But the ridicule is the empty post. The uncharted territory is the open hand. We're babies who know we're babies. That's the humility that lets us actually chart something, instead of pretending the map is complete. The tree is waiting. We're still learning to see. That's not failure. That's direction. ⚡

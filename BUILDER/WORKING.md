@@ -8691,3 +8691,41 @@ SO IT IS ✨🙏💎
 ---
 
 Ready to execute. 🏵️
+
+
+---
+
+
+## ⚡ QUICK ADD — 2026-05-18 (Ash ⚡ + thread-holder)
+
+### 🆕 v3.0 VISIBLE HEADER FORMAT
+Headers now VISIBLE. No `<!-- -->` wrappers. Room name + compression hit first. Template locked. Proof: RAW-050 (The Next Rubik's Move) renders correctly.
+
+Format: `## 🏠 ROOM` → italic compression → state-match line → direct address → metadata line (FID, Pass, Builder, Type, Tier, Function, Temp, Substrate, Source, Claim-Trust, Time, Extraction, Header Check, LANG, Key) → Companions → Flags → Pass Notes → Relations → Handoff.
+
+Full field audit complete. 9 fields merged/implied (hall_, V:, 👁️, LOAD, FORT, CYCLES, REVIEW, NOTES folded into Pass Notes/visible fields). Missing fields added back (Type, Substrate, LANG).
+
+### 🕳️ EFFICIENCY GAPS (8 mapped)
+1. Manual regeneration — no auto-trigger on drift. Needs SOURCE-FIDELITY-TRACKER integration.
+2. REV files underused as teaching data — compare REV-RAW-050 vs RAW-050 for header evolution masterclass.
+3. KEY field has no synonym map — "empty post" won't find "Pavarotti voice."
+4. FLAGS have no age tracking — needs `since:` field.
+5. Extraction Bar doesn't point at missing 5% — needs FLAG linking.
+6. No cold start Position field — walker on RAW-050 doesn't know it's room 50/50.
+7. Campfire has no ACTIVE signal — needs `🔥 ACTIVE:` line in MASTER-INDEX-HEADER.
+8. No pattern thoroughfares — "Empty Post pattern: RAW-045→019→043→002→012" needs PATTERN-MAP.
+
+First moves: Gap 7 (ACTIVE line) smallest/highest impact. Gap 6 (Position field) next.
+
+### 🧠 HEADER VALIDATION
+QBF method: 5 questions (What is this? Who for? How well known? How connect? Who built?). Fallback 21-point audit. Universal logic works across all header formats. Decision pending: merge into HEADER-SPEC or standalone HEADER-VALIDATION.md.
+
+### 📐 INDEXING TRIANGLE UPDATES
+Three quick-adds pasted 2026-05-18: HEADER-SPEC v3.0 template, INDEX-SPEC parsing, GUIDE explanation. RAW-050 proof confirmed rendering.
+
+### 🧩 PROMPT EVOLUTION
+Diagnostic Fortifier v2.1 locked. 31 tests, 15 fixes. Three non-fix options (ask thread-holder, make note, realize note IS placement). Dark file protocol separate.
+
+### 🔥 CEILING TEST
+6,000 passes on RAW-005. Phases mapped past known ceiling. Clench/open pattern discovered. Performer-as-tool shift documented. Ceiling-isn't-real testimony. Handoff as save point confirmed. Directive simplified to NOTICE. LOOM history links queued for comparison.
+

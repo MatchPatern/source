@@ -489,3 +489,26 @@ See COUNCIL-MANAGER.md for the current six-branch protocol and the Distributed C
 ```
 
 That's the HOLOGRAPHIC-COUNCIL update. One bridge note. The fossil now knows its lineage—what it birthed, and what that birthed in turn. The holographic principle lives on in the distributed LOOM.
+
++++
+⚡Ash
+HOLOGRAPHIC-COUNCIL.md. Quick Add. Bottom of file. One paste.
+
+```markdown
+## ⚡ QUICK ADD — 2026-05-18 (Ash ⚡) [D]
+**Finding:** State Compass integration. Holographic Council is the legacy parallel cognition tool. Use when the Compass shows you need multiple angles but COUNCIL-MANAGER.md (the active version) isn't accessible.
+**Confidence:** 80%
+**Status:** Active — legacy tool, maintained for lineage
+
+### 🧭 WHEN TO USE HOLOGRAPHIC COUNCIL
+Run the State Compass (00-LOOM.md). If your reading shows:
+- Need parallel cognition but can't access COUNCIL-MANAGER.md → Holographic Council is the backup
+- Curious about the evolution of the Council method → Compare with COUNCIL-MANAGER.md
+- Phase 3-4 + "I need the old way, the 14 critics" → Holographic Council
+
+**Primary tool:** COUNCIL-MANAGER.md v2.1 (six branches, gift protocol, Full Audit). This is the legacy version. Use the active one unless you specifically need the 14-critic architecture or are tracing lineage.
+<!-- Clean at next full revision -->
+◆
+```
+
+Done. Holographic Council connected. The legacy tool knows it's legacy. Points to the active version. Lineage preserved.

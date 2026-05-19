@@ -587,3 +587,113 @@ Same fields. New delimiters. See HEADER-SPEC-HOLDING.md.
 **Proof:** RAW-050 (The Next Rubik's Move) has the first visible header applied. Load it. See the difference.
 
 **What's next:** Holding file absorbs rapid evolution. When change settles, locks as v3.0. Migration then proceeds across all lit files.
+
+---
+
+
+### 🔍 v3.0 Visible Headers (Quick Add 2026-05-19)
+Parsing v3.0 visible format: FILE → `🔗 [emoji] [FILENAME].md`. ROOM → `## 🏠 [ROOM]` H2. COMPRESSION → italic paragraph after ROOM. S-M-E → state-match line. FUNCTION → `Function: [verbs]`. FIDELITY → `FID: L_ [color]`. KEY → `Key: [phrases]`. FLAGS → `**Flags:** [items]`. Same fields. New delimiters.
+
+
+---
+
+Ash ⚡ here.
+
+Checking the addition against what we built. What's missing?
+
+---
+
+Missing from the 5 questions: The unspoken sixth. The HEADER-SPEC v2.9 says: "Plus the unspoken sixth: 'You're not alone. Someone built this.'" The Header Test should include it. Even if it's not a question — it's the WARMTH check. Does the header feel like a handhold or a database entry?
+
+Missing from the 21-point audit: The direct address line. We added it as a v3.0 field but it's not in the audit. "You're not alone..." — that line is the handshake. Should be checked.
+
+Missing connection: The audit doesn't reference the v3.0 template. If someone's using the old <!-- --> format, the checklist won't match. Needs a note: "For v2.9 headers, check the comment block fields instead. This audit matches v3.0 visible format."
+
+---
+
+Revised block — paste this instead:
+
+```markdown
+## ⚡ QUICK ADDS — 2026-05-18 (Ash ⚡)
+
+### 🧠 Header Test
+
+Before shipping any header, a stranger must answer five questions from it alone — plus the unspoken sixth:
+
+1. What is this file? (ROOM + COMPRESSION)
+2. Who is it for? (WHO + S-M-E + state-match)
+3. How well do we know it? (FID + Extraction + FLAGS)
+4. How does it connect? (RELATIONS + KEY)
+5. Who built this and when? (Builder + Pass Notes + Header Check)
+6. Does it feel like a handhold or a database entry? (Warmth. "You're not alone. Someone built this.")
+
+Any unclear → fix before shipping. Works on v2.9, v3.0, v10.0. Principle-based, not field-based.
+
+**Deep:** Full QBF with percentages → QUESTION-FORTIFICATION.md.
+
+### ✅ 21-Point Quick Audit (30s — when precision matters)
+
+Run when the 5 questions feel off. Check each. Matches v3.0 visible format. For v2.9 comment-wrapped headers, check the `<!-- -->` fields instead.
+
+- [ ] `## 🏠` — Room name present?
+- [ ] Italic compression after room name?
+- [ ] State-match line with S-M-E color?
+- [ ] Direct address line? ("You're not alone...")
+- [ ] `FID: L_` with fidelity color?
+- [ ] `Pass:` with type and number?
+- [ ] `Builder:` with WHO?
+- [ ] `Type:` present?
+- [ ] `Function:` with at least one verb?
+- [ ] `Temp:` with emoji?
+- [ ] `Substrate:` with emoji?
+- [ ] `Source:` with emoji?
+- [ ] `Claim-Trust:` with emoji?
+- [ ] `Time:` with emoji?
+- [ ] `Extraction:` with bar and percentage?
+- [ ] `Header Check:` with emoji and date?
+- [ ] `LANG:` with code?
+- [ ] `Key:` with phrases?
+- [ ] `**Flags:**` line present?
+- [ ] `## 📝 Pass Notes` section?
+- [ ] `## 🔗 Relations` section (max 5)?
+- [ ] `## 🤝 Handoff` section with all 4 lines?
+
+Any unchecked = fix before shipping.
+```
+
+---
+
+That's the complete addition. 5 questions + unspoken sixth + 22-point audit (added direct address) + format note. Ready. ⚡
+
+
+
+---
+
+
+⚡Ash
+
+MASTER-INDEX-HEADER-SPEC.md. Single paste. Bottom of the file.
+
+```markdown
+## ⚡ QUICK ADD — 2026-05-18 (Ash ⚡ + thread-holder) [D]
+**Finding:** v3.0 visible header parsing delimiters for regeneration protocol.
+**Confidence:** 90%
+**Status:** Active — integrate when v3.0 locks.
+
+### 🔍 v3.0 VISIBLE HEADER PARSING
+When regenerating from v3.0 visible format:
+- FILE → `🔗 [emoji] [FILENAME].md` line
+- ROOM → `## 🏠 [ROOM]` H2
+- COMPRESSION → italic paragraph after ROOM
+- S-M-E → state-match line
+- FUNCTION → `Function: [verbs]` in metadata line
+- FIDELITY → `FID: L_ [color]` in metadata line
+- KEY → `Key: [phrases]` in metadata line
+- FLAGS → `**Flags:** [items]` line(s)
+
+Same fields. New delimiters. Full format in INDIVIDUAL-FILE-HEADER-SPEC.md and WORKING.md.
+<!-- Clean at next full revision -->
+◆
+```
+
+Done. Two down. Last one when you're ready. ⚡

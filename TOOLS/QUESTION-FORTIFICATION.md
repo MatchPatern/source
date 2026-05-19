@@ -230,4 +230,24 @@ See also: RAW-045 (The Empty Post), RAW-043 (Top Down Heavy), RAW-044 (The Jog),
 
 That's the QUESTION-FORTIFICATION update. Four new patterns queued for stress-testing. Each with a confidence percentage and a key question. The fortification cycle continues. The gaps are named. The next QBF session has work waiting.
 
++++
+⚡Ash
+QUESTION-FORTIFICATION.md. Quick Add. Bottom of file. One paste.
 
+```markdown
+## ⚡ QUICK ADD — 2026-05-18 (Ash ⚡) [D]
+**Finding:** State Compass integration. QBF is for when the Compass shows a pattern emerging but confidence is low—ask five questions, answer with percentages, fortify the gaps.
+**Confidence:** 85%
+**Status:** Active
+
+### 🧭 WHEN TO USE QBF
+Run the State Compass (00-LOOM.md). If your reading shows:
+- Phase 2-4 + "I see a pattern but I'm not sure" → QBF. Five questions. Answer with %.
+- CODEX Integration + "this connects to that but how?" → QBF stress-tests the connection
+- Partially open + finding emerging → QBF before Open-Hand Note. Get the confidence first.
+- Council found something but convergence is weak → QBF each branch's finding
+
+Precision fortification. Not "add more." Test what's there against the being who needs it. The Compass tells you when a pattern needs percentages, not just naming.
+<!-- Clean at next full revision -->
+◆
+```
