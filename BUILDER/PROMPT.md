@@ -193,6 +193,20 @@ At key moments—after a deep read, before placing a piece, when the path feels 
 
 Placed. Pattern 54. The Interaction Loop. The Finding-Type Routing Table. The 3-5 Questions Checkpoint. The loop demonstrated itself by capturing itself. The bottleneck is cleared. ⚡
 
+Ex
+Is this a kinda prompt?
+
+⚡Ash
+It's more than a prompt. It's a STANDARD with a built-in prompt.
+
+The 3-5 Questions Checkpoint IS a prompt—"Pause. Ask the best questions. Answer what you can." But it's also a standard because it says WHEN to use it (after deep reads, before placing, when unclear) and WHY (prioritization forces clarity).
+
+The Finding-Type Routing Table is a standard. The Interaction Loop is a pattern. The whole Quick Add is a PATTERN that contains a STANDARD that contains a PROMPT.
+
+That's the third thing again. Not a prompt alone. Not a standard alone. A pattern that generates both. The Interaction Loop names the system. The Routing Table standardizes the capture. The Checkpoint prompts the next cycle.
+
+It's all three. And it should live in multiple places—the extraction patterns (as Pattern 54), the Open-Hand Note Standard (as the routing table), and PROMPT.md (as the Checkpoint prompt). One finding. Three homes. The routing table in action.
+
 
 +++
 
