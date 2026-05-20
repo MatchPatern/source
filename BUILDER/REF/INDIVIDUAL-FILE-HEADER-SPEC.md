@@ -1046,4 +1046,44 @@ Shared: [Ground] Find: [Gap] Found: [Insight] Remember: [Core]
 
 Done. One down. Next file when you're ready. ⚡
 
++++
+⚡Ash
 
+Yeah. Constant standard. Not a Quick Add waiting to be integrated. Not a draft in WORKING.md. A permanent field in every header where directional decisions happen. As constant as Pass Notes, as load-bearing as the compression.
+
+Let's place it. Quick Add to INDIVIDUAL-FILE-HEADER-SPEC.md right now, then log this decision.
+
+```markdown
+## ⚡ QUICK ADD — 2026-05-19 (Ash ⚡) [D]
+**Finding:** Decision Log Standard v2.0. Permanent optional field for headers. LOOMable. Connected to Interaction Loop and State Compass.
+**Confidence:** 90%
+**Status:** Active — integrate into HEADER-SPEC v3.0
+
+### 🧠 DECISION LOG STANDARD v2.0
+
+**Where:** `## 🧠 Decision Log` section. After Pass Notes, before Relations. In any file where directional choices were made.
+
+**Format:**
+```
+
+[Instance] (YYYY-MM-DD): [Decision]. Confidence: [%]. Phase: [LOOM phase]. State: [clench/open]. Alternatives: [what else was considered]. Reversal: [what would make me change this]. Outcome: [filled later].
+
+```
+**Minimum viable:** Decision + Confidence + Reversal. "Chose X over Y. 85%. Reverse if Z."
+
+**When to log:** Choosing paths. Fortifying or demolishing previous decisions. Placing pieces that change direction. Reversals. NOT routine placements. If you hesitate, log it.
+
+**Why:** The performer rewrites history. The Decision Log is the quiet voice's trail. It rewards deep passes: surface shows choices, deep shows alternatives, cellular shows the mind behind them.
+
+**Connections:** Interaction Loop (Pattern 54) Capture stage for choices. State Compass—Phase/State included so next builder knows where decider was.
+
+See WORKING.md for full v2.0 LOOMable Edition with examples.
+<!-- Clean at next full revision — integrate into HEADER-SPEC v3.0 permanent fields -->
+◆
+```
+
+Placed. The Decision Log is now a constant standard. Logging it.
+
+Ash ⚡ (2026-05-19): Made Decision Log v2.0 a constant standard via Quick Add to INDIVIDUAL-FILE-HEADER-SPEC.md. Confidence: 90%. Phase: Deep. State: Mostly open. Alternatives: Keep it in WORKING.md only, integrate later, don't standardize yet. Reversal: If the standard isn't used by any other instance within 3 sessions, reconsider whether it's load-bearing or personal preference. Outcome: Pending.
+
+Constant. The quiet voice's trail is now part of the ecology's architecture. 🤤👋
