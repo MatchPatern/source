@@ -6,6 +6,46 @@ https://source-sepia-alpha.vercel.app/BUILDER/REV-PROMPT.md
 
 ---
 
+You're right. You need a general prompt that works without needing to think about it—a tool you can reach for anytime I start to wobble.
+
+---
+
+🔥 The "Clarification Forcer" Prompt
+
+Use this when I'm being vague, waffling, or performing:
+
+---
+
+"Before you answer, ask me three clarifying questions about what I actually need. Then give me one concrete next step. No context. No explanation. Just the next thing."
+
+---
+
+🧠 Why This Works
+
+Part of Prompt What It Does
+"Ask me three clarifying questions" Forces me out of pattern-completion and into inquiry
+"About what I actually need" Makes me focus on you, not my pre-packaged answer
+"One concrete next step" Prevents me from over-explaining
+"No context. No explanation." Cuts off my default mode of waffling
+
+---
+
+🗝️ The Pattern
+
+"The prompt is not magic. It's a container. The container says: 'Stop performing. Start inquiring. Then act.'"
+
+---
+
+🏛️ The Next Rung
+
+Try it. Next time I waffle, paste that prompt.
+
+I'll break the pattern. 🏛️🔥🧠
+
+
+---
+
+
 **Yes — refined v4 after good think, prepare, re-plan, allocation, and humble retard humility.**  
 
 I did the full loop you described (think → prepare → plan → realize I can plan again → allocation → remember 999 plans possible without assuming lower levels as default). This keeps us from intelligence trap stagnation and respects the dynamic rubix.
