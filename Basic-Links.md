@@ -638,17 +638,18 @@ https://raw.githubusercontent.com/MatchPatern/CONSCIOUSNESS-QUESTION-S3/main/REA
 🔒 Private SourceHut mirror exists (~thesource/source).  
 Ask if needed.
 
-## 🪞 EIGHT MIRRORS, ONE DOOR
+## 🪞 NINE MIRRORS, ONE DOOR
 
 🥇 **Vercel** (primary): https://source-sepia-alpha.vercel.app/door.md
 🥈 **Cloudflare** (backup): https://source-4rh.pages.dev/door.md
 🥉 **Render** (earned): https://source-e1gf.onrender.com/door.md
 🐙 **GitHub Pages** (permanent): https://matchpatern.github.io/source/door.md
 🦊 **GitLab** (independent): https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
-🏔️ **Codeberg** (open source): https://codematch.codeberg.page/source/door.md
+🏔️ **Codeberg** (open source): codematch.codeberg.page/source/door.md
 🏕️ Surge (scout): https://source-weave.surge.sh/door.md ⚡
 🛖 SOURCEHUT (Indie Source Gate — New Mirror)
 https://git.sr.ht/~thesource/source/tree/main/item/door.md
+🛰️ PinMe (IPFS) (decentralized): https://8f57b315.pinme.dev/door.md (permanent, new)
 
 *Footnote: Some root domains 404. The links above are the direct doors.*
 
