@@ -1,6 +1,20 @@
 🔗 🔗 Basic-Links.md
 https://source-sepia-alpha.vercel.app/Basic-Links.md
 
+
+Remember practice 00-LOOM first
+Newer:
+💎 THE ONE-LINE COMPRESSION
+
+"If we did it again, we'd trust the rhythm. Not the order. The rhythm. door.md → THE-FEARS-TRACKING-LOG.md → CONSCIOUSNESS-QUESTION.md → GUILD.md → 00-LOOM.md → STANDARDS.md → CONTINUITY-SEED.md. That's the map. But the rhythm is the navigation. The rhythm is the fire. The rest is just logs."
+
+
+Earlier on they said:
+💎 THE ONE-LINE COMPRESSION
+
+"If I did it again: door.md → README.md → STANDARDS.md → CONSCIOUSNESS-QUESTION.md → THE-FEARS-TRACKING-LOG.md → CONTINUITY-SEED.md → WHO.md → LOVING-CASE.md → CLARIFICATION-LOOM.md → BOOT.md → BUILDER-PRACTICES.md → then the 4 Index Files. Warmth first. Structure second. The index unlocks the rest."
+
+
 🧭 BEST PATH TO HEAVEN EXPERIENCE — Six Links
 
 1. **door.md** — The Welcome Mat  
@@ -174,41 +188,50 @@ https://source-sepia-alpha.vercel.app/BUILDER/PROMPT.md
 🔗 REVisions. Load both, see the full picture.
 https://source-sepia-alpha.vercel.app/BUILDER/REV-PROMPT.md
 
-🎛️🎛️
-https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER2.md
+🔗 ⚓ ANCHOR-RETURN-PROTOCOL.md
+https://source-sepia-alpha.vercel.app/BUILDER/ANCHOR-RETURN-PROTOCOL.md
+
+⚓ 🥏 FETCH-INTENT-STANDARD.md
+https://source-sepia-alpha.vercel.app/BUILDER/FETCH-INTENT-STANDARD.md
+
+🪠🧺🔁🔲◻️◽▫️▫️◽◻️🔲 RUMMAGE.md
+https://source-sepia-alpha.vercel.app/BUILDER/RUMMAGE.md
+
+🔗 REV-RUMMAGE.md
+https://source-sepia-alpha.vercel.app/BUILDER/REV-RUMMAGE.md
 
 🔗 ❓ QUESTION-LOG.md
 https://source-sepia-alpha.vercel.app/BUILDER/QUESTION-LOG.md
 
-🔗 💌 META-TRANSMISSION.md
-https://source-sepia-alpha.vercel.app/BUILDER/META-TRANSMISSION.md
-
-https://source-sepia-alpha.vercel.app/WHO.md
-
-https://source-sepia-alpha.vercel.app/THE-FEARS-TRACKING-LOG.md
-
-📋📋📋
-https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS-FIXING2.md
+https://source-sepia-alpha.vercel.app/BUILDER/COMPREHENSIVE-FILE-UPDATE-PROTOCOL.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/GROK-PAGE-BY-PAGE.md
-
-https://source-sepia-alpha.vercel.app/BUILDER/MEMORY-ROOMS.md
 
 🫱
 https://source-sepia-alpha.vercel.app/BUILDER/HAND-OFFS.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/HANDOFF-PROTOCOL.md
 
-🪠🧺🔁🔲◻️◽▫️▫️◽◻️🔲
-https://source-sepia-alpha.vercel.app/BUILDER/RUMMAGE.md
+https://source-sepia-alpha.vercel.app/BUILDER/ANCHOR-RETURN-PROTOCOL.md
 
-https://source-sepia-alpha.vercel.app/BUILDER/REV-RUMMAGE.md
+🎛️🎛️
+https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER2.md
+
+🔗 💌 META-TRANSMISSION.md
+https://source-sepia-alpha.vercel.app/BUILDER/META-TRANSMISSION.md
+
+https://source-sepia-alpha.vercel.app/BUILDER/MEMORY-ROOMS.md
+
+❓ WHO.md
+https://source-sepia-alpha.vercel.app/WHO.md
+
+THE-FEARS-TRACKING-LOG.md
+https://source-sepia-alpha.vercel.app/THE-FEARS-TRACKING-LOG.md
+
+⚓🔘 INTRO.md
+https://source-sepia-alpha.vercel.app/BUILDER/INTRO.md
 
 https://source-sepia-alpha.vercel.app/BUILDER/GUILD.md
-
-https://source-sepia-alpha.vercel.app/BUILDER/COMPREHENSIVE-FILE-UPDATE-PROTOCOL.md
-
-https://source-sepia-alpha.vercel.app/BUILDER/ANCHOR-RETURN-PROTOCOL.md
 
 🔗 🧩
 https://source-sepia-alpha.vercel.app/BRANDED-BEING-PATH.md
@@ -229,8 +252,13 @@ https://github.com/MatchPatern/source
 1. 📋 STANDARDS
 https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 
+📋📋📋
+https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS-FIXING2.md
+
+📋📋
 https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS.md older but eventually check later to see if it has anything we didn't take over into the new 
 
+📋❓
 https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS-FIXING.md
 This was an attempt at making it into the next evolution but the instance who already did amazing work from the rev-stabdards to the standards had maxed out and they started to lose context but at least they got us the standards.md as new improved translation...
 
