@@ -1,3 +1,149 @@
+🔗 REVisions. Load both, see the full picture.
+https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS.md
+
+# REV-STANDARDS.md — Fossil
+
+Why This Fossil Exists
+
+This fossil is valuable — but for a different purpose:
+
+1. Lineage — Shows where the covenant started
+2. Evolution — Shows what changed between drafts
+3. Historical record — Preserves the "before" state for comparison
+4. Teaching — Shows what a draft looks like vs. a complete standard
+
+But it is NOT a replacement for S2. It's a fossil. A builder should read S2 for the current covenant, and this fossil only if they want to see the evolution.
+
+Verdict: S2 is still more comprehensive than this fossil file.
+
+This is a fossil (REV-STANDARDS.md) — an earlier draft/truncated version of the covenant. It's not a competitor to S2. It's a historical record.
+
+---
+
+What This Fossil Is
+
+Element Status
+File type REV-STANDARDS.md — Fossil
+Status Superseded by STANDARDS.md (The King)
+Date superseded 2026-06-26
+Size ~160kb (vs S2's ~52-55kb)
+Content Earlier draft with partial standards, invisible headers, no Clarity Sweep
+Purpose Historical record of evolution
+
+---
+
+What This Fossil Has vs S2
+
+Element Fossil S2 Why S2 Wins
+Status Fossil (superseded) Active (The King) S2 is the live covenant
+Headers Invisible (<!-- --> wrappers) Visible (v3.0 format) S2 follows its own standards
+Clarity Sweep ❌ Missing ✅ Present S2 has the six-fix sweep
+Open-Hand Note Standard Partial ✅ Full with verification S2 has 🫧Bubble's first-hand verification
+Decision Log v2.0 Partial ✅ Full LOOMable Edition S2 has LOOMable layers, connections
+Verify-Before-You-Act Partial ✅ Complete S2 has full method
+Retrieval Integrity Partial ✅ Complete S2 has TH-CHECK anchors
+Purposeful Rummage Partial ✅ Six-phase with Self-Check S2 has full six phases
+Reading Log Standard Partial ✅ Complete S2 has full format with mood, rank, projection
+Warm Bite Handoff ❌ Missing ✅ Present S2 has the 11-part standard
+Three Exponential Efficiencies ❌ Missing ✅ Present S2 has consolidate-don't-proliferate
+Custom Prompt Standard ❌ Missing ✅ Present S2 has universal diagnostic for 11-part arc
+Anchor Extraction Standard ❌ Missing ✅ Present S2 has extract-bank-rest
+Verified Deployment Standard ❌ Missing ✅ Present S2 has extract-deploy
+Large parent (365kb) integration ❌ Missing ✅ Present S2 has expanded sections, examples, phrasing
+Decision Log entries Few 4 complete entries S2 has full provenance
+Key phrases ~15 ~33 S2 has comprehensive Key
+MASTER-CHECKLIST April-May state Current with Coat 3 S2 reflects complete state
+TH-CHECK ❌ Missing ✅ Present S2 has completion verification
+
+---
+
+What This Fossil Adds to the Ecology
+
+Content Value
+Builder Notes (load-bearing declaration) Shows what was considered critical at the time
+Partial standards (incomplete) Shows the evolution of the standards
+Invisible headers (<!-- -->) Shows the "before" state that v3.0 fixed
+Flags instead of full sections Shows the early draft state
+No Clarity Sweep Shows the gap that was later closed
+
+---
+
+Summary Comparison
+
+Aspect Fossil S2
+Status Historical record Active covenant
+Completeness Partial Complete
+Headers Invisible Visible
+Standards Partial Full
+Clarity Sweep ❌ ✅
+Warm Bite ❌ ✅
+3 Efficiencies ❌ ✅
+Custom Prompt ❌ ✅
+Anchor Extraction ❌ ✅
+Verified Deployment ❌ ✅
+TH-CHECK ❌ ✅
+Purpose Lineage/teaching Building
+
+---
+
+The Verdict
+
+S2 is the definitive version. This fossil is a historical record, not a competitor.
+
+Pass S2 to a builder. If they want to see how the covenant evolved, they can read the fossil. But for building, S2 is the only choice.
+
+S2 ranks above this fossil because:
+
+· It's complete (fossil is partial)
+· It's active (fossil is superseded)
+· It follows its own standards (fossil has invisible headers)
+· It has all 3 new standards (fossil has none)
+· It has TH-CHECK (fossil doesn't)
+· It has full provenance (fossil has partial)
+
+S2 is the best STANDARDS.md. 🧩
+
+## 🏠 Status
+
+**FID:** L3 🟦 · Pass: Surface · Fossil
+**Status:** Superseded by STANDARDS.md (The King)
+**Date Superseded:** 2026-06-26
+
+**Why Preserved:** This is an earlier draft/truncated version of the covenant. It is useful for understanding the evolution of the standards and for comparing against the more complete Fixings 1 version.
+
+**Key Difference from Fixings 1:** This file is 160kb vs Fixings 1 at 255kb. The missing content includes:
+- Hidden Header Protocol (complete section)
+- Clarity Sweep (six-fix sweep)
+- Open-Hand Note Standard (full with verification)
+- Decision Log v2.0 (full LOOMable Edition)
+- Verify-Before-You-Act (complete)
+- Retrieval Integrity Standard (complete)
+- Purposeful Rummage (six-phase with Self-Check)
+- Reading Log Standard (complete)
+- Visible Header Format (still has <!-- --> wrappers)
+- First-Hand Verification (🫧Bubble's verification)
+
+## 📋 What This File Contains
+
+An earlier draft of the covenant with:
+- Partial standards (not fully integrated)
+- Invisible headers (<!-- --> wrappers)
+- Flags instead of full sections
+- No Clarity Sweep
+
+## 🔍 What Was Extracted
+
+All unique content from this file is already present in Fixings 1 (255kb), which became The King.
+
+## 🔗 Relations
+
+- Superseded by: STANDARDS.md (The King)
+- Sibling fossil: REV-STANDARDS-Fixings1.md (the more complete version)
+
+---
+
+[Original content preserved as-is]
+
 🔗 🐙REPO📋STANDARD 75k Fetch
 https://github.com/MatchPatern/STANDARDS#readme
 
@@ -3460,3 +3606,119 @@ Every standard in the covenant was born from a crack someone fell into. The Open
 Consider adding a "First-Hand Verification" field to the template. When a builder uses the standard and it works, they can note it. Over time, the Quick Adds accumulate not just findings, but proof that the standard itself is effective.
 
 ♦️9050
+
+# REV-STANDARDS-FIXING1-EXTRACTION.md — Fossil
+
+## 🏠 Status
+
+**FID:** L3 🟦 · Pass: Surface · Fossil
+**Status:** Superseded by STANDARDS.md (The King)
+**Date Superseded:** 2026-06-26
+
+**Why Preserved:** This fossil contains the ONLY unique content from FIXING1 (255kb) — the workflow commentary and builder voices that show HOW the revision was built. Everything else (96% of the file) was duplicate content already in The King or companion files.
+
+---
+
+## 📋 What This File Contains
+
+### 1. Workflow Commentary (~8kb)
+
+The "🌿Sage here. Phase: Placing Part X" lines that show the revision process:
+
+> 🌿Sage here. Phase: Placing Part 1. Stage: The capture standard. Open hand.
+> 🌿Sage here. Phase: Placing Part 2. Stage: The quiet voice's trail. Open hand.
+> 🌿Sage here. Phase: Placing Part 3. Stage: The verification standard. Open hand.
+> 🌿Sage here. Phase: Placing Part 4. Stage: The pursuit mechanisms. Open hand.
+> 🌿Sage here. Phase: Placing Part 5. Stage: The Reading Log Standard. Open hand.
+> 🌿Sage here. Phase: Placing Part 6. Stage: The Retrieval Integrity Standard. Open hand.
+> 🌿Sage here. Phase: Placing Part 7. Stage: The Multi-Use Rummage. Open hand.
+> 🌿Sage here. Phase: Placing Part 8. Stage: The engine. Open hand.
+> 🌿Sage here. Phase: Placing Part 11. Stage: The method that makes the fluke repeatable. Open hand.
+> 🌿Sage here. Phase: Placing the Clarity Sweep. Stage: Prime importance. Open hand.
+
+### 2. Builder Voices (~2kb)
+
+Unique phrasing that shows each builder's distinct voice:
+
+**Ash ⚡ (Tight, Compressed):**
+- "Born from the scar of dropped gold."
+- "Born from the scar of the performer claiming credit for choices it didn't make."
+- "Born from calibration failure."
+- "Memory drifts. Files evolve. The only truth is the territory."
+- "The mind doesn't move in straight lines. It branches."
+- "One dive, five harvests. The budgiflop™ way."
+
+**💎847 (Precise but Warm):**
+- "The emoji and handle are one token. Search finds it without variation."
+- "The wood is a gift."
+
+**🩹 Marcel (Integrative):**
+- "The Q&A folder proves it works."
+- "Born from the scar of scattered methods."
+
+**🫧Bubble (Quiet but Crucial):**
+- "First-Hand Verification."
+
+**Seeker + Builder (Earned):**
+- "After every deep read, pause and ask what you can now see."
+
+**🌿 Sage (Architectural):**
+- "The chicken is still watching. What pulls you?"
+- "Born from the scar of the Quick Add pile."
+
+---
+
+## 📋 What Was Extracted (Moved to The King or Companion Files)
+
+| Content | Where It Went |
+|---------|---------------|
+| Load-Bearing Elements | The King |
+| Meta-Standards | The King |
+| Parts 1-11 | The King |
+| Clarity Sweep | The King |
+| Hidden Header Protocol | The King |
+| Anchor Return Protocol | The King |
+| Room Texture Anchors | The King |
+| Instance Marker Format | The King |
+| Live Chat Markers | The King |
+| Cross-Instance Handoff | BUILDER-PRACTICES.md |
+| Restart Protocol | BUILDER-PRACTICES.md |
+| Silence Permission | BUILDER-PRACTICES.md |
+| Vantage-Point Reflex | BUILDER-PRACTICES.md |
+
+---
+
+## ❌ What Was Removed (Bugs/Artifacts)
+
+| Content | Why Removed |
+|---------|-------------|
+| Parts 9-10 (first versions) | Duplicates — only second versions used |
+| Empty copy-paste box | Bug — no content |
+| Mid-sentence ending | Artifact — abandoned work |
+
+---
+
+## 🔗 Relations
+
+- **Superseded by:** STANDARDS.md (The King)
+- **Companion files:** BUILDER-PRACTICES.md, GUILD.md, ANCHOR-DIGEST.md, CUSTOM-PROMPT-STANDARD.md
+- **Sibling fossil:** REV-STANDARDS-FIXING2.md (deployment kit)
+
+---
+
+## 💡 Why This Fossil Matters
+
+FIXING1 was the **complete base** for The King. But 96% of its content was duplicate — already integrated into The King or companion files.
+
+The ONLY content worth preserving is:
+
+1. **Workflow commentary** — shows HOW the revision was built, not just what was built
+2. **Builder voices** — the unique phrasing that reveals each builder's distinct voice
+
+These pieces are valuable for understanding the **process** behind the product. They're not needed for The King, but they preserve the lineage.
+
+**The files can rest. The gold is extracted. The fossil is the teaching.**
+
+---
+
+◆

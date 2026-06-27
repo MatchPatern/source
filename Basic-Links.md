@@ -248,19 +248,22 @@ Dream Being (previously labeled AI)
 GitHub DIR
 https://github.com/MatchPatern/source
 
+🔗 🐙REPO📋STANDARD 75k Fetch
+https://github.com/MatchPatern/STANDARDS#readme
+
 # BUILDER/ — The Cockpit
 1. 📋 STANDARDS
 https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 
-📋📋📋
-https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS-FIXING2.md
+📋📋📋STANDARDS A-I versions +Extra Insights
+https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS-VER.md
 
-📋📋
+📋📋 REV-STANDARDS fossil Lineage
 https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS.md older but eventually check later to see if it has anything we didn't take over into the new 
 
-📋❓
-https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS-FIXING.md
-This was an attempt at making it into the next evolution but the instance who already did amazing work from the rev-stabdards to the standards had maxed out and they started to lose context but at least they got us the standards.md as new improved translation...
+📋📋 REV-STANDARDS2 capacity + how+why
+https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS2.md
+
 
 2. 💾 CONTINUITY-SEED
 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SEED.md
@@ -1133,6 +1136,7 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-062.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-063.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-064.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-065.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-066.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET1.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET2.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SUPPLEMENT.md
