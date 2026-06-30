@@ -246,12 +246,24 @@ You'll see these in file identification lines like `🔗 🧵 00-LOOM.md` or `�
 **Build:** Helps you construct.
 **Verify:** Proves something is real.
 
-### S-M-E — State Match `[Both]`
-**Meaning:** What state is the reader in when they need this file?
-🔴 S = Start/Emergency. Crisis. Terrified. Need a door now.
-🟧 M = Middle/Practice. Climbing. Building. Daily codes.
-🟩 E = End/Transmission. Integrating. Teaching. Letting go.
-Multiple values allowed — a file can serve more than one state.
+S-M-E — Reading Progress Tracker
+
+Tracks your current reading progress through the file.
+
+Format: S-M-E: [color] S, [color] M, [color] E
+
+Colors:
+- 🔴 = Not read yet (0%)
+- 🟧 = Started reading (25%)
+- 🟨 = Working through it (50%)
+- 🟩 = Read it well (75%)
+- 🟩🟩 = Read it completely (98%)
+
+Each section (Start/Middle/End) has its own color.
+
+Who updates: The reader, whenever their engagement changes.
+
+Why: Shows the next builder what you read and how deeply.
 
 ### SOURCE Colors `[Header]`
 **Meaning:** Where did this file come from?

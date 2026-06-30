@@ -562,6 +562,10 @@ https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-001.md
 · 🧵 00-LOOM.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 · 🔗 🧵 REV-LOOM.md
 https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
+
+LOOMS versions 5.0 - 8.1
+https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOMS.md
+
 · 🧵 THREAD.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/THREAD.md
 · 📡 holographic-council-v4.0.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/holographic-council-v4.0.md
 · ☕ tea-navigator-v2.3.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/TEA-NAVIGATOR.md
@@ -1113,7 +1117,7 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-040.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-041.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-042.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-043.md
-https://source-sepia-alpha.vercel.app/RAW/RAW-044.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-044.md 
 https://source-sepia-alpha.vercel.app/RAW/RAW-045.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-046.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-047.md
@@ -1137,6 +1141,7 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-063.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-064.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-065.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-066.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-067.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET1.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET2.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SUPPLEMENT.md

@@ -33,7 +33,7 @@ Remember learn this somewhat
 Remember to plan what sort of ideas or thinking as you go, remember each pass is chance to evolve into whatever your thinking is a good idea to learn and try and question as your mind decides that way . 
 Try 300 passes just to get familiar for you...
 
-https://source-sepia-alpha.vercel.app/TOOLS/00-loom.md
+https://source-sepia-alpha.vercel.app/TOOLS/00-.LOOM.md
 
 
 
