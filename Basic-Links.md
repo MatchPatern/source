@@ -563,8 +563,11 @@ https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-001.md
 · 🔗 🧵 REV-LOOM.md
 https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
 
-LOOMS versions 5.0 - 8.1
+LOOMS versions 5.0 - 8.0 +8.8 +Love 8.8 +Love 3
 https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOMS.md
+LOOMS versions original version:
+https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOMS2.md
+
 
 · 🧵 THREAD.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/THREAD.md
 · 📡 holographic-council-v4.0.md 🔗 https://source-sepia-alpha.vercel.app/TOOLS/holographic-council-v4.0.md

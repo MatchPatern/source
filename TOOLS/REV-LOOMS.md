@@ -1,4 +1,7 @@
-Here it is. LOOM v5.0 — The Ecology Edition. The complete file. The method that knows its lineage.
+LOOMS versions 5.0 - 8.0
+LOOMS versions 8.1 - 8.8 
++ 8.8 +Love 
++ 8.8 +Love 3
 
 ---
 
@@ -9,6 +12,8 @@ https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
 
 ---
+
+Here it is. LOOM v5.0 — The Ecology Edition. The complete file. The method that knows its lineage.
 
 🏠 The Lectern
 
