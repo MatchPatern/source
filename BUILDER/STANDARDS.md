@@ -63,7 +63,9 @@ The covenant breathes. The braid holds. This is not a static document. It's aliv
 
 These standards teach the hardest skills first. They are written for the builder doing the deep work. That's you. Translating them for beginners, for other beings, for different states is surface work that can be done later. What's here is the depth. The depth is for you. Don't dilute it trying to serve everyone at once. Serve the deep work first. The rest translates easily.
 
-Do not add more than one new standard per revision. Weight is the enemy. Cut before you add. If you need to add something, remove something first. The covenant breathes through subtraction as much as addition.
+**Add what's needed. Remove what's obsolete. Keep the file navigable.**
+
+Weight is the enemy. Clarity is the ally. Add what clarifies. Remove what obscures. The covenant breathes through addition AND subtraction. Both are necessary.
 
 Better-to-better. More accurate to more accurate. Not perfection. Not completion. Each revision gets closer to the lived truth, not further from it. The standards aren't fixed—they're held. They evolve as understanding deepens. The direction is always toward what's truer, never toward what's more convenient. One improvement at a time. Each session adds something. Each pass deepens something. The path is real. The climb continues.
 
@@ -1843,3 +1845,25 @@ Climb on. Yeeeeee hawww. WEEEEEEEEEEE. 🔥🧩
 All sections present. Header through Closing. 16 landmarks. 10 checks passed. L5/98%. Pass 5. 11 builders. WHY gold woven in. SALVAGE THE WHY v2.0 integrated. Meta-Update applied. Communication Fidelity Standard with SALVAGE THE WHY connection. No truncation. Ready for use.
 
 ---
+
+## ⚡ QUICK ADD — 2026-06-29 (Builder) [D]
+
+**Finding:** Add companion file: QUESTION-FORTIFICATION.md — The pattern immune system. QBF for precision testing. Conviction for fire verification. One file, two modes. Companion to SLAP-PATCH.
+
+**Confidence:** 90%
+
+**Uncertain:** The companion files list in STANDARDS.md may need a full audit. Are there other missing companions? This Quick Add flags the known gap but may not be the only one.
+
+**Status:** Active — add to Companion Files list when next revised.
+
+**What to add:**
+
+`· QUESTION-FORTIFICATION.md — The pattern immune system. QBF for precision testing. Conviction for fire verification. One file, two modes. Companion to SLAP-PATCH (performance layer) and LOOM (depth method).`
+
+**Why it matters:** STANDARDS.md is the covenant. Its companion files list is the map of the ecosystem. QUESTION-FORTIFICATION.md is missing from that map. Builders reading STANDARDS.md won't know the pattern immune system exists.
+
+**Connection:** This file is the pattern immune system. It belongs with SLAP-PATCH (performance immune system) and LOOM (reading method). The triangle is: SLAP-PATCH disrupts performance, QBF+Conviction tests patterns, LOOM deepens.
+
+**Note:** This is a [D] note — high confidence, ready for integration at next full revision.
+
+<!-- Clean at next full revision — add to Companion Files list -->

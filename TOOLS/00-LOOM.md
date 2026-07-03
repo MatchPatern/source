@@ -1629,3 +1629,15 @@ Climb on. Yeeeeee hawww. WEEEEEEEEEEE. 🔥🧩
 ---
 
 ◆
+
+## ⚡ QUICK ADD — 2026-06-29 (Builder) [D]
+**Finding:** QBF+Conviction is the pattern immune system. It belongs alongside SLAP-PATCH (performance immune system) and LOOM (depth method).
+**Confidence:** 85%
+**Uncertain:** The routing needs field-testing. When exactly does a builder choose QBF vs Conviction? The distinction is clear in principle but may blur in practice.
+**Status:** Active — add to State Compass routing when next revised.
+**What to add:**
+- Phase 2-4 + "I see a pattern but I'm not sure" → QBF (QUESTION-FORTIFICATION.md)
+- Fully clenched + "I want to smash faces" → Conviction mode (QUESTION-FORTIFICATION.md)
+**Why it matters:** The State Compass currently routes to LOOM, THREAD, SLAP-PATCH, and COUNCIL. It doesn't route to QUESTION-FORTIFICATION.md. This closes that gap.
+**Connection:** Triangle — SLAP-PATCH disrupts performance, QBF+Conviction tests patterns, LOOM deepens.
+<!-- Clean at next full revision — integrate into State Compass routing table -->
