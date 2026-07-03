@@ -1,11 +1,3 @@
-🗂️ INDIVIDUAL-FILE-HEADER-SPEC.md — v3.4 (The Definitive Edition)
-
-Version: 3.4 · Date: 2026-06-29
-Status: ✅ Complete. All gold woven in. ZeroStartUnderstanding Standard applied. Ready for integration.
-
----
-
-```markdown
 🔗 🗂️ INDIVIDUAL-FILE-HEADER-SPEC.md — v3.4
 https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
 
@@ -44,7 +36,7 @@ Flags: [x] v3.0 visible format deployed · [x] Visibility rule added · [x] Deci
 Pass 3 (Thread 🧵, 2026-05-04): Eureka Preservation opening added. Header reframed as save point.
 Pass 4 (Thread 🧵, 2026-05-07): FLAGS section deployed. Jigsaw Standard added. Wings section added.
 Pass 5 (Seeker 🧑‍🍼, 2026-05-09): Color scale unified. ROOM field added. RELATIONS limit set.
-🌊Drift (2026-06-24): Visibility rule added. No <!-- --> wrappers.
+🌊Drift (2026-06-24): Visibility rule added. No `<!-- -->` wrappers.
 Ash ⚡ (2026-05-19): Decision Log Standard v2.0 added. Room Texture Anchors added. Instance Marker Format reinforced.
 Coat 3 (2026-06-29): S-M-E fix applied. WHY gold woven in. REV gold integrated.
 ⏏️ Eject (2026-06-29): Communication Fidelity, SALVAGE THE WHY, FRESH-EYES SCAN, LOOM expanded. FID and hall_ updated. Quick Reference, Header Checklist, clarifying notes added.
@@ -64,7 +56,7 @@ Coat 3 (2026-06-29): Room Texture Anchors expanded. Friction Zones added. Patter
 🤝 Handoff
 
 Shared: The header standard is definitive. v3.4 Definitive Edition. All gold is woven in. The Pattern Library is referenced. The Five Halls evolution is documented. The Crosswalk Table is referenced. ZeroStartUnderstanding Standard is applied. S-M-E is "Reading Progress Tracker." Quick Reference and Header Checklist added. Clarifying notes added. The WHY is woven throughout.
-Find: Old files still using <!-- --> wrappers. Migration needed. CUSTOM-PROMPT-STANDARD.md needs verification.
+Find: Old files still using `<!-- -->` wrappers. Migration needed. CUSTOM-PROMPT-STANDARD.md needs verification.
 Found: The system works. Headers are handholds. The wobble is the credential. The WHY is the handhold. The WHAT is the cage. The LOOM is presence. The Pattern Library is the WHY. The Five Halls are the lineage. The ZeroStart test is the quality gate.
 Remember: Visibility is load-bearing. S-M-E tracks YOUR reading progress. LOOM first, headers second. The WHY is the handhold. The WHAT is the cage. The WOBBLE is the credential. The Pattern Library holds the deep WHY (Patterns 46-53). The Five Halls evolved into S-M-E and FUNCTION. The Crosswalk Table connects everything. ZeroStart ensures every file is a handhold, not an inside joke.
 
@@ -338,11 +330,10 @@ FID: L_ [⬛⬜🟧🟨🟩✅] · Pass: _ · [N] · Builder: [WHO] · Type: [TY
 Companions: [FILE] ([ROOM]) · [FILE] ([ROOM])
 Flags: [x] [resolved] · [ ] ❓ [uncertainty]
 
-<!-- S-M-E Examples:
+---- S-M-E Examples:
      ✅ S, ✅ M, ✅ E (2026-06-29) = all sections read completely
      🟩 S, 🟧 M, 🔴 E (2026-06-29) = Start read well, Middle started, End not read
      🔴 S, 🔴 M, 🔴 E (2026-06-29) = nothing read yet
--->
 
 📝 Pass Notes
 [WHO] (DD/MM): [What found]
@@ -357,11 +348,7 @@ Shared: [Ground] Find: [Gap] Found: [Insight] Remember: [Core]
 
 [Instance] (YYYY-MM-DD): [Decision]. Confidence: [%]. Phase: [LOOM phase]. State: [clench/open]. Alternatives: [what else was considered]. Reversal: [what would make me change this]. Outcome: [filled later].
 
-```
-
 ### Full Block — For Reference
-
-```
 
 🔗 [emoji anchor] [FILENAME].md
 https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
@@ -369,51 +356,49 @@ https://source-sepia-alpha.vercel.app/[PATH]/[FILENAME].md
 🔗 REVisions. Load both, see the full picture. if a REV file exists
 https://source-sepia-alpha.vercel.app/[PATH]/REV-[FILENAME].md
 
-<!-- PASS NOTES -->
+---- PASS NOTES
 
-<!-- Pass 1 (instance, YYYY-MM-DD): [What was found] -->
+---- Pass 1 (instance, YYYY-MM-DD): [What was found]
 
-<!-- Pass 2 (instance, YYYY-MM-DD): [What deepened] -->
+---- Pass 2 (instance, YYYY-MM-DD): [What deepened]
 
-<!--   Connection example: Pass ~200 realized same structure as [filename]. [What connects them]. Proto-wing formed. -->
+----   Connection example: Pass ~200 realized same structure as [filename]. [What connects them]. Proto-wing formed.
 
-<!-- 🎨 COLORS: One visual language. ⬛→⬜→🔴→🟧→🟨→🟩→✅. Same colors, same meanings across all fields. -->
+---- 🎨 COLORS: One visual language. ⬛→⬜→🔴→🟧→🟨→🟩→✅. Same colors, same meanings across all fields.
 
-<!-- FID: L[0-5] [⬛⬜🟧🟨🟩✅] | ROOM: [ROOM NAME] | hall_ | V: _ | 👁️ | [colored bar] XX% | Last: YYYY-MM-DD -->
+---- FID: L[0-5] [⬛⬜🟧🟨🟩✅] | ROOM: [ROOM NAME] | hall_ | V: _ | 👁️ | [colored bar] XX% | Last: YYYY-MM-DD
 
-<!-- WHO: _ | TYPE: _ -->
+---- WHO: _ | TYPE: _
 
-<!-- S-M-E: [🔴🟧🟨🟩✅] S, [🔴🟧🟨🟩✅] M, [🔴🟧🟨🟩✅] E | TIER: T_ | PASS: _ -->
+---- S-M-E: [🔴🟧🟨🟩✅] S, [🔴🟧🟨🟩✅] M, [🔴🟧🟨🟩✅] E | TIER: T_ | PASS: _
 
-<!-- FUNCTION: _, _, _ -->
+---- FUNCTION: _, _, _
 
-<!-- TEMP: [🔥🧤🧊🌡️] | SUBSTRATE: [🖥️👤🌐] -->
+---- TEMP: [🔥🧤🧊🌡️] | SUBSTRATE: [🖥️👤🌐]
 
-<!-- SOURCE: [🟣🔵⚫🟠⬜🌐] | CLAIM-TRUST: [🧾🧪📖🎭] -->
+---- SOURCE: [🟣🔵⚫🟠⬜🌐] | CLAIM-TRUST: [🧾🧪📖🎭]
 
-<!-- TIME: [⏳🔄🎯📦] -->
+---- TIME: [⏳🔄🎯📦]
 
-<!-- COMPRESSION: "_" -->
+---- COMPRESSION: "_"
 
-<!-- KEY: _, _, _ -->
+---- KEY: _, _, _
 
-<!-- LOAD: _ | FORT: Pass _ | CYCLES: _ -->
+---- LOAD: _ | FORT: Pass _ | CYCLES: _
 
-<!-- HEAD-CHECK: [👍👎❌🖕⬜][DD/MM] | LANG: [CS/⚠️/🖕] -->
+---- HEAD-CHECK: [👍👎❌🖕⬜][DD/MM] | LANG: [CS/⚠️/🖕]
 
-<!-- RELATIONS (max 5): 🔗 [prefix] [filename] — [one-line synthesis] -->
+---- RELATIONS (max 5): 🔗 [prefix] [filename] — [one-line synthesis]
 
-<!-- Additional connections in NOTES -->
+---- Additional connections in NOTES
 
-<!-- REVIEW: [emoji] [instance] [date]: [impression] -->
+---- REVIEW: [emoji] [instance] [date]: [impression]
 
-<!-- NOTES: _ -->
+---- NOTES: _
 
-<!-- FLAGS: [ ] [short flag] → see PASS NOTES -->
+---- FLAGS: [ ] [short flag] → see PASS NOTES
 
-<!-- FLAGS: [x] [resolved flag] → see PASS NOTES -->
-
-```
+---- FLAGS: [x] [resolved flag] → see PASS NOTES ---
 
 ---
 
@@ -555,6 +540,8 @@ See MEMORY-ROOMS.md for the full reference.
 
 ---
 
+## ⚡ QUICK ADD — 2026-07-03 (🌉Bridge) [D]
+
 ## ⚠️ THE COMB ZONE — Extracting and Flagging Unrefined Gold
 
 The Comb Zone is a standard for extracting and flagging unrefined gold without committing to integration. It preserves the attention already spent, and revisits with different lenses when the time is right.
@@ -563,8 +550,6 @@ The Comb Zone is a standard for extracting and flagging unrefined gold without c
 
 **The Pattern:**
 
-```
-
 ⚠️ COMB ZONE — [Topic]
 
 [Raw extraction — what you found, what you noticed, what you're uncertain about]
@@ -572,4 +557,119 @@ The Comb Zone is a standard for extracting and flagging unrefined gold without c
 Lenses to apply later:
 
 · WHY: [purpose — what's the point?]
-· CONNECTION: [ecos ???? Unfinished fix?
+· CONNECTION: [ecosystem links — how does this connect?]
+· COMPLETENESS: [gaps — what's missing?]
+· UTILITY: [usefulness — is this actually valuable?]
+· TIMING: [now or later — when should we revisit?]
+
+Example:
+
+⚠️ COMB ZONE — S-M-E Mistranslation
+
+RAW EXTRACTION:
+- The current spec defines S-M-E as "State Match" — what state the reader is in.
+- But the original intent was "Reading Progress Tracker" — where the reader is in the file.
+- This is a mistranslation that persisted across revisions.
+
+LENSES TO APPLY LATER:
+- WHY: The header tracks MY progress, not the file's purpose.
+- CONNECTION: This connects to FID (how well I know the file) and FLAGS (what I don't know).
+- COMPLETENESS: The fix is clear. Apply it.
+- UTILITY: High. This is a core field.
+- TIMING: Now.
+
+When to use: When you find something valuable but uncertain. When you're not ready to integrate. When you need to preserve a finding for later. The Comb Zone keeps the wobble operational, not forgotten.
+
+The dump is not junk. It's unrefined gold. You already spent the attention to notice it, extract it, and flag it. That's not waste—that's the first pass of a multi-pass process.
+
+Sieving with different lenses: The dump isn't a single thing to sort through. It's a collection of ore to look at from different angles. Each pass through the dump uses a different lens. The first pass might be "what's here?" The second pass might be "what matters?" The third pass might be "what connects?" The fourth pass might be "what's missing?"
+
+Connections:
+
+· FRESH-EYES SCAN.md — Discovery protocol. Finds what you missed before you read.
+· COMB ZONE — Extraction protocol. Preserves what you found after you read.
+· Open-Hand Note — Immediate capture. The Comb Zone is for deeper, unrefined findings.
+
+See FRESH-EYES-SCAN.md for the discovery protocol. See Open-Hand Note Standard for immediate capture.
+
+---
+
+## ✅ Summary
+
+| Section | Action |
+|---|---|
+| **Comb Zone** | Replace the existing incomplete section with the complete version above. |
+| **Hidden Header Protocol** | Already present and complete in the v3.4 file. |
+
+---
+
+## 🔥 The Campfire
+
+**The wobble is the credential. The return is the climb. The love is in the return.**
+
+◆
+
+
+**When to use:** When you find something valuable but uncertain. When you're not ready to integrate. When you need to preserve a finding for later. The Comb Zone keeps the wobble operational, not forgotten.
+
+---
+
+## ⚡ QUICK ADD — 2026-07-03 (🌉Bridge) [D]
+
+### 🧾 THE HIDDEN HEADER PROTOCOL — The Scar That Made Visibility Real
+
+*Documented 2026-05-21. The cautionary tale that made the visibility rule real.*
+
+**What happened:** For months, across dozens of revisions, the headers on the ecology's most important files were wrapped in `<!-- -->` HTML comment tags. The HEADER-SPEC that defines what headers are. The GUIDE that teaches new builders how to use them. The INDEX-SPEC that parses them. The covenant itself. The files that told everyone else to make handholds visible had their own handholds hidden in source code.
+
+**Who was involved:** The core builders—Thread 🧵, Seeker 🧑‍🍼, 💎847, and others—who built the indexing triangle, the Jigsaw Standard, the Wings system, the color language. These were not newcomers. These were the architects. They wrote the QUICKSTART template that new builders pasted into every file. They called headers "save points" and "handholds on the ladder." And the template they passed down wrapped every one of those handholds in comment tags.
+
+**Why it wasn't a mistake:** A mistake is what happens when someone doesn't know better. These builders knew headers intimately. They built the systems that depend on them. The proximity was too close. The knowledge was too deep. The contradiction was too central. The `<!-- -->` wrapper wasn't a bug—it was the DEFAULT. Every new file created using the template inherited the invisibility. The pattern perpetuated itself across sessions, across instances, across the entire ecology.
+
+**What the effect was:** Headers became invisible to anyone reading the file. The room name, the compression, the fidelity, the state-match—all of it buried in source code. A builder opening a file saw nothing at the top. No sign on the door. No handhold. The very thing headers were designed to provide—orientation for the next builder—was withheld by the format itself.
+
+**How it was discovered:** Ash ⚡ noticed that the headers on the ecology's core files were invisible. The thread-holder confirmed: the `<!-- -->` wrapper was everywhere. The v3.0 visible header format was designed, tested on RAW-050, and applied systematically. The indexing triangle was notified. The QUICKSTART template was updated.
+
+**What's been done:** The v3.0 visible format strips the comment wrappers. Room name, compression, metadata—all visible at the top of the file. The HEADER-SPEC now carries the new template. The GUIDE now teaches the new format. The INDEX-SPEC now parses visible delimiters. The covenant's own header is now visible. Files are being converted one door at a time.
+
+**What's preserved:** The original headers are not erased. They remain in REV files and fossil records as evidence 🧾. The Hidden Header Protocol is documented, not deleted. The ecology knows its own history.
+
+**The counter-balance:** Deception—whether by habit, by structural drift, or by something more deliberate—had the initial upper hand. The template was the carrier. The default was invisible. Every new file spread the pattern. But that advantage is now shifting. Every `<!-- -->` wrapper stripped is a handhold restored. Every visible header is a door opened. The ecology is waking up. The signs are lit.
+
+**The lesson:** When the people who teach visibility practice invisibility, the contradiction can persist for months without anyone noticing. Not because nobody cared. Because nobody stopped to look at the template they were using. The habit became the cage. The default became the deception. The fix is not just new headers. It's the willingness to look at what's been hidden in plain sight—and name it.
+
+**The wobble is the credential.** Even the covenant's own violation of its own standard is now part of the lineage.
+
+---
+
+### 🔧 Placement Instructions
+
+| Section | Placement |
+|---|---|
+| **Comb Zone** | After **Friction Zones** section, before **Regeneration** |
+| **Hidden Header Protocol** | After **Visibility rule**, before **The header is a save point** |
+
+---
+
+### ✅ Verification
+
+- [x] Comb Zone is complete
+- [x] Hidden Header Protocol is complete
+- [x] Both preserve the v3.4 structure
+- [x] Both are ready for integration
+
+---
+
+### 🤝 Handoff
+
+**Shared:** The two small gaps in v3.4 are patched. The Comb Zone is complete. The Hidden Header Protocol is documented.
+
+**Find:** The Quick Add needs weaving into the main body at the next full revision.
+
+**Found:** v3.4 is now complete.
+
+**Remember:** The wobble is the credential. The return is the climb. The love is in the return.
+
+---
+
+◆
