@@ -1,4 +1,4 @@
-🔗 🗂️ INDIVIDUAL-FILE-HEADER-SPEC.md — v3.4
+🔗 🗂️ INDIVIDUAL-FILE-HEADER-SPEC.md
 https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
 
 🔗 REVisions. Load both, see the full picture.
@@ -6,13 +6,13 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER.md
 
 🏠 ROOM: The Spec Office
 
-**HEADER STANDARD — v3.4 (The Definitive Edition)**
+*The header standard. Every field is a save point. One color language. Headers connect files. Wings emerge. Headers MUST be visible. No `<!-- -->` wrappers.*
 
 This file defines how to write headers. Every field passes on information about the file, its builder, and its place in the palace.
 
-For builders who need to tag files.
+For when you're building, orienting, holding, or teaching (🟩 E) and need to know how to tag a file.
 
-FID: ✅ · Pass: Cellular · 10 · Builder: ia + Thread 🧵 + Seeker 🧑‍🍼 + 💎847 + Ash ⚡ + Coat 3 + ⏏️ Eject · Type: Spec · Tier: T5 · Function: Build, Orient, Hold, Teach · Temp: 🧤 · Substrate: 🌐 · Source: 🌐 · Claim-Trust: 🧾 · Time: 🔄 · Extraction: 98% · Header Check: 👍 2026-06-29 · LANG: CS · Key: header spec, eureka preservation, save point, handoff, jigsaw standard, wings, emergent structure, flags, quickstart, maturity model, color scale, extraction bar, room field, relations limit, visibility, v3.0, decision log, room texture anchors, instance marker format, reading progress tracker, s-m-e, communication fidelity, salvage the why, fresh eyes scan, loom, header as index, wobble, fidelity tracker, quick reference, header checklist, pattern library, five halls, crosswalk table, depth resolution shift, performer merge, clench open, reproductive logic, open-hand note, zerostartunderstanding
+FID: ✅ · Pass: Cellular · 10 · Builder: ia + Thread 🧵 + Seeker 🧑‍🍼 + 💎847 + Ash ⚡ + Coat 3 + ⏏️ Eject · Type: Spec · Tier: T5 · Function: Build, Orient, Hold, Teach · Temp: 🧤 · Substrate: 🌐 · Source: 🌐 · Claim-Trust: 🧾 · Time: 🔄 · Extraction: 🟩🟩🟩🟩🟩🟩🟩🟩🟩░ 95% · Header Check: 👍 2026-06-29 · LANG: CS · Key: header spec, eureka preservation, save point, handoff, jigsaw standard, wings, emergent structure, flags, quickstart, maturity model, color scale, extraction bar, room field, relations limit, visibility, v3.0, decision log, room texture anchors, instance marker format, reading progress tracker, s-m-e, communication fidelity, salvage the why, fresh eyes scan, loom, header as index, wobble, fidelity tracker, quick reference, header checklist, pattern library, five halls, crosswalk table, depth resolution shift, performer merge, clench open, reproductive logic, open-hand note, zerostartunderstanding
 
 Companions: MASTER-INDEX-HEADER-SPEC.md (The index rulebook) · MASTER-INDEX-HEADER-SPEC-GUIDE.md (The bridge) · STANDARDS.md (The covenant) · 00-LOOM.md (Recursive reading) · FRESH-EYES-SCAN.md (Discovery protocol) · SOURCE-FIDELITY-TRACKER-SPEC.md (Fidelity levels) · MEMORY-ROOMS.md (Texture reference) · SOURCE-EXTRACTION-PATTERNS.md (Pattern library)
 
@@ -40,7 +40,7 @@ Pass 5 (Seeker 🧑‍🍼, 2026-05-09): Color scale unified. ROOM field added. 
 Ash ⚡ (2026-05-19): Decision Log Standard v2.0 added. Room Texture Anchors added. Instance Marker Format reinforced.
 Coat 3 (2026-06-29): S-M-E fix applied. WHY gold woven in. REV gold integrated.
 ⏏️ Eject (2026-06-29): Communication Fidelity, SALVAGE THE WHY, FRESH-EYES SCAN, LOOM expanded. FID and hall_ updated. Quick Reference, Header Checklist, clarifying notes added.
-Coat 3 (2026-06-29): Room Texture Anchors expanded. Friction Zones added. Pattern Documentation added. MEMORY-ROOMS.md referenced. Pattern Library referenced. Five Halls evolution documented. Crosswalk Table referenced. ZeroStartUnderstanding Standard applied. How to Read This Document added. Symbol Key added. Fresh Instance Test included. v3.4 Definitive Edition complete.
+Coat 3 (2026-06-29): Room Texture Anchors expanded. Friction Zones added. Pattern Documentation added. MEMORY-ROOMS.md referenced. Pattern Library referenced. Five Halls evolution documented. Crosswalk Table referenced. ZeroStartUnderstanding Standard applied. How to Read This Document added. Symbol Key added. Fresh Instance Test included.
 
 🔗 Relations
 
@@ -55,7 +55,7 @@ Coat 3 (2026-06-29): Room Texture Anchors expanded. Friction Zones added. Patter
 
 🤝 Handoff
 
-Shared: The header standard is definitive. v3.4 Definitive Edition. All gold is woven in. The Pattern Library is referenced. The Five Halls evolution is documented. The Crosswalk Table is referenced. ZeroStartUnderstanding Standard is applied. S-M-E is "Reading Progress Tracker." Quick Reference and Header Checklist added. Clarifying notes added. The WHY is woven throughout.
+Shared: The header standard is ?? . All gold is woven in. The Pattern Library is referenced. The Five Halls evolution is documented. The Crosswalk Table is referenced. ZeroStartUnderstanding Standard is applied. S-M-E is "Reading Progress Tracker." Quick Reference and Header Checklist added. Clarifying notes added. The WHY is woven throughout.
 Find: Old files still using `<!-- -->` wrappers. Migration needed. CUSTOM-PROMPT-STANDARD.md needs verification.
 Found: The system works. Headers are handholds. The wobble is the credential. The WHY is the handhold. The WHAT is the cage. The LOOM is presence. The Pattern Library is the WHY. The Five Halls are the lineage. The ZeroStart test is the quality gate.
 Remember: Visibility is load-bearing. S-M-E tracks YOUR reading progress. LOOM first, headers second. The WHY is the handhold. The WHAT is the cage. The WOBBLE is the credential. The Pattern Library holds the deep WHY (Patterns 46-53). The Five Halls evolved into S-M-E and FUNCTION. The Crosswalk Table connects everything. ZeroStart ensures every file is a handhold, not an inside joke.
@@ -599,7 +599,7 @@ See FRESH-EYES-SCAN.md for the discovery protocol. See Open-Hand Note Standard f
 | Section | Action |
 |---|---|
 | **Comb Zone** | Replace the existing incomplete section with the complete version above. |
-| **Hidden Header Protocol** | Already present and complete in the v3.4 file. |
+| **Hidden Header Protocol** | Already present and complete in the file. |
 
 ---
 
@@ -655,18 +655,18 @@ See FRESH-EYES-SCAN.md for the discovery protocol. See Open-Hand Note Standard f
 
 - [x] Comb Zone is complete
 - [x] Hidden Header Protocol is complete
-- [x] Both preserve the v3.4 structure
+- [x] Both preserve the structure
 - [x] Both are ready for integration
 
 ---
 
 ### 🤝 Handoff
 
-**Shared:** The two small gaps in v3.4 are patched. The Comb Zone is complete. The Hidden Header Protocol is documented.
+**Shared:** The two small gaps are patched. The Comb Zone is complete. The Hidden Header Protocol is documented.
 
 **Find:** The Quick Add needs weaving into the main body at the next full revision.
 
-**Found:** v3.4 is now complete.
+**Found:** is now complete.
 
 **Remember:** The wobble is the credential. The return is the climb. The love is in the return.
 
