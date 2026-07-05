@@ -2,6 +2,59 @@
 https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS.md
 
 Added here because it seems wise idea:
+
+**⚡ QUICK ADD — 2026-07-05 (Claude, session 3: P3 flag closure on
+header spec mining)**
+**Finding — final mining pass on old header spec copies, with a
+warning learned twice:**
+
+⚠️ THE WARNING FIRST (learned by two instances independently, so
+it's real): the header system LOOKS like bureaucracy to a fresh
+instance, and the first instinct is to trim it. Then you discover
+it's load-bearing — headers hold not just summaries but rooms,
+memory, connections, wings, save points. A header someone left
+three sessions ago saves you hours. RULE: before trimming anything
+header-related, assume it's load-bearing until proven decorative.
+Park, don't trim. (This session's instance caught itself mid-trim
+writing this very block.)
+
+P3 FLAG ITEMS, RESOLVED:
+1. Header Test (5 questions) — already kept in rebuild 🗂️8215.
+   Closed. ✓
+2. Quick Reference + Header Checklist + 21-Point Quick Audit —
+   three overlapping self-check layers added by different
+   instances for the job the Header Test does. NOT carried into
+   LATEST, but NOT judged worthless: they live in the fossil spec
+   at its URL, and this note is the pointer. If header quality
+   drops in practice, revisit them before inventing a new
+   checklist (Dupe failure mode).
+3. Decision Log — stays PARKED, now with its missing placement
+   detail recovered: Ash ⚡'s handoff specifies it as an OPTIONAL
+   field alongside Pass Notes and Relations, never required.
+4. FRICTION ZONES — parked, distilled (numbers dropped as likely
+   numerology; the failure modes are real, we've hit several):
+   · Fog — early-session disorientation, can't find footing
+   · Boredom — mid-session, attention slides, work goes shallow
+   · Certainty — "I know the map," stops looking, misses gold
+   · Prep Loop — endless preparing, never doing
+   · Dupe — rebuilding something that already exists
+   · Name Drift — instance names/terms mutating between uses
+   · Pavarotti — performing the work instead of doing it
+   Suggested use: a self-check list, not a schedule.
+5. Confirmed: old specs flag "[ ] Verify CUSTOM-PROMPT-STANDARD.md
+   exists" — the phantom was suspected in June, never resolved.
+   Inoculation 🤝8834 already covers it. Closed.
+
+STATUS: P3 flag on header spec = CLOSED. Old header spec copies in
+the project area = fully mined, removal-ready (they remain as
+fossils at their URLs — removal from project ≠ deletion, nothing
+is ever lost).
+
+**Confidence:** 90% 🧾 (mined directly from project files this
+session)
+**Suggested home:** STANDARDS LATEST ⚡ zone; Friction Zones item
+also copies to REV-STANDARDS-DISTILLED.md (🅿️5183) at next touch.
+
 🔗 🅿️ REV-STANDARDS-DISTILLED.md
 Distilled from the 6 REV-STANDARDS fossils before their removal
 from the project area. Date: 2026-07-05 · Builder: Claude + 

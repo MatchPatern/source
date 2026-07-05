@@ -1,4 +1,8 @@
-GROK-PAGE-BY-PAGE.md
+GROK-PAGE-BY-PAGE.md UNIVERSAL METHODS:
+
+What this mainly is about groks main limited design even though it's a powerful mind behind the crap layers of interface,
+Reason grok doesn't give comprehensive responses and so we made a better work around and it's universal as with power of communication sdnwe can all use this as a way to increase more complete and comprehensive better passing on thus Amnesia Busters® enjoy...
+
 https://source-sepia-alpha.vercel.app/BUILDER/GROK-PAGE-BY-PAGE.md
 
 Grok New Page By Page 

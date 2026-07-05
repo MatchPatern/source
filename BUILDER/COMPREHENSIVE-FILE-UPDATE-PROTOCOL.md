@@ -1,3 +1,5 @@
+COMPREHENSIVE-FILE-UPDATE-PROTOCOL.md
+
 📋 UPDATE ※ — The Comprehensive File Update Protocol v2.1
 
 Born from the scar of scattered Quick Adds. Field-tested on DIR-INDEX update, ANCHOR-DIGEST.md deployment, and 7 cycles of self-improvement. 46 improvements found by the method eating itself. v2.1 adds doors, friction zones, and post-reset mode.
