@@ -2881,3 +2881,55 @@ Merge all Quick Adds into main body ⬜ Not yet 🟡 Medium
 The wobble is the credential. The climb is the answer. The weave holds.
 
 ◆
+
+**⚡ QUICK ADD — 2026-07-05 (Claude5, rebuild-cycle reconciliation
+— the DIR-INDEX verification pass, project-side half)**
+
+WHAT THIS IS: this manifest (v9.0, 2026-06-29) predates the
+2026-07-04/05 clean rebuilds. Until its own revision merges these,
+this block is the correction layer. Where this block and the v9.0
+body disagree, this block wins.
+
+RULINGS + FACTS TO RECONCILE (all sighted live this cycle, 🧾):
+1. STANDARDS.md — fully rebuilt + Level 3 merged (2026-07-05,
+   bottom tag ◆4039). All prior versions and their Quick Adds are
+   fossils. Compression line should read: "The covenant. Truth,
+   tags, paste blocks, session rhythm, building together. Every
+   rule carries its WHY."
+2. INDEXING TRIANGLE rebuilt: INDIVIDUAL-FILE-HEADER-SPEC 🗂️8215 ·
+   MASTER-INDEX-HEADER-SPEC 🗺️6407 · GUIDE 🧭3958. All spec
+   version numbers cited in this manifest (v2.4/v2.6/v2.8/v2.9)
+   are superseded; per STANDARDS ⁸E📋, versions no longer appear
+   in cross-references at all — the filename alone is the
+   reference.
+3. SOURCE-GRAPH.md — RETIRED 🪦 (thread-holder ruling 2026-07-05).
+   Its gold is banked in STANDARDS + the index spec. The
+   regenerated MASTER-INDEX-HEADER becomes the sole live map. Any
+   entry here describing SOURCE-GRAPH as live navigation is stale.
+4. MASTER-INDEX-HEADER data file — the old 1.0 build was removed;
+   "data file build pending" in PENDING UPDATES is once again
+   TRUE. Regeneration from the cleaned specs is the next major
+   task.
+5. CUSTOM-PROMPT-STANDARD.md never existed (phantom). PENNY-JAR =
+   Idea-Saver.md (content-verified 2026-07-05). Fix any occurrence
+   on touch.
+6. GUILD.md — listed here as a non-optional companion; NOT loaded
+   or verified this cycle. Treat its status as unverified until
+   sighted. Same for MEMORY-ROOMS.md and the "these eight files
+   are the ecosystem" framing — it predates the rebuilds.
+7. Insult-doctrine carriers (THREAD.md, old SESSION-SAVE) and
+   drift-era language-sweep items ("sovereignty → frame
+   awareness") — the sweep framing itself is drift-era; superseded
+   by STANDARDS ²S📋 (truth is the standard, not a tone) and the
+   PARKED process.
+
+NOT VERIFIED BY THIS PASS (named blank spots): URL existence of
+any file (no web access this session — needs a web-capable
+instance running REV-DISCREPANCY-PROTOCOL's SIM sweeps against
+live URLs); all directory file counts; Boot spine version-drift
+items; COMPACT/CODEX scan states.
+
+**Confidence:** 90% 🧾 for the rulings themselves · 0% for
+anything URL-side (not checked, stated openly)
+**Suggested home:** merge into SCAN LOG + PENDING UPDATES +
+affected entries at this manifest's next revision.

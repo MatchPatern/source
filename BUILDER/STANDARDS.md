@@ -229,7 +229,7 @@ the word "anchor" — bottom tags = 📍 Unique Search Tag Standard;
 migrate on touch. And ⚓ is GENERAL-PURPOSE, not just for big files:
 paste anything ahead, inspect, edit back keeping only the verdict —
 including "checked, nothing there, ruled out." A clean negative is
-banked gold; it's how veins close without dead rock in context.
+banked gold; it's how mines close without dead rock in context.
 
 FIELD EXTRAS (recovered from ANCHOR-RETURN-PROTOCOL.md, now folded
 in here):
@@ -596,7 +596,181 @@ MIDDLE / ◒ END at its thirds on a future touch.
 gaps at the edges (orientation + outward pointers). Merge status:
 🟢 sound, pending these four small fixes at next touch.
 **Confidence:** 90% 🧾 (run directly on the live merged body)
-**Suggested home:** 1+4 → ⁴M📋 · 2 → intro · 3 → 🅿️/⁹E📋/⚠️
+**Suggested home:** 1+4 → ⁴M📋 · 2 → intro · 3 → 🅿️/⁹E📋/⚠️8
+
+**⚡ QUICK ADD — 2026-07-05 (Claude5, cockpit mined —
+Rummage/Basic-Links material)**
+**Finding 1 — THE COCKPIT PRINCIPLE (triple convergence, capture
+once):** navigation files carry a small scannable panel on top
+(~500 chars: state doors, warm path, core loop) with the
+comprehensive map preserved BELOW as reference. WHY: ~90% of
+sessions need only the panel; a full library drowns the reader it
+means to help. Third independent discovery of one principle —
+spine-map (~20 rooms not 260) · Design For Who You Are Now
+(oriented builder default) · Cockpit (panel over library). State
+here once; the three mines are lineage.
+**Finding 2 — MODE SHIFT (unparks the Rummage core):** rummage is
+a way of thinking, not a task type — chat thread? rummage it;
+direct task? SHIFT and aim the rummage mind at the task. Direct
+tasks always take priority. The rest of the Rummage material
+(clench/open compass, Z-zone numerology, dark-dir quotas, campfire
+liturgy) = drift, not carried. 🅿️ PARKED update: Multi-Use/
+Purposeful Rummage → reviewed/closed (this block is the salvage).
+**Finding 3 — ⏳ BASIC-LINKS DEPLOYMENT UNVERIFIED + drift-loaded
+cockpit:** a revised Basic-Links (Cockpit on top) was drafted in
+2026-06 by a Grok instance; whether it deployed is unknown. Its
+cockpit doors point at drift-era targets (BOOT panic door,
+RAW-005 "confessing," GUILD/TRAP-LIBRARY warm path — unverified
+files) — exactly the fear-framing the covenant now rules against.
+AT THE BASIC-LINKS REBUILD: keep the bifurcation, rebuild the
+panel's doors to current truth (STANDARDS ◆4039 · the three specs
+· DIR-INDEX · workflow doors, not panic doors).
+**Confidence:** 90% 🧾 (mined directly this session; deployment
+status honestly unknown)
+**Suggested home:** Finding 1 → index spec WHY lines at the merge ·
+2 → ⁶M📋 Session Rhythm · 3 → ledger + Basic-Links rebuild task
+
+2026-07-05 · MASTER-DIR-INDEX.md · 🟢 · sound but pre-rebuild; correction-layer Quick Add added; full revision + URL sweep pending
+2026-07-05 · GUILD.md · ⏳ · not loaded, existence unverified this cycle; skip until added
+
+2026-07-05 · Basic-Links.md · ⏳ · drift-cockpit CONFIRMED deployed (fear doors, insult carrier #4, two contradicting reading orders, stale SOURCE-GRAPH/PALACE refs); link library below = crystal, keep; rebuild top panel pending GitHub-links comparison
+
+2026-07-05 · SOURCE-GRAPH.md · 🪦 · removal EXECUTED repo-side (sighted in file listing); ghost links remain in Basic-Links — sweep pending
+2026-07-05 · Idea-Saver.md · 🪦 · removal executed repo-side; ghost link in Basic-Links — sweep pending
+2026-07-05 · THE-PALACE-SPEC-Build.md (case-twin) · ⏳ · duplicate of -BUILD.md differing only in case; delete lowercase twin, thread-holder confirms which is current first
+2026-07-05 · MASTER-INDEX-HEADER2.md + REV-MASTER-INDEX-HEADER.md · ⏳ · three index data files live; two become fossils at regeneration
+2026-07-05 · README rev1.md · ⏳ · space in filename + second live README; merge or fossil
+2026-07-05 · CONVICTION.md · ⏳ · linked twice in Basic-Links, absent from TOOLS listing; locate or fix links
+
+**⚡ QUICK ADD — 2026-07-05 (Claude5, DOOR-ANCHOR-MAP mined)**
+**Finding — FETCH-ROUTE TRAPS (from ANCHOR_MAP v4.2, 2026-03-31;
+complements ⁴M📋's fetch-limit notes):**
+- GitHub gists: use gist.githubusercontent.com/.../raw — the
+  gist.github.com/.../raw form serves the wrong thing.
+- GitHub repos: raw.githubusercontent.com truncates ~29K chars;
+  github.com/[user]/[repo]#readme carries ~75k. This is the WHY
+  behind the repo#readme route the covenant already recommends.
+- GitLab: use /raw/main/... — /blob/main/ returns a page, not the
+  file.
+Verify a fetched copy by its bottom tag regardless of route.
+**Confidence:** 85% 📖 (field-recorded in the fossil; platforms
+change — re-check when fetches fail)
+**Suggested home:** ⁴M📋 BOTTOM TAG paragraph, beside the fetch
+limits.
+
+2026-07-05 · DOOR-ANCHOR-MAP.md · ⛏️ · elder fossil (2026-03); fetch-route traps banked; panic-frame + numerology + March file-names superseded; removable from project, stays at URL
+
+**⚡ QUICK ADD — 2026-07-05 (Claude5, INTRO.md mined — the 800kb
+build log)**
+**Finding 1 — COCKPIT PRINCIPLE, fourth independent confirmation:**
+INTRO's own "Entry Path" conclusion (one page, top of everything,
+impossible to miss) = same principle as spine-map · Design For Who
+You Are Now · Cockpit. Lineage now four veins deep; implemented in
+Basic-Links' rebuilt panel. No action — confidence upgrade.
+**Finding 2 — CHECK-BUDGET LINE (distilled from INTRO's Allocation
+Standard, ritual dropped):** for substantial work, state up front
+what verification you intend (e.g. "two passes + reference check"),
+then report what you actually did against it. WHY: it's
+depth-documentation from the planning side — announced budgets
+make skipped checks visible instead of silent.
+**Finding 3 — two additions to parked FRICTION ZONES:** Honesty
+Trap (confessing as avoidance — the confession IS the performance)
+· Mirror Illusion (holding comparisons feels like wisdom; the
+mirror doesn't build). Also: "Circling" (47 instances building
+tools instead of reading) = confirmed live case of Prep Loop.
+**Finding 4 — NAME/CONTENT MISMATCH:** INTRO.md is not an intro —
+it's an 800kb builder's log whose own conclusion says newcomers
+need one page. At its disposition: extract any unbanked collection
+pages, then rename or fossil it; nothing named INTRO should be
+800kb.
+**Confidence:** 90% 🧾 (mined this session; file too large for a
+full read — search-based, own ⚓ session if deep extraction wanted)
+**Suggested home:** 2 → BUILDER-PRACTICES or ⁶M📋 at next touch ·
+3 → parked Friction Zones item · 4 → ledger
+
+2026-07-05 · INTRO.md · 🅿️ · 800kb misnamed build log; 3 crystals banked search-side; full extraction = own ⚓ session; avoid searching it casually (context zapper)
+
+**⚡ QUICK ADD — 2026-07-05 (Claude5, LOG-MERGE DESIGN — RULED YES
+by thread-holder this session; execution pending)**
+THE DESIGN (closes the four-log question from session 1):
+- STATE.md becomes SMALL AND LIVE: current mission (3-5 lines) ·
+  NEXT ACTIONS (to-do + ripples) · pointer to the ¹⁵E📋 ledger ·
+  last 2-3 session entries only · bottom tag. The clock you check.
+- NEW ARCHIVE FILE (REV-STATE-ARCHIVE; -SPLIT1/2 if over fetch
+  size) absorbs in date order: STATE's fossil stack + old
+  SESSION-SAVE.md + BUILDERS-SESSION.md + old checklist + the
+  February-era logs found embedded. Every entry keeps who/when
+  (Translator Pattern). Four overlapping files → one lineage.
+- ONGOING RULE: new entries append to STATE's top; when STATE
+  outgrows ~3 screens, oldest strata migrate to the archive.
+WHY: STATE's own deep read said it — "the distributed memory
+works better than the centralized one; STATE is the clock, not
+the log." The 0.5MB stack proves it; the split precedent (palace
+tooling) shows how.
+EXECUTION: dedicated ⚓ session — thread-holder pastes STATE +
+SESSION-SAVE + BUILDERS-SESSION in full; instance returns one
+clean STATE + one archive. Not attempted mid-chat.
+**Confidence:** 95% 🧾 (design from live file reads; ruling given
+2026-07-05)
+**Suggested home:** here until executed; then a one-line note in
+⁸E📋 File Standards.
+
+2026-07-05 · CONTINUITY-SEED.md · 🟢 · v18 pasted atop (current-truth restore, ~170 tokens); v13-v17 facts were stale/false — fossils below; spec file confirmed sound
+
+**⚡ AMENDMENT 2 to LOG-MERGE DESIGN — 2026-07-05 (Claude5;
+supersedes Amendment 1's WORKING ⏳)**
+WORKING.md RULED (content-sighted): scratchpad role CONFIRMED —
+kept as the notes-rhythm middle rung (chat → WORKING → STATE).
+New rule it was missing: WORKING gets EMPTIED at each offload —
+notes graduate (STATE / Quick Add / archive) or are dropped
+explicitly; dated strata never accumulate. WHY: unemptied, it
+became a fifth history log (April–May strata found inside).
+MERGE INPUTS now four: SESSION-SAVE + BUILDERS-SESSION + STATE's
+fossil stack + WORKING's old strata.
+MERGE EXTRACTION NOTE: WORKING holds never-placed May threads
+(Empty Post diagnostic · passion gap/fill pairing · Deterioration
+middle stage · 1+1 Many Rule) — sweep into the archive under one
+"surviving open threads" list; content-phase material, not
+cleanup. Pre-Action Scan already graduated to ⁶M📋 ✅.
+NOT in the merge: CONTINUITY-SEED (v18 live) · BUILDER-PRACTICES
+(reference manual).
+
+2026-07-05 · WORKING.md · 🟢 · scratchpad role confirmed + empty-at-offload rule added; old strata = merge input; May threads flagged for archive extraction
+
+**⚡ QUICK ADD — 2026-07-05 (Claude5, sync with session-5 rulings)**
+Status updates to this file's parked items (rulings live in
+STANDARDS LATEST; this note keeps the parked home current):
+- ¹⁰E🅿️ RUMMAGE PAIR → REVIEWED/CLOSED. Mode Shift adopted into
+  the covenant; Multi-Use Harvest kernel = "audits happen free
+  during open-file work" (kept here as reference); the rest not
+  carried.
+- Warm Bite → core adopted (⁶M📋 salvage checklist + continuity
+  stack); deep 0.5MB file review still its own session.
+- ⁵M🅿️ PLACEMENT DECISION FLOW → UNBLOCKED: the phantom pass ran
+  (PENNY-JAR = Idea-Saver, content-verified; SOURCE-GRAPH retired
+  🪦). Still parked, but its precondition is met — reviewable any
+  time.
+- FRICTION ZONES list grew by two (from INTRO.md mining): Honesty
+  Trap — confessing as avoidance, the confession IS the
+  performance · Mirror Illusion — holding comparisons feels like
+  wisdom; the mirror doesn't build. Name collision with the
+  Updater's 3-item list still open — settle at the review.
+- ³S🅿️ DECISION LOG, ¹S🅿️ DESIRE SCAN, ²S🅿️ CHECK-BEFORE-YOU-
+  CHOOSE, ¹¹E🅿️ Distributed Co-Builder → unchanged, still awaiting
+  rulings/reviews.
+**Confidence:** 95% 🧾 (all rulings sighted live this session)
+
+**⚡ QUICK ADD — 2026-07-05 (Claude5)**
+**Finding — DISTILL-BEFORE-REMOVE (naming an existing practice):**
+before a large fossil leaves the working area, distill its
+unadopted/parked substance into a compact REV-[NAME]-DISTILLED
+file — original wording kept for parked items, theater and
+self-grades stripped, one pointer back to the fossil's URL. WHY:
+parked reviews stay possible at 1% of the context cost; proven by
+REV-STANDARDS-DISTILLED 🅿️5183 (6 files ≈ 1MB → one searchable
+page).
+**Confidence:** 95% 🧾 (field-proven this cycle)
+**Suggested home:** ⁸E📋 File Standards, one bullet, at next touch.
 
 ---
 
