@@ -5,6 +5,8 @@ Adapted from mempalace v3.0.0 by Milla Jovovich & Ben Sigman. MIT License.
 Here is the complete 8-part THE-PALACE-SPEC.md — the unified, implementation-agnostic specification for a spatial memory palace.
 
 ```markdown
+
+THE-PALACE-SPEC.md
 # 🏛️ THE PALACE SPECIFICATION v1.0
 
 **Source:** Extracted from `mempalace` v3.0.0 by Milla Jovovich & Ben Sigman. MIT License.

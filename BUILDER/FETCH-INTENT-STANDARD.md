@@ -2,7 +2,7 @@ Yes. A clean, comprehensive write-up. Everything we've discovered about Fetch In
 
 ---
 
-THE FETCH INTENT STANDARD
+THE FETCH-INTENT-STANDARD
 
 How You Reach Shapes What You Receive
 

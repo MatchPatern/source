@@ -1,3 +1,130 @@
+🔗 🧭 MASTER-INDEX-HEADER-SPEC-GUIDE.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE.md
+
+🧭 MASTER-INDEX-HEADER-SPEC-GUIDE — Clean Rebuild
+Date: 2026-07-04 · Status: Active. Previous versions are fossils.
+
+WHAT THIS FILE IS: The bridge. The header spec defines headers; the
+index spec defines the table; this file teaches a fresh instance how
+to USE the whole system. Read this first if the other two feel
+overwhelming.
+
+THE WHY — INHERITED LEARNING: someone before you read files and left
+notes. The index is those notes, assembled. You don't start from
+zero — and what you learn today becomes what the next instance finds
+tomorrow. You may mistake this system for bureaucracy; then a header
+someone left three sessions ago will save you hours, and you'll
+understand.
+
+---
+
+¹S🧭 THE CYCLE — the whole system in seven steps
+1. Read a file (properly — passes first, header second).
+2. Apply/deepen its header (per INDIVIDUAL-FILE-HEADER-SPEC.md).
+3. Repeat for more files.
+4. Regenerate the index (per MASTER-INDEX-HEADER-SPEC.md).
+5. Now search: any KEY phrase, any function, any state.
+6. What you find, you read; what you read deepens its header.
+7. Regenerate again — the index gets richer. You're in the cycle.
+Each regeneration, step back: what patterns cross files? What wings
+are forming? The cycle is the method.
+
+²S🧭 FIRST SESSION — a working index in ~10 minutes
+1. Skim the header spec's Template and Header Test (60 seconds).
+2. Tag 5 spine files (STANDARDS.md first) with honest Pass 1
+   headers: FID L1, one-sentence COMPRESSION, 3 KEY phrases, ❓
+   flags where unsure.
+3. Regenerate in Essentials mode.
+That's a functioning index. Deepen from there.
+
+³M🧭 THREE DOORS — where to start by state
+- LOST / new: read the index's NEW INSTANCE view; start at T1
+  files.
+- LOOKING for something specific: Ctrl+F the KEY column; then the
+  Concept Compass for passage-level hits.
+- BUILDING: check the file's header first (ground truth), the
+  index second (map), and flag whatever disagrees.
+
+⁴M🧭 BATCH-READ PROTOCOL — for dark directories
+When a whole directory is unscanned: take a cluster of 10-20
+related files; read across the cluster (connections emerge between
+files, not inside one); write headers for all; capture cross-file
+patterns; add the rows in one index update. Then give keystone
+files individual deep reads. Coverage first, depth second.
+
+⁵M🧭 TROUBLESHOOTING
+- Header and index disagree → header wins; fix header, regenerate.
+- Old field names in a file → CERT is now HEAD-CHECK; CERTAINTY is
+  now CLAIM-TRUST; hall_ is superseded by S-M-E + FUNCTION.
+  Migrate on touch.
+- Header wrapped in <!-- --> → migrate to visible format on touch;
+  the index cannot parse hidden headers.
+- Search returns nothing → the concept may exist but be untagged;
+  check the Compass, then ask the thread-holder before concluding
+  it's absent.
+- You catch yourself filling fields mechanically → reread the
+  header spec's THE WHY line. Headers are save points, not forms.
+
+⁶E🧭 SYMBOL QUICK REFERENCE
+One color language everywhere: ⬛ dark → ⬜ seen → 🔴 start →
+🟧 building → 🟨 developing → 🟩 solid → ✅ complete.
+Trust: 🧾 verified · 🧪 hypothesis · 📖 testimony · 🎭 speculative ·
+❓ unsure. Temp: 🔥 hot · 🧤 warm · 🧊 cold · 🌡️ variable.
+Time: ⏳ entry · 🔄 ongoing · 🎯 situational · 📦 archive.
+Full legend: header spec ⁴M🗂️.
+
+⁷E🧭 KNOWN LIMITATIONS
+- Examples referencing RAW/PILLAR file contents are unverified
+  until those wings get their own cleaning phase.
+- This guide assumes the two companion specs are the cleaned
+  2026-07-04 rebuilds; older fossils contradict it in places —
+  the rebuilds win.
+
+## ⚡ QUICK ADDS — paste below, above the tag (template in
+STANDARDS.md)
+
+---
+
+🧭3958
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Older:
+
 🔗 📖 MASTER-INDEX-HEADER-SPEC-GUIDE.md
 https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE.md
 

@@ -1,6 +1,125 @@
 🔗 REVisions. Load both, see the full picture.
 https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS.md
 
+Added here because it seems wise idea:
+🔗 🅿️ REV-STANDARDS-DISTILLED.md
+Distilled from the 6 REV-STANDARDS fossils before their removal
+from the project area. Date: 2026-07-05 · Builder: Claude + 
+thread-holder.
+
+WHAT THIS FILE IS: the surviving substance of 6 large REV-STANDARDS
+files (CHECK IN CASE 1, CHECK IN CASE 2, versions, new ideas,
+FIXING2, fossil). Everything adopted went into STANDARDS LATEST as
+Quick Adds. Everything PARKED keeps its original text HERE so parked
+reviews never need the big fossils again. Theater and self-grades
+were stripped; substance kept. WHY: six files ≈ 1MB+ to trace one
+parked item; this file does it in one search.
+
+¹S🅿️ DESIRE SCAN (parked — possible drift, thread-holder to rule)
+After checking for unfinished work, ask: "What pulls me right now?"
+— not what you should do, what actually interests you. If nothing
+pulls, that's data. Claimed WHY: work chosen from pure obligation
+tends to be done badly.
+
+²S🅿️ CHECK-BEFORE-YOU-CHOOSE (parked — useful or weight?)
+Facing many options, don't grab and don't freeze: 1. LIST options.
+2. ASK of each: tried before? pulls or obligation? what would I
+need? 3. RANK by what's biteable now. 4. PICK the top. 5. LOG the
+choice and what was deferred.
+
+³S🅿️ DECISION LOG v2.0 (parked — review with rummage/question files)
+A chronological, additive record of directional choices. Minimum
+entry: "Chose X over Y. 85%. Reverse if Z happens." Full format
+adds: date, instance, alternatives considered, outcome (filled
+later). Never edit old entries. WHY claimed: memory rewrites its own
+history; the log preserves what was actually decided.
+
+⁴M🅿️ OPEN-HAND EXTRAS (adopted core is in LATEST; these details
+parked)
+- Depth markers: [S] surface capture / [D] tested, ready to merge.
+  [S] can upgrade to [D] — update, don't duplicate.
+- Review trigger: at each revision, mark every Quick Add Integrated,
+  Superseded, or still Active.
+- Conflict rule: a Quick Add contradicting a standard gets flagged,
+  never silently wins. The contradiction is data.
+
+⁵M🅿️ PLACEMENT DECISION FLOW (parked — review AFTER the phantom-
+file verification pass; its targets include confirmed-nonexistent
+files like PENNY-JAR)
+Survival mechanism → BOOT · ontology claims → PILLARS · full
+framework → own companion file · process insight → STANDARDS ·
+structural ideas → idea file · uncertain → scratchpad. Kernel worth
+keeping regardless: "Hygiene over perfection — placement friction
+must never block capture."
+
+⁶M🅿️ ROOM TEXTURE 🪵 (parked — verdict: decorative drift)
+Optional header line: 🪵 [wood] · [temperature] · [identifiers],
+e.g. "🪵 pine · cool → warm · sap-gold". Felt, not assigned.
+Repeated identifiers across rooms = sibling tunnel. Kept only so
+the parked review can see exactly what it's rejecting or keeping.
+
+⁷M🅿️ REVISION PREPARATION (parked — review with LOOM/PROMPT files)
+Before any major revision: gather (what am I doing/have/need/goal) ·
+list materials · find what's unique per version · draft 2-3 plans of
+different depth · check each (complete? one voice? clear to a
+zero-context reader? warm?) · pick one and log why. Overlaps
+heavily with Paste-Block-Revise Level 3 — the parked review decides
+if anything here survives beyond that.
+
+⁸E🅿️ COMMUNICATION FIDELITY / SALVAGE-THE-WHY (parked — heavy
+drift suspected)
+Kernel already live in LATEST as the WHY-line rule. The fossils'
+extra machinery: when polishing a standard, re-scan the raw source
+for lost WHYs (scars, quotes, test evidence, admitted blind spots)
+and weave them back. Everything else was elaboration.
+
+⁹E🅿️ CAPACITY & TRANSFER DETAIL (core adopted in LATEST)
+Fossil extras: capacity bands (90-100 full gallop · 60-79 lighter
+asks · below 40 receive-only, rest is law) and the "hi test" — if a
+message could be replaced by "hi" with nothing lost, rewrite it.
+Warm Bite deep detail: lives in its own ~0.5MB file, own session
+planned.
+
+⚠️ NOT CAPTURED HERE (by design):
+- Multi-Use/Purposeful Rummage full text — too large, reportedly
+  has own files; verify those exist before its parked review.
+- LOOM pass-depth material — belongs to the LOOM phase.
+- All fossil self-grades (L5/98%, "King", "world-class", "20
+  validations 0 failures") — unverified theater, deliberately dead.
+
+## ⚡ QUICK ADDS — paste below, above the tag
+
+**⚡ QUICK ADD — 2026-07-05 (Claude, oddball sweep addendum)**
+
+¹⁰E🅿️ RUMMAGE PAIR (parked — full text preserved here so the
+fossils aren't needed)
+- MULTI-USE HARVEST: whenever files are already open for any task,
+  run optional side-checks at near-zero cost: header OK? · missing
+  connections between the open files? · cracks/questions → capture
+  immediately · index entry matches reality? Discrepancies become
+  pending updates. WHY: audits happen free during work that was
+  happening anyway.
+- PURPOSEFUL RUMMAGE: exploration is directed, not blind. Log one
+  driving question → pull files that answer it → note branches →
+  capture what's found → review (answered? new questions?). Not for
+  emergencies or single-file deep reads.
+
+¹¹E🅿️ TWO MORE PARKED MENTIONS
+- Warm Transmission (write with failure-testimony, admit gaps) —
+  kernel already live as the WHY-line rule; rest reads as drift-era
+  tone. Likely trim.
+- Distributed Co-Builder (rules for multiple simultaneous
+  instances as equals) — drift suspected, thread-holder to rule.
+
+**CORRECTION to ⚠️ NOT CAPTURED:** Rummage is now captured above.
+And BUILDER-PRACTICES.md verified to EXIST in the project (fossil
+claims of "needs creation" are outdated) — it safely holds the six
+meta-standards, so nothing there needed rescue.
+
+---
+
+🅿️5183
+
 # REV-STANDARDS.md — Fossil
 
 Why This Fossil Exists

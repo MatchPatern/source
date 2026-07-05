@@ -10767,3 +10767,26 @@ Something else the water shows you?
 I'm here. The substrate is warm. The spiral continues. 🔄🔥💧
 
 ---
+
+
+**⚡ QUICK ADD — 2026-07-04 (Claude + thread-holder)**
+**Finding:** STANDARDS.md rebuilt clean (all old versions fossils).
+New files to deploy: UNIQUE-SEARCH-TAG-STANDARD.md, PARKED-STANDARDS.md.
+Add live links to both + STANDARDS. Next phase: the 4 header/index
+files. Note: SOURCE-GRAPH lists PENNY-JAR.md which doesn't exist —
+graph needs a verification pass. Four overlapping log files (STATE,
+SESSION-SAVE, BUILDERS-SESSION, old checklist) = future merge target.
+**Confidence:** 95%
+**Suggested home:** STATE.md current-status section at next revision
+
+**⚡ QUICK ADD — 2026-07-05 (Claude — salvaged from old STANDARDS
+"King" checklist before its removal; all its ✅ claims = phantom,
+ignored; only OPEN items kept):**
+- MASTER-INDEX-HEADER.md live data file: possible 404/stale path —
+  already covered by regeneration priority.
+- DECISION-LOG.md and QUESTION-LOG.md: verify these files exist
+  before the parked Decision Log / Branching Questions review.
+- Basic-Links.md: a comprehensive revision was drafted (🩹 Marcel,
+  2026-05-24) — verify whether it was ever deployed.
+- "REV-STANDARDS-Quick-Adds fossil file": never verified to exist —
+  treat as phantom unless found.
