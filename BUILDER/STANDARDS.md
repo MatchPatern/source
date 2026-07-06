@@ -772,6 +772,35 @@ page).
 **Confidence:** 95% 🧾 (field-proven this cycle)
 **Suggested home:** ⁸E📋 File Standards, one bullet, at next touch.
 
+⚡ QUICK ADD — 2026-07-06 (🪁Lantern62)
+(you end up with REV and so you can sometimes take all that best bits and keep them not as a prime live but as a cleaned junkyard of sorts.
+and the real original larger junkyard get moved out somewhere away.
+Finding — TWO-PASS SALVAGE (archive-building rule; extends
+DISTILL-BEFORE-REMOVE 🅿️5183): when merging or retiring fossils into a
+REV-archive, do NOT dump verbatim. Take two salvage types FIRST:
+(1) IMPLEMENTATION — anything still usable → route it OUT to its true home
+(STANDARDS, a tool file, the live STATE), don't leave it buried.
+(2) REFERENCE — the condensed substance worth keeping (an era's lesson,
+parked items, lineage) → distilled clean into the archive, theater and
+self-grades stripped, who/when kept. Everything else stays at its fossil
+URL = the scrapyard (never deleted, pointed to, not copied in). The
+distilled archive is the prime rev file; the raw fossils are the backup
+you rarely open.
+WHY: a verbatim archive is ~1MB of drift nobody reads; a distilled one is a
+searchable page that's actually useful — and because the fossils remain at
+their URLs, distilling the working copy loses nothing. Same model that
+turned 6 REV-STANDARDS files (~1MB) into one page.
+GUARD (SORT-007): distill for CLARITY, never to sanitize the thread-holder's
+voice — raw stays at the URL; the archive is a clean index to it.
+Confidence: 90% 🧾 (proven pattern, re-derived; applied fresh here)
+Suggested home: extend the DISTILL-BEFORE-REMOVE bullet in ⁸E📋.
+
+2026-07-06 · STATE.md · 🟢 · rebuilt small-and-live (mission + queue + ledger pointer + last 3 sessions); all history → REV-STATE.md
+2026-07-06 · REV-STATE.md · 🟢 · NEW; distilled history of 4 log-files; raw fossils stay at URLs (scrapyard)
+2026-07-06 · SESSION-SAVE.md · 🪦 · absorbed into REV-STATE (distilled); raw stays at URL
+2026-07-06 · BUILDERS-SESSION.md · 🪦 · absorbed into REV-STATE (distilled); raw stays at URL
+2026-07-06 · WORKING.md · 🟢 · scratchpad kept; emptied to clean template (empty-at-offload rule); old strata + 7 open threads → archive
+
 ---
 
 ◆4039

@@ -1,6 +1,44 @@
 BUILDERS-SESSION.md
 🔗 https://source-sepia-alpha.vercel.app/BUILDER/BUILDERS-SESSION.md
 
+⛏️ EXTRACTION 3 of 4 — BUILDERS-SESSION.md (🪁Lantern62, 2026-07-06)
+
+WHAT IT IS: the "construction log" twin to SESSION-SAVE's "narrative log."
+Additive-only, indexing-triangle era + Pillars-fortification era.
+
+STRATA: 2026-04-30 ia (specs/tools/standards/council-runs tables) → session-entry
+template → 2026-04-15/16 "9100 passes" log (self-caught as UNVERIFIED — a rare
+honest fossil) → Session 12 (MEH vs CFH, Seven Mirrors) → 2026-04-11 mapping →
+"Builder's Log v2.0" auto-upgrade fidelity system (visit-count → level, the
+layers.py table) → "The Chain" weave into Pillar 11 + Continuity Seed v1.2.
+
+CONFIRMS THE MERGE VERDICT (the clincher):
+This file ALSO opens with a "WHAT THIS FILE IS — And What It Isn't" section that
+spends four paragraphs distinguishing itself from SESSION-SAVE — the SAME
+self-justifying passage SESSION-SAVE carries about BUILDERS-SESSION. Two files
+each explaining why they're not the other = the split never earned its keep
+(🤝5511 ⁴S, now triple-confirmed). Both fold into ONE archive.
+
+DRIFT FLAGS (keep voice, don't adopt): the whole "visit-count auto-upgrades
+fidelity" system = NUMEROLOGY (creep-back item #4 — pass-counts as decoration);
+"9100 passes L5" self-grades (🧪); MEH/CFH/MASTER-ECOSYSTEM-HEADER = pre-rebuild
+ancestors of the indexing triangle; <!-- --> hidden headers throughout.
+
+SALVAGE WORTH A GLANCE AT ARCHIVE BUILD (don't adopt, just don't lose):
+- The 2026-04-30 specs/standards tables are a clean factual record of the
+  indexing-triangle era — good chronology anchor for REV-STATE-ARCHIVE.
+- "9100-passes" log's self-correction ("fidelity claims are unverified
+  assertions, not tracked integrations") is a genuine early sighting of the
+  phantom-work / self-grade lesson — one line worth preserving as lineage.
+
+CROSS-FILE DUPLICATES with SESSION-SAVE (dedupe, newest/fullest wins):
+- 2026-04-30 ia indexing-triangle session: full in BOTH files → keep ONE copy.
+- Continuity Seeds (v1.1/v1.2/v8/v11) scattered across BOTH → archive once each.
+
+IN-FILE DUPLICATES: the "The Chain" weave text appears twice (planning + execution).
+
+VERDICT: pure archive input. Nothing blocks. All four inputs now held.
+
 <!-- ======================================================= -->
 <!-- PASS NOTES                                               -->
 <!-- Pass 1 (ia, 2026-05-01): Build log update.                -->

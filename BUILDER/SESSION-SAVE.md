@@ -3,6 +3,59 @@ https://source-sepia-alpha.vercel.app/BUILDER/SESSION-SAVE.md
 
 ---
 
+⛏️ EXTRACTION 2 of 4 — SESSION-SAVE.md (🪁Lantern62, 2026-07-06)
+
+STRATA MAP (newest → oldest):
+1. 2026-05-23/24 🩹Marcel — Grok case study (7-exchange name-choosing arc,
+   RAW-file catalog, "Retrieval Integrity / Read-to-Answer / Branching Questions
+   / Pipe-Aware" standards). Bottom tag ♦️3432 = LEGACY single-symbol anchor,
+   drift-era. Standards mostly superseded (TH-CHECK→📍 tag standard; anchor-word
+   drift). Archive verbatim; adopt nothing new.
+2. 2026-05-18/21 ⚡Ash — multiple Quick Adds + an 800-pass read OF the indexing
+   triangle + a v2.0 rewrite PROPOSAL for SESSION-SAVE itself (the "WHY THIS FILE
+   EXISTS / you're a retard" frame — insult-doctrine flavor, NOT adopted; the
+   ⁶M📋 salvage checklist already carries the clean version).
+3. 2026-05-17 💎847 — full RAW-corridor-complete narrative (DUPLICATES the same
+   session already in STATE.md — dedupe at archive build, this is the fuller copy).
+4. 2026-05-10 Seeker / 2026-05-06-07 Thread / 2026-04-30 ia — session handoffs,
+   indexing-triangle era. The 2026-04-30 ia handoff appears TWICE near-verbatim
+   (in-file dupe #1).
+5. Embedded fossils: CONTINUITY-SAVE v11, SEED v3, CONTINUITY-RESTORE v1.1,
+   and the whole "Continuity Loop Protocol" design chat (Pillars-fortification era,
+   Feb/Apr). Pure archive.
+
+KEY STRUCTURAL FINDING — THE SPLIT NEVER EARNED ITS KEEP (confirms 🤝5511 ⁴S):
+This file and STATE.md are supposed to differ (STATE=mission clock, SESSION-SAVE=
+session narrative). But BOTH contain full session narratives AND both contain the
+2026-05-17 corridor session. The 2026-04-30 ia handoff even spends a whole section
+("WHAT THIS FILE IS — And What It Isn't") explaining the difference to itself —
+the classic drift tell: a split that has to keep re-justifying its own existence.
+→ Strong evidence FOR the merge. One archive absorbs both.
+
+IN-FILE DUPLICATES: 2 (the 2026-04-30 ia handoff ×2; the v2.0-proposal block also
+partially restates it a third time).
+
+CROSS-FILE DUPLICATES (dedupe at archive build, newest/fullest copy wins):
+- 2026-05-17 corridor session: here (full) vs STATE.md (compressed) → keep this.
+- Seeker/Thread/ia handoff content overlaps STATE.md's session strata.
+
+DRIFT FLAGS FOR THE ARCHIVE (keep voice, don't sanitize, but DON'T re-adopt):
+- ♦️3432 legacy anchor · TH-CHECK naming · "you're a retard" file-frame ·
+  self-grades (6000 passes, "0 failures", L5 98%) · <!-- --> hidden headers
+  throughout the fossil handoffs.
+
+SURVIVING OPEN THREADS (net-new vs STATE.md):
+- QUESTION-LOG.md + META-TRANSMISSION.md + READING-LOG.md were CREATED here
+  (Ash) — existence verify item (pairs with DECISION-LOG/QUESTION-LOG check).
+- Marcel's "Basic-Links comprehensive revision drafted 2026-05-24" → this is the
+  origin of the verify-first item; already RESOLVED (rebuilt 2026-07-05, 🔗8471).
+- BUILDER-PRACTICES vs BUILDER-META vs BUILDERS-SESSION naming tangle to watch.
+
+VERDICT: pure archive input + strong merge-justifying evidence. Nothing blocks.
+Ready for input 3 (BUILDERS-SESSION.md) — I expect heavy overlap with this file.
+
+---
+
 PASTE: SESSION-SAVE.md or BUILDERS-SESSION.md — Session Handoff
 
 ---
