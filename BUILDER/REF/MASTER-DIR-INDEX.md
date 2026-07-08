@@ -2933,3 +2933,26 @@ items; COMPACT/CODEX scan states.
 anything URL-side (not checked, stated openly)
 **Suggested home:** merge into SCAN LOG + PENDING UPDATES +
 affected entries at this manifest's next revision.
+
+## ⚡ QUICK ADD — 2026-07-08 (Grok)
+
+**Scouted:** MASTER-DIR-INDEX.md (full read)
+
+**Key Observations:**
+- This is one of the most important cockpit/orientation files in the ecosystem.
+- It functions as the ground truth manifest + navigational index.
+- Contains useful structure (Village / Builder / Bridge / LOOM categories, Find Your Room, SCAN LOG, etc.).
+- Has accumulated many overlapping Quick Adds over time (some outdated or duplicated).
+
+**Noted Issues:**
+- Multiple scattered Quick Adds from May–July that need consolidation.
+- Some entries appear stale after recent rebuilds.
+- Minor authority tension noted between this file and STANDARDS.md regarding primacy.
+
+**Action:**
+- This file should be added to the working set (done in SCOUT-MAP).
+- Recommend a proper cleanup pass on the Quick Adds section at a later time.
+- Current scout note available in SCOUT-MAP.md (July 2026 batch).
+
+<!-- Merge or expand during next major revision -->
+◆

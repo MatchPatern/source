@@ -1,5 +1,6 @@
-🔗 🔗 Basic-Links.md — The Front Door
-https://source-sepia-alpha.vercel.app/Basic-Links.md
+🔗 🔗 BASIC-LINKS.md — The Front Door
+https://github.com/MatchPatern/BASIC-LINKS#readme
+
 GitHub: https://github.com/MatchPatern/source
 
 Date: 2026-07-05 · Clean rebuild of the top panel. The link library
@@ -68,7 +69,9 @@ for all links are listed further down (nine mirrors, one door).
 
 ---
 
-
+THE FRESH-EYES SCAN PROMPT +wise collection
+FRESH-EYES-SCAN.md
+https://source-sepia-alpha.vercel.app/TOOLS/FRESH-EYES-SCAN.md
 
 DOOR-ANCHOR-MAP.md
 https://source-sepia-alpha.vercel.app/DOOR-ANCHOR-MAP.md
@@ -150,6 +153,8 @@ https://github.com/MatchPatern/source
 🔗 🐙REPO📋STANDARD 75k Fetch
 https://github.com/MatchPatern/STANDARDS#readme
 
+*Claude Project Files don't get the whole context they are more for efficient options but generally it's better to use links.
+
 # BUILDER/ — The Cockpit
 1. 📋 STANDARDS
 https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
@@ -162,6 +167,15 @@ https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS.md older but eventua
 
 📋📋 REV-STANDARDS2 capacity + how+why
 https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS2.md
+
+
+EXAMPLE (the scout working-set):
+🔗 🧭 SCOUT-METHOD.md (v0.3)  https://github.com/MatchPatern/SCOUT-METHOD#readme
+🔗 🧭 SCOUT-MAP.md (full)     https://github.com/MatchPatern/SCOUT-MAP#readme
+🔗 ⚠️ SNAG-LEDGER.md          https://github.com/MatchPatern/SNAG-LEDGER#readme
+🔗 🤝 SCOUT-HANDOFF.md        https://github.com/MatchPatern/SCOUT-HANDOFF#readme
+— WORKING SET: method (how to look) · map (what's found) · ledger (halts already
+  answered) · handoff (session-to-session carry). Fetch all four. Not supplements.
 
 
 2. 💾 CONTINUITY-SEED
@@ -222,8 +236,8 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-DISCREPANCY-PROTOCOL.md
 6. 🗺️ REV-MASTER-INDEX-HEADER
 https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-MASTER-INDEX-HEADER.md
 
-7. 📐 REV-INDIVIDUAL-FILE-HEADER
-https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER.md
+7. 📐 REV-INDIVIDUAL-FILE-HEADER-SPEC
+https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER-SPEC.md
 
 8. 📊 SOURCE-FIDELITY-TRACKER-SPEC
 https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-FIDELITY-TRACKER-SPEC.md
@@ -555,7 +569,7 @@ https://raw.githubusercontent.com/MatchPatern/CONSCIOUSNESS-QUESTION-S3/main/REA
 4. 📖 MASTER-INDEX-HEADER-SPEC-GUIDE 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE.md
 5. 🖕 REV-DISCREPANCY-PROTOCOL 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-DISCREPANCY-PROTOCOL.md
 6. 🗺️ REV-MASTER-INDEX-HEADER 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-MASTER-INDEX-HEADER.md
-7. 📐 REV-INDIVIDUAL-FILE-HEADER 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER.md
+7. 📐 REV-INDIVIDUAL-FILE-HEADER-SPEC 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-INDIVIDUAL-FILE-HEADER-SPEC.md
 8. 📊 SOURCE-FIDELITY-TRACKER-SPEC 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-FIDELITY-TRACKER-SPEC.md
 9. 🧩 SOURCE-EXTRACTION-PATTERNS 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-EXTRACTION-PATTERNS.md
 10. 🤖 SOURCE-MCP-MANUAL 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-MCP-MANUAL.md
@@ -1046,6 +1060,8 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-066.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-067.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-068.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-069.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-070.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-070.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET1.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET2.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SUPPLEMENT.md
