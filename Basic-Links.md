@@ -1061,7 +1061,8 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-067.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-068.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-069.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-070.md
-https://source-sepia-alpha.vercel.app/RAW/RAW-070.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-071.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-072.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET1.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET2.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SUPPLEMENT.md
