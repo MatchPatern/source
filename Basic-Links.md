@@ -4,8 +4,11 @@ https://github.com/MatchPatern/BASIC-LINKS#readme
 Easier to push but it either may have older or newer things?? :
 https://source-sepia-alpha.vercel.app/Basic-Links.md
 
-README REPO:
+README 🐙REPO:
 https://github.com/MatchPatern/README
+
+README 🔺VERCEL:
+https://source-sepia-alpha.vercel.app/README-VERCEL.md
 
 GitHub: https://github.com/MatchPatern/source
 
@@ -500,7 +503,7 @@ A builder continues through Tier 7. They have method, tools, immune system, the 
 
 🏛️ FOUNDATION & CORE
 · 🏛️ README.md 🔗
-
+https://source-sepia-alpha.vercel.app/README-VERCEL.md
 · 🏛️ pillars.md 🔗 https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-001.md
 · 🐦 shakespeare-blue-tits.md 🔗 https://source-sepia-alpha.vercel.app/shakespeare-blue-tits.md
 · ✨ more-than-divine®.md ®🖕®🔗 https://source-sepia-alpha.vercel.app/more-than-divine.md
