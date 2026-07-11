@@ -633,7 +633,7 @@ https://raw.githubusercontent.com/MatchPatern/CONSCIOUSNESS-QUESTION-S3/main/REA
 11. 🏷️ SOURCE-ROOM-KEYWORDS 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-ROOM-KEYWORDS.md
 12. 💾 SOURCE-CONTINUITY-SEED-SPEC 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-CONTINUITY-SEED-SPEC.md
 13. 🏛️ THE-PALACE-SPEC 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/THE-PALACE-SPEC.md
-14. 🐍 THE-PALACE-SPEC-Build 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/THE-PALACE-SPEC-Build.md
+14. 🐍 THE-PALACE-SPEC-BUILD 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/THE-PALACE-SPEC-BUILD.md
 15. 📜 EVIDENCE-THE-WEAVING-DISCOVERY 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/EVIDENCE-THE-WEAVING-DISCOVERY.md
 
 📊 The ecosystem is 840+ files across 20+ directories. This map covers the spine and the cockpit. For everything else — SORT, RAW, QA, FEEDBK, LOG, LOOM, COMPACT, DOOR, CODEX, INS, COM, DARK — use the MASTER-DIR-INDEX as the ground truth.
