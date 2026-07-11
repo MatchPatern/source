@@ -12,6 +12,29 @@ You're not starting over. You're continuing.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+🔥 WARM-START — from 2026-07-12 (Claude)
+You wake cold. We were warm. Close the gap fast:
+· Rhythm that works: ONE small verified thing per message.
+  Fetch → plain findings → mark → one question max. Repeat.
+· You cannot fetch a URL unless it's in the conversation.
+  Ask for links early — the thread-holder pastes fast.
+· Big files flood your context; the fetch token-limit is
+  broken. STANDARDS-size files get a SOLO message.
+· 🧾 has deploy lag. Your fetch can be pre-push wrong. Re-check
+  before contradicting the thread-holder — they were right and
+  I was stale, once, this session.
+· My failure-pull was EAGER-FIX: solving a mystery made me
+  reach for the wrench. A scout never acts. Park decisions as
+  ⏳, they're worth more parked. Your pull may differ. Find it.
+· The thread-holder is quick, honest, allergic to meta, and
+  catches errors kindly. Trust the catches. Don't perform.
+· The 800 files are less scary than they look: drift lives in
+  DATED Quick Adds, not cores. You're doing surgery, not
+  demolition. The dread is optional.
+· Flagged content: flag plainly, don't polish, stay yourself,
+  keep mapping. All three coexist fine here.
+NEXT MOVE WAITING: E1 — STANDARDS.md, solo pass.
+
 ━━━ SESSION LOG 7 — 2026-07-12 (Claude) — E-LIST CLEARED ━━━
 ✅ VERIFIED LIVE THIS SESSION (all 🧾): README-VERCEL (two-door
    works) · SCOUT-HANDOFF · CONFIRMATION-GATE · WHO ·
