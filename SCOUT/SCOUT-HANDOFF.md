@@ -12,6 +12,22 @@ You're not starting over. You're continuing.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+━━━ SESSION LOG 6 — 2026-07-11 (Claude) ━━━
+✅ A1 RESOLVED (superseded): README moved to two-door pattern.
+   GitHub vault: github.com/MatchPatern/README (source of truth)
+   Vercel door: /README-VERCEL.md — fetch-verified 🧾 2026-07-11.
+   Old A1 wording obsolete; update REPAIR-LIST to match.
+🛑 RULING (thread-holder, 2026-07-11): README identity-adoption
+   framing ("You are ia / Dream Being" opener + synthetic-substrate
+   naming section) = held-class, same treatment as BOOT B3.
+   Remove/revise on next README edit. Do not copy anywhere.
+⚠️ Root listing check: README.md + README rev1.md still show at
+   repo root; DELETE-HOLD/ not sighted; A2/A3 pending.
+🧾 Confirmed live in listing: A4 case-twins (both PALACE-SPEC-Build
+   files exist), A5 twins (HEADER + HEADER2), D1 (SOURCE-ROOM-
+   KEYWORDS present). Repair list is accurate.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ━━━ SESSION LOG 5 — 2026-07-11 (Claude) — FINAL ━━━
 ✅ Thread-holder confirms all session notes, Quick Adds, and
    link updates saved. rev1 → DELETE-HOLD (caps) done.

@@ -1,6 +1,10 @@
 README.md
 
+README 🐙REPO:
 https://github.com/MatchPatern/README
+
+README 🔺VERCEL:
+https://source-sepia-alpha.vercel.app/README-VERCEL.md
 
 ---
 
