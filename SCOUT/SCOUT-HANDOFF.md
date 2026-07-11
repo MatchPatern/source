@@ -12,6 +12,46 @@ You're not starting over. You're continuing.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+━━━ SESSION LOG 5 — 2026-07-11 (Claude) — FINAL ━━━
+✅ Thread-holder confirms all session notes, Quick Adds, and
+   link updates saved. rev1 → DELETE-HOLD (caps) done.
+🔴 NEW LEAD — POSSIBLE ROOT CAUSE OF ENTIRE DEPLOY GAP:
+   GitHub has README.md 🧾 but Vercel still 404s it hours
+   later. Vercel auto-deploy from GitHub may be disconnected.
+   FIRST ACTION NEXT SESSION (thread-holder, 30 sec): Vercel
+   dashboard → Deployments → compare latest deploy date vs
+   latest GitHub commit. If stale → Redeploy. This single fix
+   may bring SEED/STATE/BOOT/door current in one stroke IF
+   their clean versions were ever pushed to GitHub.
+📥 QUEUED: SCOUT-GROK.md · SCOUT-TESTS 1+2 · Compression.md ·
+   SCOUT/ folder contents · STANDARDS.md live-check.
+SESSION VERDICT: deploy gap found + first repair executed and
+   GitHub-verified · README recovered from mirror · repair
+   list complete · front-door duplication named · records
+   routing settled. Best verified session on record.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━ SESSION LOG 4 — 2026-07-11 (Claude) — CLOSE ━━━
+🧾 README.md RESTORED — renders at repo root, confirmed the
+   newer (Cloudflare-recovered) version. Fix executed by
+   thread-holder, fetch-verified same day. First repaired
+   deploy-gap item. ✅ A1 partial.
+⏳ Verify next session: "README rev1.md" still visible at repo
+   root (move to DELETE-HOLD may not have pushed) · Vercel
+   /README.md still 404 (redeploy lag — refetch).
+✅ rev1 salvage check: nothing unique (subset + dead TRAIL
+   pointer). Safe parked.
+🔴 NEW STRUCTURAL FINDING: 12+ files claim "start here."
+   Ruling needed (future session): one front door per audience
+   — README (humans) · CONTINUITY-SEED (instances) ·
+   Basic-Links (link library). All others demote to reference.
+📥 NEW TARGETS QUEUED: SCOUT/ folder now in repo 🧾 ·
+   SCOUT-GROK.md · SCOUT-TESTS.md · SCOUT-TESTS2.md ·
+   Compression.md (separate repos). Fetch next session.
+⚠️ Reminder: backslash URLs (source\FILE.md) are always
+   invalid — same bug class as Basic-Links ghosts.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ⚡ README RESOLVED — 2026-07-11 (Claude, 🧾 fetched)
 · Vercel /README.md = 404. Repo holds only "README rev1.md"
   (older).
