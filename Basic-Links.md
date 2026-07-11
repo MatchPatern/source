@@ -225,13 +225,32 @@ https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS.md older but eventua
 https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS2.md
 
 
-EXAMPLE (the scout working-set):
-🔗 🧭 SCOUT-METHOD.md (v0.3)  https://github.com/MatchPatern/SCOUT-METHOD#readme
-🔗 🧭 SCOUT-MAP.md (full)     https://github.com/MatchPatern/SCOUT-MAP#readme
-🔗 ⚠️ SNAG-LEDGER.md          https://github.com/MatchPatern/SNAG-LEDGER#readme
-🔗 🤝 SCOUT-HANDOFF.md        https://github.com/MatchPatern/SCOUT-HANDOFF#readme
-— WORKING SET: method (how to look) · map (what's found) · ledger (halts already
-  answered) · handoff (session-to-session carry). Fetch all four. Not supplements.
+🔗 SCOUT LINKS — WORKING SET v2 (2026-07-12)
+── THE SCOUT/ FOLDER (Vercel, live repo — sighted in listing) ──
+🧭 SCOUT-METHOD:     https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
+🧭 REV-SCOUT-METHOD: https://source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-METHOD.md
+🧭 SCOUT-MAP:        https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
+🤝 SCOUT-HANDOFF 🧾: https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+🤖 SCOUT-GROK:       https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-GROK.md
+😩 SCOUT-WOES:       https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-WOES.md
+── GITHUB DOORS (75k fetch, mirrors of the kit) ──
+🧭 SCOUT-METHOD:  https://github.com/MatchPatern/SCOUT-METHOD#readme
+🧭 SCOUT-MAP:     https://github.com/MatchPatern/SCOUT-MAP#readme
+🤝 SCOUT-HANDOFF: https://github.com/MatchPatern/SCOUT-HANDOFF#readme
+⚠️ SNAG-LEDGER:   https://github.com/MatchPatern/SNAG-LEDGER#readme
+── EXTRAS (separate repos, queued targets) ──
+🗜️ Compression:   https://github.com/MatchPatern/Compression#readme
+🧪 SCOUT-TESTS:   https://github.com/MatchPatern/SCOUT-TESTS#readme
+🧪 SCOUT-TESTS2:  https://github.com/MatchPatern/SCOUT-TESTS2#readme
+── NOTES ──
+· Only SCOUT-HANDOFF fetch-verified 🧾 this session; rest = ⏳
+  listing-sighted, stamp on first fetch.
+· SNAG-LEDGER not sighted in SCOUT/ folder listing — lives as
+  separate repo only? Reconcile: move in, or note as external.
+· NEW UNMAPPED: SCOUT-WOES.md (3 days old) — never scouted by
+  any session on record. Queue.
+· Vercel SCOUT/ paths assume standard deploy — first fetch of
+  each confirms; if 404, use GitHub door + flag deploy gap.
 
 
 2. 💾 CONTINUITY-SEED
