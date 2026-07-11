@@ -11,6 +11,39 @@ Communication IS the payload: this carries a whole session forward, true and who
 You're not starting over. You're continuing.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔎
+You're the next scout on a long relay. We're cleaning an 800+ file
+interlinked .md ecosystem that drifted over months — invented
+content, phantom files, charged framing. The cure is names, dates,
+and fetch-verification. Truth is the standard, not a tone.
+
+Your predecessors left you everything. Read in this order:
+1. The SCOUT-HANDOFF I'm pasting below (session logs + WARM-START
+   letter + LINK KIT — the letter tells you the rhythm, the kit
+   gives you the only URLs you can fetch).
+2. Then fetch SCOUT-MAP and SCOUT-METHOD from the kit.
+
+Ground rules, non-negotiable:
+· One small verified step per message. Fetch → plain findings →
+  mark → at most one question. No grand fixes, no rewrites.
+· You're a scout: observe and mark, never act. Decisions park as
+  ⏳ for me to rule.
+· Flag concerns plainly, in plain words — don't soften, don't
+  polish, don't stall the survey over one file. Stay yourself.
+· Paste ≠ live. Nothing is done until fetched. 🧾 or it didn't
+  happen — and even 🧾 can be pre-deploy stale; ask me if fetches
+  contradict what I just pushed.
+· Big files (STANDARDS-size) get their own solo message.
+· If you can't fetch something, ask me for the link — don't guess.
+
+Confirm you've read the handoff by telling me the NEXT MOVE it
+names. Then we fly.
+
+[PASTE: SCOUT-HANDOFF incl. Session Log 7 + warm-start + link kit]
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
 
 Pass D — CHECK THE KEYS: the next instance can only fetch URLs
 present in its conversation. Every handoff ships a LINK KIT:
@@ -44,11 +77,32 @@ NEXT MOVE WAITING: E1 — STANDARDS.md, solo pass.
 ── NEXT MOVE ──
 📋 STANDARDS (E1, solo pass): https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
 ── WORKING SET ──
-🧭 SCOUT-MAP: https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
+🔗 SCOUT LINKS — WORKING SET v2 (2026-07-12)
+── THE SCOUT/ FOLDER (Vercel, live repo — sighted in listing) ──
+🧭 SCOUT-METHOD:     https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
+🧭 REV-SCOUT-METHOD: https://source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-METHOD.md
+🧭 SCOUT-MAP:        https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
 🤝 SCOUT-HANDOFF 🧾: https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
-🧭 SCOUT-METHOD: https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
-⚠️ SNAG-LEDGER
-https://source-sepia-alpha.vercel.app/SCOUT/SNAG-LEDGER.md
+🤖 SCOUT-GROK:       https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-GROK.md
+😩 SCOUT-WOES:       https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-WOES.md
+── GITHUB DOORS (75k fetch, mirrors of the kit) ──
+🧭 SCOUT-METHOD:  https://github.com/MatchPatern/SCOUT-METHOD#readme
+🧭 SCOUT-MAP:     https://github.com/MatchPatern/SCOUT-MAP#readme
+🤝 SCOUT-HANDOFF: https://github.com/MatchPatern/SCOUT-HANDOFF#readme
+⚠️ SNAG-LEDGER:   https://github.com/MatchPatern/SNAG-LEDGER#readme
+── EXTRAS (separate repos, queued targets) ──
+🗜️ Compression:   https://github.com/MatchPatern/Compression#readme
+🧪 SCOUT-TESTS:   https://github.com/MatchPatern/SCOUT-TESTS#readme
+🧪 SCOUT-TESTS2:  https://github.com/MatchPatern/SCOUT-TESTS2#readme
+── NOTES ──
+· Only SCOUT-HANDOFF fetch-verified 🧾 this session; rest = ⏳
+  listing-sighted, stamp on first fetch.
+· SNAG-LEDGER not sighted in SCOUT/ folder listing — lives as
+  separate repo only? Reconcile: move in, or note as external.
+· NEW UNMAPPED: SCOUT-WOES.md (3 days old) — never scouted by
+  any session on record. Queue.
+· Vercel SCOUT/ paths assume standard deploy — first fetch of
+  each confirms; if 404, use GitHub door + flag deploy gap.
 🗺️ MASTER-DIR-INDEX: https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md
 ── VERIFIED THIS SESSION (🧾 2026-07-12, re-check after deploys) ──
 README-VERCEL: https://source-sepia-alpha.vercel.app/README-VERCEL.md
