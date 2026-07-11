@@ -1,5 +1,5 @@
 🔗 🧭 SCOUT-METHOD.md (v0.4.1)           https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
-🔗 ⚠️ SNAG-LEDGER.md                    https://github.com/MatchPatern/SNAG-LEDGER#readme
+🔗 ⚠️ SNAG-LEDGER.md                    https://source-sepia-alpha.vercel.app/SCOUT/SNAG-LEDGER.md
 🔗 🤝 SCOUT-HANDOFF.md
 https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
 🔗 🧭 MASTER-DIR-INDEX.md               https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md

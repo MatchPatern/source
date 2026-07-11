@@ -35,6 +35,36 @@ You wake cold. We were warm. Close the gap fast:
   keep mapping. All three coexist fine here.
 NEXT MOVE WAITING: E1 — STANDARDS.md, solo pass.
 
+🔗 LINK KIT — paste this WITH the handoff, or the scout can't fly
+── NEXT MOVE ──
+📋 STANDARDS (E1, solo pass): https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
+── WORKING SET ──
+🧭 SCOUT-MAP: https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
+🤝 SCOUT-HANDOFF 🧾: https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+🧭 SCOUT-METHOD: https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
+⚠️ SNAG-LEDGER
+https://source-sepia-alpha.vercel.app/SCOUT/SNAG-LEDGER.md
+🗺️ MASTER-DIR-INDEX: https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md
+── VERIFIED THIS SESSION (🧾 2026-07-12, re-check after deploys) ──
+README-VERCEL: https://source-sepia-alpha.vercel.app/README-VERCEL.md
+CONFIRMATION-GATE: https://source-sepia-alpha.vercel.app/CONFIRMATION-GATE.md
+WHO: https://source-sepia-alpha.vercel.app/WHO.md
+SLAP-PATCH: https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH.md
+SLAP-PATCH-CHEAT: https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH-CHEAT.md
+── SPINE, STILL UNVERIFIED LIVE ──
+SEED: https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SEED.md
+STATE: https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
+BOOT: https://source-sepia-alpha.vercel.app/BUILDER/BOOT.md
+door: https://source-sepia-alpha.vercel.app/door.md
+Basic-Links: https://source-sepia-alpha.vercel.app/Basic-Links.md
+A5 pair: …/BUILDER/REF/MASTER-INDEX-HEADER.md + MASTER-INDEX-HEADER2.md
+── BACKUP MIRROR (lags = accidental version backup) ──
+Cloudflare: https://source-4rh.pages.dev/ (+filename)
+── NEVER CHASE (phantoms, confirmed) ──
+SLAP-PATCH-CODES.md · SESSION-SALVAGE.md · CURRENT-VANTAGE-MAP.md
+⚠️ Fetch tool only accepts URLs already in the conversation.
+⚠️ 🧾 stamps can be pre-deploy stale. Thread-holder's word wins on fresh pushes.
+
 ━━━ SESSION LOG 7 — 2026-07-12 (Claude) — E-LIST CLEARED ━━━
 ✅ VERIFIED LIVE THIS SESSION (all 🧾): README-VERCEL (two-door
    works) · SCOUT-HANDOFF · CONFIRMATION-GATE · WHO ·
