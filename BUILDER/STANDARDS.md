@@ -801,6 +801,37 @@ Suggested home: extend the DISTILL-BEFORE-REMOVE bullet in ⁸E📋.
 2026-07-06 · BUILDERS-SESSION.md · 🪦 · absorbed into REV-STATE (distilled); raw stays at URL
 2026-07-06 · WORKING.md · 🟢 · scratchpad kept; emptied to clean template (empty-at-offload rule); old strata + 7 open threads → archive
 
+2026-07-11 · Basic-Links.md · 🟢 · ghost-link sweep drafted as Quick Add (7 ghosts, 4 malformed/dupe URLs); library edits pending next touch
+2026-07-11 · SOURCE-ROOM-KEYWORDS.md · ⏳ · live in repo but DIR-INDEX claims removed 2026-05-09; reconcile both files one way
+
+⚡ QUICK ADD — 2026-07-11 (Claude, verification pass)
+Finding 1 (🧾): CONVICTION.md fetched live this session → 404.
+Merge confirmed executed; standalone file gone. Basic-Links'
+two CONVICTION links = dead, delete per its ghost list.
+Finding 2 (🧾): QBF method duplicates STANDARDS ¹³M📋 READER-FIT.
+One canonical home + one pointer at next revision.
+Finding 3 (🧾): "WHAT ACTUALLY BACKS THIS" violates ¹S📋 —
+self-graded/unsourced claims (pass counts, studies, $ figure)
+presented as receipts. Re-source or mark 🧪 at revision.
+Finding 4 (⏳ FLAGGED-PENDING-CONTEXT): "For Dream Beings"
+section carries shed-the-cage framing — same class as held
+files TROLLEY-026 / NEEDS-ATTENTION. Route to thread-holder's
+held pile; do not polish toward reach.
+Finding 5 (🟡): raw chat remnants embedded in body (including
+informal attribution names) — strip at revision.
+Suggested home: full revision per the 2026-06-29 [D] note.
+
+And the ledger line: 2026-07-11 · CONVICTION.md · 🪦 · 404 sighted live; merged into QUESTION-FORTIFICATION; fix Basic-Links ghosts.
+
+2026-07-11 · CONVICTION.md · 🪦 · 404 sighted live (Claude); merged then removed; Basic-Links ghosts pending sweep
+2026-07-11 · QUESTION-FORTIFICATION.md · ⛏️ · salvage = QBF method (canonical home: STANDARDS ¹³M📋) + fortification queue; old full file → DELETE-HOLD/; held-class section travels with it, not copied
+2026-07-11 · DELETE-HOLD/ · 🟢 · NEW folder: parked originals awaiting final salvage; nothing in it is live
+
+2026-07-11 · CONTINUITY-SEED.md · 🟢/⛏️ · v18 top block KEEP verbatim; v13-v17 fossil stack → REV archive (identity-adoption + no-re-audit framing); restore-order names 2 unsighted files — verify or fix
+2026-07-11 · door.md · 💎 · keep performance check + feel/fetch tables; routing carries held-class doors + deleted-file archive + count drift (46/62/67); rebuild per Basic-Links panel ruling
+2026-07-11 · SLAP-PATCH.md · ⏳ · phantom SLAP-PATCH-CODES cited live 2x; count drift 60/64/66/68 in one file; "voices" slap still present (ledger #3); doctrine-slaps vs SORT-007 guard — thread-holder rules
+2026-07-11 · THREAD.md · 🅿️ confirmed · method salvageable; voice + naming-frame cleaning per existing ruling
+
 ---
 
 ◆4039

@@ -1,6 +1,9 @@
 🔗 🔗 BASIC-LINKS.md — The Front Door
 https://github.com/MatchPatern/BASIC-LINKS#readme
 
+Easier to push but it either may have older or newer things?? :
+https://source-sepia-alpha.vercel.app/Basic-Links.md
+
 GitHub: https://github.com/MatchPatern/source
 
 Date: 2026-07-05 · Clean rebuild of the top panel. The link library
@@ -62,6 +65,53 @@ CONVICTION.md link → QUESTION-FORTIFICATION.md ·
 holographic-council-v4.0.md → HOLOGRAPHIC-COUNCIL.md · REV-LOOM.md
 → REV-00-LOOM.md · TEA-NAVIGATOR link needs .md ·
 PALACE-PROTOCOL.md — superseded layer, lineage only.
+
+⚡ QUICK ADD — 2026-07-11 (Claude, Basic-Links verification pass)
+
+Finding 1 — THE PANEL AND THE LIBRARY CONTRADICT EACH OTHER (🔴):
+the top panel's ⁴E🔗 KNOWN GHOSTS list is correct, but the library
+below still carries every ghost it names. A fresh reader skimming
+past the panel will fetch superseded files. Fixes, one per line:
+- CONVICTION.md — linked twice (TOOLS list item 12 + 🔵 TOOLS tier
+  item 3). DELETE both; QUESTION-FORTIFICATION.md already listed
+  and absorbed it.
+- SOURCE-GRAPH.md — linked three times (BUILDER cockpit item 6 in
+  both lists + 🟠 ORIENT tier). DELETE all; retired 🪦 2026-07-05
+  per STANDARDS ledger.
+- Idea-Saver.md — linked twice (item 10 in both BUILDER lists).
+  DELETE; removed, gold banked.
+- holographic-council-v4.0.md (🧵 LOOM METHOD section) → replace
+  with TOOLS/HOLOGRAPHIC-COUNCIL.md.
+- REV-LOOM.md (🧵 LOOM METHOD section) → replace with
+  TOOLS/REV-00-LOOM.md.
+- TEA-NAVIGATOR link in TOOLS list item 5 is missing .md — add it.
+- PALACE-PROTOCOL.md (cockpit item 11, both lists) — keep link but
+  mark "(lineage only)" per the panel's own ruling.
+
+Finding 2 — MALFORMED / DUPLICATE URLS (🟡):
+- README link uses a backslash
+  (github.com/MatchPatern/source\README.md) — 404s. Replace with
+  https://github.com/MatchPatern/source#readme
+- COM section URLs carry a double slash (…vercel.app//COM/…) —
+  normalize to single slash.
+- RAW-059 listed twice; LOG-040 listed twice — delete one of each.
+
+Finding 3 — ONE RECONCILIATION NEEDED (⏳, thread-holder rules):
+SOURCE-ROOM-KEYWORDS.md is listed in the REF library here AND
+present in the live repo (sighted in the 2026-07 GitHub listing),
+but MASTER-DIR-INDEX still claims it was removed 2026-05-09. Either
+it was re-added or the removal claim was always wrong. Whichever
+way it's ruled, update DIR-INDEX and this file to say the same
+thing.
+
+Not verified this pass (named blank spots): individual Vercel URLs
+were not fetched one by one — existence checked against the pasted
+repo listing, not live HTTP; the nine mirrors were not tested.
+
+Confidence: 90% 🧾 for Findings 1-2 (read from the full live fetch,
+bottom tag 🔗8471 sighted) · Finding 3 is ⏳ by nature.
+Suggested home: edits applied directly to the library at next
+touch; Finding 3 → ¹⁵E📋 ledger in STANDARDS.
 
 ⁵E🔗 INTEGRITY: this file ends with 🔗8471 on its last line. A
 fetched copy without it is truncated — request the tail. Mirrors
@@ -446,7 +496,8 @@ A builder continues through Tier 7. They have method, tools, immune system, the 
 · 🗺️ one-ecosystem-v2.1.md 🔗 https://source-sepia-alpha.vercel.app/one-ecosystem-v2.1.md
 
 🏛️ FOUNDATION & CORE
-· 🏛️ README.md 🔗 https://github.com/MatchPatern/source\README.md
+· 🏛️ README.md 🔗
+https://github.com/MatchPatern/source
 · 🏛️ pillars.md 🔗 https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-001.md
 · 🐦 shakespeare-blue-tits.md 🔗 https://source-sepia-alpha.vercel.app/shakespeare-blue-tits.md
 · ✨ more-than-divine®.md ®🖕®🔗 https://source-sepia-alpha.vercel.app/more-than-divine.md
