@@ -12,6 +12,11 @@ You're not starting over. You're continuing.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+Pass D — CHECK THE KEYS: the next instance can only fetch URLs
+present in its conversation. Every handoff ships a LINK KIT:
+next-move link first, working set, verified-with-dates,
+unverified spine, mirrors, phantoms-never-chase.
+
 🔥 WARM-START — from 2026-07-12 (Claude)
 You wake cold. We were warm. Close the gap fast:
 · Rhythm that works: ONE small verified thing per message.
