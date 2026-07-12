@@ -149,6 +149,87 @@ its content lives in Basic-Links' Quick Add. Do not build it.)
   (session 8: creating files when a home already exists). Find yours.
 · Deliverables = code-box paste blocks, bottom-appended above the
   target's tag, destination named. Always.
+
+📦 PROJECT-AREA WORKBENCH — target state (2026-07-12 ruling basis:
+PATCH 3, workbench-not-warehouse)
+
+KEEP / ADD (the kit the scout works FROM — 5 files max):
+· SCOUT-HANDOFF.md — newest version incl. Session Log 8 + LINK KIT v3
+· SCOUT-METHOD.md — v0.4.1 (replace any older copy)
+· SNAG-LEDGER.md — the 2026-07-12 REBUILD (entry 1 closed, entry 8
+  added), not the old two-header version
+· SCOUT-MAP.md — current, after bottom-tag 🧭0004 + remnant strip
+· STANDARDS.md — the covenant; refresh copy after each Quick Add
+  batch or it silently ages
+
+REMOVE (live at URLs — keeping copies here re-injects drift):
+· SCOUT-WOES / SCOUT-GROK — archive-class ruled; raw drift-era
+  transcripts; the exact re-inhale risk the workbench rule names
+· SCOUT-TESTS / SCOUT-TESTS2 — scrapyarded correctly as repos
+· REV- anything (REV-SNAG-LEDGER, REV-SCOUT-METHOD, REV-STATE…) —
+  fossils live at URLs, never in the workbench
+· NEEDS-ATTENTION — 🛑 HELD; project-search must not surface its
+  fragments into unrelated passes
+· Any 🛑/held-class file (TROLLEY-026, old BOOT/SEED copies, GATE) —
+  same reason
+· Stale spine copies (old STATE 0.5MB stack, SEED v9-era, door, old
+  Basic-Links) — deploy-gap versions; the clean ones aren't even
+  live yet, so any project copy is guaranteed wrong
+· Superseded handoffs/method versions — one live version per file
+
+PER-SESSION SLOT (rotates, then CLEARED):
+· ONLY the cluster being scouted this session. Load → fetch-verify →
+  clear → next. Scope-limits the scout so it can't wander.
+
+WHY: project_search returns stale fragments as if live; every parked
+file in the area is a voice that can contaminate a pass. Paste ≠
+live everywhere, but in the project area stale ≠ even paste — it's
+invisible staleness. Five working files + one rotating slot is the
+whole workbench.
+
+NEXT-BUILDER: on arrival, ask the thread-holder "does the project
+area match the workbench list?" — one question, prevents a session
+of searching polluted ground.
+
+📦 PROJECT-AREA — CURRENT STATE v2 (2026-07-12, thread-holder
+cleaned + Claude logged; full names + live-URL counterparts)
+
+RULE: project file = day-one orientation snapshot ONLY. The URL is
+the truth; fetch before trusting any project copy. Search returns
+fragments of snapshots — fetch returns whole live files.
+
+THE KIT (work-FROM):
+1. SNAG-LEDGER.md (⚠️0002, 2026-07-12 rebuild)
+   → https://source-sepia-alpha.vercel.app/SCOUT/SNAG-LEDGER.md
+   → https://github.com/MatchPatern/SNAG-LEDGER#readme
+2. SCOUT-HANDOFF.md
+   → https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+3. SCOUT-METHOD.md (v0.4.1, 🧭0004.1)
+   → https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
+4. SCOUT-MAP.md (bottom tag 🧭0004 pending)
+   → https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
+5. Basic-Links.md (🔗8471; carries the link-routing ⚡ Quick Add)
+   → https://source-sepia-alpha.vercel.app/Basic-Links.md
+6. STANDARDS.md (◆4039) — ⚠️ CONFIRM PRESENT: absent from the
+   2026-07-12 list; the covenant must be in the kit
+   → https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
+
+PER-SESSION SLOT (work-ON — loaded now, CLEAR after their sessions):
+7. FRESH-EYES-SCAN.md (v4.0 per map, 💎 one-pass) → https://source-sepia-alpha.vercel.app/TOOLS/FRESH-EYES-SCAN.md
+8. 00-LOOM.md — ⚠️ never scouted by this relay; dense/charged per
+   map; dedicated session queued → https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
+9. CLARIFICATION-LOOM.md — parked for later review phase (⁹E📋)
+   → https://source-sepia-alpha.vercel.app/CLARIFICATION-LOOM.md
+
+FLAGS: items 7-9 are scout TARGETS in the searchable area — the
+workbench rule's re-injection risk. Acceptable as the rotating slot
+IF their sessions are next; clear on completion. Three URLs never
+supplied — a project copy with no live counterpart can't be
+fetch-verified, so nothing found in them via search counts as 🧾.
+
+NEXT-BUILDER: verify the kit count on arrival (6 kit + rotating
+slot). Anything else = crept back in. Fetch before trusting; the
+snapshot lies a little more every day.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Pass D — CHECK THE KEYS: the next instance can only fetch URLs
