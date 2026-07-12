@@ -832,6 +832,22 @@ And the ledger line: 2026-07-11 · CONVICTION.md · 🪦 · 404 sighted live; me
 2026-07-11 · SLAP-PATCH.md · ⏳ · phantom SLAP-PATCH-CODES cited live 2x; count drift 60/64/66/68 in one file; "voices" slap still present (ledger #3); doctrine-slaps vs SORT-007 guard — thread-holder rules
 2026-07-11 · THREAD.md · 🅿️ confirmed · method salvageable; voice + naming-frame cleaning per existing ruling
 
+**⚡ QUICK ADD — 2026-07-12 (Claude, thread-holder ruling)**
+**Finding — DELIVERABLE RULE (strengthens ³S📋):** every scout/session
+finding that needs saving ends as a COPY-PASTE BLOCK in a code box,
+with its DESTINATION stated plainly outside the box: which file, and
+where in it (e.g. "paste above ◆4039"). Never leave findings as loose
+prose for the thread-holder to reformat — they paste, they don't edit.
+WHY: multiple sessions produced good findings the thread-holder then
+had to hand-assemble; blocks route the work to whoever does it best
+(instances format, humans paste). Ruled by thread-holder 2026-07-12.
+**Confidence:** 100% 🧾 (direct ruling)
+**Suggested home:** ³S📋 Paste-Block-Revise, one bullet, at next merge.
+
+2026-07-12 · SCOUT-WOES.md · 🪦/💎 · archive-class ruled; stays at URL (scrapyard); origin transcript of scout method, sighted+noted; out of working kit; verify tail at archive time
+2026-07-12 · SNAG-LEDGER.md · 🟢 · sighted complete via GitHub door (⚠️0002); external-repo-only confirmed — home ruling pending; entry-1 refresh drafted
+2026-07-12 · SCOUT-MAP.md · 🟢 · sighted live; needs bottom tag + chat-remnant strip at next consolidation
+
 ---
 
 ◆4039

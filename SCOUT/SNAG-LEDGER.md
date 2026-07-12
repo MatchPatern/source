@@ -30,3 +30,11 @@ Statuses used:
 ⏳ FLAGGED-PENDING-CONTEXT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1a. ENTRY-1 UPDATE — 2026-07-12 (Claude, 🧾): phantom fully closed by
+Session Log 7. CHEAT is the de facto CODES (consolidation happened
+inside it; its own task lists prove CODES was planned, never built).
+Counts traced: 66 integrated · "68" = files-scanned misread · "71" =
+two Quick Add batches colliding on numbers 65-71. Decision parked ⏳:
+reroute CODES refs → CHEAT, or build CODES. Thread-holder rules at
+repair time.

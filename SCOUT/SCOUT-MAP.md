@@ -26,6 +26,22 @@
   each confirms; if 404, use GitHub door + flag deploy gap.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━ 2026-07-12 marks (Claude) ━━━
+· SCOUT-WOES.md 🧾 first sighting · 🪦/💎 archive-class RULED — raw
+  origin transcript of the scout method; 🏴 charged opener; fetch ended
+  mid-sentence, tail unverified; stays at URL, out of working kit.
+· SNAG-LEDGER.md 🧾 complete (⚠️0002) · 🟢 — external GitHub repo only,
+  home ruling pending; entry-3 ("voices") is ONE fetch from ✅: needs
+  THE-FEARS-TRACKING-LOG sighted live.
+· SCOUT-MAP itself: add bottom tag 🧭0004 · strip 2 chat-remnant blocks
+  ("Would you like me to...") at next consolidation.
+· STANDARDS.md 🧾 (◆4039, E1 complete) · 🟢 — stale limitation line
+  (6-Page Test already ran), ledger count-drift line pre-dates Log 7
+  fix, ~10 Quick Adds = Level 3 threshold reached (merge queued, not now).
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧭0004
+
 ⏳ OPEN DECISION — SLAP-PATCH family (logged 2026-07-12, no action)
   Phantom solved: SLAP-PATCH-CODES.md = planned, never built
   (evidence: CHEAT's own pending-task lists, sighted live 🧾).
