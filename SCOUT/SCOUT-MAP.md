@@ -697,3 +697,16 @@ rules. Does NOT transfer to 027 (wrong-target guard).
 NEXT-BUILDER: slot = UPDATE-PROTOCOL (raw key, watch truncation)
 · 00-LOOM own session. CLARIFICATION-LOOM clears slot after
 ruling noted.
+
+⚡ QUICK ADD — 2026-07-12 (s9 scout) — paste at BOTTOM of
+SCOUT-MAP.md
+🧾 UPDATE-PROTOCOL raw-door tested: ~65k delivered, cut at same
+region as Vercel — TAIL UNREAD by all doors. FETCH-LIMIT
+RE-MEASURED (this relay's tool): raw ≈ Vercel ≈ 65k; 29k raw
+figure = stale; repo#readme still the 75k door. ⚔️ Links
+Standard v1.2 corrections before Basic-Links paste: UPDATE-
+PROTOCOL IS Vercel-served (🧾×2, its "❌ No" row wrong) · "raw
+always best" contradicted by measurement. Tail options parked:
+paste tail / paste blob URL / SPLIT. Thread-holder rules.
+NEXT-BUILDER: Updater body findings already logged (prev block);
+tail is the only blank. 00-LOOM still own-session.

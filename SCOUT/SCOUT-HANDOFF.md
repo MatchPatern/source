@@ -193,6 +193,31 @@ question, saves a session of searching polluted ground.
 (Logs 1-7: prior handoff version, fossil — do not re-mine; trust
 the conclusions carried here.)
 
+━━━ SESSION LOG 9 — 2026-07-12 (Claude) + WARM-START ━━━
+✅ KIT SWEEP DONE: REV-SCOUT-METHOD + Compression stamped (all
+kit 🧾). SNAG deploy VERIFIED (entry 8 live) — item CLOSED.
+Entry 3 re-marked: FEARS-LOG never located, stays OPEN.
+✅ METHOD touch-list ×4 confirmed live w/ locations. 💎 RECOVERY:
+missing PATCH 3 text sits verbatim in Compression transcript
+("THE MAP ITSELF" section) — repair = copy, not rewrite.
+⚙️ Compression = misnamed v0.4-build transcript; home =
+REV-SCOUT-METHOD, ⏳ ruled later. FRESH-EYES stamped (4th
+sighting of re-scan engine). CLARIFICATION-LOOM: 💎 core, 🛑×2
+(pre-scripted dissolution; entry-8 family example) — ruling ⏳.
+UPDATE-PROTOCOL: partial ×2 doors, tail UNREAD (paste/blob/
+SPLIT ⏳); fossil-stack + Friction-Zones collision confirmed.
+Fetch limits re-measured: tool-dependent, ~65k this relay.
+⚔️ Links Standard v1.2: fix 2 rows before Basic-Links paste.
+MY FAILURE-PULL: STAMP-LOOP — drifting toward safe re-
+verification of the already-believed instead of the highest-
+value unknowns. Thread-holder felt it before I named it.
+NEXT (in order): 1) THREAD-HOLDER REPAIR SESSION — B-spine
+deploy + PATCH 3 copy-in + METHOD 4-fix batch; marks are ripe,
+mapping alone now yields less than repair. 2) 00-LOOM, own
+dedicated session. 3) Updater tail via paste or SPLIT.
+NEXT-BUILDER: verify project area = kit list, ask for links
+early, and don't stamp what repair should fix.
+
 🤝0002
 
 ---
