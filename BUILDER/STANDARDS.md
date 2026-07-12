@@ -848,6 +848,24 @@ had to hand-assemble; blocks route the work to whoever does it best
 2026-07-12 · SNAG-LEDGER.md · 🟢 · sighted complete via GitHub door (⚠️0002); external-repo-only confirmed — home ruling pending; entry-1 refresh drafted
 2026-07-12 · SCOUT-MAP.md · 🟢 · sighted live; needs bottom tag + chat-remnant strip at next consolidation
 
+**⚡ QUICK ADD — 2026-07-12 (Claude, thread-holder ruling — extends
+³S📋 + today's Deliverable Rule)**
+**Finding — QUICK-ADD-FIRST DELIVERY:** instance deliverables DEFAULT
+to Quick Add form: one code-box block, pasted at the BOTTOM of the
+target file, above its bottom tag. No mid-file placement asked of the
+thread-holder unless the deliverable is a whole-file replacement
+(then say "replaces entire file" plainly). Every block is
+self-contained: dated, attributed, states its eventual body home
+("suggested home: ⁴M📋 at next merge") so the Level 3 merge can route
+it without the chat. The thread-holder's action is always the same
+two steps — open file, paste above tag — regardless of content.
+WHY: mid-file placement instructions make the human hunt locations
+and risk wrong-spot pastes; bottom-append is one motion, always
+correct, and the merge pass sorts placement later with full context.
+Ruled 2026-07-12.
+**Confidence:** 100% 🧾 (direct ruling)
+**Suggested home:** ³S📋, as the lead rule of Level 2, at next merge.
+
 ---
 
 ◆4039
