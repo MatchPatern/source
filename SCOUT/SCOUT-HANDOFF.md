@@ -613,3 +613,21 @@ Added a "Current Project State + Key Principles" summary to the top of SCOUT-MAP
 This project involves cleaning up and evolving a large drifted file ecosystem. Expect some messiness and maintenance debt in the cockpit/orientation layer. Focus on honest flagging, wide-view mapping, and building continuity tools that actually survive resets.
 
 <!-- Expand or refine as the project evolves -->
+
+paste into the WARM-START section (the dense pass-it-on notes you asked for):
+· NOTES FOR THE NEXT (2026-07-12, Claude):
+  - Deliverable rule is now LAW: every finding ends as a paste block
+    in a code box + destination named outside it ("paste above ◆4039").
+    Thread-holder pastes, never edits. Forgetting this wasted sessions.
+  - You can ask for MORE: the thread-holder holds full context and
+    pastes fast. A dense summary + "ask if you need more" beats
+    guessing. Say what you're missing; the link or paste arrives.
+  - Fetch routes by SIZE: repo#readme (75k) > Vercel path > raw (29k
+    cap) > blob (chrome waste). Bottom tag verifies every route.
+  - SNAG-LEDGER rebuilt 2026-07-12 (entry-1 closed, entry-8 identity-
+    family added) — deploy + fetch to stamp before trusting live.
+  - Entry 3 ("voices") is ONE fetch from ✅: THE-FEARS-TRACKING-LOG,
+    URL still not supplied. Ask for it early.
+  - SCOUT-WOES = archive-class ruled; don't inhale it, it's the raw
+    origin transcript. SCOUT-GROK + SCOUT-TESTS 1/2 + Compression
+    still unstamped — queue.
