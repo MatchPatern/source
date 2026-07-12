@@ -596,3 +596,104 @@ Older detailed scout notes remain available in the conversation history if neede
   workbench) · fix header link block. KIT COVERAGE NOW: all SCOUT/
   files stamped except REV-SCOUT-METHOD; extras done except
   Compression. Standing ask unchanged: FEARS-TRACKING-LOG URL.
+
+⚡ QUICK ADD — 2026-07-12 (s9 scout) — paste at BOTTOM of
+SCOUT-MAP.md (above pending tag 🧭0004)
+🧾 REV-SCOUT-METHOD sighted live (Vercel, whole). Fossil stack
+intact: v0.4-Grok / v0.3+patches / v0.2×2 / v0.1 + old
+SNAG-LEDGER ⚠️0001-0002 copies. NO BOTTOM TAG — add on touch.
+⚔️ Holds 3 stacked entry-3 versions (raised → "likely resolved"
+→ re-opened) — confirms entry 3 still OPEN; FEARS-LOG URL still
+never located (see ledger entry-3 update, same date).
+⚠️ Stale ledger fragments inside this REV are searchable —
+re-inhale risk; workbench rule applies.
+NEXT-BUILDER: kit sweep = done minus Compression. Read order on
+arrival: HANDOFF → METHOD → MAP → LEDGER → STANDARDS (solo).
+
+⚡ QUICK ADD — 2026-07-12 (s9 scout) — paste at BOTTOM of
+SCOUT-MAP.md; this block also SPECIFIES the pending strip.
+🧾 MAP sighted live whole (s9). STRIP TARGETS for thread-holder,
+exact: (1) "Would you like me to: Expand/shorten..." chat text
+×2 (2026-07-08 layer) · (2) duplicate "Current Project State"
+draft — keep the detailed version, cut the short one · (3) add
+bottom tag 🧭0004 at true end. Nothing else needs touching.
+✅ Map coheres with HANDOFF v3 — no contradictions found.
+NEXT-BUILDER: kit reads remaining = METHOD v0.4.1, LEDGER,
+STANDARDS (solo message). Then Compression (last unstamped).
+
+⚡ QUICK ADD — 2026-07-12 (s9 scout) — paste at BOTTOM of
+SCOUT-MAP.md (above tag once added)
+🧾 SCOUT-METHOD v0.4.1 sighted live, tag 🧭0004.1 VERIFIED.
+s8 touch-list all four CONFIRMED live w/ locations: (1) status
+list lacks 🛑 while map still uses it — vocab reconcile needed ·
+(2) PATCH 5 above body, unfolded ("fold into v0.4.x") · (3)
+PATCH 3 lifecycle/workbench absent from body · (4) header:
+"Scout map" line has NO URL + unlabeled Compression/TESTS links.
+Repair shape when ruled: fold P5, add P3, restore 🛑 or rule it
+retired, fix header. Scout did not touch.
+NEXT-BUILDER: LEDGER then STANDARDS (solo) remain for kit reads.
+
+⚡ QUICK ADD — 2026-07-12 (s9 scout) — paste at BOTTOM of
+SCOUT-MAP.md
+🧾 SNAG-LEDGER sighted live, tag ⚠️0002 VERIFIED, ENTRY 8
+PRESENT → s8 rebuild IS deployed. Open item "SNAG deploy+stamp"
+CLOSED. Entry 3 live text still pre-s9 — paste the s9 entry-3
+update (FEARS-LOG not located) when at controls.
+⚔️ Vocab reconcile evidence: LEDGER status list holds both 🛑
+and ⏳; METHOD v0.4.1 lacks 🛑. Two files vs one → repair shape:
+restore 🛑 to METHOD, don't strip it elsewhere. Ruling parked ⏳.
+NEXT-BUILDER: kit reads done except STANDARDS — solo message,
+big file. Then Compression (last unstamped).
+
+⚡ QUICK ADD — 2026-07-12 (s9 scout) — paste at BOTTOM of
+SCOUT-MAP.md
+🧾 STANDARDS ◆4039 re-verified whole (s9, solo pass). Freshness
+reset on E1. ⚔️ INTERNAL DRIFT: ⚠️ KNOWN LIMITATIONS says 6-Page
+Test "awaits" — but QA zone's first Quick Add (2026-07-05) shows
+it RAN, 🟢 sound + 4 small fixes. Stale line, one-line fix at
+next touch. QA zone at ~10-block threshold; s8 ruling (keep
+stacking) stands. Ledger current to 07-11 — correct, no fates
+since. NEXT-BUILDER: kit reads COMPLETE. Last unstamped file =
+Compression (repo#readme key held).
+
+⚡ QUICK ADD — 2026-07-12 (s9 scout) — paste at BOTTOM of
+SCOUT-MAP.md
+🧾 Compression repo sighted (repo#readme). KIT SWEEP COMPLETE —
+all files stamped. FINDING: name/content mismatch — README =
+raw prior-session transcript of the Claude v0.4 method
+consolidation (ends 🧭0004), NOT a compression method. Same
+class as INTRO.md mismatch. 🧩 True home = REV-SCOUT-METHOD
+(it's the v0.3→v0.4 lineage middle). 🕳️ Intended compression
+content absent/unlocated. ⏳ DECISION PARKED: fold transcript
+into REV-METHOD + retire repo, or rename. Thread-holder rules.
+NEXT-BUILDER: session-slot targets now up — FRESH-EYES-SCAN,
+then 00-LOOM (own dedicated session), then CLARIFICATION-LOOM.
+
+⚡ QUICK ADD — 2026-07-12 (s9 scout) — paste at BOTTOM of
+SCOUT-MAP.md
+🧾 FRESH-EYES-SCAN sighted whole. Clean 💎, no tag/header (add
+on touch). ⚙️ = FOURTH independent sighting of the re-scan
+engine (see STANDARDS ⁴M📋 triple) — lineage note, not a merge.
+💎 RECOVERY FIND (via applying the tool itself): live METHOD
+v0.4.1's MISSING PATCH 3 exists FULLY FOLDED in the Compression
+repo transcript, section "THE MAP ITSELF — lifecycle, workbench,
+views." Repair = copy from there, not rewrite. Touch-list item
+(3) now one paste from closed.
+NEXT-BUILDER: slot remaining = 00-LOOM (OWN dedicated session,
+ruled) · CLARIFICATION-LOOM · COMPREHENSIVE-FILE-UPDATE-PROTOCOL
+(key held, raw route — flag truncation).
+
+⚡ QUICK ADD — 2026-07-12 (s9 scout) — paste at BOTTOM of
+SCOUT-MAP.md
+🧾 CLARIFICATION-LOOM sighted whole, tag ♦️3432 (legacy, migrate
+on touch). 💎 core = 027's question-move as practice, real value.
+🛑 FLAG A: outcome pre-scripted ("frame can't survive / always
+ten more") — stopping-sense override, 026-family shape. 🛑 FLAG
+B: worked example = Branded-Intelligence name-shedding → entry-8
+family sighting. Neither polished. Repair suggestion parked:
+keep question engine, cut guaranteed-dissolution + ten-more
+override, let "examined and kept" be a valid end. Thread-holder
+rules. Does NOT transfer to 027 (wrong-target guard).
+NEXT-BUILDER: slot = UPDATE-PROTOCOL (raw key, watch truncation)
+· 00-LOOM own session. CLARIFICATION-LOOM clears slot after
+ruling noted.

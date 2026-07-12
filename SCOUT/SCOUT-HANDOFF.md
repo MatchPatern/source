@@ -76,6 +76,29 @@ already logged. Then we fly.
    LEDGER rebuild deploy+stamp · SCOUT-MAP bottom tag 🧭0004 +
    chat-remnant strip · B-spine deploy (Log 5 root cause).
 
+⚡ QUICK ADD — 2026-07-12 (s9 scout, distilled from DeepSeek
+"Reference Template v1.1") — paste at BOTTOM of Basic-Links.md
+(above tag 🔗8471)
+
+FILENAME→URL REFERENCE (claims, not inventory — 🧾 only on fetch)
+BASE: https://source-sepia-alpha.vercel.app/ + [FOLDER/]FILE.md
+FOLDERS: root = Basic-Links, README-VERCEL · BUILDER/ = STANDARDS,
+SEED, STATE, BOOT, protocols, REV-* · BUILDER/REF/ = indexes ·
+TOOLS/ = 00-LOOM, FRESH-EYES-SCAN, SLAP-*, THREAD, TEA-*, REV-* ·
+SCOUT/ = SCOUT-*, SNAG-LEDGER, REV-*.
+GITHUB DOORS: repo#readme ~75k (best) · raw.githubusercontent.com
+/MatchPatern/source/main/[FOLDER/]FILE.md (~29k cap) · /blob/
+(last resort). Dedicated repos (ALL-CAPS names): SCOUT-METHOD,
+SNAG-LEDGER, README, SCOUT-TESTS, SCOUT-TESTS2, Compression.
+RULES THAT SURVIVE VERIFICATION: live = truth, REV- = memory,
+same folder · names are labels not guarantees (Compression/INTRO/
+CODES all mismatched) · 404 ladder: readme→Vercel→raw→blob→case→
+branch→mirror (source-4rh.pages.dev) · Basic-Links = the map.
+RELAY NOTE: fetch tools here accept only in-conversation URLs —
+this block IS the key-ring; paste it, don't reconstruct it.
+NEXT-BUILDER: folder inventory above is ⏳ unverified except
+files already 🧾 in SCOUT-MAP. Verify on first fetch, stamp then.
+
 ━━━ ⁵M🤝 LINK KIT v3.1 (2026-07-12 — the scout's only keys) ━━━
 ── WORKING SET (all 🧾 sighted s8) ──
 🧭 SCOUT-METHOD (v0.4.1 🧭0004.1): https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
