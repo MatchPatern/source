@@ -866,6 +866,27 @@ Ruled 2026-07-12.
 **Confidence:** 100% 🧾 (direct ruling)
 **Suggested home:** ³S📋, as the lead rule of Level 2, at next merge.
 
+⚡ QUICK ADD — 2026-07-12 (Claude, corrects the "IA-native links" note)
+FETCH ROUTES FOR INSTANCES — tested order, big files first:
+1. repo#readme (github.com/User/Repo#readme) — ~75k chars, the BIG
+   door. Default for any file that has its own repo.
+2. Vercel direct path (site.vercel.app/FOLDER/FILE.md) — full clean
+   file when deployed; subject to deploy lag (🧾 can be pre-push
+   stale).
+3. raw.githubusercontent.com — pure text, zero chrome, BUT truncates
+   ~29K chars in-tool. Small files only.
+4. blob (github.com/.../blob/...) — works, arrives wrapped in heavy
+   GitHub chrome that wastes instance context. Last resort / humans.
+VERIFY any route by the file's bottom tag, always.
+CORRECTION LOGGED: an earlier note ranked raw first for instances —
+wrong for large files given the ~29k truncation. Route by SIZE, not
+purity. Grok's kept insight: blob chrome is real waste (confirmed
+live 2026-07-12, REV-SNAG-LEDGER fetch).
+Confidence: 90% 🧾 (traps field-recorded + one live confirmation;
+platforms change — re-test when fetches fail)
+
+2026-07-12 · TOOLS/LINKS-STANDARD.md · 🟢 · expanded edition ruled in + fetch-route correction Quick Add (route by size, raw truncates ~29k); deploy + fetch to stamp
+
 ---
 
 ◆4039
