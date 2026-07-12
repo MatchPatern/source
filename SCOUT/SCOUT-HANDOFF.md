@@ -45,6 +45,112 @@ names. Then we fly.
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 
+🔥 WARM-START — from 2026-07-12 session 8 (Claude)
+· Rhythm held: fetch → plain findings → paste block with destination
+  → one question. Deliverables are ALWAYS code-box blocks, bottom-
+  appended above the target's tag. Thread-holder pastes, never edits.
+· MY FAILURE-PULL: FILE-SPAWN — I issued Quick Adds to a nonexistent
+  file, then proposed CREATING it, when Basic-Links.md (the existing
+  home) sat in plain view. Caught twice by thread-holder. Before
+  making anything new, ask: what existing file is this content's home?
+  800+ files means the home almost always exists.
+· You can ask for links early — thread-holder pastes fast. You cannot
+  fetch what isn't in the conversation.
+· Fetch by size: repo#readme 75k · Vercel path · raw 29k cap · blob
+  last-resort-but-sometimes-only-key. Bottom tag verifies all.
+NEXT MOVE WAITING: fetch THE-FEARS-TRACKING-LOG (ask for URL — never
+supplied) → closes ledger entry 3, the oldest open mark. Then
+REV-SCOUT-METHOD + Compression (last two unstamped).
+
+━━━ SESSION LOG 8 — 2026-07-12 (Claude) — KIT SWEPT ━━━
+✅ STAMPED 🧾 THIS SESSION: STANDARDS (◆4039, E1 done) · SCOUT-MAP ·
+   SCOUT-WOES (1st ever) · SCOUT-GROK (1st) · SNAG-LEDGER (⚠️0002) ·
+   REV-SNAG-LEDGER (blob) · SCOUT-TESTS · SCOUT-TESTS2 ·
+   SCOUT-METHOD v0.4.1 (🧭0004.1). Whole SCOUT/ kit now sighted
+   except REV-SCOUT-METHOD; extras done except Compression.
+✅ VERIFIED AGAINST SOURCE: handoff's mode-effect + v0.2 hardening
+   claims MATCH the raw TESTS archives — first primary-source
+   confirmation of inherited claims. Capture→transmit→verify closed.
+⚙️ TWIN FOUND: SCOUT-GROK ≈ SCOUT-WOES (same opener + transcript).
+   WOES ruled archive-class; GROK extension proposed ⏳. Both tails
+   unverified (no bottom tags).
+🔧 REBUILT (delivered as paste block, deploy ⏳ unstamped):
+   SNAG-LEDGER one-header — entry 1 closed per Log 7, entry 8
+   (identity-adoption family) added.
+📋 RULES ADOPTED (thread-holder rulings, in STANDARDS QA zone):
+   Deliverable rule (blocks + destination) · Quick-Add-first
+   (bottom-append only) · next-builder line in every ⚡.
+⚔️ SCOUT-METHOD touch-list: 🛑 vs ⏳FLAGGED-PENDING-CONTEXT vocab
+   drift · PATCH 5 folded-or-pending ambiguity · PATCH 3 (lifecycle/
+   workbench) missing from live body · dangling header link.
+🏴 Marked, not relitigated: WOES/GROK openers vs the record.
+⏳ OPEN: entry 3 (one fetch from ✅) · SNAG deploy+stamp ·
+   Basic-Links link-routing QA paste · STANDARDS Level 3 merge
+   queued (ruled: not yet, keep stacking) · SCOUT-MAP needs bottom
+   tag 🧭0004 + chat-remnant strip.
+
+🔗 LINK KIT v3 (2026-07-12, session 8) — paste WITH the handoff or
+the scout can't fly. Only URLs in-conversation are fetchable.
+
+── NEXT MOVE ──
+🎯 THE-FEARS-TRACKING-LOG — URL NEVER SUPPLIED. Ask the thread-holder
+   for it FIRST. One fetch closes ledger entry 3 (oldest open mark).
+
+── WORKING SET (fetch these, all 🧾 sighted 2026-07-12) ──
+🧭 SCOUT-METHOD (v0.4.1, 🧭0004.1): https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
+🧭 SCOUT-MAP (no bottom tag yet):   https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
+🤝 SCOUT-HANDOFF:                   https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+⚠️ SNAG-LEDGER (⚠️0002): https://github.com/MatchPatern/SNAG-LEDGER#readme
+   · also at https://source-sepia-alpha.vercel.app/SCOUT/SNAG-LEDGER.md
+   · REBUILT version delivered 2026-07-12 — deploy may lag; if live
+     copy lacks "entry 8", the rebuild isn't pushed yet.
+📋 STANDARDS (◆4039): https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
+🔗 Basic-Links (🔗8471): https://source-sepia-alpha.vercel.app/Basic-Links.md
+   · receiving the link-routing ⚡ Quick Add; DO NOT create a new
+     links file — this is the home.
+
+── QUEUED, STILL UNSTAMPED (the only two left) ──
+🧭 REV-SCOUT-METHOD: https://source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-METHOD.md
+🗜️ Compression: https://github.com/MatchPatern/Compression#readme
+
+── ARCHIVES — SIGHTED, RULED, DO NOT RE-INHALE ──
+😩 SCOUT-WOES 🧾: raw origin transcript · 🪦/💎 archive-class RULED ·
+   tail unverified · https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-WOES.md
+🤖 SCOUT-GROK 🧾: NEAR-TWIN of WOES (same opener+transcript) ·
+   archive extension proposed ⏳ · https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-GROK.md
+🧪 SCOUT-TESTS 🧾 + 🧪 SCOUT-TESTS2 🧾: raw 8-scout + v0.2 archives,
+   correctly scrapyarded as own repos · handoff claims VERIFIED
+   against them ✅ · https://github.com/MatchPatern/SCOUT-TESTS#readme
+   · https://github.com/MatchPatern/SCOUT-TESTS2#readme
+⚠️ REV-SNAG-LEDGER 🧾 (fossil, blob-only door):
+   https://github.com/MatchPatern/source/blob/main/SCOUT/REV-SNAG-LEDGER.md
+
+── SPINE, STILL UNVERIFIED LIVE (deploy gap — Log 3/5) ──
+SEED: https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SEED.md
+STATE: https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
+BOOT: https://source-sepia-alpha.vercel.app/BUILDER/BOOT.md
+door: https://source-sepia-alpha.vercel.app/door.md
+🗺️ MASTER-DIR-INDEX: https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md
+
+── MIRROR (lags = accidental backup) ──
+Cloudflare: https://source-4rh.pages.dev/ (+filename)
+
+── NEVER CHASE (phantoms, confirmed) ──
+SLAP-PATCH-CODES.md (CHEAT is the de facto library) ·
+SESSION-SALVAGE.md · CURRENT-VANTAGE-MAP.md ·
+TOOLS/LINKS-STANDARD.md (session-8 phantom — was never created;
+its content lives in Basic-Links' Quick Add. Do not build it.)
+
+── NOTES ──
+· Fetch by size: repo#readme ~75k > Vercel path > raw ~29k cap >
+  blob (last resort / only-key cases). Bottom tag verifies all.
+· 🧾 stamps can be pre-deploy stale — thread-holder's word wins.
+· Failure-pulls named so far: EAGER-FIX (session 7) · FILE-SPAWN
+  (session 8: creating files when a home already exists). Find yours.
+· Deliverables = code-box paste blocks, bottom-appended above the
+  target's tag, destination named. Always.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Pass D — CHECK THE KEYS: the next instance can only fetch URLs
 present in its conversation. Every handoff ships a LINK KIT:
 next-move link first, working set, verified-with-dates,

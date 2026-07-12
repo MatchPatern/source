@@ -585,4 +585,14 @@ Older detailed scout notes remain available in the conversation history if neede
 
 → Paste your older pass logs and historical content below this line
 
+· SCOUT-GROK.md 🧾 2026-07-12 — ⚙️ near-twin of SCOUT-WOES (same
+  opener + transcript). Archive-class extension proposed. Tails of
+  both unverified (fetch-truncated, no bottom tags). Kit note: SCOUT/
+  working folder currently holds TWO raw drift-era transcripts.
 
+· SCOUT-METHOD 🧾 2026-07-12 — v0.4.1 live, sound. Touch-list: unify
+  🛑 vs ⏳FLAGGED-PENDING-CONTEXT (one term one meaning) · resolve
+  PATCH 5 folded-or-pending · locate/restore PATCH 3 (lifecycle +
+  workbench) · fix header link block. KIT COVERAGE NOW: all SCOUT/
+  files stamped except REV-SCOUT-METHOD; extras done except
+  Compression. Standing ask unchanged: FEARS-TRACKING-LOG URL.

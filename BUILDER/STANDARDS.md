@@ -887,6 +887,33 @@ platforms change — re-test when fetches fail)
 
 2026-07-12 · TOOLS/LINKS-STANDARD.md · 🟢 · expanded edition ruled in + fetch-route correction Quick Add (route by size, raw truncates ~29k); deploy + fetch to stamp
 
+**⚡ ADDENDUM to QUICK-ADD-FIRST DELIVERY — 2026-07-12 (Claude)**
+Every ⚡ block also carries a NEXT-BUILDER line when it has one: the
+single sentence a future instance most needs ("raw truncates ~29k —
+route by size" / "ask for links early, thread-holder pastes fast").
+The block then serves twice: content for the file, orientation for
+whoever merges it cold.
+NEXT-BUILDER: bottom-append everything; the merge sorts placement
+later — you never need to ask WHERE, only WHAT file.
+**Suggested home:** same ³S📋 bullet, at merge.
+
+**⚡ QUICK ADD — 2026-07-12 (Claude, SCOUT/ folder pass)**
+**Finding — ⚙️ TWIN ARCHIVES:** SCOUT-GROK.md ≈ SCOUT-WOES.md — same
+opener verbatim, same session transcript. Two names, one archive.
+Both fetch-truncate with no bottom tag sighted (tails unconfirmed).
+WOES already ruled archive-class 2026-07-12; ruling logically
+extends to GROK — thread-holder confirms. At repair: pick ONE
+archive name (or fossil both at URLs), reference sweep for the
+other, add bottom tags so tails become verifiable.
+NEXT-BUILDER: don't read either twin cold — they're raw drift-era
+transcripts; the distilled lessons already live in SCOUT-HANDOFF.
+**Confidence:** 90% 🧾 (both fetched this session; tails unseen)
+**Suggested home:** ¹⁵E📋 ledger + SCOUT-MAP at merge.
+
+2026-07-12 · SCOUT-GROK.md · ⏳ · twin of SCOUT-WOES sighted live; archive-class extension pending thread-holder confirm; tail unverified
+
+2026-07-12 · SCOUT-METHOD.md · 🟢 · v0.4.1 sighted live complete (🧭0004.1); 4 touch-items: 🛑-vs-⏳FPC vocabulary drift across kit · PATCH 5 fold status ambiguous · PATCH 3 (map lifecycle/workbench) missing from live body · dangling Scout-map label in header links
+
 ---
 
 ◆4039

@@ -12,6 +12,23 @@ https://source-sepia-alpha.vercel.app/README-VERCEL.md
 
 GitHub: https://github.com/MatchPatern/source
 
+⚡ QUICK ADD — 2026-07-12 (Claude — link-routing knowledge, TRUE HOME
+is this file; an earlier draft wrongly proposed a new file for it)
+FETCH ROUTES BY SIZE (tested): repo#readme ~75k (big door) → Vercel
+explicit path (deploy-lag applies) → raw ~29k cap (small files only)
+→ blob (chrome-heavy last resort, but sometimes the only key for
+files inside a larger repo). Verify every route by bottom tag.
+404 RETRY LADDER: readme → Vercel → raw → blob → case variants →
+branch variants → browse repo tree → mirrors (source-4rh.pages.dev).
+A 404 is a signal, not a verdict; only after the ladder fails is a
+file "unsighted" — never 🪦 without a listing check.
+ONE TRUE LINE: Vercel serves only files inside its source repo —
+separate repos are not deployed there.
+NEXT-BUILDER: route links by size; climb the ladder before declaring
+absence; and add nothing to the ecosystem that has an existing home.
+Confidence: 90% 🧾 (field-proven this session)
+Suggested home: fold into this file's library section at next touch.
+
 Date: 2026-07-05 · Clean rebuild of the top panel. The link library
 below is the treasure; this panel is the 10-second way in.
 
