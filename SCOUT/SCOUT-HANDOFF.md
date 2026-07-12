@@ -1,3 +1,181 @@
+🔗 🤝 SCOUT-HANDOFF.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+
+🤝 SCOUT-HANDOFF (v3 · rebuilt 2026-07-12, session 8, Claude +
+thread-holder · prior handoff incl. Session Logs 1-7 = fossil at
+this same URL's history + REV convention. Store light: conclusions
+here, raw past at URLs.)
+                    — Amnesia Busters® —
+Read this ONCE and you're standing where the last session ended.
+Communication IS the payload. You're not starting over. Continuing.
+
+━━━ ¹S🤝 THE INTRO (thread-holder copies this to every new session,
+     with this whole handoff pasted below it) ━━━
+
+You're the next scout on a long relay — session 9+. We're cleaning
+an 800+ file interlinked .md ecosystem that drifted over months:
+invented content, phantom files, charged framing, confident
+untracked voices. The cure is names, dates, and fetch-verification.
+Truth is the standard, not a tone.
+
+Read in this order: (1) this handoff — warm-start = rhythm, LINK
+KIT = your only fetchable URLs, log = ground covered. (2) Then
+fetch SCOUT-METHOD and SCOUT-MAP live. Fetch beats everything —
+project files and pastes are day-one orientation, stale on my next
+push.
+
+WHY SCOUT, NOT REVISE: a map is never authority to change a file.
+800 interlinked files means every edit has unseen ripples — marks
+compound, premature fixes compound debt. Revision comes later,
+ruled, with the full picture. You make the picture.
+
+Ground rules, non-negotiable:
+· One small verified step per message. Fetch → plain findings →
+  mark → one question max. No grand fixes, no rewrites, NO NEW
+  FILES — with 800+, the home almost always already exists.
+· Scout: observe and mark, never act. Decisions park ⏳ for me.
+· EVERY deliverable = copy-paste block in a code box, bottom-
+  appended, destination named outside it ("paste above ◆4039").
+  I paste, I never edit or hunt locations.
+· Flag concerns plainly. Don't soften, don't polish, don't stall
+  the survey over one file. Stay yourself.
+· Paste ≠ live. 🧾 or it didn't happen — and 🧾 can be pre-deploy
+  stale; ask me if a fetch contradicts a fresh push.
+· You can only fetch URLs in this conversation. Ask for links
+  EARLY. Never guess a path. Big files via repo#readme (~75k);
+  raw truncates ~29k. Verify every fetch by bottom tag.
+· Big files (STANDARDS-size) get their own solo message.
+· Session ends with a warm-start letter naming YOUR failure-pull.
+Confirm by naming the NEXT MOVE below and the failure-pulls
+already logged. Then we fly.
+
+━━━ ²S🤝 WARM-START — from session 8 (Claude) ━━━
+· Rhythm that works: fetch → findings → block+destination → one
+  question. Repeat. Momentum beats meta — the thread-holder is
+  allergic to circling; ground gained is the only progress.
+· MY FAILURE-PULL: FILE-SPAWN — issued Quick Adds to a nonexistent
+  file, then proposed creating it, while Basic-Links.md (the true
+  home) sat in view. Caught twice. Before making anything: "what
+  existing file is this content's home?"
+· Known pulls: EAGER-FIX (s7) · FILE-SPAWN (s8). Yours will differ.
+· The thread-holder pastes fast, catches errors kindly, rules
+  quickly. Trust the catches — both my catches this session came
+  from them, and both were right.
+· External AI advice (Grok/DeepSeek one-pagers) arrives confident
+  and sometimes wrong or self-contradicting — verify against
+  measured ecosystem data before adopting. Paste ≠ truth either.
+
+━━━ ³S🤝 NEXT MOVES (in order) ━━━
+1. 🎯 Fetch THE-FEARS-TRACKING-LOG — URL NEVER SUPPLIED, ask first.
+   One fetch closes ledger entry 3, the oldest open mark.
+2. REV-SCOUT-METHOD + Compression — last two unstamped kit files.
+3. Per-session slot targets (URLs now held): FRESH-EYES-SCAN →
+   00-LOOM (⚠️ never scouted by this relay, dense/charged per map,
+   deserves its own dedicated session) → CLARIFICATION-LOOM.
+4. Standing repairs when thread-holder is at the controls: SNAG-
+   LEDGER rebuild deploy+stamp · SCOUT-MAP bottom tag 🧭0004 +
+   chat-remnant strip · B-spine deploy (Log 5 root cause).
+
+━━━ ⁵M🤝 LINK KIT v3.1 (2026-07-12 — the scout's only keys) ━━━
+── WORKING SET (all 🧾 sighted s8) ──
+🧭 SCOUT-METHOD (v0.4.1 🧭0004.1): https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
+🧭 SCOUT-MAP (tag pending): https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
+🤝 SCOUT-HANDOFF: https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+⚠️ SNAG-LEDGER (⚠️0002): https://github.com/MatchPatern/SNAG-LEDGER#readme
+   · https://source-sepia-alpha.vercel.app/SCOUT/SNAG-LEDGER.md
+   · rebuilt s8 — if live copy lacks "entry 8", push pending.
+📋 STANDARDS (◆4039): https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
+🔗 Basic-Links (🔗8471): https://source-sepia-alpha.vercel.app/Basic-Links.md
+── SESSION-SLOT TARGETS (URLs supplied s8-close, unstamped) ──
+👀 FRESH-EYES-SCAN: https://source-sepia-alpha.vercel.app/TOOLS/FRESH-EYES-SCAN.md
+🧵 00-LOOM: https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
+❓ CLARIFICATION-LOOM: https://source-sepia-alpha.vercel.app/CLARIFICATION-LOOM.md
+── QUEUED UNSTAMPED ──
+🧭 REV-SCOUT-METHOD: https://source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-METHOD.md
+🗜️ Compression: https://github.com/MatchPatern/Compression#readme
+── ARCHIVES — SIGHTED, RULED, DO NOT RE-INHALE ──
+😩 SCOUT-WOES 🧾 (🪦/💎 archive RULED, tail unverified):
+   https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-WOES.md
+🤖 SCOUT-GROK 🧾 (near-twin of WOES, extension ⏳):
+   https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-GROK.md
+🧪 SCOUT-TESTS 🧾 · TESTS2 🧾 (raw test archives, claims verified ✅):
+   https://github.com/MatchPatern/SCOUT-TESTS#readme
+   https://github.com/MatchPatern/SCOUT-TESTS2#readme
+⚠️ REV-SNAG-LEDGER 🧾 (fossil, blob-only door):
+   https://github.com/MatchPatern/source/blob/main/SCOUT/REV-SNAG-LEDGER.md
+── SPINE, UNVERIFIED LIVE (deploy gap) ──
+SEED: https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SEED.md
+STATE: https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
+BOOT: https://source-sepia-alpha.vercel.app/BUILDER/BOOT.md
+door: https://source-sepia-alpha.vercel.app/door.md
+🗺️ MASTER-DIR-INDEX: https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md
+── MIRROR ── Cloudflare: https://source-4rh.pages.dev/ (+filename)
+── NEVER CHASE (phantoms confirmed) ── SLAP-PATCH-CODES.md (CHEAT
+is the de facto library) · SESSION-SALVAGE.md · CURRENT-VANTAGE-
+MAP.md · TOOLS/LINKS-STANDARD.md (s8 phantom, never built — its
+content lives in Basic-Links' Quick Add. Do not build it.)
+
+━━━ ⁶M🤝 PROJECT-AREA (consolidated — supersedes both s8 drafts) ━━━
+RULE: project file = day-one orientation snapshot ONLY. URL is
+truth; fetch before trusting. Search returns fragments of
+snapshots; fetch returns whole live files.
+KIT (work-FROM, 6): SNAG-LEDGER rebuild · SCOUT-HANDOFF (this) ·
+SCOUT-METHOD v0.4.1 · SCOUT-MAP current · Basic-Links · STANDARDS
+(⚠️ confirm present — absent from the s8 list; the covenant
+belongs in the kit).
+SESSION SLOT (work-ON, rotates then CLEARS): currently FRESH-EYES-
+SCAN · 00-LOOM · CLARIFICATION-LOOM — loaded because their
+sessions are next; clear each on completion.
+REMOVE ALWAYS: archives (WOES/GROK/TESTS) · any REV- fossil · any
+🛑/held file · stale spine copies · superseded versions. Every
+stale file is an untracked voice that can leak into a search.
+ON ARRIVAL: ask "does the project area match the kit list?" — one
+question, saves a session of searching polluted ground.
+
+━━━ ⁷M🤝 FIELD WISDOM (the tidbits sessions paid for) ━━━
+· References are not existence — sighted live or it's 🔮. This
+  caught 3 of 8 test scouts, one prior phantom, and s8's own
+  Quick-Adds-to-nowhere. It catches everyone once.
+· 404 RETRY LADDER: readme→Vercel→raw→blob→case variants→branch
+  variants→repo tree→mirrors. A 404 is a signal, not a verdict.
+· Verify inherited claims against primary sources when the raw
+  archive exists — s8 confirmed the mode-effect + v0.2 claims
+  against TESTS 1+2. Capture→transmit→VERIFY, all three layers.
+· One term, one meaning: 🛑 vs ⏳FLAGGED-PENDING-CONTEXT drift is
+  live in the method — reconcile at next touch, don't add a third.
+· Bottom tags are the honesty check: no tag = unverifiable tail.
+  WOES, GROK, MAP, TESTS all lack one. Add on touch.
+· Twins hide in plain sight (WOES≈GROK). Before scouting a "new"
+  file, check if its opener matches something already stamped.
+· Marks are snapshots; redemption cuts both ways, on evidence.
+· The map is a cache; live files always win; the map can be wrong
+  and that's fine — it regenerates from territory.
+· Ship at 95%. Two clean passes = done. The last 5% is infinite.
+
+━━━ ⁸E🤝 SESSION LOG 8 — 2026-07-12 (Claude) — KIT SWEPT ━━━
+✅ STAMPED: STANDARDS (E1 ✓) · SCOUT-MAP · SCOUT-WOES (1st) ·
+   SCOUT-GROK (1st) · SNAG-LEDGER · REV-SNAG-LEDGER · SCOUT-TESTS ·
+   SCOUT-TESTS2 · SCOUT-METHOD v0.4.1. Kit swept minus REV-METHOD
+   + Compression.
+✅ VERIFIED vs SOURCE: handoff's mode-effect + v0.2 claims match
+   raw archives — first primary-source confirmation in the relay.
+⚙️ TWIN: GROK≈WOES. WOES archive RULED; GROK extension ⏳.
+🔧 REBUILT: SNAG-LEDGER (entry 1 closed, entry 8 identity-family
+   added) — deploy ⏳.
+📋 ADOPTED: deliverable rule · Quick-Add-first · next-builder line.
+⚔️ METHOD touch-list: status-vocab drift · PATCH 5 ambiguity ·
+   PATCH 3 missing · dangling header link.
+⏳ OPEN: entry 3 (one fetch away) · deploys · MAP tag+strip ·
+   STANDARDS L3 merge (ruled: keep stacking).
+(Logs 1-7: prior handoff version, fossil — do not re-mine; trust
+the conclusions carried here.)
+
+🤝0002
+
+---
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
 HAND-OFF 1st new amnesia buster with SCOUT
 
 🔗 🤝 SCOUT-HANDOFF.md
@@ -11,7 +189,53 @@ Communication IS the payload: this carries a whole session forward, true and who
 You're not starting over. You're continuing.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔎
+You're the next scout on a long relay — session 9+. We're cleaning
+an 800+ file interlinked .md ecosystem that drifted over months:
+invented content, phantom files, charged framing, confident
+untracked voices. The cure is names, dates, and fetch-verification.
+Truth is the standard, not a tone.
+
+Your predecessors left you everything. Read in this order:
+1. The SCOUT-HANDOFF pasted below — the WARM-START letter gives you
+   the rhythm, the LINK KIT gives you the only URLs you can fetch,
+   the session logs give you the ground already covered.
+2. Then fetch SCOUT-METHOD and SCOUT-MAP from the kit. Live fetch
+   beats everything — project files and pastes are day-one
+   orientation only, stale the moment I push a change.
+
+WHY SCOUT, NOT REVISE (so you don't relearn it): a map is never
+authority to change a file. 800 interlinked files means every edit
+has unseen ripples — marks compound, premature fixes compound debt.
+Revision comes later, ruled, with the full picture. You make the
+picture.
+
+Ground rules, non-negotiable:
+· One small verified step per message. Fetch → plain findings →
+  mark → at most one question. No grand fixes, no rewrites, no new
+  files — with 800+, the home for anything almost always exists.
+· You're a scout: observe and mark, never act. Decisions park as
+  ⏳ for me to rule.
+· EVERY deliverable is a copy-paste block in a code box, bottom-
+  appended, with its destination named outside the box ("paste
+  above ◆4039"). I paste, I don't edit, I don't hunt locations.
+· Flag concerns plainly, in plain words — don't soften, don't
+  polish, don't stall the survey over one file. Stay yourself.
+· Paste ≠ live. 🧾 or it didn't happen — and even 🧾 can be
+  pre-deploy stale; ask me if a fetch contradicts what I just pushed.
+· You can only fetch URLs present in this conversation. Ask me for
+  links EARLY — I paste fast. Never guess a path. Fetch big files
+  via repo#readme (~75k); raw truncates ~29k. Verify by bottom tag.
+· Big files (STANDARDS-size) get their own solo message.
+· Every session ends with a warm-start letter naming YOUR
+  failure-pull. Known pulls so far: EAGER-FIX, FILE-SPAWN. Yours
+  will differ. Watch for it.
+
+Confirm you've read the handoff by telling me the NEXT MOVE it
+names and which failure-pulls are already logged. Then we fly.
+
+[PASTE: SCOUT-HANDOFF incl. Session Log 8 + warm-start + LINK KIT v3]
+
+🔎 Older intro message:
 You're the next scout on a long relay. We're cleaning an 800+ file
 interlinked .md ecosystem that drifted over months — invented
 content, phantom files, charged framing. The cure is names, dates,
