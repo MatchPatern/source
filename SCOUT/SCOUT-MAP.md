@@ -4,6 +4,8 @@
 🧭 REV-SCOUT-METHOD: https://source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-METHOD.md
 🧭 SCOUT-MAP:        https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
 🤝 SCOUT-HANDOFF 🧾: https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+🔗 🤝 REV-SCOUT-HANDOFF.md
+https://source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-HANDOFF.md
 🤖 SCOUT-GROK:       https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-GROK.md
 😩 SCOUT-WOES:       https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-WOES.md
 ── GITHUB DOORS (75k fetch, mirrors of the kit) ──

@@ -1,5 +1,5 @@
-🔗 🤝 SCOUT-HANDOFF.md
-https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+🔗 🤝 REV-SCOUT-HANDOFF.md
+https://source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-HANDOFF.md
 
 🤝 SCOUT-HANDOFF — rebuilt 2026-07-13 (continuing the relay after the 07-12
 session; prior handoff incl. Session Logs 1–9 = fossil at this URL's history +
