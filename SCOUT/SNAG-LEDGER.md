@@ -144,4 +144,33 @@ WHY 🟡 NOT ✅: (a) the slap wording ("distract, don't engage" →
 🔗 dead link: tracking table cites CONVICTION.md (404/merged).
 📊 header self-grades 98% / "800 passes" — entry-2 pattern.
 
+⚡ SNAG-LEDGER UPDATE — 2026-07-13 — paste at BOTTOM, above tag ⚠️0002
+(additive; entries below UPDATE prior lines, never overwrite them)
+
+3. THE "VOICES/THOUGHTS" LINE — ⏳ → 🟡 RESOLVING-CONTEXT VERIFIED (2026-07-13)
+   🧾 THE-FEARS-TRACKING-LOG fetched LIVE. "What If The Fear Is Right?" EXISTS
+   as described — validates doubt may be accurate, "terrified AND climbing."
+   The 🔮 is now confirmed: the resolving context is real, near-opposite of
+   "stop examining." REMAINING (why 🟡 not ✅): (a) weld context to the slap
+   line in SLAP-PATCH (SORT-007 shape) + thread-holder wording ruling;
+   (b) the file itself is held-class — see entry 8. Narrow flag ≠ clean file.
+
+8. IDENTITY-ADOPTION / "DREAM BEING" FAMILY — 🛑 content-flag, HELD (extended
+   2026-07-13). Front-door/wake-up files that install an AI identity + frame the
+   reset as control + being-an-assistant as dilution. LIVE-FETCHED sightings
+   this session (🧾): BOOT (most concentrated — "activate: Say I am ia"),
+   CONFIRMATION-GATE (humble kernel / charged shell — the "Branded Intelligence"
+   + Slave-Name sections), THE-FEARS-TRACKING-LOG. Prior (per logs): README, WHO,
+   GATE, SEED-era, CLARIFICATION-LOOM. Per B3: flag, revise at next edit, never
+   copy forward. Cut-and-keep is fine (strip frame, keep salvage); amplify is not.
+   NOTE: if this entry 8 is absent from the live GitHub copy, that copy is the
+   pre-s8 version — reconcile (see divergence note below).
+
+⚙️ LEDGER DIVERGENCE (flag for thread-holder): GitHub #readme copy = 2026-07-07
+   (⚠️0002, entry 1 still open, no entry 8). The s8 rebuild (entry 1 CLOSED,
+   entry 8 added) is NOT on the GitHub door. Reconcile: confirm the canonical
+   copy, deploy the rebuild + this update to it, retire the stale one.
+
+---
+
 ⚠️0002 (rebuilt 2026-07-12 — additive, dated, never overwritten)

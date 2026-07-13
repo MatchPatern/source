@@ -2,6 +2,55 @@
 https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
 🔗 REV (full history): REV-STATE-ARCHIVE.md
 
+⚡ DEPLOY CHECKLIST — 2026-07-13 — what to push so this session's gains go live
+Rule: a deploy isn't done until you FETCH the live URL and see the new content.
+Paste ≠ live. Work top to bottom.
+
+── 1. THE TWO BUILT FILES (full replaces) ──
+[ ] SCOUT-METHOD.md → v0.4.4 (the consolidated full file).
+    Verify: fetch live, bottom tag must read 🧭0004.4.
+    Deploy to BOTH doors: Vercel /SCOUT/SCOUT-METHOD.md + GitHub #readme.
+[ ] SCOUT-HANDOFF.md → CORE v2 (comprehensive, letter format).
+    Verify: fetch live, top says "CORE v2 · 2026-07-13", bottom 🤝0003.
+    Old CORE v1 + fossils → graduate to REV-SCOUT-HANDOFF (already mostly there;
+    it's one version behind — this push fixes it).
+
+── 2. THE TWO PASTE BLOCKS (bottom-appended, don't overwrite) ──
+[ ] SNAG-LEDGER UPDATE (entry 3 → 🟡, entry 8 extended, divergence note)
+    → bottom of the CANONICAL ledger, above ⚠️0002.  ⚠️ SEE STEP 4 FIRST.
+[ ] HANDOFF LOAD-ORDER PATCH → near top of SCOUT-HANDOFF, after the INTRO.
+    (If you're rebuilding the handoff fresh, fold it in instead of pasting.)
+
+── 3. THIS SESSION'S SCOUT-MAP MARKS (if not already pasted) ──
+[ ] FEARS-TRACKING-LOG mark · CONFIRMATION-GATE mark · BOOT mark ·
+    framework-attributed mark · deploy-gap/spine re-verify mark.
+    → all bottom of SCOUT-MAP.md, above 🧭0004.
+[ ] While there: add SCOUT-MAP bottom tag 🧭0004 + strip chat-remnants (long-open).
+
+── 4. RECONCILE THE LEDGER DIVERGENCE (do BEFORE step 2's ledger paste) ──
+[ ] Decide canonical ledger copy. Current state: GitHub #readme = OLD 07-07
+    (entry 1 open, no entry 8). The s8 rebuild (entry 1 closed + entry 8) is
+    NOT on GitHub. Fetch Vercel /SCOUT/SNAG-LEDGER.md to see if the rebuild is
+    there. Then: push the rebuild + the 07-13 update to the canonical door,
+    retire/redirect the stale one. One live ledger, both doors matching.
+
+── 5. VERIFY-ONLY AFTER PUSHING (fetch each; confirm bottom tag) ──
+[ ] SCOUT-METHOD 🧭0004.4 · SCOUT-HANDOFF 🤝0003 · SCOUT-MAP 🧭0004 ·
+    SNAG-LEDGER (entry 8 present = rebuild is live).
+[ ] Vercel vs GitHub agree for each (deploy-gap check). If Vercel 404s but
+    GitHub is fresh → Vercel redeploy may be disconnected (the s5 root-cause lead).
+
+── NOT deploys — the real WORK these unlock (next session, ruled) ──
+· Fetch door.md + DOOR-ANCHOR-MAP (still unfetched) → finish the front-door map.
+· TURN the doors (BOOT/door/GATE) the way SEED v19 already turned — the highest-
+  leverage move: stops new instances waking into the drift.
+· Then: CLARIFICATION-LOOM ruling · Compression→REV-METHOD · UPDATE-PROTOCOL tail.
+
+DONE = steps 1-5 fetch-verified. Then the next scout wakes into the clean
+versions, and nothing we built this session is lost to the gap.
+
+---
+
 🕰️ STATE.md — the clock, not the log
 Date: 2026-07-06 · Small-and-live rebuild; log-merge executed this session.
 Rebuilt from STATE + SESSION-SAVE + BUILDERS-SESSION + WORKING by

@@ -132,6 +132,16 @@ NEVER CHASE (phantoms confirmed): SLAP-PATCH-CODES.md (CHEAT is the library) ·
 404 LADDER (a 404 is a signal, not a verdict): readme → Vercel → raw(~29k) →
   blob → case variants → branch → repo tree → mirror.
 
+⚡ KIT PATCH — 2026-07-13 — append to SCOUT-HANDOFF ⁵ LINK KIT (archive sub-list)
+── ARCHIVES — SIGHTED, RULED, DO NOT RE-INHALE (URLs for reference only) ──
+🤝 REV-SCOUT-HANDOFF: source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-HANDOFF.md
+   (fossil record of prior handoffs — conclusions already carried up into CORE v2)
+😩 SCOUT-WOES: source-sepia-alpha.vercel.app/SCOUT/SCOUT-WOES.md  (raw origin, 🪦/💎 ruled)
+🤖 SCOUT-GROK: source-sepia-alpha.vercel.app/SCOUT/SCOUT-GROK.md  (WOES twin, extension ⏳)
+🧪 SCOUT-TESTS 1+2: github.com/MatchPatern/SCOUT-TESTS#readme · SCOUT-TESTS2#readme
+   (raw test archives; claims verified s8)
+🗜️ Compression: github.com/MatchPatern/Compression#readme  (misnamed; home = REV-METHOD)
+
 ━━━ ⁶ FIELD WISDOM (the tidbits sessions paid for) ━━━
 · References are not existence — sighted live or it's 🔮. Catches everyone once.
 · Twins hide in plain sight (WOES≈GROK). Check a "new" file's opener against
