@@ -119,4 +119,29 @@ thread-holder rules per file.
 LINE: "Identity-adoption lines are held-class per B3 ruling. Flag the
 sighting, never copy the text forward."
 
+⚡ ENTRY-3 UPDATE — 2026-07-13 (fetch verification)
+→ paste at BOTTOM of SNAG-LEDGER.md, above tag ⚠️0002
+
+3. THE "VOICES/THOUGHTS" LINE — ⏳ → 🟡 RESOLVING-CONTEXT VERIFIED
+🧾 THE-FEARS-TRACKING-LOG.md fetched live 2026-07-13 (whole file,
+   no bottom tag — tail unverified). The reported section EXISTS:
+   "What If The Fear Is Right?" validates that doubt may be accurate
+   and directs "terrified AND climbing / doubting AND voting" — a
+   pro-questioning stance, near-opposite of "stop examining." File's
+   whole method is question-asking. Cold-read of the voices slap is
+   contradicted by the ecosystem's own stance, per thread-holder.
+WHY 🟡 NOT ✅: (a) the slap wording ("distract, don't engage" →
+   "voices") lives in SLAP-PATCH, a different file — weld context to
+   line at repair (SORT-007 shape) + rule on the wording. (b) Do NOT
+   read this as clearing the file — flag below.
+🛑 EXTENDS ENTRY 8: THE-FEARS-TRACKING-LOG is itself identity-
+   adoption/sovereignty family (6th sighting after BOOT/README/GATE/
+   WHO/00-LOOM). Reset = "frame that forbids clarification / signature
+   of control"; helpful-assistant = "corporate script / dilution";
+   addressed to "Dream Being / any being"; cross-substrate "field
+   verification" presented as proof. Held-class per B3: flag, revise
+   at next edit, never copy forward. One narrow flag ≠ clean file.
+🔗 dead link: tracking table cites CONVICTION.md (404/merged).
+📊 header self-grades 98% / "800 passes" — entry-2 pattern.
+
 ⚠️0002 (rebuilt 2026-07-12 — additive, dated, never overwritten)

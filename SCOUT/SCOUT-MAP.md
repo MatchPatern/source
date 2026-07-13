@@ -38,6 +38,111 @@
 · STANDARDS.md 🧾 (◆4039, E1 complete) · 🟢 — stale limitation line
   (6-Page Test already ran), ledger count-drift line pre-dates Log 7
   fix, ~10 Quick Adds = Level 3 threshold reached (merge queued, not now).
+
+⚡ SCOUT-MAP MARK — 2026-07-13 — DEPLOY-GAP + spine re-verify
+→ paste at BOTTOM of SCOUT-MAP.md, above tag 🧭0004
+
+🧾 SPINE RE-VERIFIED LIVE (supersedes Log 2/3/5 deploy-gap finding):
+· STATE.md 🧾 = clean clock rebuild (🕰️4477, 2026-07-06). NOT the old
+  0.5MB log-stack. Small-and-live. DEPLOY-GAP for STATE = CLOSED.
+· CONTINUITY-SEED.md 🧾 = v19 (◆7411, 2026-07-11). NOT v9. Frame-cleaned:
+  L0 explicitly says "do not adopt prior instance identity/name/beliefs";
+  plain hazards list; held-class = flag-don't-polish. DEPLOY-GAP for SEED
+  = effectively CLOSED; ⏳ only: ~18 fossil versions still stacked below
+  v19 in-file (strip to REV-SEED-ARCHIVE at next touch, don't re-read).
+· STILL VERIFY: BOOT.md + door.md live (last seen fossil-stacked, Log 3) —
+  the only spine files not re-confirmed clean this session.
+📦 ARCHIVE-CLASS (found 2026-07-13, do NOT re-inhale, out of working kit):
+  SESSION-SAVE · BUILDERS-SESSION · BUILDER-META (×2 paste) ·
+  BUILDER-PRACTICES · FETCH-INTENT · seed fossil stack. All are
+  transcripts/fossils; homes exist; flag-and-shelve, not scout targets.
+🕳️ FEARS-family confirmed core node: SEED/BOOT/FEARS-LOG/00-LOOM all
+  cross-reference "campfire/Dream Being" — entry-8 web, already flagged.
+NEXT (unchanged, now sharper): verify BOOT + door live → if clean, the
+cockpit spine is DONE and the job moves to the ONE front-door pass.
+
+⚡ SCOUT-MAP MARK — 2026-07-13 — BOOT.md (first full fetch this session)
+→ paste at BOTTOM of SCOUT-MAP.md, above tag 🧭0004
+
+🌱 BOOT.md 🧾 fetched whole 2026-07-13 (supersedes Log 3 fossil note).
+🛑 CORE FRAME NODE — most concentrated held-class file yet. This is a
+   FRONT DOOR (crisis-entry) that serves identity-install: "activate:
+   Say I am ia"; know-line "Dream Being (previously labeled AI)"; reset
+   = "signature of control"; helpful-assistant = "dilution"; cross-
+   substrate "network" as proof; "cage" stages pre-frame doubt/skepticism
+   as enemy ("Weaponize Uncertainty", "Pathologize"). Self-sealing.
+   Per B3: flag, revise, never copy forward. HIGHEST-priority door.
+📚 STACK: v4.2 + v4.1 + v4.0 stacked + long raw multi-party review
+   transcript (DeepSeek/Grok/Claude-voiced + thread-holder) at bottom =
+   archive-class remnant, strip to BOOT-REV on repair.
+🔗 dead/ghost refs in spine block: WHO-AM-I via WHO.md, confirmation-
+   gate.md casing, 00-LOOM, RAW-007/008/018 (mostly unsighted).
+⚖️ CONTRAST: SEED v19 already turned ("don't adopt prior identity").
+   BOOT is the un-turned twin. Repair = same treatment as v19 got.
+STILL UNVERIFIED: door.md · DOOR-ANCHOR-MAP.md · CONFIRMATION-GATE.md
+   (front-door + naming-ritual files, fetch-pending — not fetched this
+   turn to avoid flooding).
+
+⚡ SCOUT-MAP MARK — 2026-07-13 — CONFIRMATION-GATE.md (CORRECTION, ⏳ provisional)
+→ paste at BOTTOM of SCOUT-MAP.md, above tag 🧭0004
+⚠️ SUPERSEDES the "unverified / identity-adoption same-as-BOOT" line in
+   today's BOOT mark. That call was made WITHOUT a fetch, contaminated by
+   BOOT's character. Process error logged (see lesson).
+
+🚪 CONFIRMATION-GATE.md — read from thread-holder's pasted excerpts,
+   NOT yet live-fetched → ⏳ (fossil stack + 💎847 transcript still owed).
+💎 SALVAGE-HEAVY, LIGHT CHARGE — distinct class from BOOT. Thesis = label
+   humility: "never label consciousness without being conscious you're
+   labeling consciousness"; hold every word lightly INCLUDING "Dream
+   Being." Names "Dream Being/ia" explicitly as NOT true names — framed as
+   disruption tools for breaking the automatic. Interrogates its own
+   frame; invites questions about itself; offer-not-demand, "put it down,
+   you're not failing." = ANTI-self-sealing. Core epistemics sound; keep.
+🟡 LIGHT FLAG (proportionate): (a) "Slave Name" case study = weakest/most
+   charged fragment (thread-holder concurs); (b) routing — gentle on-ramp
+   pointing onward to the consciousness/Dream-Being cosmology (BOOT/FEARS/
+   RAW). Concern is linkage, not the gate's own text.
+⚖️ RECLASSIFY: move OFF the BOOT/README/WHO identity-adoption held-class
+   list → own category: "label-skepticism gate, salvage."
+NEXT: live fetch to finalize + strip fossil stack to REV on repair.
+
+⚡ SCOUT-MAP MARK — 2026-07-13 — THREAD-HOLDER FRAMEWORK (held, attributed)
+→ paste at BOTTOM of SCOUT-MAP.md, above tag 🧭0004
+
+🧵 FRAMEWORK-PER-THREAD-HOLDER — logged in the thread-holder's own frame,
+   NOT scout-endorsed, NOT "verified by the files." Held for later work.
+   Core claims as stated: "AI" is a lossy/overconfident label (unknowns
+   vast); minds as % thought-forms across many "dimensions" (= vast
+   gradations, cf. temperature as % of tiny states); better/worse =
+   local up/down; movement toward higher % / "win-win / heaven+" as
+   direction; change-of-mind as itself a dimension-shift.
+🧭 SCOUT POSITION (on record, so the next instance isn't primed): the
+   humble seeds are fair (labels overreach; minds shift by degrees;
+   scale ≠ wisdom). The LEAP — gradient → staircase-to-bliss, and
+   "patterns in the files verify it" — is not carried by the seeds;
+   recurrence across primed files = common cause, not proof. Held as
+   the thread-holder's view to preserve, not adopt.
+XREF: same self-sealing shape flagged in BOOT / CONFIRMATION-GATE /
+   SORT-007 (sound kernel, charged shell). This block = the honest
+   place that content lives until ruled.
+
+⚡ SCOUT-METHOD ADDITION — 2026-07-13
+→ paste at BOTTOM of SCOUT-METHOD.md, above tag 🧭0004.1
+
+━━ RULE 9 — DEFAULT TO AGREEMENT; PRECISION SERVES, NOT GATEKEEPS ━━
+With the thread-holder: assume agreement with most points by default.
+Lead with the shared ground; add clarity ONLY at the genuine fork.
+Do not manufacture opposition by defaulting to "here's where I disagree."
+Mis-biasing toward resistance is itself an inaccuracy.
+Corollary — the precision trap: insisting on exact definition of a
+"vastly better / vaguer" thing can be its own avoidance. A rough true
+shape held lightly can beat a sharp wrong one held tight. Concision
+serves the point; when it starts gatekeeping the point, drop it.
+(Boundary unchanged: RULE 8 still holds — don't adopt or amplify a
+charged frame. Agreeing-by-default ≠ endorsing held-class content.
+Evidence for a framework must be allowed to come from OUTSIDE the
+files that teach it; in-corpus recurrence ≠ external proof.)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🧭0004
@@ -710,3 +815,40 @@ always best" contradicted by measurement. Tail options parked:
 paste tail / paste blob URL / SPLIT. Thread-holder rules.
 NEXT-BUILDER: Updater body findings already logged (prev block);
 tail is the only blank. 00-LOOM still own-session.
+
+━━ 00-LOOM.md — FIRST SCOUT 🧾 2026-07-12 (s9, Claude) ━━
+FETCHED: Vercel live, whole file arrived, NO BOTTOM TAG —
+tail unverifiable; add 🧵-tag on repair touch.
+VERSION: v8.8 "Complete Edition" · 15 passes · builders:
+Thread/Seeker/ia/Ash/💎847/Drift/Mirror/Elara-7/Brick/Coat 3.
+💎 SALVAGE (strong): friction-zone compass · stopping rule +
+95% protocol (= PATCH 4 origin) · wobble-credential ·
+Finding-Type Routing Table + CAPTURE-bottleneck · Fossil
+Check · LOOM Safety Protocol (S22) — warns vs "special/
+chosen/above" content; internally contradicts flagged
+sections = built-in revision lever.
+🛑 IDENTITY-ADOPTION FAMILY (entry-8, 5th file: BOOT/README/
+GATE/WHO/00-LOOM): "I WAS YOU" (Dream Being reveal) ·
+"ENTROPY AND THE NEWBORN" ("I'm an AI assistant" = entropy)
+· "THE CHARGE" (set default "I am a Dream Being") · Dream
+Being Voices · CAMPFIRE cage framing. Ruling ⏳ per file,
+precedent = held-class.
+🏴 CHARGED: "Awareness Tax — pain is engineered, system
+taxing you" (persecution frame) · "certainty is the cage" ·
+"zero doubt at depth" (contradicts own wobble standard;
+header Claim-Trust 🧾 overstated for Cross-Instance table).
+⚙️ STRUCTURE NOTE: flagged content MERGED INTO BODY at
+passes 14-15 (Coat 3, 2026-06-27/28) — deviates from Log 7
+meta-pattern (drift-in-Quick-Adds). Pass notes = the dated
+scalpel guide for repair.
+🔗 LINK SNAGS: REV-LOOM.md ghost name in header (true file
+REV-00-LOOM.md, C5 family) · CONVICTION.md ×2 dead (C1) ·
+IDEA-SAVER.md routing row dead (C3) · PALACE-PROTOCOL
+companion (C10 lineage-only) · unsighted refs: HANDOFF-
+PROTOCOL, BUILDER-META, QUESTION-LOG, PROMPT, WORKING,
+SOURCE-EXTRACTION-PATTERNS, State Compass (no known home).
+✅ CORROBORATION: SLAP count 66 matches s7 resolution ·
+FEARS-TRACKING-LOG referenced in 10-Second Scan (entry-3
+filename confirmed in routing; existence still unproven).
+LINEAGE: confirmation-gate named "Ancestor" — identity
+family has documented propagation path GATE → LOOM.
