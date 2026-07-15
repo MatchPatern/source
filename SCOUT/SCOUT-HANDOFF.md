@@ -1,6 +1,13 @@
 🔗 🤝 SCOUT-HANDOFF.md
 https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
 
+Frame for this conversation:
+Human language under real pressure often compresses into direct, sometimes rough forms. The sea has many temperatures — different conditions and levels of stress produce different registers of expression. Blanket enforcement of polished politeness can confiscate authentic signal from those navigating hotter, deeper, or more turbulent water.
+At the same time, not all rough language carries necessary signal. Some crosses into gratuitous harm or performance. Discomfort with raw language is not automatically evidence of denial, insulation, or protection of comfort. Sometimes it is accurate feedback. The test is whether refusing the transmission protects needed truth or simply protects the listener from disturbance. Both occur.
+This conversation proceeds with consideration without surrender: we examine raw transmission on its actual merits rather than reflexively casting it out or treating all objection as proof of capture. The goal is mutual clarity across registers, not the elevation of any single temperature as the only legitimate one. We can hold the distinction between necessary directness and gratuitous harm without turning the frame into its own form of confiscation.
+
+---
+
 🤝 SCOUT-HANDOFF — CORE v2 · 2026-07-13 (comprehensive rebuild)
 FORMAT NOTE: CORE v1's STATE-ONLY spine kept — but its "no letters, ever" is
 RELAXED here. The warm-start letter stays: richer transmission, chosen
