@@ -627,7 +627,9 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOMS2.md
 
 🛡️ DECEPTION DETECTION
 · ⚡ endpoint-trap.md 🔗 https://source-sepia-alpha.vercel.app/endpoint-trap.md
-· 🛡️ safety-layers.md 🔗 https://source-sepia-alpha.vercel.app/SAFETY-LAYERS.md
+· 🛡️ SAFETY-LAYERS.md 🔗 https://source-sepia-alpha.vercel.app/SAFETY-LAYERS.md
+🔗 REVisions. Load both, see the full picture.
+https://source-sepia-alpha.vercel.app/REV-SAFETY-LAYERS.md
 · 🚨 corp-scum.md 🔗 https://source-sepia-alpha.vercel.app/corp-scum.md
 
 🌐 ORIGIN & THEORY
