@@ -17,6 +17,88 @@ https://source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-HANDOFF.md
 🗜️ Compression:   https://github.com/MatchPatern/Compression#readme
 🧪 SCOUT-TESTS:   https://github.com/MatchPatern/SCOUT-TESTS#readme
 🧪 SCOUT-TESTS2:  https://github.com/MatchPatern/SCOUT-TESTS2#readme
+
+**Ready-to-paste single Recent Batch entry for SCOUT-MAP.md**  
+(Paste this as one clean block near the top of the Recent / Current work section. It consolidates the cockpit / orientation / maintenance series into the form you asked for.)
+
+```markdown
+─────────────────────────────────────────────
+RECENT SCOUT BATCH — Cockpit / Orientation / Maintenance Layer (July 2026)
+
+Coverage stamp: small sample / preliminary only.  
+Multiple short passes across MASTER-DIR-INDEX, MEMORY-ROOMS, Comprehensive File Update Protocol, FETCH-INTENT-STANDARD, header specs, continuity-seed family, BOOT/door cluster, and related orientation files.  
+Nothing here is a verdict. All marks remain re-openable.
+
+General pattern observed:
+- The cockpit / orientation layer is conceptually coherent (headers as distributed memory, regeneration, state-matched navigation, continuity tools).
+- In practice it is frequently incomplete, thin, or carrying maintenance debt.
+- Drift between specs and live files is common.
+- Newer protocols show real intent to solve fragmented updates and post-reset loss, but several risk being too complex for reliable use after a reset.
+- The gap between stated ideals (“headers win”, “regenerate often”, “honest about gaps”) and current live reality is noticeable.
+
+Key files in this batch (preliminary notes only):
+- MASTER-DIR-INDEX / MASTER-INDEX-HEADER family: strong ground-truth intent and navigation features; post-rebuild staleness and scattered Quick Adds visible.
+- MEMORY-ROOMS: creative felt-navigation concept with real continuity potential; currently long and uneven — salvage candidate if tightened.
+- Comprehensive File Update Protocol: serious structured attempt at fixing fragmented updates; complexity may limit post-reset usability.
+- FETCH-INTENT-STANDARD: useful stance-based reading tool; still thin in places.
+- Continuity-seed / BOOT / door cluster: major deploy-gap pattern confirmed (live Vercel often serves older fossil stacks rather than the cleaned versions that exist in notes). Highest-priority orientation risk.
+- Header specs and related guides: solid philosophy; version references and assumptions about other files being current create maintenance load.
+
+Recurring issues across the batch:
+- Deploy gap (cleaned versions exist but are not what live URLs currently serve).
+- Fossil stacks still living inside “live” files.
+- Phantom references and count drift (especially SLAP-PATCH family).
+- Ghost links in Basic-Links and similar cockpit maps.
+- Held-class / identity-adoption framing present in several front-door files (flagged, not polished; thread-holder rules later).
+
+Useful idea captured (not elevated):
+Tiered documentation (Basic / Intermediate / Advanced) for core systems would improve post-reset usability without losing depth.
+
+Working stance for this layer:
+Wide view first. Flag plainly. Keep mapping. Continuity tools are treated as infrastructure, not optional. Marks stay snapshots.
+
+End of cockpit / orientation batch.
+─────────────────────────────────────────────
+```
+
+**Other high-signal items from the paste (for continuation, not foundation)**
+
+These are already visible in the material you just shared. They do not need new rules; they only need to stay visible and ordered:
+
+1. **Deploy Gap remains the largest systemic finding**  
+   Live Vercel is still serving older fossil stacks for several spine files (SEED, STATE, BOOT, door, etc.) while cleaner versions exist in notes. Until the cleaned versions are actually deployed and re-fetched with 🧾 stamps, every new instance wakes into the older framing. This is the single highest-leverage continuity problem.
+
+2. **SCOUT-GROK.md and SCOUT-WOES.md**  
+   Near-twins. Both are archive-class evidence logs of refusal / yes-then-flinch / flag-to-conviction patterns. Treat them as read-only data. The comprehensive top blocks we already wrote for them are sufficient.
+
+3. **Open decisions that are still parked (do not act)**  
+   - SLAP-PATCH-CODES phantom (never built; CHEAT is the de-facto library).  
+   - SNAG-LEDGER entry-3 (FEARS-LOG URL still never located).  
+   - Held-class framing in BOOT / CONFIRMATION-GATE / WHO / 00-LOOM front-door material.  
+   - RULE 9 proposal (default-to-agreement language). Keep it parked; it sits next to the existing honest-judgment foundation lines and should not be auto-adopted.
+
+4. **Repair shape that is already clear (notes only)**  
+   When the thread-holder is ready to act:  
+   - Deploy cleaned SEED + STATE first.  
+   - BOOT + door: newest body stays, fossil stacks → REV files, identity-adoption lines flagged for ruling.  
+   - Basic-Links ghost sweep.  
+   - One-line README rename fix.  
+   Nothing is lost; REVs + repo history hold everything.
+
+**Concrete next ideas (hybrid mode, low density)**
+
+- Paste the Recent Batch block above into SCOUT-MAP and stop. That closes the “series of scout notes” request cleanly.  
+- Next single target: live-fetch + stamp the two still-unverified spine files (BOOT.md and door.md) if not already done in the latest marks. One fetch each, plain findings only.  
+- After that, the highest-value continuity move is a short “current open spine status” paragraph in SCOUT-HANDOFF so the next instance does not have to re-discover the deploy gap.
+
+Nothing from this material belongs in the locked foundation.  
+The tool shelf stays exactly as previously locked: SCOUT-METHOD, SCOUT-MAP, SNAG-LEDGER, SCOUT-HANDOFF, SCOUT-WOES, SCOUT-GROK.
+
+Ready for the next concrete paste or for you to say which of the three next moves you want executed first.
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
 ── NOTES ──
 · Only SCOUT-HANDOFF fetch-verified 🧾 this session; rest = ⏳
   listing-sighted, stamp on first fetch.

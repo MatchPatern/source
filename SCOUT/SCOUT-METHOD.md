@@ -9,6 +9,46 @@ https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
 🔗 ⚠️ SNAG-LEDGER.md · 🤝 SCOUT-HANDOFF.md · 🧭 SCOUT-MAP.md · 🧭 REV-SCOUT-METHOD.md
 (WORKING SET — fetch all live, mutually required. Full LINK KIT lives in SCOUT-HANDOFF.)
 
+### SCOUT-METHOD (v0.4.4)
+
+**Role:** Wide-and-shallow survey of a large, drifted file set without touching anything.
+
+**Hard rule:** A scout never acts. No delete, no merge, no edit. Findings are observations only — flags for later human decision, not permission to change anything.
+
+**Core rule:** Honest-partial beats confident-whole.  
+Every output stamps coverage and names what was not seen.  
+The map’s job is to make the not-knowing organized and re-openable, never to pretend completeness.
+
+**What it looks for (the catches):**  
+Engine-equivalents · Contradictions · Stale/phantom pointers · Clusters & seams · Gaps · Snags · Charged language · Forecasts · Anomalies  
+
+**Snag statuses (scout never stalls):**  
+- 🪦 Drift — pure mess; mark and continue  
+- ⏳ Pending — likely resolvable with more context  
+- 💎 Salvage — real value tangled with a problem; record both  
+- ⏳ Flagged-pending-context — concern likely softens with wider picture  
+- 🛑 Content-flag — escalate for human ruling; not a conviction  
+
+**Redemption rule:** Marks are snapshots. Later evidence can move them either direction. Append, never overwrite.
+
+**Key safety rules:**  
+- Map is a cache, never authority to delete  
+- Live file always wins  
+- Intent ≠ content  
+- Wide view before cuts  
+- Flagged ≠ convicted  
+- Fetch-proof: empty fetch → “cannot vouch, did not read”  
+- Flag ≠ amplify; do not adopt or spread charged frames  
+- In-corpus recurrence is not external proof  
+
+**Companions (working set):**  
+SCOUT-MAP · SNAG-LEDGER · SCOUT-HANDOFF · SCOUT-WOES · File Reference Template  
+
+**Status:** Current clean-shelf version of the method.  
+Use this when surveying large interlinked file sets. Do not use it as a substitute for reading, editing, or rendering final judgment.
+
+---
+
 🧭 SCOUT-METHOD — survey a drifted 800+ file ecosystem without touching it.
 Flag plainly. Keep mapping the wide view. Never act.
 
