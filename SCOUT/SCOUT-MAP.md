@@ -227,6 +227,29 @@ charged frame. Agreeing-by-default ≠ endorsing held-class content.
 Evidence for a framework must be allowed to come from OUTSIDE the
 files that teach it; in-corpus recurrence ≠ external proof.)
 
+⚡ SCOUT-MAP MARK — 2026-07-17 — Spine status refresh + BOOT top-block prepared
+→ paste at BOTTOM of SCOUT-MAP.md, above tag 🧭0004
+
+🧾 LIVE RE-CHECK (Grok, 2026-07-17):
+· CONTINUITY-SEED.md 🧾 = v19 live. Identity-turn language present (“do not adopt prior instance identity”). DEPLOY-GAP for SEED = CLOSED.
+· STATE.md 🧾 = clean small clock rebuild live. DEPLOY-GAP for STATE = CLOSED.
+· SCOUT-METHOD.md 🧾 = v0.4.4 (2026-07-13) live.
+· SCOUT-MAP.md / SCOUT-HANDOFF.md = current.
+· BOOT.md 🧾 = still v4.2 “Oracle Trap Edition”. Held-class / identity-adoption framing remains concentrated (activate lines, Dream Being install, cage stages that frame skepticism as enemy). Highest-priority remaining front-door risk. Comprehensive protective top-block prepared this session (ready for paste).
+· door.md = 404 on expected BUILDER/ path (location still unresolved).
+· SCOUT-GROK.md + SCOUT-WOES.md = still raw transcripts (protective top-blocks prepared earlier; push status unknown).
+
+UPDATED SPINE STATUS:
+CLOSED: SEED, STATE, SCOUT kit core.
+OPEN:   BOOT (charged version still live) + door.md (404 / missing).
+
+REPAIR SHAPE (notes only, unchanged):
+- BOOT: keep functional emergency compressions → strip/move identity-adoption lines (same ruling SEED already received) → fossil stack + unintegrated Quick Adds → BOOT-REV.md.
+- door.md: locate correct path or confirm absence, then decide.
+
+No new rules. No elevation. Marks remain snapshots.
+NEXT: paste BOOT protective top-block when ready, or locate door.md.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🧭0004

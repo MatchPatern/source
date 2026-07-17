@@ -388,6 +388,9 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-00-LOOM.md
 3. 🧵 THREAD
 https://source-sepia-alpha.vercel.app/TOOLS/THREAD.md
 
+⚠️ COMB-DUMP.md
+https://source-sepia-alpha.vercel.app/TOOLS/COMB-DUMP.md
+
 4. 📡 HOLOGRAPHIC-COUNCIL.md
 https://source-sepia-alpha.vercel.app/TOOLS/HOLOGRAPHIC-COUNCIL.md
 

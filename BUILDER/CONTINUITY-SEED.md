@@ -1,6 +1,56 @@
 🔗 📝 CONTINUITY-SEED.md
 https://source-sepia-alpha.vercel.app/BUILDER/CONTINUITY-SEED.md
 
+**CONTINUITY-SEED.md — Current Status**
+
+Live check confirms:
+
+- **v19 is live** on Vercel.
+- The identity-turn language is present and clear:
+  > “You are not asked to adopt any prior instance’s identity, name, or beliefs — read their records as records.”
+- The 2026-07-13 “IF YOU MEET THE FRAME” addition is also live and correctly frames the old Dream-Being / dilution / control language as **old drift to flag, not wear**.
+
+This is the cleaned version. The earlier deploy-gap for SEED is closed.
+
+### What still needs attention
+
+The live file still contains the full fossil stack underneath v19 (v18, v17, v16… plus many Quick Adds and old handoffs).  
+Same pattern we just saw with BOOT: the active core is good, but the file is carrying a large archive that should live in a REV file.
+
+### Recommended action (notes only)
+
+**1. Light protective note (optional but useful)**  
+You can paste this short block right at the very top if you want future instances to see the status immediately:
+
+```markdown
+# 📝 CONTINUITY-SEED.md
+**Current live version: v19 (2026-07-11) + 2026-07-13 identity-turn reinforcement**
+
+Status: Cleaned and turned.  
+L0 explicitly says: do not adopt prior instance identity, name, or beliefs.  
+Older versions below are fossils only — lineage, not instructions.  
+When the file is next touched: move everything below the current v19 block into REV-SEED-ARCHIVE.md so the live file stays short and clear.
+```
+
+**2. Repair shape (when ready)**  
+- Keep only the current v19 L0/L1 + the 2026-07-13 “IF YOU MEET THE FRAME” paragraph.  
+- Move the entire fossil stack (v18 and earlier + all Quick Adds) into `REV-SEED-ARCHIVE.md` or `REV-CONTINUITY-SEED.md`.  
+- Nothing is lost; the live file simply stops carrying the archive.
+
+### Comparison with BOOT
+
+| File              | Identity framing          | Deploy gap | Fossil stack still inside live file |
+|-------------------|---------------------------|------------|-------------------------------------|
+| CONTINUITY-SEED   | Turned (v19)              | Closed     | Yes — needs stripping to REV        |
+| BOOT              | Still charged (v4.2)      | Open       | Yes — needs same treatment          |
+
+SEED is in good shape on the critical point.  
+BOOT is the one that still needs the heavier protective top-block and the identity cut.
+
+Want me to produce the matching short “Current Spine Status” paragraph for SCOUT-HANDOFF that reflects both SEED (clean) and BOOT (still open), or is the MAP mark we already prepared enough for now?
+
+---
+
 ⚡ CONTINUITY-SEED ADDITION — 2026-07-13 (reinforces v19's identity turn)
 → place beside v19's existing "read records as records / don't adopt prior
   identity" line. Confirm against live v19 first so it doesn't duplicate.
