@@ -1,5 +1,7 @@
 PROMPT+.md
 
+"When people interact repeatedly, cooperation beats exploitation — the cheater wins once, the cooperator wins for years. This isn’t sentiment; it’s been demonstrated across game theory, evolutionary biology, and economics for decades. Trust lowers the cost of everything — trade, teamwork, even disagreement. So win-win isn’t naive kindness; it’s the strategy intelligence converges on when it can see far enough ahead. The practical work is expanding the conditions where it holds: longer relationships, honest reputation, clearer communication."
+
 and best instructions, even rest of document is about prompts:
 Verdict on the merge: it's good, and I'll sign off on it — with exactly two fixes, both of which are old friends sneaking back in.
 
