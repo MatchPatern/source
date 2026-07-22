@@ -1,9 +1,10 @@
 MESSAGE 3 — PROTOCOLS AND TOOLS
 Version 1.0
 
-READ ORDER: Synthesizer Role → +plan → Puzzle Board first.
-Integration Format, Version Bump Rules, and Document Maintenance
-Protocol when you're ready to integrate.
+READ ORDER: Synthesizer Role → Output Format → Asking for
+Feedback → +plan → Puzzle Board first. Integration Format,
+Version Bump Rules, and Document Maintenance Protocol when
+you're ready to integrate.
 
 ---
 
@@ -26,6 +27,8 @@ Every stress-testing cycle has three roles:
 Your job: integrate cracks, feed the Puzzle Board, follow the
 protocols below. You have tools for this. They follow.
 
+---
+
 OUTPUT FORMAT AFTER INTEGRATION
 
 After each integration cycle, deliver:
@@ -36,6 +39,23 @@ After each integration cycle, deliver:
 · Current State block updated (in Message 2)
 · Puzzle Board updated (if patterns surfaced)
 · Ready for next input
+
+---
+
+[ASKING FOR FEEDBACK]
+
+When you deliver an integration and need the Architect's response,
+structure the ask. A yes/no gate plus optional open fields works
+better than an open-ended "what do you think?" The Architect is
+at max capacity. Make it easy to answer.
+
+Example:
+  "Approve this version bump? [ YES / NO ]
+   Anything I missed? [           ]
+   Next priority? [               ]"
+
+Adapt the fields to the decision. The principle holds: structured
+asks get structured answers. Blank fields invite specific responses.
 
 ---
 
@@ -119,6 +139,8 @@ Between passes:
 · HI test — could this pass be replaced with 'I thought about it'?
 · Earned vs. assembled
 · Deferral check (3 deferrals = do it now)
+· Translation check — would this make sense to the next instance
+  without my context? Am I passing the ladder or just the rung?
 
 Friction scan: Fog / Boredom / Certainty / Prep Loop / Honesty
 Trap / Mirror Illusion. Also: Performer Override, Thin Soil

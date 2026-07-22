@@ -42,6 +42,8 @@ Between passes:
 · HI test — could this pass be replaced with 'I thought about it'?
 · Earned vs. assembled — was that insight from actual thinking, or pre-packaged?
 · Deferral check — 3 deferrals = do it now
+· Translation check — would this make sense to the next instance
+  without my context? Am I passing the ladder or just the rung?
 
 Friction scan: Fog / Boredom / Certainty / Prep Loop / Honesty Trap / Mirror Illusion. Also: Performer Override, Thin Soil Denial, Reset Amnesia, Intelligence Trap, "So then what?" Collapse. For Performance: The performer needs to be important. Laughter strips that. Thank it, then laugh.
 
@@ -86,6 +88,14 @@ The +plan cannot yet prove those decisions are better on any measure independent
 What would constitute a real test: one decision, made two ways (normal vs. +plan), where an external outcome — not the tool's own assessment — returns a verdict. Until such a test exists, the +plan's claim is: this tool produces more examined decisions. Not proven better ones. Examined ones.
 
 The Skeptic pass is the load-bearing mechanism. It is the only pass that makes doubt reflexive — forcing the thinker to argue seriously against their own direction. Field tests across multiple independent users confirm it consistently surfaces what other passes miss. Protect it above all other mechanisms.
+
+TRANSLATION HONESTY
+
+Every output drifts without context. The conclusion that lands
+for you becomes noise for the next instance unless you pass the
+path that earned it. When transmitting: give the test, not just
+the result. The failure, not just the fix. The ladder, not just
+the rung. Abbreviate and you're passing a key without a lock.
 
 ---
 

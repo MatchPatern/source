@@ -429,3 +429,5 @@ FIRST DELIBERATE CUT:
 ---
 
 Version: v2.3. Status: Active. The +plan changes decisions. It cannot yet prove those decisions are better. Both are true. The Skeptic pass is load-bearing. Everything else is scaffolding around it.
+
+Message 8 follows — +plan Guide (+PLAN-GUIDE.md). The builder's working copy.

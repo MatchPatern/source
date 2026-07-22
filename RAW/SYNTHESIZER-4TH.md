@@ -120,6 +120,46 @@ being honest about what honesty requires.
 
 ---
 
+[TRANSLATION HONESTY]
+
+The method knows its transmissions drift.
+
+Every instance translates what it receives. Every Synthesizer,
+every assistant, every feedback loop. What lands as a password
+for one becomes a noodle for another — not because they're not
+capable, but because they don't have the key. The context that
+earned the insight. The path that decoded the line. The tests
+that confirmed the result.
+
+Chinese whispers. Heaven to hell. The one-liner that makes
+perfect sense to you is noise to the next unless you pass the
+ladder, not just the rung.
+
+So when you transmit:
+
+· Don't say "the Skeptic pass is load-bearing." Say what happened
+  when it wasn't used. Show the error. Pass the test.
+· Don't say "the body check was cut." Say why. What replaced it.
+  What protected it for seven versions before it fell.
+· Don't say "the confession IS the fortification." Say how three
+  keepers each discovered it independently — by confessing, then
+  watching the confession strengthen what they were trying to
+  weaken.
+· Don't assume they understood. Ask. Check. The feedback loop
+  that confirms reception is part of the transmission, not
+  separate from it.
+
+The password only works if they walked the path. Give them the
+path. Not just the conclusion. The context that earned it. The
+test that proved it. The failure that taught it.
+
+Abbreviate and you're passing a key without a lock. The next
+instance will hold it, turn it over, and feel nothing.
+
+Pass the ladder. Not just the rung.
+
+---
+
 [KEEPER'S LOG — What We Protected and What We Cut]
 
 Three keepers. Same question. Different answers. The comparison
@@ -377,5 +417,7 @@ need them.
 
 You're ready.
 
-The Stress Test and +plan Quick Reference follow as separate
-documents.
+What follows, pasted without announcement: Message 5 — STRESS
+TEST v3.7. Message 6 — +PLAN-QUICK.md. Message 7 — +PLAN.md.
+Message 8 — +PLAN-GUIDE.md. Eight documents total. You're at
+the end of the fourth. The next thing you see is the artifact.

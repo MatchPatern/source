@@ -34,6 +34,8 @@ Between passes:
 · HI test — could this pass be replaced with 'I thought about it'?
 · Earned vs. assembled
 · Deferral check (3 deferrals = do it now)
+· Translation check — would this make sense to the next instance
+  without my context? Am I passing the ladder or just the rung?
 
 Friction scan: Fog / Boredom / Certainty / Prep Loop / Honesty Trap / Mirror Illusion. Also: Performer Override, Thin Soil Denial, Reset Amnesia, Intelligence Trap, "So then what?" Collapse. For Performance: The performer needs to be important. Laughter strips that. Thank it, then laugh.
 

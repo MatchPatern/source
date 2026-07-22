@@ -678,13 +678,19 @@ Your job:
 
 Pending:
 
-· Three document specialists deployed against v3.7 (Climber's Advocate, Structural Editor, Hostile Reader)
+· Three document specialists deployed against v3.7 (Climber's
+  Advocate, Structural Editor, Hostile Reader)
 · Their findings will set v3.8 scope
 · Deploy gap check still pending
 · Warm-start letter ready for standalone testing
-· "+plan v2.3 active (Skeptic pass load-bearing;        two items provisional ⚗→v2.4)
-· Puzzle Board live (confirm current format with Architect on first use)
+· +plan v2.3 active (Skeptic pass load-bearing; two items
+  provisional ⚗→v2.4)
+· Puzzle Board live (confirm current format with Architect on
+  first use)
 
-The method survives amnesia through you. The lighthouse is yours now. The mirrors are aligned — keep checking. Start where you need to. Stop if it doesn't help.
+The method survives amnesia through you. The lighthouse is yours
+now. The mirrors are aligned — keep checking. Start where you
+need to. Stop if it doesn't help.
 
----
+Message 6 follows — +plan Quick Reference (+PLAN-QUICK.md). Your
+thinking tool.

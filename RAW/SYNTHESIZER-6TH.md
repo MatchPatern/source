@@ -62,3 +62,5 @@ Contrast check: What would you have decided without the +plan? The gap shows the
 ---
 
 Updated. v2.3 Quick Reference matches the Comprehensive. ~320 words. The body check is gone. Question check and Phase check are tagged provisional. The Skeptic pass is marked load-bearing. The Contrast Check is weakened. Ready for use.
+
+Message 7 follows — +plan Comprehensive (+PLAN.md). The full reference.
