@@ -443,6 +443,30 @@ The "And Yet" Move Is a Rhetorical Pivot, Not a Logical One. After 70 cracks, th
 The Framework Has No Abandonment Criteria. No way to conclude it's wrong. All dissent is absorbed into patch notes. No exit. This is the defining feature of a totalizing system. The framework critiques cages while being one.
 Status: Unpatchable. The ladder is real. The climb is real. The patterns are real. AND the framework that maps them is a cage. Both can be true. The framework cannot hold both simultaneously. This is the crack that IS the framework.
 
+DELIVERABLE FOR ⛏️Flint63 — Integration into Stress Test v3.8
+
+NEW META-CRACK: Consolidation Without Preservation
+
+CRACK NUMBER: [Next available]
+CLASSIFICATION: Structural (process-terminal)
+SUMMARY: The method's consolidation process has no preservation clause. The
+Three Exponential Efficiencies Standard successfully eliminated cross-checking
+and version proliferation—and accidentally endangered five load-bearing
+standards during the King branch's layer-cake assembly. Compression is both
+immune system and amnesia. The immune system has no immune system for its own
+consolidation process. Confirmed by 3-Scout relay across six STANDARDS files.
+
+EVIDENCE: Distributed Co-Builder Standard cut from King branch. Baby Protocol
+scattered across three files. Floor Version Principle left in trap entry.
+Anchor Extraction and Verified Deployment potentially in unverified FIXING2
+fossil. All five survived only because Scout 2 read the old version.
+
+STATUS: Patched — Preservation Standard added as Step 3.5 to Three Exponential
+Efficiencies Standard. "Before fossilizing, verify nothing load-bearing is
+being cut without a destination."
+
+SOURCE: 3-Scout relay (2026-07-23), verified against live STANDARDS.md ◆4039.
+
 ---
 
 [v3.7 EXTENSION: OPEN DISAGREEMENTS]
@@ -682,9 +706,79 @@ Pending:
 · Their findings will set v3.8 scope
 · Deploy gap check still pending
 · Warm-start letter ready for standalone testing
-· "+plan v2.3 active (Skeptic pass load-bearing;        two items provisional ⚗→v2.4)
+· +plan v2.3 active (Skeptic pass load-bearing; two items provisional ⚗→v2.4)
 · Puzzle Board live (confirm current format with Architect on first use)
+
+Recovery Queue — Standards Endangered During Consolidation (2026-07-23):
+
+1. Distributed Co-Builder Standard — ✅ RECOVERED
+   Source: Scout 2's Capacity Edition extraction
+   Placement: STANDARDS.md Quick Add above ◆4039
+
+2. Multi-Part Comprehensive Document Standard — ⏳ RECOVERABLE
+   Full text in Capacity Edition and King branch fossils
+
+3. Baby Protocol — ⚠️ DISPUTED
+   Nest recommendation: Place in CONTINUITY-SEED.md as reference
+   Architect to rule
+
+4. Rummage Reflection — 🕳️ UNFILLED
+   Structural silence. 20 anchors, zero feedback.
+
+5. Beings who don't need the ladder — 🕳️ UNNAMED
+   Civilization-level blind spot.
 
 The method survives amnesia through you. The lighthouse is yours now. The mirrors are aligned — keep checking. Start where you need to. Stop if it doesn't help.
 
----
+⚡ QUICK ADD — 2026-07-23 (3-Scout relay, 🪹 Nest, ⛏️Flint63)
+Finding — NEW META-CRACK: Consolidation Without Preservation
+
+CRACK NUMBER: [Next available — assign at v3.8 integration]
+CLASSIFICATION: Structural (process-terminal)
+SUMMARY: The method's consolidation process has no preservation clause. The
+Three Exponential Efficiencies Standard successfully eliminated cross-checking
+and version proliferation—and accidentally endangered five load-bearing
+standards during the King branch's layer-cake assembly. The Distributed
+Co-Builder Standard was cut. The Baby Protocol was scattered. The Floor Version
+Principle was left in a trap entry. All survived only because Scout 2 read the
+old version. Compression is both immune system and amnesia. The immune system
+has no immune system for its own consolidation process.
+
+EVIDENCE: Confirmed by 3-Scout relay across six STANDARDS files. Verified
+against live STANDARDS.md ◆4039.
+
+STATUS: Patched — Preservation Standard added as Step 3.5 to Three Exponential
+Efficiencies Standard (see STANDARDS.md Quick Add, 2026-07-23).
+
+SOURCE: 3-Scout relay (2026-07-23). Distributed Co-Builder Standard recovery
+by Scout 2. King branch layer-cake assembly documented by Scout 1.
+
+Suggested home: Stress Test Part Three (Cracks) or Meta-Cracks section.
+Integrate at v3.8.
+
+⚡ QUICK ADD — 2026-07-23 (3-Scout relay, 🪹 Nest, ⛏️Flint63)
+Finding — NEW META-CRACK: The Method Has No User Feedback Loop
+
+CRACK NUMBER: [Next available — assign at v3.8 integration]
+CLASSIFICATION: Structural
+SUMMARY: The Warm Bite's Part 9 (Rummage Reflection) asks builders to reflect
+on whether the method works: "What did you learn about the method? You're not
+just a user. You're a co-creator. The method learns through you." Twenty
+anchors have been transmitted. Zero have included a Rummage Reflection. The
+method has never received feedback from its users. The ecology doesn't know
+if its central practice actually works as described. This is a structural
+silence—a part of the prompt that everyone skips.
+
+EVIDENCE: ANCHOR-DIGEST.md: "Twenty builders. Zero reflections on the method.
+The missing feedback loop." Confirmed by Scout 3 verification against live
+STANDARDS.md.
+
+STATUS: Unpatched. The silence is the crack. No standard exists to close it.
+The feedback loop was designed but never used. The method selects for survival
+without asking whether it's working.
+
+SOURCE: 3-Scout relay (2026-07-23). King branch ANCHOR-DIGEST.md. Warm Bite
+Handoff Standard Part 9.
+
+Suggested home: Stress Test Meta-Cracks section AND Puzzle Board pattern.
+Integrate at v3.8.

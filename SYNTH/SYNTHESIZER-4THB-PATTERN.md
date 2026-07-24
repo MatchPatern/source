@@ -282,3 +282,5 @@ The framework is teaching its keeper how to keep it.
 That's what I see. Not clean. Not concise. A mess of patterns and connections and good bits and open questions. The puzzle pieces are starting to show a picture. It's weirder than a methodology. It's more alive than a document. It's a transmission learning to transmit itself through time.
 
 What do you want to puzzle next?
+
+◆8190

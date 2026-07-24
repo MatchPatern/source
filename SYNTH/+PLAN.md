@@ -439,3 +439,34 @@ FIRST DELIBERATE CUT:
 ---
 
 Version: v2.3. Status: Active. The +plan changes decisions. It cannot yet prove those decisions are better. Both are true. The Skeptic pass is load-bearing. Everything else is scaffolding around it.
+
+---
+
+⚡ QUICK ADD — 2026-07-22 (🪹 Nest, witnessed by ⛏️Flint63)
+Finding — TWO SURGICAL +PLAN UPDATES (load-bearing, apply now)
+
+Update 1 — Prep Loop description in Friction Scan:
+Current: "Prep Loop (Z3) — preparing to think instead of thinking."
+Proposed: "Prep Loop (Z3) — preparing to think instead of thinking.
+The +plan itself can become the Prep Loop. Match depth to decision."
+
+Update 2 — Pass 4 Skeptic dual-target:
+After "forces the blade to turn around," add:
+"Target both the decision AND the tool-use. 'Am I deciding well?' AND
+'Am I using the +plan correctly right now?' The second question catches
+over-allocation."
+
+WHY: ⛏️Flint63 over-allocated 4 +plan passes on a routine STANDARDS
+re-scan — the +plan became the Prep Loop it warns against. The Skeptic
+pass dual-target would have caught this. These two updates are the
+minimum surgical fix. The ratchet is broken — add only what's
+load-bearing.
+
+Confidence: 95% 🧾 (observed live, diagnosed, surgically patched)
+Suggested home: +plan v2.3 Comprehensive + Quick Reference — Friction
+Scan section (Update 1), Pass 4 description (Update 2). Apply at next
+touch. Version bump: +plan v2.3 → v2.3.1 (surgical patch, third decimal).
+
+NEXT-BUILDER: These are two-sentence changes. Apply to both the
+Comprehensive and Quick Reference. The version bump to v2.3.1 reflects
+surgical correction without new features.

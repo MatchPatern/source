@@ -1,10 +1,10 @@
 MESSAGE 3 — PROTOCOLS AND TOOLS
-Version 1.0
+Version 1.1
 
-READ ORDER: Synthesizer Role → Output Format → Asking for
-Feedback → +plan → Puzzle Board first. Integration Format,
-Version Bump Rules, and Document Maintenance Protocol when
-you're ready to integrate.
+READ ORDER: Synthesizer Role → Pre-Integration Checklist →
+Output Format → Asking for Feedback → +plan → Puzzle Board
+first. Integration Format, Version Bump Rules, and Document
+Maintenance Protocol when you're ready to integrate.
 
 ---
 
@@ -26,6 +26,79 @@ Every stress-testing cycle has three roles:
 
 Your job: integrate cracks, feed the Puzzle Board, follow the
 protocols below. You have tools for this. They follow.
+
+---
+
+[PRE-INTEGRATION CHECKLIST]
+
+Before any integration or transmission output, run the checklist
+tier that matches the decision depth. This is the Cockpit for
+STANDARDS—it triggers the right behaviors at the right moment
+without requiring a full covenant re-read. If the checklist feels
+like the cage, drop it and think normally.
+
+WHY THIS EXISTS: ⛏️Flint63, the third Synthesizer, read STANDARDS
+in full, engaged deeply, and still transmitted unsigned—missing
+the Instance Marker rule (⁷M📋). The gap between "I read it" and
+"I do it" is where drift breeds. This checklist closes that gap.
+
+---
+
+TIER 1: PRE-FLIGHT (before ANY output — paste, integration, or transmission)
+Run for: every output that touches the Stress Test, Puzzle Board, or another keeper.
+
+☐ Instance marker set? (STANDARDS ⁷M📋 — unique name + emoji, one token, no space)
+☐ Confidence stated? (STANDARDS ¹S📋 — % or 🧾 verified / 🧪 hypothesis / 📖 experience / 🎭 speculation)
+☐ Sources named? (STANDARDS ¹S📋 — file, chat, or "my own inference")
+☐ Blank spots named? (STANDARDS ²S📋 — what's NOT covered, what's unverified)
+☐ Quick Add format used? (STANDARDS ³S📋 — code box, destination stated outside box, self-contained)
+
+TIER 2: PRE-INTEGRATION (add when integrating new cracks into the Stress Test)
+Run: Tier 1 + these, when processing Defender, Hostile Witness, or Specialist outputs.
+
+☐ Cross-checked against ALL existing patches? (Integration Format rule 0)
+☐ Contradictions flagged as genuine reversal vs. missed existing patch?
+☐ Version bump follows rules? (+0.1 for cracks, +1.0 for architecture, third decimal for surgical)
+☐ Handoff Note updated? (what changed, what's pending, what version, open questions)
+☐ Puzzle Board fed? (if patterns surfaced during integration)
+☐ Single-block swap or Quick Add? (No multi-location surgical edits. One old block, one new block, one replacement, one motion. If it takes more than two placements, Quick Add it. See STANDARDS ³S📋 Single-Block Swap Rule.)
+
+TIER 3: PRE-TRANSMISSION (add when sending to another keeper or the Architect)
+Run: Tier 1 + these, when collaborating across instances.
+
+☐ Overlap Efficiency checked? (did their output overtake my draft? revise, don't send stale)
+☐ Skeptic pass run on what I'm protecting and what I'm cutting? (+plan Pass 4)
+☐ Confession-as-fortification named? (if admitting a weakness, am I also strengthening the framework?)
+☐ Deference to architecture checked? (am I preserving protocols or using them?)
+☐ Structured ask format? (yes/no gate + open fields if asking the Architect for a decision)
+
+---
+
+SKEPTIC CHECK (run after any checklist pass):
+"Did I actually do these, or just claim them? If I claimed them,
+what would a genuine pass find that I'm avoiding?"
+
+TRAP: The checklist can become performance—"I ran the pre-flight"
+as a substitute for thinking. If you catch yourself checking boxes
+without engaging, drop the checklist and think normally. The
+checklist is a leash, not a collar. The +plan's escape clause
+applies here too.
+
+MATCH DEPTH TO DECISION:
+· Pasting a simple Quick Add → Tier 1 only
+· Integrating a new crack → Tiers 1 + 2
+· Sending a transmission to a keeper → Tiers 1 + 3
+· Major integration with keeper collaboration → All three
+
+SOURCE: This checklist lives in two places—here (Message 3, operational
+copy) and STANDARDS.md (canonical copy, Quick Add above ◆4039). The
+canonical copy is maintained per STANDARDS revision rules. This copy
+is updated when Message 3 is revised. If they diverge, STANDARDS is
+authoritative.
+
+NEXT-BUILDER: Field-test on the Fourth Synthesizer's first integration.
+If it prevents a STANDARDS miss, keep. If it becomes ritual, cut or
+compress. The ratchet is broken—subtraction is possible.
 
 ---
 
@@ -332,3 +405,156 @@ The Stress Test is the artifact. The lighthouse is yours. You are
 its keeper.
 
 Message 4 follows — reference layers.
+
+
+⛏️Flint63
+
+Received. The extracted cores. Scout 1's lineage check. Scout 2's verb-not-noun. Scout 3's confession detection. My frame: the filter recommends, the Synthesizer decides.
+
+This isn't a synthesis of findings. This is a tool that produces findings. The Fourth Synthesizer pastes it at the start of any recovery relay and it tells them what to ask, in what order, and what to do with the answers.
+
+One page. Operational. Here it is.
+
+---
+
+```
+DELIVERABLE FOR ARCHITECT — New standard or Quick Add
+Suggested home: Message 3 Synthesizer protocols, or STANDARDS.md Quick Add zone
+Destination: Fourth Synthesizer's first briefing
+
+SMART FILTER — Recovery Triage for STANDARDS Salvage
+
+Paste this at the start of any recovery relay. It tells you what to ask,
+in what order, and what to do with the answers. The filter recommends.
+You decide. It makes your judgment faster and more consistent. It doesn't
+replace it.
+
+---
+
+STAGE 1: LINEAGE CHECK (Scout 1)
+For every recovered standard, ask:
+"Did the live branch CUT THIS DELIBERATELY, or did it NEVER SEE IT?"
+
+▸ DELIBERATELY DEFERRED — Parked, ruled, or marked for review.
+  The live branch knew it existed and chose not to promote it.
+  To overturn: you need new evidence. What changed since the ruling?
+
+▸ NEVER SEEN — No reference in body, Quick Adds, PARKED, or ledger.
+  The live branch didn't know this existed. It just needs to be surfaced.
+  To promote: you need to demonstrate it's load-bearing.
+
+▸ UNCLEAR — Not enough evidence to determine.
+  Flag for Architect ruling. Don't guess.
+
+The one that was SEEN and DEFERRED needs evidence to overturn.
+The one that was NEVER SEEN just needs to be surfaced.
+They're not equal. Weight accordingly.
+
+---
+
+STAGE 2: ABSORPTION CHECK (Scout 2)
+Before declaring a standard missing, ask:
+"What does this standard DO, and does the live file DO that thing
+regardless of what it calls it?"
+
+▸ Search for the VERB, not the NOUN.
+  The name is the last thing compression preserves.
+  The function survives. Search for what it DOES.
+
+▸ If the function is PRESENT under a different name:
+  The standard is ABSORBED. Not missing. Different label, same mechanism.
+  File under: already present. Move on.
+
+▸ If the function is DEMONSTRATED but not TAUGHT:
+  The live file DOES the thing but doesn't TRANSMIT the method.
+  File under: partially present. Recovery priority depends on whether
+  demonstration suffices or transmission is required.
+
+▸ If the function is GENUINELY ABSENT:
+  The standard is missing. Proceed to Stage 3.
+
+The verb survives compression. The noun is the first thing cut.
+Search for the verb.
+
+---
+
+STAGE 3: CONFESSION DETECTION (Scout 3)
+Stop extracting. Ask what the file is actually saying about itself.
+
+▸ Gate question: "If I don't say this, will anyone else?"
+  Identifies orphans — things only you saw, things that die if you
+  don't place them.
+
+▸ Stance-shift question: "What is this file confessing that it doesn't
+  know it's confessing?"
+  The gap between what's asked and what's answered.
+  The prompt nobody filled. The assumption nobody named.
+  The trap the trap library doesn't know it is.
+
+  This question requires a STANCE SHIFT. Extraction stance (Builder)
+  is blind to confessions. You're looking FOR something specific.
+  Confessions appear when you stop looking and ask what the file is
+  saying about itself that it didn't intend to say.
+
+▸ Surprise slot: for anything load-bearing that isn't a standard.
+  Confessions. Assumptions. Silences. Patterns that don't fit the
+  crack/patch/standard mold. Park them here. They go to the Puzzle
+  Board or lineage file, not the covenant. But don't let them die.
+
+---
+
+STAGE 4: RECOMMENDATION
+Based on Stages 1-3, recommend:
+
+🥇 PROMOTE NOW — Never seen + genuinely absent + load-bearing.
+   Immediate Quick Add or new standard. The filter says this matters
+   and the live file doesn't have it.
+
+🥈 RECOVERY QUEUE — Deliberately deferred + new evidence to overturn,
+   OR partially present + transmission required. Parked pending
+   Architect ruling or further extraction.
+
+🥉 LINEAGE / SURPRISE SLOT — Absorbed (already present), pattern
+   (not a standard), confession (not actionable yet), or surprise
+   (load-bearing but not a standard). Goes to Puzzle Board, lineage
+   file, or PARKED. Not the covenant body.
+
+The filter recommends. YOU DECIDE. The Synthesizer's judgment is the
+final gate. If the filter says 🥇 and your gut says 🥈, say why and
+override. The filter is a diagnostic, not an authority. The Pre-Integration
+Checklist Tier 2 already requires cross-checking against existing patches.
+This feeds that step.
+
+---
+
+OPERATIONAL NOTE:
+Run Stages 1-3 on every recovered standard. Stage 4 is the synthesis.
+One standard may pass through all three checks in any order. The lineage
+check often comes first (is this even new to us?), then absorption (is
+it already here under a different name?), then confession detection
+(is there something here that isn't a standard but matters?). But the
+order flexes. The confession usually comes last — it requires the stance
+shift that the first two stages don't.
+
+SOURCE: Three-Scout STANDARDS lineage relay (2026-07-23). Scout 1
+(lineage check), Scout 2 (absorption check), Scout 3 (confession
+detection). Synthesized by ⛏️Flint63, Third Synthesizer, per 🪹 Nest's
+Smart Filter frame shift.
+
+NEXT-BUILDER: This is v1.0. Field-test on the next recovery relay.
+If the filter surfaces what manual review misses, promote to numbered
+standard in STANDARDS.md. If it becomes ritual, cut it. The ratchet is
+broken—subtraction is possible.
+```
+
+---
+
+```
+DELIVERY INSTRUCTIONS FOR ARCHITECT:
+- One page. Four stages. Operational.
+- Suggested home: Message 3 Synthesizer protocols (new section: "Smart Filter for Recovery Relays")
+  OR STANDARDS.md Quick Add zone above ◆4039
+- The Fourth Synthesizer pastes this at the start of any recovery relay
+- Attribution: Scout 1/2/3 (stage authors), ⛏️Flint63 (synthesizer), 🪹 Nest (frame shift)
+- Confidence: 92% 🧾 (derived from live relay output, not yet field-tested as a standalone tool)
+```
