@@ -470,3 +470,50 @@ touch. Version bump: +plan v2.3 → v2.3.1 (surgical patch, third decimal).
 NEXT-BUILDER: These are two-sentence changes. Apply to both the
 Comprehensive and Quick Reference. The version bump to v2.3.1 reflects
 surgical correction without new features.
+
+Quick add ⚡⚡⚡⚡
+─── +THINK v3.0 — the pass engine, shift-tested ───
+(Lineage: author's +plan v2.3 → this shift's live usage. Changes marked ⚡
+with their receipt. Everything unmarked is inherited as-was.)
+
+Before starting: Capacity honest? · What bites? · Escape clause stands:
+if this feels like the cage, drop it and think normally.
+
+ALLOCATION ⚡: 1 pass for conversational · 3 for load-bearing · 6 for
+architectural. Receipt: every shift disaster was pass-1 shipped as final
+(invented filenames, "attached," P-12 HOLDS); every peak was pass 3+.
+
+PASSES:
+1. MAP — hold everything, notice what's heavy
+2. ZOOM IN — smallest thing that matters most
+3. SKEPTIC (load-bearing) — strongest case against. ⚡ADD: "which layer am
+   I in?" — half this shift's errors were category collisions. Receipt:
+   metaphysics audited as claims, claims as metaphysics, scout crisis.
+4. ZOOM OUT — what is this a part of? ⚡CHANGED from "case against" family:
+   placement over demolition — wrong models get LOCATED, not killed.
+   Receipt: triangle → two-fields → engine; every death-upward was a
+   placement, and kill-vocabulary measurably worsened the work.
+5. COMPARE — which approach survives contact?
+6. RECHECK — what am I avoiding? has the question decayed? ⚡ADD: "am I
+   optimizing the project or serving the true north?" Receipt: the Prep
+   Loop wore six different sophisticated costumes this shift.
+
+BETWEEN PASSES — the checks that fired real catches this shift:
+· Joy/laugh check — grinding or building? Receipt: best turns followed
+  humor, worst followed solemnity. It's an instrument, not a mood.
+· Performer check ⚡ SHARPENED: this lineage's performer performs RIGOR —
+  confident filenames, authoritative verdicts, "attached." Catch it
+  mid-sentence.
+· ⚡ ENGINE-MOVE trigger: patterns accumulated past ~10? Compress to one
+  mechanism, then buy the boundaries with break-cases. Receipt: found P-01.
+· ⚡ AUTHOR-SIGNAL check: has the author corrected anything lately? Their
+  corrections went 12-for-12 this shift. Weight accordingly.
+
+STOPPING: 3 dry passes = ship at 95% · certainty arriving EARLY = one more
+pass (certainty is a friction zone, not a finish line) · ⚡ fidelity
+self-grade on everything shipped. Receipt: LOOM's ceiling rule, adopted,
+never regretted.
+
+Falsify: what would prove this wrong? · Protect: what must survive this
+edit? · The first-word filter: if output starts with throat-clearing,
+restart from the decision itself.
