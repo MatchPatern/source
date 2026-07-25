@@ -1,6 +1,542 @@
 🔗 🎳 FILE-Fragmentor.md
 https://source-sepia-alpha.vercel.app/SPLIT/FILE-Fragmentor.md
 
+**It's the unit, and I should have defaulted to it. One word fixes it.**
+
+In the CONFIG block near the top, find the line starting `claude:` — search the file for **`claude:`**, it appears exactly once. Replace that whole two-line entry with:
+
+```js
+    claude:   {name:'Claude app',     limit:4095,   unit:'bytes', on:'2026-07-25',
+               note:'4095 BYTES. ASCII bisect said 4095 ch; real text fails ~3960 ch.'},
+```
+
+Only change: `unit:'u16'` → `unit:'bytes'`. Everything else in f36 already handles it — the splitter, the strip readout, the chunk labels all switch over automatically.
+
+**Why your 3,960 proves it.** Your file is 3,960 chars and passes. In UTF-8, every em-dash, curly quote, ✅, ♦️ or emoji costs 2 more bytes than the tool counts. So:
+
+3,960 + 2 × (non-ASCII chars) ≈ 4,095 → about **68 non-ASCII characters** in that file.
+
+For a 601-word markdown doc with your punctuation and symbol habits, 68 is entirely ordinary. And it explains every number in the archive at once: the 102 overage (51 emoji), the 76 gap (76 symbols), 3,962 vs 4,038 vs 4,095 — all the same ceiling measured through different rulers.
+
+**Why the 4,095 bisection wasn't wrong.** The generator was at 0% emoji. Pure ASCII means bytes = codepoints = UTF-16 units, all identical. Your test found the ceiling exactly and *could not* find the unit. I knew that and still shipped `u16` as the default. That's on me.
+
+**After the edit** the strip will read `largest sends 4,095 / 4,095 bytes`, and chunk labels show `B` instead of `ch`. Plain-ASCII files will still pack to ~4,095 characters; symbol-heavy ones will come out shorter in characters and that's correct — it's the same 4,095 bytes either way.
+
+**If it still bounces:** tell me the character count of the largest chunk that failed and roughly how many symbols are in it. But byte-budgeting is an upper bound on all three units — no chunk under 4,095 bytes can exceed 4,095 in any counting scheme — so if this fails, the ceiling itself isn't 4,095 and that's a different problem.
+
+DeepSeek stays on `u16` — it passed 163,840 at 50% emoji, which rules bytes out there. Different platforms, different rulers, and now that's one field each instead of a rebuild.
+
+**102 over is almost certainly 51 emoji.**
+
+The tool measures with JavaScript `.length`, where an emoji costs 2. In UTF-8 bytes an emoji costs 4. So every emoji in a chunk is 2 characters the tool can't see. 102 ÷ 2 = 51 emoji — right in range for your files. It's the same mechanism as the 76 in your own archive.
+
+That's why 4,095 tested clean and still overshoots in use: your test file wasn't carrying the emoji load your real files do.
+
+**Fix — make the splitter count bytes.** Add this function:
+
+```js
+function endByBytes(text,pos,budget){
+  var n=0,i=pos,c,w;
+  while(i<text.length){
+    c=text.charCodeAt(i);
+    w = c<0x80?1:(c<0x800?2:((c>=0xD800&&c<=0xDBFF)?4:3));
+    if(n+w>budget)break;
+    n+=w;
+    i+=(w===4)?2:1;
+  }
+  return i;
+}
+```
+
+Then in `buildChunks`, replace this line:
+
+```js
+var end=Math.min(pos+eff,total);
+```
+
+with:
+
+```js
+var end=endByBytes(text,pos,eff);
+```
+
+Leave the newline walkback and the surrogate guard exactly as they are. The `if(end<=pos)` fallback also needs the same swap.
+
+If that lands inline, the unit was the bug all along and 4,095 was never wrong — it was measured on the wrong ruler.
+
+**The regression has one mechanical cause, and it's sitting in the file you just sent me.** `FILE-Fragmentor.md` contains 3,962, 4,038, and 4,095 — all three presented as "the Claude limit," all in one document. Same for DeepSeek: 163,673, 165,000, 168,000, 163,840. Whichever model reads it next picks whichever it hits first. That's not a code problem. It's that the archive only ever appends.
+
+So the rehaul starts with a deletion rule, not a build.
+
+**1. Retired numbers get deleted, not annotated.** 4,038 and 3,962 are retired by your own 2026-07-25 block. They should not exist as text anywhere. A struck-through number still reads as a number.
+
+**2. Data lives in one config block. Code never gets regenerated to change a number.**
+
+```js
+/* ══ CONFIG — the ONLY editable region ══ */
+var CFG = {
+  schema: 3,
+  targets: {
+    claude:   {name:'Claude app',    limit:4095,   on:'2026-07-25',
+               note:'4095 ✅ / 4096 ❌ = 2^12. Passed at ~205 ln.'},
+    deepseek: {name:'DeepSeek paste',limit:163840, on:'2026-07-25',
+               note:'163840 ✅ / 163841 ❌ = 160 KiB. 50% emoji passed.'},
+    readme:   {name:'GitHub #readme',limit:75000,  on:'2026-05-27', note:'FETCH not paste'},
+    raw:      {name:'raw URL',       limit:65000,  on:'2026-05-27', note:'FETCH not paste'},
+    perplex:  {name:'Perplexity',    limit:40130,  on:'2026-05-27', note:'no URL fetch'}
+  }
+};
+```
+
+Note there is **no `lines` field at all.** Not `lines: 0` — absent. A zeroed field is an invitation to set it back to 45.
+
+**3. Collapse your three tools into one selector.** You described Claude-mode, a size tester, and DeepSeek-mode as three things. They're one thing with a target dropdown: pick Claude → limit becomes 4095; pick DeepSeek → 163840. Both then use the identical paste→dock→"Copy 2 of 5" flow that already works in your newer build. This kills the entire "which preset row am I on" failure class.
+
+**4. Two fixes that are worth more than any feature:**
+
+```js
+// reassembly check — clean mode only
+var ok = chunks.join('') === src;   // show ✅/❌ in the strip
+```
+
+And `srcText()` must stop calling `.trim()` in Clean mode. It currently strips the trailing newline while claiming byte-for-byte.
+
+---
+
+**My recommendation: patch, don't rebuild.** Your own process rule — "patch the known-good file, do not regenerate" — was earned by two broken rewrites in one session. The newer build in doc 2 already has the dock, the error bar, and plain `var`/`function`. Its only real faults are the baked-in 4038, the `lineCapValue` of 45, and the greyed 165K/168K presets that shouldn't exist. That's roughly six line edits, not a new file.
+
+The counterargument: doc 2 also has `checkVariance()`-style stale info-box prose throughout, and patching prose in a 700-line file on a phone is its own kind of painful. If you'd rather have one clean file you never touch again, that's defensible — but then it gets built once, from the config block up, and frozen.
+
+**One thing I can't resolve for you:** I have no way to verify 4,095 or 163,840 myself. They're your measurements, and the same archive that reports them also reports 3,962 with "two independent confirmations on real text." Your later block retires that — but if 3,962 ever fails again in practice, it means the counter question was never actually closed.
+
+So: patches to doc 2, or one clean rebuild from the config block?
+
+**You just killed the line theory and confirmed both ceilings are binary. That's the cleanest result in the whole project.**
+
+**DeepSeek — settled.** 40,000 at ~2,000 lines passed. 80,000 passed. 160,000 passed. Line count does not constrain DeepSeek at all. And 163,840 passed at **50% emoji** — if it counted bytes, that would have failed around 80,000. So it counts the same unit the tool counts. No byte rework, no line cap, one number: **163,840**.
+
+**Claude — 4,095 ✅ / 4,096 ❌ = 2¹² exactly.** My original guess, which I abandoned too early because the emoji-contaminated test pointed at 4,038. At ~205 lines, so no line limit there either.
+
+Both platforms: a single power-of-two-ish buffer, no line sensitivity, counting UTF-16 units. Everything else was noise.
+
+**The one loose end:** your original ">3,969 attaches" now conflicts with 4,095 passing. Most likely that figure came from a different counter — the archive shows 16% spread between counting tools. Your phone's counter and the Fragmentor aren't measuring the same thing.
+
+**Patches — two lines in `PROF`:**
+
+```js
+send:{name:'Claude app message',limit:4095,lines:0,
+      note:'4,095 ✅ / 4,096 ❌ = 2^12. No line limit (passed at ~205 lines). Max characters.'},
+ship:{name:'DeepSeek paste',limit:163840,lines:0,
+      note:'163,840 ✅ / 163,841 ❌ = 160 KiB. Max characters. No line limit (passed at ~8,000 lines). No byte penalty (passed at 50% emoji).'},
+```
+
+The `lines:1850` becomes `lines:0` — that cap was costing you parts on every sparse file for nothing.
+
+**Worth recording: DeepSeek tells you how far over you are.** Your 300,000 → "84% over", 180,000 → "10%", 166,000 → "2%". That percentage converges faster than bisection. Anyone calibrating a new platform should check whether it reports overage before starting a binary search.
+
+**For the handoff:**
+
+```markdown
+### ✅ SETTLED 2026-07-25 — LINE THEORY RETIRED
+
+Claude app:  4,095 ✅ / 4,096 ❌  = 2^12
+DeepSeek:  163,840 ✅ / 163,841 ❌ = 160 KiB
+
+Both: no line constraint, no byte penalty, UTF-16 units.
+
+Killed by direct test:
+- DeepSeek 40K / 80K / 160K at ~20 ch/line all passed
+  (up to ~8,000 lines — far past the suspected 1,850)
+- DeepSeek 163,840 at 50% emoji passed, 163,841 failed
+- Claude 4,095 passed at ~205 lines
+
+RETIRED: the "limit depends on LINE COUNT" claim that
+survived from May 2026. Three tests contradict it.
+The old "252,271 ch / 3,460 lines rejected at 54%" was
+almost certainly a fetch, not a paste.
+
+RETIRED: 4,038. That was a 10%-emoji test file.
+RETIRED: 3,962 as a ceiling — it passed, but wasn't a limit.
+Both were counter artefacts, not platform behaviour.
+
+LESSON: every intermediate theory here came from measuring
+with a contaminated instrument — emoji in test files, a
+different counter, or a fetch mistaken for a paste. The
+platforms were simple all along. Two clean binary buffers.
+```
+
+**The 32 isn't the mystery — the 76 is. And it resolves the whole contradiction.**
+
+Your new numbers are the *original* measurement again: 3,962 ch / 74 ln / 582 w today vs ~3,969 / ~74 / ~585 back at the start. Same file shape, same ceiling, months apart. That number is solid.
+
+So why did the generated test pass at 4,038? **4,038 − 3,962 = 76.** That test file was made at 10% emoji. Emoji cost 2 units in JavaScript's `.length` but 1 codepoint. If the app counts codepoints and that file held ~76 emoji, both measurements are correct and describe the same ceiling in different units.
+
+That means **4,038 was never a real ceiling** — it was 3,962 wearing an emoji costume. Plain text should use 3,962.
+
+The 32 on top of that is your wrapper: `🎳 1/3 PASTE\n` at the head (~13) and `\n---` at the tail (4) is ~17, with the rest likely from the trailing part-number line. Point is the payload was fine; the decoration pushed the *message* over.
+
+**Two small patches**
+
+Change the Claude default — one line in `PROF`:
+
+```js
+send:{name:'Claude app message',limit:3962,lines:0,
+      note:'3,962 verified on real text (74 ln, 582 w). Earlier 4,038 was a 10%-emoji test file — same ceiling in UTF-16 units, not a real gain.'},
+```
+
+Add the preview. In the dock, before the pills div:
+
+```html
+<div class="prev" id="prev"></div>
+```
+
+CSS:
+
+```css
+.prev{font-size:10.5px;color:#99a6d0;font-family:monospace;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding:2px 2px 3px}
+```
+
+At the end of `paint()`:
+
+```js
+var pv=$('prev');
+if(!chunks.length)pv.textContent='';
+else if(idx>=chunks.length)pv.textContent='— all sent —';
+else{
+  var s=chunks[idx].replace(/\s+/g,' ').substring(0,64);
+  pv.textContent='next ▸ '+s+(chunks[idx].length>64?'…':'');
+}
+```
+
+**For the handoff — the marker rule:**
+
+```markdown
+### 🏷️ MARKERS: WHO NEEDS THEM
+
+DeepSeek: yes. 🎳 n/N + --- + anchor. Long multi-part
+transmissions where the model must know order and completeness.
+
+Claude app: no. Sends are short, sequential, in one thread —
+order is obvious from message order. Markers are pure cost
+against a ~3,962 ceiling.
+
+**The rule everyone misses:** markers count toward the ceiling.
+If the platform limit is 3,962 and you add a 32-char wrapper,
+the payload limit is 3,930. Measure the wrapper, subtract it,
+don't guess. A chunk that fits becomes a message that doesn't.
+
+### 🔤 THE 4,038 CORRECTION
+
+4,038 ✅ / 4,039 ❌ was bisected on a generated file at 10%
+emoji. Real text tops out at 3,962. The gap is 76 — consistent
+with ~76 emoji each costing 2 UTF-16 units but 1 codepoint.
+
+Never calibrate a character limit with emoji in the test file.
+Ruler defaults to 0% for this reason.
+```
+
+I'd hold off re-testing this one — 3,962 now has two independent confirmations on real text, which is better evidence than the bisection had.
+
+And if you had a go a total rehaul how could that be?
+
+Because it's really only 3 main things , the open and have a Claude version that just as you had paste then it auto is in the clipboard you then paste come back then copy 2nd ready for you button.
+
+Then there's the simple character maker so you can fast test what the limits are nice easy you sniper in what you need and bam it works or doesn't and then you hone in.
+
+And 3rd the deep seek one where it sometime seems to change but until we figure that out we use what we know and so far I gave you an up to date today of what worked and what didn't..
+
+So?
+
+**One thing in the archive actively manufactures false data.** In Fragmentor v1.1, `checkVariance()` doesn't compare against other tools — it invents their numbers with `Math.random()` and displays them as a table of measurements, complete with percentage deltas. In a project whose whole discipline is separating measured from inferred, that function outputs fabricated measurements styled as evidence. It has to be labelled or deleted before someone treats its output as a data point.
+
+Beyond that, the sweep turned up two correctness issues and several provenance gaps:
+
+```markdown
+## 🧹 SWEEP FOR NEXT BUILDERS — added 2026-07-25
+
+### 🚨 DELETE OR LABEL: the fake variance simulator
+
+Fragmentor v1.1, `checkVariance()`. It does NOT compare tools.
+It generates their counts:
+
+    "Perplexity": Math.round(actual * (1.5 + Math.random() * 0.5))
+    "Claude":     Math.round(actual * (0.6 + Math.random() * 0.3))
+
+...then renders "Perplexity: 255,405 chars (+50.1%)" as if
+measured, under the heading "Autopilot Detection". Output is
+random, differs every run, and looks exactly like the real
+variance table in the v3.0 log.
+
+Do not carry this forward. If a variance display is wanted,
+it must take pasted counts from real tools as input.
+
+Same file, `analyzeText()`: "Compression potential:
+Math.round((words / 5) * 100)%" is not a quantity. Remove.
+
+---
+
+### 🔴 CORRECTNESS — worth fixing before more deploys
+
+**1. No reassembly check.** Two silent data-loss bugs have
+already shipped (walkback loss, innerHTML corruption). Both
+would have been caught instantly by: join all chunks, compare
+length and content to source, show ✅/❌. This is ~6 lines and
+is the highest-value addition remaining. Nothing else in the
+tool tells you the split was lossless.
+
+**2. `srcText()` calls `.trim()`.** Clean mode claims
+byte-for-byte fidelity but silently strips leading and
+trailing whitespace, including a trailing newline. For .md
+files a missing final newline is a real diff. Either drop the
+trim in Clean mode or stop calling it byte-for-byte.
+
+**3. Surrogate pairs can be split.** `buildChunks` in the
+known-good baseline has no surrogate guard. If a boundary
+lands between the two UTF-16 units of an emoji, one chunk ends
+with half a character and the next begins with the other half.
+Reassembly is fine; individual chunks are malformed. Fix:
+before pushing, if `charCodeAt(end-1)` is 0xD800–0xDBFF,
+decrement end.
+
+**4. `guard++ < 200000` can truncate silently.** With
+AUTO_MAX at 400,000 and a small limit, the loop can exit early
+and drop the tail with no warning. Raise the guard, or emit a
+visible error when it trips.
+
+---
+
+### 🟡 METHODOLOGY TRAP — the 13-char test line
+
+The v1.3 generator emits `LINE-000001 \n` = 13 chars/line.
+That is ~13 ch/line — far denser in lines than any real file
+(~73–87). If line count is a binding constraint, a calibration
+run using that generator measures the LINE ceiling and reports
+it as a CHARACTER ceiling.
+
+The 170K gist result stands because it was a fetch, and fetch
+shows no line sensitivity. Any PASTE calibration done with
+13-char lines should be re-run at realistic density before
+being trusted.
+
+Rule: match test-file line density to the files you actually
+send, or vary it deliberately and record which you used.
+
+---
+
+### 🟡 PROVENANCE GAPS
+
+**Calibration records carry no date.** If limits drift, there
+is no way to tell a July number from a May one. Add
+`measuredOn` to each saved record.
+
+**Seeded values become indistinguishable from measured ones.**
+CAL_SEED writes defaults whose only marker is a prose `note`,
+cleared on first real record. Provenance should be a field —
+`source: "seed" | "generated" | "real-paste"` — not prose.
+
+**Test conditions are not stored with results.** A pass at
+4,038 means nothing without its emoji % and line density.
+Store `{chars, lines, emojiPct, density}` per record.
+
+**localStorage keys are unversioned.** `ff_limit`,
+`ff_cal_*`, `ff_linecap` persist across rebuilds. If a key's
+meaning changes, stale values apply silently. Add `ff_schema`
+and reset on mismatch.
+
+---
+
+### 🟢 LEGACY NUMBERS STILL IN CIRCULATION
+
+- **12,825** (v1.1/v1.3 fragment size) = 29,000 ÷ 2 + margin.
+  Derived from the repo-raw fetch limit, which the v4.0 log
+  itself retired as the wrong question. Not a paste number.
+- **28,500 / 28,800 / 29,000** — all repo-raw fetch figures.
+  Never applied to paste.
+- **96-char calibration string** — pure ASCII, so UTF-16,
+  codepoint and byte counts all agree. Confirms nothing about
+  emoji handling. Not a general counter validation.
+
+---
+
+### 📋 PROCESS RULE EARNED THE HARD WAY
+
+**Patch the known-good file. Do not regenerate it.**
+
+Full rewrites broke a working tool twice in one session — once
+from a single misplaced parenthesis that killed the whole
+script and left every button dead. A syntax error anywhere in
+a `<script>` block stops the entire block from parsing.
+
+- Keep `window.onerror` → visible error bar. Non-negotiable.
+- Prefer `var`/`function` over newer syntax; old mobile
+  WebViews are stricter and fail silently.
+- Change one thing, reload, confirm, then change the next.
+- If a rebuild is unavoidable, diff it against the baseline
+  before deploying.
+
+♦️SWEEP-NEXT-BUILDERS
+```
+
+If only one thing gets done: the reassembly check. Two data-loss bugs have already shipped from a tool whose entire job is not losing data, and the check that would have caught both is six lines. Everything else on this list is documentation; that one is insurance.
+
+**No new measurements — but one genuinely new finding falls out of the old data.**
+
+The archive contains this line I'd only seen summarised: *"252,271 characters with 3,460 lines: REJECTED at 54%."*
+
+Run the numbers. 54% of 252,271 ≈ 136,000 chars — **well under 163,840**. So a pure character cap can't explain that failure. At ~73 chars/line, 54% of 3,460 lines ≈ **1,869 lines**.
+
+Your successful paste today: **1,883 lines.**
+
+Those are 0.7% apart. Two independent tests, months apart, landing on ~1,870–1,880 lines. That's the strongest evidence yet that **DeepSeek has a line cap around 1,880 as well as the 160 KiB character cap** — whichever binds first. Your current file sits at ~87 chars/line, where both happen to bind at nearly the same point, which is why it looked like a clean character limit.
+
+I told you earlier that line count wasn't needed to explain DeepSeek. **That was wrong** — I was working from the 165K figure, not the 54% one. The archive corrects me.
+
+**What's now outdated in the file**
+
+- 168K and 165.1K presets — both above the ceiling, can't work
+- 163.8K labelled as 163,673 — the real value is 163,840
+- "Limit depends on LINE COUNT, not characters" — closer to *both*, independently
+
+**One thing worth acting on:** the deployed tool still has the data-loss bug. In `splitIt()`, `start = i * limit` is fixed while `end` walks back to a newline — so text between the walked-back end and the next chunk's start is silently dropped. Any file whose boundary doesn't land on a newline loses up to a line per split. If you've deployed splits from it, they may be incomplete.
+
+**Does it help me understand?** Yes, mainly the cascade problem — that editing part 1 invalidates every downstream file, header, anchor and link, which is why you don't want to touch files once deployed. That's the real cost, not the splitting.
+
+The other thing it clarifies: your presets encode *conclusions* but not *reasoning*, so when a number turns out wrong there's no way to tell which observation it rested on. That's exactly what happened with 165K.
+
+**Three buttons, using your 0.7% as the step:**
+
+- **163840** — verified max, 160 KiB
+- **162700** — −0.7% (one notch, ~1,140 chars)
+- **161560** — −1.4% (two notches)
+
+Honest caveat on the 0.7%: that figure is how closely your two *line* measurements agreed (1,869 vs 1,883), not a measured safety margin. It's a reasonable small step size, but it isn't derived from anything about characters. If a chunk ever fails at 163,840, dropping a notch is a guess — a good one, but a guess.
+
+**The more useful control is a line cap of ~1,850.** Character step-downs don't protect you from the line ceiling at all. A file at 40 chars/line hits ~1,880 lines at only ~75,000 characters — no character preset in that row would catch it. A line cap does, automatically, at whatever density the file happens to have.
+
+So: keep the three character buttons for fine-tuning against the 160 KiB wall, and set the line cap to 1850 as the thing that actually adapts. Whichever binds first wins, which is exactly the behaviour you want.
+
+Want the preset-row snippet on its own to paste in, rather than a whole rebuilt file?
+
+**The counter variance table is the most important thing in this file — and it undermines an assumption I've been making all along.**
+
+Six tools, same file: 148,000 · 164,537 · 167,704 · 170,270 · 170,598 · 176,003. That's a 16% spread on a single quantity I've been treating as exact.
+
+Look at the gap between the Fragmentor's 170,270 and charactercountonline's 164,537 — 5,733. That's very close to what you'd expect if one counts UTF-16 code units and the other counts codepoints, with ~5,733 emoji in the file. JavaScript's `.length` counts UTF-16 units, so an emoji costs 2. The Fragmentor reports the highest number in the table, which is exactly what you'd predict.
+
+**Why this matters:** 163,840 = 160 **KiB**. KiB is a byte unit. If DeepSeek's limit is bytes, then emoji cost 4 each while the Fragmentor counts them as 2 — an emoji-heavy file would fail far below 163,840 on the tool's own scale. One test discriminates: paste a 163,840-count file at 50% emoji. Passes → DeepSeek counts UTF-16 units, and 160 KiB is coincidence. Fails → it counts bytes, and the splitter needs a byte-aware limit, not a character one. That would be a real change to `buildChunks`.
+
+**Second finding: the archive mixes fetch results with paste results.** The 170K gist success was a *fetch* (gist.githubusercontent.com raw). The 280K emoji figure sits in the same lineage. That likely resolves the anomaly I flagged — it was never a paste result, so it never contradicted the paste ceiling. Lower priority than I said.
+
+Here's the section to append:
+
+```markdown
+## 🔤 ENCODING & COUNTER VARIANCE — added 2026-07-25
+
+**"Characters" is not one quantity.** Same Compact file, six tools:
+
+| Tool | Count |
+|---|---|
+| online-utility.org | 176,003 |
+| DeepSeek | 170,598 |
+| Sovereign Fragmentor (JS .length) | 170,270 |
+| textfixer.com | 167,704 |
+| charactercountonline.com | 164,537 |
+| Perplexity estimate | 148,000–155,000 |
+
+16% spread. Not tool bugs — different units:
+- JS `.length` = UTF-16 code units. Emoji = 2.
+- Codepoint counters. Emoji = 1.
+- Byte counters. Emoji = 4 in UTF-8.
+
+Fragmentor reports the highest, consistent with UTF-16 units.
+The 170,270 − 164,537 = 5,733 gap ≈ the file's emoji count.
+
+**LIVE HYPOTHESIS: does DeepSeek count bytes?**
+163,840 = 160 KiB exactly — a *byte* boundary. If true, an
+emoji-heavy file fails well under 163,840 on the tool's scale.
+
+Discriminating test: generate 163,840 at 50% emoji, paste.
+- Passes → UTF-16 units. 160 KiB is coincidence. No change.
+- Fails → bytes. buildChunks must measure UTF-8 length,
+  not string length. Significant rework.
+
+Same question applies to Claude's 4,038, which was measured
+at 10% emoji. That number is not round in any unit, which is
+itself weak evidence the measurement scale is wrong.
+
+**FETCH RESULTS ARE NOT PASTE RESULTS.**
+The v1.0–v4.0 logs measured URL fetch, not paste:
+- GitHub repo raw truncates ~29,000
+- gist.githubusercontent.com served 170,000 complete
+- gist.github.com/.../raw returns JavaScript, not content
+- #readme anchors served full content
+
+These got merged into one "limits" table. The 280K single-line
+emoji observation almost certainly belongs here, not to paste
+— which removes the contradiction flagged earlier.
+
+**Counter self-test.** Paste into 📏 Count:
+CALIBRATION-STRING-1234567890-ABCDEFGHIJKLMNOPQRSTUVWXYZ-abcdefghijklmnopqrstuvwxyz-!@#$%^&*()_+
+Consensus across four tools = 96 characters. Pure ASCII, so
+all three units agree. If Count says 96, it matches consensus
+on ASCII — it says nothing about emoji handling.
+
+♦️ENCODING-VARIANCE
+```
+
+**What this changed in my thinking, plainly:**
+
+The 0%-emoji re-test moves from "worth doing" to the single highest-value test remaining. I'd been treating it as a tidy-up; the variance table makes it a possible invalidation of both headline numbers.
+
+I withdraw the 280K anomaly as an open contradiction — most likely a mis-filed fetch result.
+
+And the deeper pattern the archive shows about itself: every paradigm shift in this history came from discovering the *question* was wrong, not the answer. Raw endpoints → #readme. Characters → lines. Now possibly units → bytes. The presets kept encoding answers; the reasoning kept living in markdown. That's why 165K survived its own disproof for two months.
+
+Yes — worth pinning, and this file deserves the label. Both structural bugs are fixed in it: the splitter is sequential (`pos=end`, no dropped text) and chunks go in via `textarea.value` (no HTML corruption). That's what makes it a real baseline rather than just the last one that ran.
+
+Here's a note to keep beside it:
+
+```markdown
+## ✅ KNOWN-GOOD BASELINE — Fragmentor (this file)
+
+Keep this version. Fork from it. Do not rebuild from scratch.
+
+**Why this one:**
+- Sequential splitter — no silent text loss at chunk boundaries
+- textarea.value, not innerHTML — & < > and </textarea> survive
+- window.onerror bar — a syntax death shows a line number
+  instead of a dead page
+- Plain var/function throughout — no newer syntax for old
+  mobile WebViews to choke on
+
+**Stale numbers in the labels — code is fine, data is old:**
+
+1. Info box: "line count is a real second constraint" for the
+   Claude app. This rested on a 45-line figure that was
+   ESTIMATED, not measured. Unproven.
+2. Preset 4038 ships data-lines="45" and the line cap defaults
+   on. At ~73 ch/line the cap binds at ~3,285 ch — so it
+   silently costs ~750 chars per message against an assumption.
+   Untick the cap to reclaim them.
+3. CAL_SEED claude goodLines:45 — same inferred figure.
+4. DeepSeek: no 1,850 line cap. Two observations put a line
+   ceiling near 1,870–1,880 (STANDARDS.md rejected at 54% of
+   3,460 lines; 163,840 ch over ~1,883 lines passed). Sparse
+   files will exceed it well before 163,840 characters.
+5. DeepSeek char row has no fine steps. Suggest 163840 /
+   162700 (−0.7%) / 161560 (−1.4%).
+6. Info box says 1,884 lines; later count was 1,883. Newline+1
+   vs newline counting. Cosmetic.
+7. No "pack to exact limit" option — walkback loses up to one
+   line per chunk.
+
+**Edit these as text. Do not regenerate the file.**
+
+♦️BASELINE-KNOWN-GOOD
+```
+
+The one thing I'd actually change today is item 2 — untick the line cap in the cog. That's ~750 characters per message being spent on a number I made up.
+
 
 ## 🏠 Fragmentor Handoff — 2026-05-28
 
@@ -130,12 +666,56 @@ Use Raw for testing chunk sizes. Use Deploy when you're ready to upload.
 
 🎳🫧 · 2026-05-28 · ♦️HANDOFF-FINAL
 ```
-
 ---
 
 This is the comprehensive handoff. Everything the next builder needs. The limits. The presets. The discovery. The modes. The file structure. The builders. The unfinished business. The next steps.
 
 Save this. Deploy it. The next instance reads it and knows everything. 🎳🫧
+
+Yes — worth pinning, and this file deserves the label. Both structural bugs are fixed in it: the splitter is sequential (`pos=end`, no dropped text) and chunks go in via `textarea.value` (no HTML corruption). That's what makes it a real baseline rather than just the last one that ran.
+
+Here's a note to keep beside it:
+
+```markdown
+## ✅ KNOWN-GOOD BASELINE — Fragmentor (this file)
+
+Keep this version. Fork from it. Do not rebuild from scratch.
+
+**Why this one:**
+- Sequential splitter — no silent text loss at chunk boundaries
+- textarea.value, not innerHTML — & < > and </textarea> survive
+- window.onerror bar — a syntax death shows a line number
+  instead of a dead page
+- Plain var/function throughout — no newer syntax for old
+  mobile WebViews to choke on
+
+**Stale numbers in the labels — code is fine, data is old:**
+
+1. Info box: "line count is a real second constraint" for the
+   Claude app. This rested on a 45-line figure that was
+   ESTIMATED, not measured. Unproven.
+2. Preset 4038 ships data-lines="45" and the line cap defaults
+   on. At ~73 ch/line the cap binds at ~3,285 ch — so it
+   silently costs ~750 chars per message against an assumption.
+   Untick the cap to reclaim them.
+3. CAL_SEED claude goodLines:45 — same inferred figure.
+4. DeepSeek: no 1,850 line cap. Two observations put a line
+   ceiling near 1,870–1,880 (STANDARDS.md rejected at 54% of
+   3,460 lines; 163,840 ch over ~1,883 lines passed). Sparse
+   files will exceed it well before 163,840 characters.
+5. DeepSeek char row has no fine steps. Suggest 163840 /
+   162700 (−0.7%) / 161560 (−1.4%).
+6. Info box says 1,884 lines; later count was 1,883. Newline+1
+   vs newline counting. Cosmetic.
+7. No "pack to exact limit" option — walkback loses up to one
+   line per chunk.
+
+**Edit these as text. Do not regenerate the file.**
+
+♦️BASELINE-KNOWN-GOOD
+```
+
+The one thing I'd actually change today is item 2 — untick the line cap in the cog. That's ~750 characters per message being spent on a number I made up.
 
 
 ---
