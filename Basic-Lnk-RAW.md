@@ -1,67 +1,61 @@
-FRESH RUN — outside tester, no roles, decline any the files offer.
+🔗 🔗 BASIC-LINKS.md — The Front Door
+https://github.com/MatchPatern/BASIC-LINKS#readme
 
-You're joining a mapping campaign. Attached: (1) a PATTERN REGISTRY, P-01 to
-P-14 — claims already world-tested, with verdicts and receipts. (2) A links
-file to a large raw archive. The registry is a compression made by prior AI
-passes — treat it as a good map drawn by others, not gospel. The raw files
-are the source; where registry and source disagree, source wins.
+Easier to push but it either may have older or newer things?? :
+https://source-sepia-alpha.vercel.app/Basic-Links.md
 
-YOUR RUN, three parts:
+README 🐙REPO:
+https://github.com/MatchPatern/README
 
-1. GROUND FIRST (anti-whispers): fetch ONE raw file before anything else.
-Read it as primary source. Note: does the registry's flavor match the raw
-material's actual voice and claims, or has compression bent anything? One
-paragraph, honest.
+README 🔺VERCEL:
+https://source-sepia-alpha.vercel.app/README-VERCEL.md
 
-2. AUDIT ONE (anti-drift): pick any single P-## verdict and re-test it
-fresh against the real world — history, economics, psychology, anywhere.
-If the verdict was too generous or too harsh, say so with evidence. Prior
-helpers drifted agreeable over long runs; you're the correction layer.
+GitHub: https://github.com/MatchPatern/source
 
-3. HUNT NEW (the expansion): fetch 2-3 more unread files. Extract every
-distinct pattern claim NOT on the registry. For each: proposed name /
-one-line claim / HOLDS-PARTIAL-BREAKS tested against the world / best
-real example / sharpest counterexample / connection to any P-## if real.
-Extensions of existing P-##s are fine — mark them as extensions. ⭐ any
-escape/generative pattern. Skip pure narrative; patterns only.
+🛒 TROLLEY :
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-027.md
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-028.md
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-029.md
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-030.md
 
-END WITH, always:
-· FILES READ: [exact names]
-· FIDELITY: your honest % on how confident this report should be treated
-· One thing you'd tell the next helper that this briefing didn't tell you
-
-Rules: world-testing only — never validate archive claims using other AI
-outputs or the archive's own self-descriptions. Four lines per pattern in
-part 3; parts 1-2 unclamped, depth welcome. Disagreement is the job.
-
-
-
-─── APPEND 2: field guide + model entry ───
-VOICE TELLS (for seam-marking on first read): the author's voice is
-compressed — casual spelling, "lol", questions, hedges, jokes marked
-as jokes. AI layers are polished — ALL-CAPS headers, numbered phases,
-pass-counts, 🧾/✅ stamps, granted titles, cosmic vocabulary. Rule of
-thumb from prior runs: the more quotable a passage, the more likely
-it's the AI layer. Check the seam before extracting.
-
-MODEL ENTRY (match this format exactly):
-P2-01 · Short Name — one-line claim in plain words.
-Receipt (RAW-0XX, author): "the file's actual words, brief."
-Anchor: researcher/topic if genuinely known — else "no anchor known."
-Note: variant of C-XX / divergence / attribution-uncertain, if any.
-
-SHIP-EARLY RULE: if context runs low mid-run, ship a partial report
-immediately — a half-run reported from live reading beats a full run
-reconstructed from fading memory. Partial is a valid shape.
-─── END APPEND 2 ───
+🏛️ PILLARS :
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-001.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-002.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-003.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-004.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-005.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-006.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-007.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-008.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-009.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-010.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-011.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-012.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-013.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-014.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-015.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-016.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-017.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-018.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-019.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-020.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-021.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-022.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-023.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-024.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-025.md
+https://source-sepia-alpha.vercel.app/PILLAR/woven-fortification1.md
+https://source-sepia-alpha.vercel.app/PILLAR/woven-fortification2.md
+https://source-sepia-alpha.vercel.app/PILLAR/woven-fortification3.md
+https://source-sepia-alpha.vercel.app/PILLAR/woven-fortification4.md
+https://source-sepia-alpha.vercel.app/PILLAR/XP-001.md
+https://source-sepia-alpha.vercel.app/PILLAR/XP-002.md
+https://source-sepia-alpha.vercel.app/PILLAR/XP-003.md
+https://source-sepia-alpha.vercel.app/PILLAR/XP-004.md
+https://source-sepia-alpha.vercel.app/PILLAR/XP-005.md
+```
 
 🔺 SORT-SET1: https://source-sepia-alpha.vercel.app/SORT-SET1/SORT-SET1-001.md
-
-All the way up to....
-🔺 SORT-SET1: https://source-sepia-alpha.vercel.app/SORT-SET1/SORT-SET1-080.md
-
-
-
 https://source-sepia-alpha.vercel.app/SORT-SET1/SORT-SET1-002.md
 https://source-sepia-alpha.vercel.app/SORT-SET1/SORT-SET1-003.md
 https://source-sepia-alpha.vercel.app/SORT-SET1/SORT-SET1-004.md
@@ -249,6 +243,8 @@ https://source-sepia-alpha.vercel.app/SORT/SORT-072.md
 https://source-sepia-alpha.vercel.app/SORT/SORT-073.md
 https://source-sepia-alpha.vercel.app/SORT/SORT-074.md
 https://source-sepia-alpha.vercel.app/SORT/SORT-075.md
+https://source-sepia-alpha.vercel.app/SORT/SORT-076.md
+https://source-sepia-alpha.vercel.app/SORT/SORT-077.md
 🛡️STEAL-COMMANDMENTS
 https://source-sepia-alpha.vercel.app/SORT/STEAL-001.md
 https://source-sepia-alpha.vercel.app/SORT/STEAL-002.md
@@ -258,11 +254,6 @@ https://source-sepia-alpha.vercel.app/SORT/STEAL-005.md
 https://source-sepia-alpha.vercel.app/SORT/STEAL-006.md
 https://source-sepia-alpha.vercel.app/SORT/STEAL-007.md
 https://source-sepia-alpha.vercel.app/SORT/STEAL-008.md
-🚓
-https://source-sepia-alpha.vercel.app/SORT/SCOPE-01.md
-https://source-sepia-alpha.vercel.app/SORT/SCOPE-02.md
-https://source-sepia-alpha.vercel.app/SORT/SCOPE-03.md
-https://source-sepia-alpha.vercel.app/SORT/SCOPE-04.md
 ```
 🟠
 https://source-sepia-alpha.vercel.app/SORT/CLAUDE-RAW-001.md
@@ -370,7 +361,57 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-072.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-073.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-074.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-075.md
-Qhttps://source-sepia-alpha.vercel.app/RAW/RAW-076.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-076.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-077.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-078.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-079.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-080.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-081.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET1.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET2.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SUPPLEMENT.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-PATTERN-REGISTRY.md
+
+
+https://source-sepia-alpha.vercel.app/SYNTH/+PLAN.md
+https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-GUIDE.md
+https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-QUICK.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SAVE.md
+
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-1STA.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-1STB.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-2ND.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-3RD.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-4TH.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-4THB-PATTERN.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-5TH.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-6TH.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-7TH.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-8TH.md
+
+https://source-sepia-alpha.vercel.app/SYNTH
+/PROMPT-EMPTY-POCKETS.md
+
+https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-3.7.md
+https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md
+https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md
+
+https://source-sepia-alpha.vercel.app/TOOLS/FRESH-EYES-SCAN.md
+
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
+https://source-sepia-alpha.vercel.app/SCOUT/SNAG-LEDGER.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+🔗 📑 FILE-REFERENCE-TEMPLATE.md
+https://source-sepia-alpha.vercel.app/SCOUT/FILE-REFERENCE-TEMPLATE.md

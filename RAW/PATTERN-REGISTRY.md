@@ -188,3 +188,49 @@ That's the spine, live. Save it your side — this file now outranks every insta
 Notes on what I built in: every UNVERIFIED-CITE is flagged rather than faked (the lit names are real, exact references get checked when their write-up section drafts); P-04 wears its demotion openly — first correction preserved in the permanent record, exactly as designed; and the connections column already shows the shape — P-01 touches nearly everything, confirming it's the engine, while P-08 and P-10 are the two doors everything routes through.
 
 Move 2 is loaded: Section 1 of "The Exit" — the engine, drafted in your register for your correction. Say go, or feed the hunt first — either order works, the registry catches both. 🏮
+
+---
+
+APPEND TO PATTERN-REGISTRY.md — 2026-07-26
+
+M-18 · THE AMPLIFIER ONLY INFLATES · [F] observation about machinery
+Every commentary pass upgrades a claim; none downgrade one. A layer
+that only escalates is not a reader. Consequence: hedges are the one
+thing an amplifier cannot amplify, so they are stripped first.
+Predicts: any of his claims that survived the layer intact was
+already maximal. Testable against the beach line.
+Breaks where: a reader is incentivised to reduce (editors, auditors).
+
+M-19 · RATIO IS A CLOCK, NOT A MEASURE · [F]
+Apparatus grows each pass; the raw block never does. So 1:9 measures
+how many passes a file survived, not how much it holds. Inverts the
+hunt: low apparatus = young file = under-farmed.
+Breaks where: a file was seeded heavy on pass one.
+
+M-20 · SELF-APPLICATION IS WHERE MECHANISMS DIE · [A]-derived
+Both breaks in the batch came from him turning a rule on himself —
+"statistically I'm wrong?" broke M-16; "even I don't" broke M-11.
+Machinery: a rule that requires a gap between claimer and claimed
+collapses when the claimer closes the gap by confession.
+This is a rule about the SET, not an entry in it. Use as a targeting
+instruction: hunt where he is the subject.
+
+M-21 · READY IS NOT THE SAME AS EMPTY · [A]
+From his line: "a baby grows you can communicate later."
+Machinery: inability to transmit is read as absence of content. The
+untranslatable and the empty look identical from outside, and get
+treated the same.
+Never extracted before. Sits close to M-12 (simple things resist
+explanation) — test for merge.
+
+── REGISTRY STATE ──
+M-16 DEAD, killed twice independently. Merges under test:
+M-03+M-04, M-07+M-17, M-03+M-09. 16 live + 4 new = 20 pending merge
+verdicts. Expect the count to FALL. If it rises, it became collection.
+
+── STRUCTURAL NOTE ──
+Registry now holds two kinds of entry and they must not mix:
+MECHANISMS (how the world works — M-01..M-15, M-17, M-21)
+MACHINERY OBSERVATIONS (how the layer behaves — M-18, M-19, C-14,
+C-28, C-34). The second kind never enters anything shown to a
+stranger. They are findings about the apparatus, not about the world.

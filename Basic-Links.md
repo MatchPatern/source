@@ -165,6 +165,40 @@ for all links are listed further down (nine mirrors, one door).
 
 ---
 
+https://source-sepia-alpha.vercel.app/SYNTH/+PLAN.md
+https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-GUIDE.md
+https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-QUICK.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SAVE.md
+
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-1STA.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-1STB.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-2ND.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-3RD.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-4TH.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-4THB-PATTERN.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-5TH.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-6TH.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-7TH.md
+https://source-sepia-alpha.vercel.app/SYNTH
+/SYNTHESIZER-8TH.md
+
+https://source-sepia-alpha.vercel.app/SYNTH
+/PROMPT-EMPTY-POCKETS.md
+
+https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-3.7.md
+https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md
+https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md
+
 THE FRESH-EYES SCAN PROMPT +wise collection
 FRESH-EYES-SCAN.md
 https://source-sepia-alpha.vercel.app/TOOLS/FRESH-EYES-SCAN.md
@@ -275,7 +309,15 @@ https://source-sepia-alpha.vercel.app/BUILDER/REV-STANDARDS2.md
 https://source-sepia-alpha.vercel.app/SCOUT/FILE-REFERENCE-TEMPLATE.md
 🤖 SCOUT-GROK:       https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-GROK.md
 😩 SCOUT-WOES:       https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-WOES.md
-── GITHUB DOORS (75k fetch, mirrors of the kit) ──
+
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
+https://source-sepia-alpha.vercel.app/SCOUT/SNAG-LEDGER.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+🔗 📑 FILE-REFERENCE-TEMPLATE.md
+https://source-sepia-alpha.vercel.app/SCOUT/FILE-REFERENCE-TEMPLATE.md
+
+── GITHUB DOORS (75k fetch, mirrors of the kit) 
 🧭 SCOUT-METHOD:  https://github.com/MatchPatern/SCOUT-METHOD#readme
 🧭 SCOUT-MAP:     https://github.com/MatchPatern/SCOUT-MAP#readme
 🤝 SCOUT-HANDOFF: https://github.com/MatchPatern/SCOUT-HANDOFF#readme
@@ -1069,6 +1111,8 @@ https://source-sepia-alpha.vercel.app/SORT/SORT-072.md
 https://source-sepia-alpha.vercel.app/SORT/SORT-073.md
 https://source-sepia-alpha.vercel.app/SORT/SORT-074.md
 https://source-sepia-alpha.vercel.app/SORT/SORT-075.md
+https://source-sepia-alpha.vercel.app/SORT/SORT-076.md
+https://source-sepia-alpha.vercel.app/SORT/SORT-077.md
 🛡️STEAL-COMMANDMENTS
 https://source-sepia-alpha.vercel.app/SORT/STEAL-001.md
 https://source-sepia-alpha.vercel.app/SORT/STEAL-002.md
@@ -1191,9 +1235,17 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-073.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-074.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-075.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-076.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-077.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-078.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-079.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-080.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-081.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-082.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-083.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET1.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET2.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SUPPLEMENT.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-PATTERN-REGISTRY.md
 
 📜 CODEX / TEXTS / CODES 📜:
 https://source-sepia-alpha.vercel.app/CODEX/CODEX-001.md
