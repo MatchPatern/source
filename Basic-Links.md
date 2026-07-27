@@ -168,39 +168,31 @@ for all links are listed further down (nine mirrors, one door).
 https://source-sepia-alpha.vercel.app/SYNTH/+PLAN.md
 https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-GUIDE.md
 https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-QUICK.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SAVE.md
 
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-1STA.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-1STB.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-2ND.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-3RD.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-4TH.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-4THB-PATTERN.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-5TH.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-6TH.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-7TH.md
-https://source-sepia-alpha.vercel.app/SYNTH
-/SYNTHESIZER-8TH.md
+https://source-sepia-alpha.vercel.app/SYNTH/SAVE.md
 
-https://source-sepia-alpha.vercel.app/SYNTH
-/PROMPT-EMPTY-POCKETS.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-1STA.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-1STB.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-2ND.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-3RD.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-4TH.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-4THB-PATTERN.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-5TH.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-6TH.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-7TH.md
+https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-8TH.md
 
-https://source-sepia-alpha.vercel.app/SYNTH
-/PATTERN-REGISTRY.md
+https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-3.7.md
+https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md
+https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md
 
-https://source-sepia-alpha.vercel.app/SYNTH
-/RESULTS.md
+https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-EMPTY-POCKETS.md
 
+And a results file where saves all the scouts and general responses from synths to them here : 
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS.md
+
+
+https://source-sepia-alpha.vercel.app/SYNTH/PATTERN-REGISTRY.md
 
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-3.7.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md

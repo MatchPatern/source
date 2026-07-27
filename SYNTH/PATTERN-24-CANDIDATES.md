@@ -8,6 +8,18 @@ YOUR PASTE CHECKLIST — new synth setup
 
 Then: "report HELD / MISSING before starting."
 
+NOTE ON THE 24: receipts may have been pulled from TIDIED copies.
+Repair happens across files, not just within them — 070 is the
+cleaned twin of 007. Before anything rests on one of these, check
+whether a rough twin exists elsewhere. Position doesn't predict
+roughness either: 035 is roughest at the TOP.
+
+VERDICTS AVAILABLE: MERGE (state the shared machinery in one
+sentence, no examples) · DISPLACE (say what the old entry loses) ·
+BOUNDARY (name which mechanism, state the limit in one line) · NEW
+(say what machinery nothing else names). A boundary kept beats a
+merge won.
+
 ═══ 2. REGISTRY-P v1.6 ═══
 STATUS: PRE-MIRROR. All HOLDS/PARTIAL verdicts below are AI
 grading, which is void. Historical annotation only, no authority.
