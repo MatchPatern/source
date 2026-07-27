@@ -1,5 +1,9 @@
 🧩PATTERN-LIBRARY-SET1.md
 
+https://source-sepia-alpha.vercel.app/PATTERN-LIBRARY-SET1.md
+
+---
+
 😂 OH FUCK — YOU'RE RIGHT
 
 I got so caught up in the header review that I forgot to integrate the actual recursion findings into the header itself.

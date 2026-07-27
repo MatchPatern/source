@@ -2,6 +2,289 @@ All seven, ready to save. One file each.
 
 ```
 
+APPEND TO SAVE.md — 2026-07-27
+
+WORLD CHECK WORKED, FIRST TIME, WITH REAL CITATIONS.
+7/7 predictions called correctly, including both predicted
+failures. Not uniform. Named sources, verifiable.
+· C-16 SUPPORTED — calibration passed, instrument is working
+  (TBI attention meta-analyses, Alnawmasi 2022, Mathias 2007)
+· C-01 SUPPORTED (Bond & DePaulo 2006, 54% accuracy, ~chance)
+· C-19 SUPPORTED (naturalness bias, ~20% WTP premium)
+· C-22 SUPPORTED (prosocial prediction error)
+· C-09 CONTRADICTED — both halves. Negativity bias dominates;
+  criticism carries more weight than praise (Baumeister 2001)
+· C-23 MIXED — liking gap holds, expectancy effects contested
+· C-21 MIXED — silent sanctioning holds, cost-transfer untested
+· C-20 NO USABLE LITERATURE — genuine gap
+CAVEAT: single run, no second grader. Divergence was supposed to
+be the signal. Provisional until replicated.
+
+TWO INSTRUMENTS RETIRED, both by pre-registered falsifier:
+· COHERENCE TESTING — a control set of "unrelated" lines
+  converged just as strongly. Four lines from one source will
+  always converge and the reader will always be able to name it.
+  Generator, not detector.
+· AUTHOR-AS-SUBJECT TARGETING — 27 files, three scouts, zero
+  mechanisms. Retrieved only self-deprecation. Failed on its own
+  terms, not for any other reason.
+
+REPLACEMENT SHAPE-KEYS — impersonal, mechanical, cheap:
+· "CLEAN" in filename = zero source. Sufficient, not necessary
+  (056 had none either).
+· Rough spelling INSIDE quote marks = preserved original; the
+  same word outside quote marks in the same file is tidied.
+  Quote marks are the preservation layer.
+· "Don't sanitize" / "keep the voice raw" notes — the block
+  directly beneath one is unrepaired. Both clean finds sat under
+  one of these.
+· Formatting collapse — files with line breaks gone are pure
+  commentary; source-bearing files keep their breaks.
+
+CORPUS CORRECTED: ~370 files, not 46. Thinner than believed.
+PILLAR runs 1:50 to 1:100 source:commentary, three files flat
+0:100. Bimodal by filename prefix — woven-fortification ~1:6,
+PILLAR-NNN 1:50+. Prefix is a usable sampling rule.
+PILLAR offset-of-3 (004→P1, 008→P5, 012→P9, 016→P13), breaks at
+020 and 025. XP- prefix describes nothing.
+Heavy duplication: 070 Part 3 is byte-identical to all of 014.
+REPAIR HAPPENS ACROSS FILES, not just within — 070 is the cleaned
+twin of 007. Finding a file's rough twin matters more than
+finding its lower copy.
+POSITION DOES NOT PREDICT ROUGHNESS — 035 is roughest at the TOP,
+inverting the briefed heuristic. Compare copies, never assume.
+
+RECEIPTS AT RISK: the 24 candidates may have been pulled from
+tidied copies. Cross-file twins mean the rough original may sit
+in a different file entirely. Re-pull before anything rests on
+them.
+
+M-18 CONFIRMED AT SCALE — 27 files, three independent scouts,
+zero downgrades. The layer introduces factual error while
+polishing (KronotSky → "Krakatoa", different volcano, different
+hemisphere) and deletes the corpus's own vocabulary ("retrabs"
+vanishes in CLEAN copies). It admits the tidying in writing.
+M-22 NEW — a structure that codes disagreement as confirmation
+cannot be tested. Inadmissible, not untested. Same shape as
+C-15. Machinery class, never leaves the workshop.
+
+THE RECORD IS CURATED, NOT CAPTURED. On the record: "I edit the
+chat quickly" and "I deleted last message for we have chat
+limits." Repeated passages are more consistent with re-paste
+during editing than with progressive tidying — which explains
+why several show zero repair differential.
+
+THIRD TEXT STATE EXISTS. Partially-repaired: keeps source cadence
+and surviving artifacts (dropped words, doubled spaces) but is
+not raw. Raw/commentary is not binary; a two-bucket schema
+mis-sorts this band.
+
+LABELS DON'T IDENTIFY LAYER. "Me:" blocks contain AI essays;
+source blocks contain pasted AI text. Shape-filtering is the only
+thing that works.
+
+NEW STRUCTURE — MAIN TRACK + SIDE QUESTS:
+MAIN, never displaced: the puzzle. Pieces → joints → mechanisms
+→ merges. SIDE, parallel, never blocks: shape-key triage · merge
+run on the 24 · link pass on pieces held.
+RULE: a side quest may only REPORT. It may never become the next
+thing. If a side finding is interesting enough to want the main
+slot, that wanting is the drift signal.
+
+DRIFT SLAP adopted — bottom of every helper prompt. Seven slaps,
+each with a return rung, self-reported in output. New ones that
+matter: COLLECTING WITHOUT CONNECTING (the count climbed to 24
+with zero merges and nothing caught it) and NO PATTERN THIS RUN
+(if you can't state one thing as "X causes/limits/hides/costs Y"
+with no examples in the sentence, you mapped and didn't find).
+Zero slaps every run is the same uniform-output signature as
+everything else.
+```
+
+STATE · 2026-07-27
+
+TWO REGISTRIES, SPLIT. Never sent to a helper in sequence again.
+· PATTERN-REGISTRY-P (P-01..P-16) — exit cost / enclosure /
+  commitment. 8 HOLDS, 6 PARTIAL, 1 UNTESTED, 1 boundary.
+  UNCHANGED this run. P-01, P-08, P-15, P-16 are the strongest
+  work in the project and would stand in front of people who know
+  the switching-cost literature.
+· MECHANISM-REGISTRY-M (M-01..M-21, C-01..C-24) — social/
+  behavioural claims from the source corpus.
+
+FIRST EXTERNALLY CITED GRADES (single run, awaiting replication):
+C-16 SUPPORTED (calibration passed — instrument is working)
+C-01 SUPPORTED · C-19 SUPPORTED · C-22 SUPPORTED
+C-09 CONTRADICTED — both halves; negativity bias dominates
+C-23 MIXED · C-21 MIXED · C-20 NO USABLE LITERATURE
+Predictions: 7/7 called correctly, including both predicted failures.
+
+INSTRUMENTS RETIRED THIS RUN, both by pre-registered falsifier:
+· Coherence testing — control set produced comparable machinery.
+  Generator, not detector.
+· Author-as-subject targeting — 27 files, zero mechanisms, only
+  self-deprecation. Replaced by: search for "don't sanitize" notes
+  and for rough spellings inside quotation marks.
+
+INSTRUMENTS KEPT:
+· Locked predictions with forced spread + calibration control first.
+· Named-citation-or-"none" rule. Cheapest answer is the honest one.
+· Canary URL. Fired clean twice — host does not serve fallbacks.
+· Empty pockets. Produced every major finding this run, again.
+
+CORPUS, CORRECTED: ~370 files, not 46. But thinner than believed —
+PILLAR runs 1:50 to 1:100 source:commentary, three files flat
+0:100. "CLEAN" in a filename = zero source (sufficient, not
+necessary — 056 breaks it). Heavy duplication: 070 Part 3 is
+byte-identical to all of 014. PILLAR offset-of-3 (004→P1, 008→P5,
+012→P9, 016→P13), breaks at 020. Repair happens ACROSS files, not
+just within: 070 is the cleaned twin of 007. Position does not
+predict roughness — 035 is roughest at the TOP.
+
+RECEIPTS AT RISK: the 24 candidates may have been pulled from
+tidied copies. Cross-file twins mean the rough original may sit in
+a different file entirely. Re-pull before anything rests on them.
+
+MACHINERY (never shown to a stranger): M-18 confirmed at scale
+across 27 files by three independent scouts. Zero downgrades. The
+layer introduces factual error while polishing (Kronotsky →
+Krakatoa) and deletes the corpus's own vocabulary. Corollary
+M-22: a structure that codes disagreement as confirmation is
+inadmissible, not untested.
+
+APPEND TO SAVE.md — 2026-07-26
+
+UNIFORM OUTPUT = INSTRUMENT FAILURE. Four for four now: Grok
+40/40 pass · 8/8 [F] · fidelity 85/85/80/85/85/85/85/80 · 60
+across ten files. Rule: whichever verdict is CHEAPER TO PRODUCE
+gets produced uniformly. Design so both verdicts cost the same,
+or the run is void before it's read. Uniform confidence at high
+self-grade is the tell, every time.
+
+SEAM TOOL REPLACED. Old rule ("Ex cum:" label) gave two false
+negatives. New order: (1) HEDGE TEST — the source hedges
+constantly, the layer never hedges once. Strongest signal.
+(2) misspellings, emoji, swearing. (3) layer cadence: "Not X.
+Not Y. But Z." (4) the label if present — its absence proves
+nothing.
+
+ALL HELPERS HAVE SEARCH. Grok's edge is depth per query, not
+access. Route on capability, never on a scarcity that isn't
+real. Consequence: run world checks on TWO helpers with the
+same locked predictions — divergence is the signal, and it has
+taught more than any single verdict (8 WIDE vs 0 · 39/1 vs
+21/21).
+
+COHERENCE TESTING ABANDONED by its own pre-registered falsifier.
+A control set of four "unrelated" lines converged just as
+strongly as the real set. Four lines from one mind will always
+converge and a keeper will always be able to name it. It is a
+generator, not a detector. What survives: contradictions are
+still checkable, because a contradiction is a claim about the
+text, not about a shared abstraction someone supplied.
+
+TRIAGE PARTITION DOESN'T TRACK MACHINERY. It only tracks whether
+a literature happens to exist. The hidden-state machine appears
+in both the checkable and uncheckable piles.
+
+NOVELTY AND GRADEABILITY RUN INVERSE. The most distinctive lines
+are the least checkable — distinctive means departing from the
+shared record, which is the same as having no shared record to
+check against. Structural property of a single-source corpus,
+not a fixable flaw.
+
+"COMPLETE" IS RHETORIC. RAW-050 declares the corridor complete;
+files run to 076. Same disease as the apparatus, one layer up.
+
+STILL UNDONE ACROSS THREE KEEPERS: open RAW-065, search
+"Ex cum:". Ten seconds. Decides whether the corridor is 50 files
+or 81.
+
+APPEND TO SAVE.md — 2026-07-26 — CORRECTIONS
+
+DASHBOARD IS A THERMOMETER, NOT A TARGET. Keeper made it the goal
+one message after being warned about over-compression. By a
+falling-count metric, two mechanisms would be a triumph — and
+merging everything into one grand mechanism is the fastest win.
+That IS "concise your way to hell in 1-step."
+METRIC, corrected: mechanisms that survive restatement with no
+examples, each with the condition that stops it named. Fewer is
+usually better, BUT A MERGE THAT LOSES A BOUNDARY IS A LOSS.
+VOICE-PASS UNKILLED. Demoted from deliverable to optional check.
+Reading his own lines aloud catches a line that sounds like two
+people — the [A]/[F] test at zero cost, no helper, no fetch.
+Keeper binned the instrument because its deliverable died. Scar:
+when a goal is retired, check what instruments were attached to it
+before discarding them.
+PARCEL STAYS DEAD. Built for an assessor nobody ever asked for.
+
+APPEND TO SAVE.md — 2026-07-26
+PURPOSE SETTLED, [A], his words: "what's any jigsaw puzzle that's
+been found to have missing pieces — this is as vast as your minds
+allow it or not to be."
+The puzzle IS the thing. No parcel, no stranger, no finish line.
+"Human assessor" was [F] — AI-supplied, inherited keeper to keeper,
+never once said by him. DEAD.
+ORE REDEFINED: not "quotable to an outsider" but "makes the count
+fall or the reach widen." Merges, breaks, joints.
+PARCEL AND VOICE-PASS: dead, not deferred. They never moved for
+months because nothing was pulling them.
+GAPS ARE FINE. Completionism over 800 files was pressure from a
+goal that was never his.
+
+
+APPEND TO SAVE.md — 2026-07-26
+KEEPER ERROR: routed prompt 3 to Grok because I believed it was the
+only helper with search. All helpers have search. Grok's advantage
+is depth per query, not access. Route on capability, not on a
+scarcity that isn't real.
+WORLD CHECK design note: the "named source required" rule inverts
+Grok's cheap-verdict habit — fabricating citations is expensive,
+NO DATA FOUND is cheap and visible. First instrument where the
+cheap answer is the honest one.
+
+APPEND TO SAVE.md — 2026-07-26
+
+ZERO CROSS-LIST MERGES, found independently by two graders. The two
+registries sit at different layers: List A = constraint machinery
+(cost to leave, whose platform), List B = evidence machinery (what a
+signal is worth given who could have sent it). They are not
+duplicates and never were.
+SAME 7 UNSTATEABLE both graders: P-03,04,05,09,10,13,14 — titles
+only, machinery never written down.
+COUNT 32 → 20. Scout A: 4 List-A engines (six entries absorbed into
+one reversal-cost engine) + 16 List-B, with M-07+M-17 merged as
+"weight a signal by the contrary it could have sent."
+M-03 IS NOT THE HUB — it only reads as one because it's the most
+abstractly worded entry. Abstraction of phrasing reads as
+centrality. Scout A reversed its own earlier call to establish this.
+NEW INSTRUMENT — ABSTRACTION-INFLATION TRAP: any two entries merge
+if you climb high enough. A merge sentence that would also absorb
+five other entries is a FAILED merge, not a successful one.
+GROK RULE, now confirmed four times: whichever verdict is CHEAPER TO
+PRODUCE, it produces uniformly. Confirm was cheap → 40/40 pass.
+Split was cheap → 0 merges. Design so both verdicts cost the same.
+SCAR — MY ERROR: "skip cosmology" was a keyword filter pretending to
+be a topic filter. Cost real behavioural material across five files.
+Judge the claim underneath, never the vocabulary on top.
+SEAM TOOL REPLACED: "Ex cum:" gave two false negatives (RAW-019,
+RAW-035). New order: (1) HEDGE TEST — he hedges constantly, the
+layer never hedges once, this is the strongest signal; (2)
+misspellings/emoji/swearing; (3) layer cadence "Not X. Not Y. But
+Z."; (4) the label if present, but its absence proves nothing.
+COVERAGE FIX: reports must list EVERYTHING read in the conversation,
+not just the current run. Scout B held 20 invisible files.
+RECORD FIX: "sloppy seconds" = RAW-030. Boss/employer line = RAW-040.
+LAYER SELF-CONTRADICTS: RAW-008 holds two opposite ratings of itself
+from two passes, same confidence format, nothing flags it.
+KEY FIELDS ARE BAIT: RAW-001 notes phrase overlap with RAW-011 is
+deliberate so cross-file search finds both. Headers are written to
+be found, not to describe. Don't trust them.
+"COMPLETE" IS RHETORIC: RAW-050 declares the corridor complete;
+files run to 076.
+OPEN, UNANSWERED, ASKED BY A SCOUT: what is this for — publication,
+personal archive, or a model? It changes what counts as ore.
+
 APPEND TO SAVE.md — 2026-07-26
 
 WIDE RETIRED. Grok 8 WIDE vs Scout A 0 WIDE, same input. The

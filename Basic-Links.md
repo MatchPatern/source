@@ -195,6 +195,13 @@ https://source-sepia-alpha.vercel.app/SYNTH
 https://source-sepia-alpha.vercel.app/SYNTH
 /PROMPT-EMPTY-POCKETS.md
 
+https://source-sepia-alpha.vercel.app/SYNTH
+/PATTERN-REGISTRY.md
+
+https://source-sepia-alpha.vercel.app/SYNTH
+/RESULTS.md
+
+
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-3.7.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md

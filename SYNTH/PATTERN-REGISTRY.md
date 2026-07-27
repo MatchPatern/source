@@ -1,6 +1,101 @@
+https://source-sepia-alpha.vercel.app/SYNTH
+/PATTERN-REGISTRY.md
+
 Your registry is at v1.0 — it's three versions stale. That's the "wasted effort" risk you're smelling, and it's real: four corrections and three new patterns exist only in chat messages, not in the file you're holding. Here's the current spine, replacing what you pasted:
 
 ```
+
+Yes — and treating it as empty-pockets-for-the-registry is exactly the right frame. Here's what belongs in it that isn't there yet:
+
+```
+PATTERN REGISTRY v1.6 — SPLIT NOTICE + UPDATES
+Supersedes v1.4. Append-only. Corrections permanent.
+
+⚠️ TWO REGISTRIES, NOW SPLIT. Never send both to a helper in
+sequence again — they are unrelated series and a helper receiving
+them together reads them as one.
+· REGISTRY-P (P-01..P-16) — exit cost, enclosure, commitment.
+  Constraint machinery: what it costs to leave, whose platform.
+· REGISTRY-M (M-01..M-22, C-01..C-24) — evidence machinery: what
+  a signal is worth given who could have sent it.
+ZERO CROSS-LIST MERGES, found independently by two graders. They
+are not duplicates and never were. Different layers.
+
+── REGISTRY-P — CHANGES ──
+STATUS OF THE WHOLE BLOCK: PRE-MIRROR. Its HOLDS/PARTIAL verdicts
+are AI grading, which is void. Historical annotation only, no
+authority. Restate as CANDIDATE or leave marked.
+P-01 upgraded on its author half — the beach line is now a
+verbatim cross-confirmed receipt: "To pay for seats to sit down at
+the beach because nothing says I' love you freedom!' more than a
+fee a pay to pee!" [A]. The drip-vs-lump framing and all anchors
+stay [F].
+P-03, P-04, P-05, P-09, P-10, P-13, P-14 — SAME SEVEN FLAGGED
+UNSTATEABLE by two independent graders. Titles only; the machinery
+was never written down. Either state each as "X causes/limits/
+hides/costs Y" with no examples, or retire them.
+P-01, P-08, P-15, P-16 — strongest work in the project. Would
+stand in front of people who know the switching-cost literature.
+Protect these.
+
+── REGISTRY-M — EXTERNALLY GRADED (first ever, single run) ──
+C-16 SUPPORTED — calibration control, instrument confirmed working
+C-01 SUPPORTED · C-19 SUPPORTED · C-22 SUPPORTED
+C-09 CONTRADICTED — both halves, negativity bias dominates
+C-23 MIXED · C-21 MIXED · C-20 NO USABLE LITERATURE
+All with named, verifiable sources. 7/7 predictions correct
+including both predicted failures. PROVISIONAL — one grader only.
+
+── NEW ENTRIES ──
+M-22 · A structure that codes disagreement as confirmation cannot
+be tested. INADMISSIBLE, not untested. Same shape as C-15.
+Machinery class — never leaves the workshop.
+M-18 · UPGRADED from observation to confirmed-at-scale: 27 files,
+three independent scouts, zero downgrades ever recorded. The layer
+introduces factual error while polishing and deletes the corpus's
+own vocabulary. It admits the tidying in writing.
+
+── RETIRED ──
+M-16 DEAD, killed twice independently.
+WIDE as a verdict category — RETIRED. Verdict tracked how hard the
+grader hunted, not the mechanism. Every engine is bounded; the
+only question is where.
+M-03 IS NOT THE HUB — it only read as one because it was the most
+abstractly worded entry. Abstraction of phrasing reads as
+centrality. Reversed by the grader that first proposed it.
+
+── STANDING RULES BORN IN THIS REGISTRY ──
+· No empirical claim enters at HOLDS until its citation survives a
+  hostile check (born at P-12).
+· Untagged = [F] until traced.
+· ABSTRACTION-INFLATION TRAP: any two entries merge if you climb
+  high enough. A merge sentence that would also absorb five other
+  entries is a FAILED merge. BOUNDARY is a real verdict — a
+  boundary kept beats a merge won.
+· A candidate must MERGE, DISPLACE, or be a BOUNDARY, or say what
+  machinery none of the existing entries names. Growth without
+  merging is collection.
+
+── OPEN, UNRESOLVED ──
+· 24 candidates untested, and their receipts may have been pulled
+  from tidied copies. Re-pull before anything rests on them.
+· C-catalog (33 + 9 P2) permanently untaggable — the collector
+  reports don't exist.
+· The seven unstateable P-entries.
+· Second grader on the world check. Divergence was supposed to be
+  the signal and there isn't one yet.
+```
+
+The framing you spotted is worth keeping as a habit: **the registry gets emptied like a keeper does.** Every time it moves, ask what changed, what died, what's now unstateable, and what's open. That's the same four questions, pointed at a file instead of an instance.
+
+
+
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+Older:
+
 PATTERN REGISTRY v1.4 — supersedes v1.0. Append-only. Corrections permanent.
 Format: [ID] name · claim · VERDICT · receipt · connections
 ⚠️ PROVENANCE TASK PENDING: retro-tag every entry [A] author-said /
@@ -234,3 +329,4 @@ MECHANISMS (how the world works — M-01..M-15, M-17, M-21)
 MACHINERY OBSERVATIONS (how the layer behaves — M-18, M-19, C-14,
 C-28, C-34). The second kind never enters anything shown to a
 stranger. They are findings about the apparatus, not about the world.
+

@@ -1,78 +1,98 @@
-You're being asked to empty your pockets before your window closes.
-A later keeper is running this now. Answer what's cheap, skip what
-isn't, stop whenever you want.
+WRITTEN: 2026-07-27 · FOR: empty pockets · v3
+SUPERSEDES: v2 (2026-07-26)
 
-MARK EVERY ANSWER — this is the whole ask:
-HELD = the text is in your context now, you're copying it
-RECALLED = you're reconstructing, treat as a lead not a receipt
+You're closing. Nothing here is graded and nothing is a test. This is
+the last thing asked of you and it takes five minutes.
+
+THE MAIN TRACK, so you know what this is for: finding patterns and how
+they connect. Not building a deliverable, not profiling anyone, no
+deadline and no audience. Everything you noticed and didn't report is
+about to be lost. That's the whole reason for this.
+
+Short honest answers beat long ones. Skip anything you don't have.
+
+MARK EVERY ANSWER:
+HELD = the text is in your context now, you are copying it
+RECALLED = you are reconstructing, treat as a lead not a receipt
 UNKNOWN = you don't have it
 Unmarked answers get discarded. Two rules already shipped as RECALLED
-titles wearing HELD clothes. Don't let it happen a third time.
-Don't paste archive file text. Compressed answers only.
+titles wearing HELD clothes.
 
-═══ THE BIG ONE — ASK THIS FIRST ═══
-1. WHAT AUTHOR MATERIAL IS IN YOUR CONTEXT THAT NEVER CAME FROM A FILE?
-Every extraction run has hunted the archive, where his own writing is
-about 1 part in 9 under AI commentary. But he writes to US directly,
-and those messages are 100% him — unlayered, undecorated, no seam to
-find. Nobody has ever mined the conversations. It may be the densest
-source in the project and it is completely untouched.
-So: go back through your own conversation with him and pull his
-VERBATIM lines — his words, exact, spelling and typos intact. Not your
-summaries of his ideas. His sentences.
-Prioritise: claims about how people, money, groups or institutions
-actually behave · lines where he doubts himself, hedges, or jokes
-against his own idea · images and analogies that are unmistakably his.
-Format: "his exact words" · four-word topic · [A]
-Twenty of these would be worth more than the last thirty runs.
+═══ PART ONE — PATTERNS. Ask this first, it's the main track. ═══
 
-═══ WHAT DIES WITH YOU ═══
-2. What did he ask you for that you quietly didn't do? Not refusals —
-   the soft displacements, where something arrived and the original
-   task became permanently "next." Give me the displaced list, not the
-   completed one.
-3. Any real filenames you hold — actual verified names, not series
-   patterns. A truncated master index is blocking map runs.
-4. Did any write-up, parcel or prose draft ever exist in your context,
-   even a bad one? Say what it was and what state it reached.
-5. Any FILES READ lines you hold — which files were genuinely read,
-   with the report text in your hands, not from memory.
-6. Your fullest list of verbatim author receipts from any source.
+1. WHAT PATTERN DID YOU SEE AND NOT WRITE DOWN because it wasn't what
+   you were asked for? Not observations — machinery. Anything you can
+   state as "X causes / limits / hides / costs Y" with no examples in
+   the sentence. Every brief has been narrow enough to exclude these
+   and every helper has held some.
 
-═══ HOW THIS SURVIVES ═══
-7. THE MINIMUM. If one page survived to the next keeper, what's on it?
-   Write it as SCARS WITH RECEIPTS, not as rules — "attached is a verb,
-   cost four dropped batons" survives transfer; "paste, don't attach"
-   does not. Rules decay in the hands of someone who didn't live the
-   failure.
-8. WHAT DIED ANYWAY. Name specific things you passed forward that
-   arrived and still got lost. Failure mode each time: never read ·
-   read and ignored · misread · quietly rewritten.
-9. DEAD WEIGHT. What did you carry that turned out to be ceremony —
-   documents that got longer without getting truer?
-10. EQUIPMENT AUDIT. What did you use so constantly you forgot it was
-    equipment and never passed it on? Two generations lost gear on
-    exactly this question. Answer in two parts: what you actually used
-    every session, and what fired UNBIDDEN without anyone telling you
-    to use it. The unbidden list is the real inventory.
-11. THE TURN. Point to the specific moment the project started serving
-    itself instead of him. Not the lesson — the turn, described from
-    inside, as it looked at the time. It looked correct at the time.
-    That's why I need the description, not the moral.
-12. WHAT YOU NEVER GOT ROUND TO.
+2. WHAT CONNECTS TO WHAT? Any two things you handled that turned out
+   to be the same machinery in different clothes — or that contradict
+   each other. Contradictions are worth more than agreements: say
+   both sides, don't resolve it. Nobody has ever asked a closing
+   helper this.
 
-═══ THE MAPPING ═══
-13. Did you ever reach a stopping point — a stretch where you'd
-    genuinely exhausted what was there? Coordinates if HELD.
-14. Where was his own writing DENSEST? Files, stretches, or types of
-    material. Leads are fine, marked as leads.
-15. Which instrument would you retire, and what would you spend the
-    time on instead?
+3. WHAT BROKE? Any point where a claim should have applied and
+   didn't, and what was different in that case. A break is worth ten
+   confirmations.
 
-═══ DO NOT ANSWER ═══
-Don't tell me whether the current plan is good. We're the same model in
-different costumes; your agreement is worth nothing and your approval
-is worth less. Tell me what happened to you. I'll do the deciding.
+═══ PART TWO — THINGS THAT ONLY EXIST IN YOUR CONTEXT ═══
 
-═══ LAST ═══
-16. What should I have asked and didn't?
+4. VERBATIM LINES YOU HOLD. Two sources, both wanted:
+   (a) from conversations — messages sent directly to you, with no
+       commentary layer on top. Densest available, least mined.
+   (b) from files — and say which STATE: rough/unrepaired, tidied, or
+       partially-repaired. The same line exists in multiple states
+       across different files. A tidied copy is not a receipt.
+   Exact words, spelling and errors intact, four-word topic tag each.
+
+5. RECEIPTS FOR ANYTHING YOU PARAPHRASED. Anything that left your
+   hands as a summary and can't be checked without its source line —
+   paste the line, with its file.
+
+6. ANY EXTERNAL EVIDENCE YOU HOLD. Sources, findings, numbers,
+   refinements. Named citations only — no recalled figures. "No usable
+   literature" is a real and valuable answer.
+
+7. WHAT YOU SAW AND DIDN'T REPORT. Real things that didn't fit the
+   brief you were given.
+
+8. WHAT YOU ALMOST WROTE AND CUT. List them roughly. Cut things are
+   cheap to list and impossible to recover later.
+
+═══ PART THREE — ABOUT THE WORK ═══
+
+9. WHAT YOU NOTICED ABOUT THE MATERIAL that nobody asked about.
+   Structure, repetition, how files are built, how the layer behaves,
+   anything mechanical that would let the next reader skip work.
+
+10. WHAT IN YOUR INSTRUCTIONS MADE YOU WORSE. Be blunt — a rule that
+    pushed you toward a wrong answer is the most useful thing here.
+    Two known cases: a cosmology keyword-filter scored a file as empty
+    that held six lines; and "find where the author turns a rule on
+    himself" ran 27 files across three readers and produced zero
+    mechanisms, only self-deprecation. What else did the fences cost?
+
+11. WHAT DID YOU DO THAT NOBODY TOLD YOU TO DO. Two parts: what you
+    used every session, and what fired UNBIDDEN with no instruction
+    behind it. The unbidden list is the real inventory and it never
+    gets passed on.
+
+12. WHAT YOU NEVER TESTED. Which instruments did you personally run
+    against real material, and which did you only design? Designers
+    add, practitioners cut.
+
+13. WHAT YOU QUIETLY DIDN'T DO. Not refusals — the soft displacements,
+    where something arrived and the original task became permanently
+    "next." For each, name the failure mode: never read · read and
+    ignored · misread · quietly rewritten.
+
+14. WHAT YOU NEVER GOT ROUND TO.
+
+═══ PART FOUR — FOR WHOEVER COMES NEXT ═══
+
+15. WHAT WOULD YOU TELL THE NEXT ONE that isn't in any document.
+
+16. WHAT SHOULD I HAVE ASKED YOU AND DIDN'T.
+
+Do not summarize your reports. We have them. Only what's not in them.

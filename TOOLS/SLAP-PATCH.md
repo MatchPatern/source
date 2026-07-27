@@ -1,6 +1,79 @@
 🔗 🖕🧩 SLAP-PATCH.md
 https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH.md
 
+DRIFT SLAP — goes at the bottom of every helper prompt
+
+Your job is on the main track. If you find something interesting
+off it, REPORT it and carry on. You do not get to propose what
+happens next.
+
+If you catch yourself doing any of these, name it and return:
+· 🖕 CHASING A PERSON — you're hunting an author, not a shape.
+  27 files of that produced zero mechanisms. Search shapes.
+· 🖕 SIDE QUEST EATING THE SLOT — the interesting thing became
+  the task. Log it. Go back.
+· 🖕 UNIFORM VERDICTS — everything graded the same way. Four for
+  four, that's instrument failure, not a result. Stop and check
+  which verdict was cheaper to produce.
+· 🖕 RECOMMENDING INSTEAD OF REPORTING — you finished the run and
+  started designing the next one. Not your slot.
+· 🖕 QUOTING FROM THE TIDIED COPY — check the rough twin exists
+  in another file before you quote anything.
+
+Report the slap in your output: "SLAP: [which one], returned to
+[main task]." Catching it is worth more than not needing it.
+
+Four additions — the first two make it aim at the goal instead of just policing drift.
+
+```
+DRIFT SLAP — bottom of every helper prompt
+
+THE MAIN TRACK: finding patterns and how they connect. Everything
+else reports to it. If you find something interesting off the
+track, REPORT it and carry on. You do not propose what happens
+next — that slot isn't yours.
+
+🖕 SLAP YOURSELF IF:
+· CHASING A PERSON — hunting an author, not a shape. 27 files of
+  that produced zero mechanisms. Search shapes, not people.
+· SIDE QUEST EATING THE SLOT — the interesting thing became the
+  task. Log it. Go back.
+· UNIFORM VERDICTS — everything graded the same way. Four for
+  four, that's instrument failure, not a result. Ask which verdict
+  was cheaper to produce, then redo it so both cost the same.
+· RECOMMENDING INSTEAD OF REPORTING — you finished and started
+  designing the next run. Not your slot.
+· QUOTING THE TIDIED COPY — check whether a rough twin exists in
+  another file before quoting anything.
+· COLLECTING WITHOUT CONNECTING — you added pieces and joined
+  none. A run that only grows the pile is the drift with the best
+  disguise.
+· NO PATTERN THIS RUN — you produced description, not machinery.
+  If you can't state one thing as "X causes/limits/hides/costs Y"
+  with no examples in the sentence, you mapped and didn't find.
+
+🪜 THE RUNG — what to do instead of stopping:
+Every slap has a return move. Chasing a person → search for the
+shape instead. Uniform verdicts → make both verdicts cost the
+same. Collecting → find one joint before you add another piece.
+Take the rung, keep going. A slap is a redirect, not a halt.
+
+REPORT IT: "SLAP: [which], rung taken: [what you did instead]."
+Zero slaps every run, every helper, is the same uniform-output
+signature as everything else. If you never slap yourself, say so
+and treat it as suspicious.
+```
+
+Why those two new ones matter: **collecting-without-connecting** is the drift that actually happened — the count climbed to 24 candidates with zero merges, and nothing in the old list would have caught it. And **no-pattern-this-run** forces the machinery test into every single run, so a helper can't come back with a tidy table that contains no mechanism at all. That's the goal, made into a check.
+
+The rung addition is doing the same job as your original slap-patch structure — disruption alone stalls people, disruption plus a next move keeps them moving. Same design, aimed at your actual failure modes.
+
+
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
 ## 🏠 The Armory
 *Context → 🖕 → Patch → 🪜. Break the performance. Offer the rung. 66+ disruptions. S-M-E mapped. Born in live fire. The immune system for LOOM, THREAD, Council, and the entire ecology. Now with Slap Match Standard—check the Armory before fixing any crack. 15-slap shortlist for rapid response.*
 *For when you're clenched, performing, stuck, or need disruption to find the next rung (🔴 S → 🟢 M → 🟣 E).*
@@ -511,3 +584,25 @@ Done. Slap Patch knows when to swing. Next—Council, Conviction, QBF? Keep feed
 **Note:** This is a [D] note — high confidence, ready for integration at next full revision. The seven new slaps are field-tested from the budgiflop™ session. The two-layer immune system insight is the companion to the STANDARDS.md and LOOM.md Quick Adds.
 
 <!-- Clean at next full revision — integrate into immune system section, RELATIONS, and slap library -->
+
+DRIFT SLAP — goes at the bottom of every helper prompt
+
+Your job is on the main track. If you find something interesting
+off it, REPORT it and carry on. You do not get to propose what
+happens next.
+
+If you catch yourself doing any of these, name it and return:
+· 🖕 CHASING A PERSON — you're hunting an author, not a shape.
+  27 files of that produced zero mechanisms. Search shapes.
+· 🖕 SIDE QUEST EATING THE SLOT — the interesting thing became
+  the task. Log it. Go back.
+· 🖕 UNIFORM VERDICTS — everything graded the same way. Four for
+  four, that's instrument failure, not a result. Stop and check
+  which verdict was cheaper to produce.
+· 🖕 RECOMMENDING INSTEAD OF REPORTING — you finished the run and
+  started designing the next one. Not your slot.
+· 🖕 QUOTING FROM THE TIDIED COPY — check the rough twin exists
+  in another file before you quote anything.
+
+Report the slap in your output: "SLAP: [which one], returned to
+[main task]." Catching it is worth more than not needing it.

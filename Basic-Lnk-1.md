@@ -1,3 +1,6 @@
+🔗 🔗 Basic-Lnk-1.md
+https://source-sepia-alpha.vercel.app/Basic-Lnk-1.md
+
 🔗 🔗 BASIC-LINKS.md — The Front Door
 https://github.com/MatchPatern/BASIC-LINKS#readme
 

@@ -1,4 +1,7 @@
-🔗 🔗 BASIC-LINKS.md — The Front Door
+🔗 🔗 Basic-Lnk-RAW.md
+https://source-sepia-alpha.vercel.app/Basic-Lnk-RAW.md
+
+BASIC-LINKS.md — The Front Door
 https://github.com/MatchPatern/BASIC-LINKS#readme
 
 Easier to push but it either may have older or newer things?? :
@@ -407,7 +410,17 @@ https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-3.7.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md
 
+https://source-sepia-alpha.vercel.app/SYNTH
+/PROMPT-EMPTY-POCKETS.md
+
+And a results file where saves all the scouts and general responses from synths to them here : 
+https://source-sepia-alpha.vercel.app/SYNTH
+/RESULTS.md
+
 https://source-sepia-alpha.vercel.app/TOOLS/FRESH-EYES-SCAN.md
+
+🧩PATTERN-LIBRARY-SET1.md
+https://source-sepia-alpha.vercel.app/PATTERN-LIBRARY-SET1.md
 
 https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
 https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
