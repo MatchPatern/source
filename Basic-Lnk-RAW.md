@@ -374,6 +374,9 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-SET2.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SUPPLEMENT.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-PATTERN-REGISTRY.md
 
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS.md
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-2.md
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-BUILDER.md
 
 https://source-sepia-alpha.vercel.app/SYNTH/+PLAN.md
 https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-GUIDE.md

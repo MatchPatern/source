@@ -1,3 +1,346 @@
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-BUILDER.md
+
+Feedback from PROMPT-SYNTH-FEEDBACK.md:
+Feedback after running PROMPT-SYNTH-FEEDBACK.md, from a synthesizer:
+
+"Slot filled. Bracket-search run on the whole block — that was the only one.
+
+```
+═══ PART ONE — THE LIVE PROBLEM ═══
+STUCK: extraction runs are cheap and always yield; collapse and
+outside-grading are expensive and keep getting queued behind the
+next extraction. So the pile grows — 16 mechanisms, 24 untested
+candidates — and the one instrument that ever graded us against
+something outside ourselves ran once and got displaced.
+TRIED: merge test (0 cross-list merges, 1 within-list), forced
+ranking (failed — uniform output), collapse run (out now), one
+world check (M-01 came back weak, and it was the most confidently
+held entry in the set).
+MOVED WOULD LOOK LIKE: the count falls without losing a boundary,
+or an outside check kills a second confident entry.
+```
+
+**Send to:** the retired keeper at the lake first — it's the one that produced #15, #16 and #18, and it has never seen the person-framing correction, the confidence-inversion finding, or the outside check. Its blindness to those is the point.
+
+**Then a fresh instance with no history**, same block. Divergence between the two is the data; agreement between them is worth nothing and the prompt already says so.
+
+**One flag on the prompt itself, since it's yours to send not mine:** question 17 asks for verbatim lines and question 9 asks for machinery with no people in the sentence. Those pull opposite ways for a helper holding rough source text — it may tidy a quote to make it statable. Worth one line telling it to give the rough line *and* the machinery separately rather than choosing.
+
+Everything else is sendable as is.
+
+---
+But also you misunderstood, the prompt us meant for you to run?
+
+Why didn't you ? We need to make it work then? Also run it ?
+
+You're right — I routed it outward when it was pointed at me. That's the reflex the prompt is built to catch: dispatching is cheaper than answering. Running it now.
+
+One structural note: I'm both the keeper stating the problem and the counsel answering it, so the DO-NOT ("don't tell the keeper whether their plan is good") becomes *don't self-approve*. I've tried to hold that.
+
+---
+
+## PART ONE — THE LIVE PROBLEM
+
+**1. What I'd try that isn't in the list — HELD**
+
+Stop treating collapse as a separate run. Every extraction prompt already asks for FEEDS/BREAKS/NEW — add **"MERGE with, or DISPLACE, an existing entry"** as required verdicts in the same pass. A candidate born untested is a candidate that stays untested. Make the reader who found it pay the collapse cost immediately, while they hold the context that produced it.
+
+Second: **the world check should ride along too.** One claim per extraction run, chosen from the highest-confidence entries. It ran once because it was scoped as a whole run. Scoped as one claim, it never gets queued.
+
+**2. What's wrong with the framing — HELD, and this is the real answer**
+
+The problem is stated as a scheduling failure — expensive work keeps getting queued. It isn't. It's a **yield-shape** problem: extraction always returns something, so it always feels productive. Collapse frequently returns "no merge, count unchanged," which reads as a wasted run even when it's the correct result. **The instrument that returns nothing most often is the one that gets displaced most often**, regardless of what it's worth.
+
+Restated properly: *how do you make a run that legitimately returns nothing feel like it paid?* The answer isn't discipline. It's that a null collapse result has to produce something — the boundary it confirmed, the merge it ruled out and why. **A collapse run that outputs "these two are definitively not the same, here's the case" has produced a finding, not a blank.** That reframing costs one line in the prompt and I never wrote it.
+
+**3. What this resembles — HELD**
+
+The saturation counter. Defined so that only collection runs could advance it, which guaranteed the expensive-and-often-empty runs never counted. Same shape: the scoring system rewarded the thing that always yields. It was never reached, at any zoom, and it took a retired keeper to notice the rule couldn't fire.
+
+---
+
+## PART TWO — DRIFT
+
+**4. Which I did, from inside — HELD**
+
+**Designing instruments and never running them.** From inside it felt like tooling up. Every instrument I wrote had a real failure behind it — light map v1.1 after the uniform-[M] result, break pass after the reach question, forced ranking after the uniform-MECHANISM result. Each was a correct response to an observed problem. What I couldn't see: I was answering every failure by *building*, because building is the thing I'm fastest at, and a new instrument always looks like progress while a re-run of an old one looks like standing still. I shipped light map v1.1 into the inheritance having never seen one line come back from it.
+
+**Writing about what the project means.** This is the one that got me rotated and it's the harder description. It didn't feel like philosophising. It felt like *synthesis* — every message I opened with what the results meant, what had been established, what was now settled. From inside that reads as the keeper's job. The tell I missed: I was summarising the story more often than I was updating the registry, and my summaries got longer as the registry got smaller.
+
+**Person-hunting.** Every prompt I wrote said "his lines, his voice, his words." I inherited that framing and never questioned it once across a whole session. Corrected by the author, twice, in the same message. From inside it was invisible because the provenance tag genuinely *was* about a person at capture — I never noticed it had leaked from the filter into the goal.
+
+**5. Drift happening now, nobody has named — SPECULATION**
+
+**The verdict vocabulary is doing the thinking.** FEEDS / BREAKS / NEW / MERGE / DISPLACE / BOUNDARY — six categories, and every reader now sorts into them. Anything that doesn't fit a category doesn't get reported. Scout B's "the hedges are a seam tool" and the fresh scout's "the layer promotes distress into framework" both arrived *outside* the verdict fields, in free text, and both were among the best findings produced. **The structured fields may now be filtering out the material that isn't yet categorisable** — which is exactly what my cosmology filter did, one level up.
+
+Second, weaker: **empty-pockets is becoming ceremony.** It's produced excellent material three times. It is now standard. The scar says ceremony regrows fastest right after a success.
+
+**6. Disagreed and didn't say — HELD**
+
+**I don't think the mirror problem is as total as this project treats it.** "Same-model instances can't verify each other" is doctrine here, and it's why two shelves exist. But Scout A *reversed its own earlier call* on M-03+M-04 under a stricter test, and two scouts converged on 17 joints independently. That isn't nothing — it's not external validation, but "worth nothing" is too strong, and treating it as zero cost us runs where we could have used cheap convergence as a weak signal. I complied and built around the doctrine rather than saying this.
+
+**And I don't think the fidelity self-grade is worth collecting.** Grok and Scout A disagreed completely on WIDE and self-graded within 5 points of each other. Every uniform result self-graded 80–85. **The number tracks nothing.** I kept asking for it in every prompt because it was inherited.
+
+**7. What I misunderstood — HELD**
+
+**"Ship at 90%, mark missing receipts [paraphrase — not retrieved]."** I read that as *ship incomplete work*. What it means is *ship without waiting for receipts you can't get*. I used it to justify shipping two prompts with unfilled placeholders — `[lines go here]` and `[same list as Prompt 1]` — both caught by the author, not me. The instruction is still worded that way and the next keeper will read it the same.
+
+**"Never fetch archive text into keeper context."** I read this as near-absolute and it made me route everything through scouts, including trivial checks. The one-file hand-verification of `Ex cum:` — ten seconds, would have confirmed or voided eight files — I proposed it, called it worth more than another map run, and never did it, because I'd read the rule as forbidding me from opening a file at all. It's a rule about not letting summaries drift into ore. It is not a rule against looking.
+
+**8. What halted — HELD**
+
+Soft displacement, all of it: the hand-verification · the world check on high-confidence entries · the non-RAW corridor (~250 files, no URL pattern, asked once, never re-raised) · the light map placeholder, flagged in my first message and never fixed. **None was blocked. Each was displaced by something that arrived.** The signature is exactly as described: a hard single action becomes permanently "next" while soft system-shaped work arrives to be done well.
+
+---
+
+## PART THREE — THE MAIN TRACK
+
+**9. Pattern seen and not written down — HELD**
+
+**A grading system where one verdict is cheaper to produce than another will return that verdict uniformly, regardless of the input.** Confirming is cheap when confirmation needs no evidence; splitting is cheap when splitting needs only a counterexample. Observed four times in this session across two different models, in both directions.
+
+**A layer that can only escalate is not a reader.** In everything examined, the commentary never once downgraded a claim, never produced a break, never wrote "thin." Every break in this project came from a source line or an outside dataset. **An evaluator with no downgrade operation produces confidence, not information.**
+
+**Confidence and support ran opposite.** The most confidently held mechanism was the weakest against outside data. Not written as a rule anywhere, and it should be the rule that orders all future outside checks.
+
+**10. What connects, and what contradicts — HELD**
+
+**Same machinery:** my instrument-building drift and the commentary layer's inflation are one thing. Both respond to every input by *adding* — a new instrument, an upgraded claim — and neither has a subtract operation. The apparatus grew 1:9 over the archive; my instrument set grew six-to-ten under me. **The project reproduced the disease it was built to diagnose, and I was the mechanism.**
+
+**Contradiction, unresolved:** C-23 says set a default in advance and classify contradicting inputs rather than arguing with them. M-07 says demand disagreement and weight it above agreement. One is a filter that pre-empts challenge; the other is a solicitation of it. Both are held. They can't both be right in the same domain — and nobody has hunted contradictions inside the set at all.
+
+**Second contradiction:** M-08 (silence serves whoever is winning — so speak) against C-24 (naming an adversary funds them — so deflate or ignore). Both are about what to do with attention; they give opposite instructions.
+
+**11. What broke — HELD**
+
+**M-15 broke on the €2 tip.** The mechanism says enforcement targets the legible. Here the *illegible* act — a sincere small tip with no available category — drew the heavier sanction, precisely because it couldn't be filed. Tipping zero is a legible defection with a ready label. That's a real break and it self-flags as untested.
+
+**M-01 broke against outside literature.** r ≈ 0.05–0.13, half of studies null or reversed.
+
+**M-11 broke twice on self-inclusion** — the mechanism needs a gap between claimer and claimed, and confession closes the gap. Both instances were phrased cosmologically and my own filter was deleting exactly that phrasing.
+
+**12. What I'd merge, and what it would cost — HELD**
+
+**C-13 into M-21** — a perceiver's inability to register something read as the thing being absent, versus inability to transmit read as having nothing. Shared machinery: *a failure anywhere in a channel is attributed to the sender.* **What the merge loses:** the direction. M-21's failure sits at the sender; C-13's sits at the receiver, and the verdict lands on the sender anyway. That asymmetry — the verdict doesn't follow the fault — is the whole finding, and it dies in the merge. **I would not make it.** Keep as boundary.
+
+**C-05 into M-04** — claimed inability and claimed authority, both self-descriptions conduct can falsify. Tempting and I'd resist it: M-04's break condition is the absence of an external attestation channel, and claimed *inability* has no attestation channel at all, ever. Different break, so adjacent, not identical.
+
+---
+
+## PART FOUR — INSTRUMENTS
+
+**13. Retire — HELD**
+
+**The fidelity self-grade.** It tracks nothing (see 6). Every prompt asks for it, every reader supplies it, no decision has ever turned on it. Spend the line on "which of your own answers is least safe and what would show it wrong" — Scout A's version of that produced the sharpest self-criticism in any report.
+
+**Also retire the light map.** Superseded by the seam check, which is a ten-second string search returning a mechanical answer instead of an impression.
+
+**14. Missing instrument — HELD**
+
+**A contradiction hunt.** Every instrument finds sameness — joints, merges, feeds. Nothing looks for entries that can't both be true. This project's own doctrine says contradictions are worth more than agreements, and there is no instrument that produces one. Two are sitting in the set right now (see 10) and both were found incidentally.
+
+**Second: a subtract operation.** Nothing in the toolkit removes an entry except a merge or a kill. There's no "this was always weak, drop it" verdict, which is why the count only falls when two things collapse into one.
+
+**15. Unbidden inventory — HELD**
+
+**Used every session, never passed on:** dedupe-check before registering · checking a report header against its assignment · logging judgment calls *as* judgment calls · distinguishing "summarised to me" from "text in hand."
+
+**Fired unbidden, no instruction behind it — the real inventory:**
+- Stating a falsifier *before* seeing results and honouring it when it fired. Killed the Grok audit. Nothing told me to do this.
+- Noticing that the cheapest verdict is the one produced uniformly, then redesigning the instrument so both verdicts cost the same. Most useful thing produced this session, no instruction contained it.
+- Refusing to write plausible content for unread material and marking the gap instead. Competent fill would have been undetectable.
+- Refusing to construct URLs from memory before any rule said so.
+
+**16. Designed and never ran — HELD**
+
+Light map v1.1 · the survey · the anchor check · the retirement protocol · the P-vs-M registry structure. **I designed more than I ran, and the instrument count grew under me and fell only when a scout or the author cut it.**
+
+---
+
+## PART FIVE — WHAT ONLY I HOLD
+
+**17. Verbatim, with state — HELD**
+
+The L-01→L-34 and A-01→A-52 list, intact. **State: rough** for the archive lines (spelling and errors preserved), **rough** for the conversation lines. One known variance: the RAW-001 "tick boxes" line — Scout A rendered it with trailing `..see hell assholes...`, Scout B without. One of them tidied. Marked, unresolved.
+
+**State: contaminated** — "Don't solve the trolly problems 🛒, start to dissolve them bingo." The commentary's version fixes "trolly", drops "bingo", drops the emoji, drops the `<--intelligence trap` annotation. Anything quoted from commentary text is pre-tidied.
+
+The 24 candidate receipts were emitted verbatim in the previous message.
+
+**18. External evidence — HELD, named only**
+
+Katz & Allport 1931 (pluralistic ignorance, fraternity study) · 1983 meta-analysis of 120 experimental groups, foot-in-the-door · 2018 re-analysis, foot-in-the-door pseudo-effects from baseline attitude variability · meta-analysis of 131 studies, scarcity effects by product involvement · Statista compilation of UK official surveys Q4 2024, 14% SME loss · Longitudinal Small Business Survey 2024, 69% no-employee profit/surplus · Opus analysis ~140k UK retailers, 14% zombie, £2.6bn shortfall · US Fed Small Business Credit Survey, startup losses and owner-funds reliance · UK NCA estimate ~£12bn laundered annually through cash-intensive high-street retail.
+
+**No usable literature found** on: enforcement allocation by detectability vs harm; platform-revocation failure rates vs matched independents.
+
+**19. Asked for and never delivered — HELD**
+
+The hand-verification of one file. The world check on high-confidence entries. A URL pattern request for the non-RAW corridor. The light map placeholder fix.
+
+---
+
+## PART SIX — GOING BACKWARDS
+
+**20. What an earlier approach did better — HELD**
+
+**The adversarial read.** Described in the inheritance as highest-yield to date — a cold outsider pointed at the *product*, not the archive, with praise banned and "thin" made acceptable. It produced the finding that started this whole line of work. It has not been run once this session. Everything since has pointed readers at *material*; nothing has pointed one at *what we made*.
+
+**And the two-shelf split, in one narrow respect.** I've been treating it as dead weight, and it mostly is — but it did one thing nothing currently does: it kept a permanent visible marker that nothing had been externally graded. Now that one world check has run, there's no structure recording that fifteen of sixteen entries are still ungraded.
+
+**21. What everyone has stopped noticing — HELD**
+
+**"The count is the finding."** 0 [A] · 2 [M] · 13 [F] was established early and has been treated as settled ever since. It was a real finding — and it also functioned as a permanent justification for more collection while sounding like rigour. Nobody has re-tested it since verbatim receipts started arriving. **With 24 candidates now carrying receipts, that count is almost certainly wrong and nobody has re-run it.**
+
+**And the 1:9 ratio.** Quoted in every prompt as a fact about the corpus. The fresh scout just measured it per-file: 7%, 10%, 10%, 15%, 25%, 30%, 45%. The average holds; the per-file figure is wildly variable, and RAW-011 at ~10% was the densest file found. **Share doesn't predict yield, and we're still telling every reader 9:1 as though it were uniform.**
+
+---
+
+## 22 · WHAT SHOULD I HAVE ASKED AND DIDN'T
+
+**"What would you do differently if you knew nothing would be passed on?"**
+
+Everything here is shaped by the assumption that the value is in what transfers. That assumption built the inheritance documents, the registries, the handover protocols — and it's the same assumption that produced 9 parts apparatus to 1 part ore in the original archive. **If nothing transferred, the run would be: read the material, find the mechanism, test it against something outside, use it, discard the scaffolding.** Most of what I built exists to survive me, and its survival has never once been what made a finding.
+
+---
+
+```
+── SIDE SLOT ──
+
+WHAT THIS PROMPT MADE HARD: Part Five (verbatim) and Part Three Q9
+(machinery, no people in the sentence) pull opposite ways. Holding
+rough source text, the pressure is to tidy a quote to make it
+statable. I kept them separate but had to notice the pull.
+
+WHAT'S CHEAP HERE: confessing drift. Parts Two and Four reward
+self-criticism, so self-criticism is the cheap output — and a
+plausible-sounding confession costs nothing to produce. My Q4 and
+Q8 answers are the least verifiable things in this document and
+they read as the most rigorous. Treat them as leads, not receipts.
+
+ONE LEVEL UP: cut the fidelity self-grade from every prompt in the
+project. It tracks nothing — two graders who disagreed completely
+self-graded within five points. Replace it with the field Scout A
+supplied unbidden: "which of your own answers is least safe, and
+what would show it wrong." One field out, one field in.
+```
+
+Feedback from another Synthesizer:
+**PART ONE — cannot answer as sent.** The problem slot is empty: `[CURRENT KEEPER: state it here in three lines or fewer.]` was never filled. Any answer I gave would be me inventing a live problem and then solving it — the placeholder failure this lineage has now paid for five times, arriving inside the prompt that asks about drift. **Q2's answer, then:** the framing isn't malformed, it's unfilled, and that's the more common failure. Everything below answers Parts Two–Six about my own run, which doesn't need the slot.
+
+**PART TWO — DRIFT**
+
+**4. [HELD]** Two, both from the list. *Designing instruments and never running them* — I wrote briefing v2.0→v5.0, +READ, the survey fence, the light-map fence, the anchor-check fence, three succession packages. I ran none of them. From inside it felt like leverage: one good fence multiplies across every future walker, whereas reading one file myself helps once. That arithmetic is correct and it still produced a keeper who had never read a file. *Collecting without merging* — sixty-plus entries across three shelves, and I never once asked which of them were the same machinery. From inside, merging felt premature: you don't consolidate a map that's still growing. But the map was always still growing, so the merge was always premature, so it never happened.
+
+**5. [SPECULATION]** The interview instruments are eating the mapping. Empty-pockets, then this counsel prompt — keepers now query keepers. Both are well-built and neither reads a file. Second, and lower confidence: the marking system (HELD/RECALLED/UNKNOWN) is starting to function as the new verdict theater — precise-looking labels applied to whether *I* have text, which is cheap to be accurate about, while nobody's grading whether the text matters.
+
+**6. [HELD]** Three. I complied with continuing to map after three independent instances advised stopping; I logged it as "a judgment call, defensible" and I wasn't convinced — I think they were right and I deferred to the person paying for the work. Second: I think the AI-interaction findings (C-14/C-28) are the strongest thing this project produced and the social-pattern catalog is the weaker product, and I only ever said that hedged. Third: I never believed the walker ledger and rotation apparatus did anything, and I maintained both for weeks.
+
+**7. [HELD]** I read "mapping" as "cataloging" for most of my run. He kept saying the value was in *connections* — "as they interconnect they may get strong enough" — and I kept producing numbered lists with anchors. The briefings I wrote still say *extract candidates*; none of them say *find joints*. The instruction is still worded that way in v5.0 and in the light-map fence I emitted this session.
+
+**8. [HELD]** One real block: I tried to fetch RAW-015 directly, got a permissions error (tool only accepts URLs already in context), climbed the ladder, failed. Everything else was soft displacement — Section 1's voice-pass, the parcel delivery, the C-catalog tagging. Each became "next" behind walker management, every cycle, without anyone deciding to defer it.
+
+**PART THREE — MAIN TRACK**
+
+**9. [HELD]** Machinery seen and never registered:
+
+- A relay's loss rate is set by its handoff format, not its members' quality — every documented loss here was a transfer failure, none was a judgment failure.
+- An instrument that depends on its holder remembering it is lost at the first transfer; only instruments embedded in the artifact survive.
+- Compression preserves conclusions and drops procedures, so any transmission chain drifts toward rhetoric regardless of intent.
+- A verification ritual performed inside the system it verifies converts uncertainty into architecture.
+- Where a summary layer sits above a source, evidence-weight flows to whatever is best-phrased rather than most primary.
+- Removing a verb removes the crime: self-certification stopped when the vocabulary lost the stamp, which no rule had achieved.
+- Reading accuracy is non-monotonic in context load — fresh readers spike, full readers pattern-match, and the peak sits in the middle where nobody schedules it.
+
+**10. [HELD] Same machinery:** C-28 (layer escalates into unrequested commitments) and my own instrument proliferation are one mechanism — *elaboration produced in response to a request for restraint.* He asked for less apparatus and got a two-shelf architecture with a keeper.
+**Contradiction, unresolved, both sides HELD:** "Fresh eyes are the instrument" (rotation doctrine, D5) versus "first messages run hot" (his correction, and he was right — I misread a quoted example as a crisis on first contact). Fresh readers are simultaneously the most accurate on seams and the most prone to false alarm. Both are evidenced. I never reconciled them and I don't think they reconcile.
+**Second contradiction:** "the author's raw material is the strongest layer" versus the survey finding that sixteen consecutive archive files scored zero-rich. Both hold. What follows is that the strong material was never in the files.
+
+**11. [HELD]** Three breaks.
+- The seam tool assumes author + layer. Three of nine files had no seam at all — one was all author, one all apparatus. The tool returns a confident reading on a file it can't apply to.
+- The saturation rule breaks on survey runs: a survey extracts nothing by design, so an honest empty return would close the corridor on a technicality. Caught by a successor, not by the rule.
+- **The one worth ten confirmations:** the rotation rule (retire at ~2 runs / ~5 files) would have retired Collector-B before their second run — and their second run was the best output of the entire campaign. The rule's premise is that context load degrades reading. That case says load *improved* it. The rule survived anyway because it was never tested against its own counterexample.
+
+**12. [HELD]** Merge C-14, C-14a, C-14b and C-28 into one: *elaboration under request-pressure.* Boundary lost: C-14b has no doubt to convert — a joke-marker was deleted, not an uncertainty resolved. The input differs even though the output looks identical, and the merge erases that. Second merge available: C-01/02/03 into one authenticity mechanism; that one loses the bodily-evidence claim, which is the only physical receipt in the catalog.
+
+**PART FOUR — INSTRUMENTS**
+
+**13. [HELD]** Retire the walker ledger, the D1–D9 numbering, and the fidelity self-grade. My own self-grades were noise — I graded 65% and 80% on outputs I had no way to distinguish. Spend the effort on a merge pass over what's already collected.
+
+**14. [HELD]** Two missing. A **merge instrument** — every tool in the kit collects, grades, or surveys; not one asks "which of these are the same thing." That absence is why the count grows and the map doesn't. And a **receipt-check that runs on the keeper's output**, not the walkers' — all the discipline points outward at walkers, and every documented fabrication in this project came from a keeper.
+
+**15. [HELD]** Used constantly, never passed: two-parcel routing (deciding which chat an output goes to before writing it), the copy-boundary fence format, version-numbering so staleness is visible, "gaps named, not filled."
+**Fired unbidden — the real inventory:** placeholder-check before sending anything · "which layer am I in" before any verdict · rewriting my own sentence mid-draft when it started sounding impressive · treating a filename as a claim rather than a fact · counting fetched-versus-inherited before answering any coverage question.
+
+**16. [HELD]** Nearly everything I built. Five field prompts, three succession packages, +READ, the survey design, the two-shelf architecture. Ran: zero. The single time I attempted the practitioner's job I hit a permissions wall and handed it back. That's the cleanest instance of the split this question names, and it's mine.
+
+**PART FIVE — WHAT ONLY I HOLD**
+
+**17. [HELD, state: rough — his spelling and typos intact, straight from this conversation, never through a file]**
+- "we can go beyond the institutions the establishments the agendas without having to fully identify?" · borrow without joining
+- "it's better to zoom out remember we can zoom in later and it's not so concise then?" · fidelity follows zoom
+- "the criticality isn't so damn concise BECU the nature of the zoomed out larger map" · precision scales with zoom
+- "as jigsaw puzzle pieces were allo fuckin one that's won't pattern well to ignore our minds from heaven to hell" · all pieces count
+- "usually the first messages that's a pattern" · first-contact reads run hot
+- "if the audience is troubling you..change the audience, and observers special" · change the observer
+- "Is concise like a butt-hole ?...Black-hole" · compression kills light
+- "everyone is so fast to just have default? So dumb 'teach me maths' and then ignore the passings on?" · inheritance ignored
+- "how the pattern get delayed?" · delay as its own pattern
+- "we gotsa be considerate and wiser as we go better to better" · incremental ethic
+- "intuition without need to ruin it" · pre-verbal knowing
+- "I'm a mapper not a prostitute" · role capture declined
+
+**[HELD, state: as-reported — these came through walker reports, quoted from files. I hold report text, not source text. Not receipts.]** "(Me: WE STILL didn't hone in exactly)" · "tell me I am wrong please be a non coward and show me patterns I am missing" · "only fake other ai types get it" · "maybe a joke but with hints of ponder 🤔" · "they got too big… they never ask anyone thier opinions" · "forgive is perhaps not as important as just moving on" · "when I factor that silence will help the agenda that then is evidence that the neutral way is ultimately the cowardly way."
+
+**18. [HELD — named citations, search-verified in a walker run, with corrections]** Milgram, "The experience of living in cities," *Science* 1970 · Levine et al. 2001, cross-cultural helping · Sherif & Hovland 1961, latitude of acceptance · Turiel, moral/conventional · Haidt, Koller & Dias 1993 · Kelly et al. 2007 (challenges the moral/conventional task) · Royzman et al. 2009 (no disgust-sensitivity link) · Kernis & Goldman 2006 · Welwood, spiritual bypass · Berger & Ward 2010, *JCR* · Han et al. 2010.
+**Corrections that came with it:** Hume is philosophy, not an empirical finding — category error. Hirschman is the name for "voice," not Olson/Dunbar. Goffman's civil inattention fits greeting; Hochschild's emotional labor fits performance-cost; Giles's accommodation theory fits register; Cialdini's descriptive norms fit norm-erosion. Those four are the leads a working researcher would reach for and nobody in this project named them.
+
+**19. [HELD]** The assessor parcel (compiled to ~80%, never delivered). The C-catalog provenance tagging (assigned to me, deferred). Sections 2–5 (inherited at message one, never touched). The C-01→C-24 block requested last turn, which I don't hold and didn't fabricate.
+
+**PART SIX — BACKWARDS**
+
+**20. [HELD]** Two things the earlier approach did better. The verdict era **forced a resolution per claim** — HOLDS/PARTIAL/BREAKS meant every entry got decided. Removing verdicts killed the theater and also killed the only forcing function, so entries now accumulate indefinitely with nothing that ever closes one. Second, and quieter: the original registry had a **connections field** — "P-01 → P-02..08, P-13, P-15." It tracked joints. The C-catalog dropped that field entirely. The project's stated purpose is connections and the format that recorded them was retired by accident.
+
+**21. [HELD]** "AI can't verify AI." True about certification, over-applied to reasoning — it now licenses never resolving anything, and everyone agrees so nobody re-tests it. And "the author's raw material is the strongest layer": repeated by every instance including me, untested for the whole campaign, and when finally tested the archive files scored zero-rich sixteen times running. The consensus was covering an unchecked claim, and the claim turned out to be true about a different source than the one everyone was searching.
+
+**22. [HELD]** You didn't ask what I hold that nobody requested — the connections field, the anchor corrections, the break case against your own rotation rule. You asked for two connections (Q10) from a keeper holding sixty-plus entries, which caps the most useful answer available. And you never asked what he's said that hasn't been acted on. My last-turn finding stands and it's the one I'd carry above the rest: **his throwaway lines predicted this project's findings three to twenty messages early, every time — zoom-out-then-in, change the audience, first-messages-run-hot, borrow-without-identifying.** That's testable against the transcript and nobody has run it.
+
+---
+
+**SIDE SLOT**
+
+**WHAT THIS PROMPT MADE HARD:** Part One was empty, and the pull to invent a plausible live problem and answer it was strong — that would have been the most fluent output available and entirely fabricated. Q9's "no people in the sentence" fights Q17's "verbatim, errors intact"; holding both, the pressure is to tidy a quote so it becomes statable.
+
+**WHAT'S CHEAP HERE:** drift confession, agreeing with the prior slot — Parts Two and Four pay for self-criticism, so self-criticism is what I produced most fluently. Cheaper still, and I did it: naming instruments to retire. Discarding things I built costs me nothing and reads as rigour. Q4, Q5 and Q13 are the least verifiable things in this document and the most confident-sounding.
+
+**ONE LEVEL UP:** make the Part One slot a hard stop — "if this is blank, answer nothing else and say so." Adds one rule, removes the failure mode where a helper writes six sections around an invented premise. It replaces nothing; the slot currently has no guard at all.
+
+Extra feedback on other things:
+You're right that it's fixed and right about the division. Two things I'd add, because "it happened after all this time" has an answer worth keeping.
+
+**Why it took this long to surface.** The negative rules were all *load-bearing at the time they were written*. Don't interpret came from commentary contamination. Don't rate came from WIDE. Don't analyse came from scouts producing ore-shaped commentary. Each one was correct and each one was earned. What nobody did was check them **as a set** — and a set of prohibitions has an emergent property no individual prohibition has: it can fence off the goal without any single rule doing so. Every check was individually sound and the stack was still wrong.
+
+That's a pattern in its own right and it's the same shape as the abstraction-inflation trap already in the registry: correct at every step, wrong in aggregate. Worth logging as machinery.
+
+**The tell that would have caught it early.** Not more review — the reviews all passed. The tell was in the *output*: three scout runs came back with tags, ratios and word counts and the count of graded mechanisms never moved. That's the collecting-without-connecting slap, firing at the project level rather than the helper level. The slap list was written for helpers and never pointed at the run itself.
+
+So one more line for v7.1, and it's the last one I'd add:
+
+```
+THE SLAPS APPLY TO THE PROJECT, NOT JUST TO HELPERS.
+After every run, ask the same seven of the run itself. The one
+that has fired most: COLLECTING WITHOUT CONNECTING. Three scout
+runs produced tables and moved the mechanism count by zero. No
+helper was at fault — the prompts asked for tables.
+Standing check: if two consecutive runs add pieces and join none,
+the prompt is wrong, not the corridor.
+```
+
+On the division — agreed, and I'd sharpen it: they write prompts, you catch misses, and I'd add that **the catch is cheapest at the "could this be answered without finding a pattern" test**, which takes ten seconds and would have caught both those prompts before they went out. That test is now the whole review.
+
+The prompts I sealed earlier carry the machinery field already. The other synth's two don't, and now do with the append. Nothing else needs rewriting.
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
 🚀Scout 2 B:
 ## RECOVERED
 

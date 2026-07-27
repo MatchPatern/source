@@ -1,3 +1,5 @@
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS.md
+
 **You're right and it was my error, not the app's.** The one-file rule is in the inheritance — a prompt travels as ONE self-contained block — and last message I wrote "same body as before, swap the middle." That's exactly the fragmentation that drops batons. Rewritten below, both complete, nothing to assemble.
 
 URLs are written out in full, rejoined where your paste tool split them. Scouts cannot construct a path, so every one they need is inside the block.

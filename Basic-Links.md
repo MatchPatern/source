@@ -164,6 +164,9 @@ fetched copy without it is truncated — request the tail. Mirrors
 for all links are listed further down (nine mirrors, one door).
 
 ---
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS.md
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-2.md
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-BUILDER.md
 
 https://source-sepia-alpha.vercel.app/SYNTH/+PLAN.md
 https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-GUIDE.md
