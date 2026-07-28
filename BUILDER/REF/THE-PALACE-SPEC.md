@@ -1,4 +1,4 @@
-https://source-sepia-alpha.vercel.app/memory-palace/THE-PALACE-SPEC.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/THE-PALACE-SPEC.md
 
 Adapted from mempalace v3.0.0 by Milla Jovovich & Ben Sigman. MIT License.
 

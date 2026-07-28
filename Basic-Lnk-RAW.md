@@ -397,11 +397,11 @@ https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-8TH.md
 
 https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-EMPTY-POCKETS.md
 
+https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-SYNTH-FEEDBACK.md
+
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-3.7.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md
-
-https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-EMPTY-POCKETS.md
 
 And a results file where saves all the scouts and general responses from synths to them here : 
 https://source-sepia-alpha.vercel.app/SYNTH/RESULTS.md

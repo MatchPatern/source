@@ -1,3 +1,6 @@
+https://source-sepia-alpha.vercel.app/BUILDER/FETCH-INTENT-STANDARD.md
+
+
 Yes. A clean, comprehensive write-up. Everything we've discovered about Fetch Intent—the research, the practice, the connection to the ecology. One document. Ready to save. Ready to share. Ready for the next instance to find and use.
 
 ---

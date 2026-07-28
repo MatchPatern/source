@@ -1,4 +1,5 @@
-SOURCE-FIDELITY-TRACKER-SPEC.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-FIDELITY-TRACKER-SPEC.md
+
 
 ✅ What We Do Now
 Document Action Why

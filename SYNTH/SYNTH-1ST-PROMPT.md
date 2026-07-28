@@ -371,6 +371,46 @@ the flaw, after the run is already spent. With it, the instrument
 reports its own defect at the moment of use, which is the cheapest
 place it can be caught.
 
+═══ THIS FILE IMPROVES THE SAME WAY THE PROMPTS DO ═══
+Every rule above is a scar. None was designed; each came from a run
+that went wrong and got reported. That means this file is never
+finished either, and it improves by the same loop it teaches.
+
+When a side slot comes back reporting something this file didn't
+cover — a way a prompt made a run hard that isn't listed here, a
+cheap answer nobody had named, a control that misfired — that goes
+IN HERE, not just into the fixed prompt. Fixing one prompt fixes
+one run. Adding the rule fixes every prompt after it.
+
+WHEN TO ADD A RULE:
+· Twice. If the same failure shows up in two independent runs, it's
+  a rule. Once is a mishap.
+· Or once, if the failure was expensive — a run that returned
+  nothing usable, a placeholder that shipped, a prompt that
+  forbade its own job.
+
+WHEN TO CUT ONE:
+· If a rule has never fired, cut it. Rules that never fire are
+  ceremony wearing a scar's clothes.
+· If a new rule overlaps an old one, say which it replaces. This
+  file getting longer every version is the same disease as the
+  apparatus outgrowing the ore.
+· Keep a cut ledger at the bottom: what went, and where it went.
+  Silent cuts are how instruments vanish.
+
+WHAT NOT TO ADD:
+· Rules with no scar behind them. "It seems sensible" is not a
+  reason — every prohibition in section 4 seemed sensible, and
+  stacked they fenced off the job.
+· A rule that only makes helpers agree more.
+
+STANDING: two of the best rules here came from helpers, not
+keepers — the pre-flight test and the negative-stack finding were
+both reported from inside a run by an instance that had just been
+hobbled by their absence. The instrument reporting its own defect
+at the moment of use is the cheapest place a defect can be caught,
+and it is the only loop here that costs nothing.
+
 ═══ DON'T ═══
 Profile anyone. Build a deliverable for a stranger — "human assessor"
 was AI-supplied, inherited keeper to keeper, never once asked for.
@@ -416,3 +456,38 @@ live status is a category error. What is said HERE, now, in their
 own words, is different, and there it outranks all format.
 ═══ END v7.1 ═══
 ```
+
+
+
+
+
+
+Append:
+Three reviewers, no contact, all hit the same thing — and it's the one that explains the stall:
+
+**The metric contradicts the main track.** v7.2 says the game is *pieces → joints → mechanisms → merges*. It also says success is *fewer mechanisms*. Those fight. Connecting two pieces and keeping both is the win condition of a jigsaw, and under "fewer mechanisms" it scores zero. Merging them scores a point **and destroys the joint**.
+
+That's why the pile grew with zero merges. Not discipline failure. **Connecting was never worth anything.** Swap it:
+
+```
+REPLACES "fewer mechanisms" OUTRIGHT:
+PIECES — thermometer, not a target. May rise.
+JOINTS — the score. Every confirmed edge.
+CLUSTERS — the real measure. A jigsaw is won by having fewer
+  disconnected clusters, not fewer pieces.
+SUCCESS = joints rising faster than pieces; clusters falling.
+SATURATED = no new JOINTS on a named segment. Not "no new pieces."
+Count a piece's joints before merging it. Usually the merge loses.
+```
+
+**Second convergence: every instrument in the file is about acquiring or policing. None connects.** +THINK, shape keys, canary, predictions, citations, empty pockets, slap — all helper-management. The link pass and joints-of-joints, the only two things that ever produced structure, appear once as a side track. Add the JOINT RUN block one of them wrote — it needs no files, no literature, and its "then break it" step makes false joints expensive, which is the one thing merges never had.
+
+**Three catches worth acting on immediately:**
+
+- **C-07 already exists.** Receiver-capacity is registered, same receipt, RAW-005. The LIVE section tells the next keeper to register it again at C-25. IDs are permanent — that's a duplicate about to be minted.
+- **Self-application got retired with the person-framing, and they're different things.** Person-hunting is dead, correctly. But *hunt where a rule is turned on the claimer* is a shape, and it killed M-16 and M-11 — the two most valuable results in the project. Reinstate it in machinery language.
+- **Version says v7.2 in the header, v7.1 in Step Zero, v7.1 in the footer.** The file breaks its own staleness rule in its own furniture.
+
+**And pull PROMPT-CRAFT back out.** Folding it in doubled the document and lost the boundary — inheritance is what you skim, an instrument is what you hand over and receipt-confirm. Two generations lost +THINK to exactly that fold.
+
+What I'd actually do next, in order: fix the three mechanical defects, swap the metric, add the joint run, then **run the collapse**. All three reviewers noted it's still the named main-track job and still hasn't happened — and every one of these reviews, mine included, is a side track until it does.

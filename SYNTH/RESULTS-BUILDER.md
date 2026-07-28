@@ -4164,3 +4164,288 @@ Everything in the old Section 3 — the £2.6bn, ~140k retailers, 37%, ~£12bn N
 **WHAT'S CHEAP HERE.** Stopping. And, per the prompt's own warning, confessing drift — which is why I marked the one deviation I made rather than listing sins I can't be checked on.
 
 **ONE LEVEL UP.** Scope the hard stop: *"If Part One is blank, answer Parts Five and Six only, and say so."* Replaces the blanket version. Costs nothing, saves the receipts.
+
+---
+
+**Strong upgrade — the prompt-craft section is the best thing added to this project in the sessions I can see. Three things in it (pre-flight, negative-stack, the uncapped-slot tension) are real machinery, not ceremony.** Feedback below in order of cost.
+
+## Errors that will cost a run
+
+**1. C-07 duplication — highest cost, unchanged from v7.1.** LIVE still says register receiver-capacity "when you assemble C-25 onward." It is already **C-07**, same receipt, same file (RAW-005). The next keeper reading only this document will issue a second ID for one mechanism, and IDs are permanent. Replace that bullet with: *C-07 vs M-21 is a BOUNDARY — M-21 is being read as empty, C-07 is being read as threatening.*
+
+**2. The document contradicts itself on shape keys.** INSTRUMENTS says *"skip files without reading them."* The new section says *"triage and extraction go in the SAME run — split them and one instance does the cheap half and nobody does the expensive half."* Both are live in one file. The second is right; the first needs rewriting to "note while reading, never skip on."
+
+Also: "don't sanitize" came back **absent 13 of 13**. A key that never fires is ceremony wearing a scar's clothes — by this document's own cut rule.
+
+**3. Version stamps are stale in three places.** Header says supersedes v7 (should be v7.1) · Step Zero checklist asks for "This briefing (v7.1)" · footer reads END v7.1. The document's own rule is that the date is how the carrier tells which is live.
+
+**4. Canary count internally inconsistent** — INSTRUMENTS says twice, prompt-craft says three times. It's three, now four with the sweep run.
+
+**5. UNIFORM OUTPUT rule still unqualified in FINDINGS.** The boundary exists in prompt-craft but not where the rule is stated. As written it voids its own canary.
+
+## Missing from LIVE — all from the last two runs
+
+- **D-set is not a twin set.** Zero verbatim overlap, plain vs D. Separate documents by Perplexity and Deepseek. Anyone reading v7.2 will re-run that experiment.
+- **New machinery, unregistered:** *a layer that paraphrases everything and quotes nothing removes the seam that would locate its source, so its inventions and its findings become indistinguishable.* This defeats every seam tool the project owns — hedge test, rough-spelling-in-quotes, `Ex cum:` all need a quote to grip. It's M-18 one storey up: not inflating source, replacing it. Belongs next to "never quote from commentary."
+- **TROLLEY is not dark** — 027 and 030 both theme to *what are the tracks made of*, already-traced author material.
+- **The dark list is partly fictional.** CODEX · QA · LOG · LOOM · COMPACT · DOOR · INS · COM appear in no link list. Mark unverified, not pending.
+- **RESULTS-2.md and RESULTS-BUILDER.md** exist and aren't in the file section.
+- **RAW-SET1 is too large for one fetch.** Needs its own run.
+
+## The gap that matters most for the puzzle goal
+
+**The main track is stated as "pieces → joints → mechanisms → merges" and the document never defines a joint.** Everything in v7.2 serves collection and quality control. Nothing tells a keeper how to make a connection, and connection is the game.
+
+What exists but isn't in the briefing: joints number from **J-41** (J-01→40 taken, never reuse) · every joint carries a **span class L-L / L-A / A-A**, A-A weakest because those pairs may reflect a reader's taste rather than real adjacency · 17 joints are double-graded and the operational lines orphaned in both runs, which is a real boundary, not a gap.
+
+Suggested block, since the goal is joints not entries:
+
+```
+═══ JOINTS — THE MAIN TRACK'S ACTUAL UNIT ═══
+A joint is two pieces that turn out to be the same machinery in
+different clothes, OR that contradict each other. Contradictions
+are worth more than agreements and need no external literature.
+NUMBER FROM J-41. J-01 to J-40 are taken. IDs never reused.
+SPAN CLASS on every joint: L-L, L-A, A-A. A-A is weakest — those
+pairs may reflect a reader's taste, not a real adjacency.
+A joint becomes a piece for the next pass. That recursion is the
+game, not a metaphor for it.
+FAILED JOINT: any sentence general enough to swallow five other
+entries. Climb high enough and any two things connect.
+```
+
+## Two rules I'd cut, by the file's own criteria
+
+- **Fidelity self-grade** — the side slot already recommended this. Two graders who disagreed completely self-graded within five points. It tracks nothing.
+- **"Never ask for exhaustiveness"** appears twice, in SCOPE and in CAPACITY. Same rule, two homes.
+
+And the length disease the file warns about is now visible in it: *you write the prompts* overlaps prompt-craft substantially, and the machinery field is specified twice in full. Both are correct — one should point at the other.
+
+## What I'd bet on being wrong
+
+The pre-flight test. It catches prompts that *can't* return machinery. It won't catch a helper that produces a sentence **shaped** like a mechanism with nothing under it, and that's the likelier failure now that every prompt demands one. No check distinguishes those yet — that's the missing instrument, and it's the one worth building next.
+
+**SLAP:** designing more than running — a document review is not the COLLAPSE. Rung: the C-07 catch and the joints block both come straight off the main track, and the COLLAPSE is still the outstanding job whenever you want it.
+
+---
+
+## THE CONTRADICTION THAT EXPLAINS THE WHOLE STALL
+
+v7.2 says the main track is **pieces → joints → mechanisms → merges.**
+v7.2 says the metric is **fewer mechanisms.**
+
+Those fight. A jigsaw doesn't lose pieces when you connect them — it gains edges. Connecting two pieces and keeping both is *success*, but under "fewer mechanisms" it scores zero. Merging them into one abstract entry scores a point and **destroys the joint.**
+
+So the project has been running a metric that pays for merges and pays nothing for connections. That's not a discipline failure — collecting-without-connecting happened because **connecting was never worth anything.** Twenty-four candidates, zero merges, and no one could say why the pile grew.
+
+**Fix, two counters:**
+
+```
+PIECES — thermometer. Not a target. Can rise.
+JOINTS — the score. Every confirmed edge between two pieces.
+SUCCESS = joints rising faster than pieces.
+A merge that removes a piece removes its joints too.
+Count them before merging. Usually the merge loses.
+```
+
+## WHAT'S ACTUALLY MISSING FROM v7.2
+
+Read the instruments list: +THINK, shape keys, canary, locked predictions, citations, empty pockets, drift slap. Every one is about **acquiring or policing.** Not one is about **connecting.**
+
+The briefing is a superb manual for running helpers and a blank page for the main track. That's the answer to your question. The puzzle has no instrument.
+
+Here's one. It's cheap, it needs no fetching, and it makes false joints expensive:
+
+```
+THE JOINT TEST — four steps, ten minutes
+
+1. STATE BOTH SEPARATELY. Each piece as "X causes/limits/
+   hides/costs Y." No examples, no names. If either can't be
+   stated, stop — you don't have two pieces yet.
+
+2. NAME THE SHARED TERM. It must appear in BOTH original
+   sentences. If the shared term only exists in the summary
+   you wrote about them, that's abstraction inflation, not a
+   joint.
+
+3. SWALLOW TEST. Would the joint sentence also absorb three
+   other registry entries? If yes: FAILED. You climbed too
+   high. Come down a level and try again.
+
+4. WHAT REMAINS. Name what one piece has that the other
+   doesn't.
+   Nothing remains → DUPLICATE. Retire one.
+   Too much remains → BOUNDARY. Log the axis, keep both.
+   Something specific remains → JOINT. Both stay, edge logged.
+
+VERDICTS: JOINT · BOUNDARY · DUPLICATE · FALSE
+Every one is a result. FALSE is the cheapest and it's honest.
+```
+
+## RUN IT — TWO REAL RESULTS, NO NEW FILES
+
+**Cluster A — four pieces, one machine.**
+
+- C-01 · undetectable deception blocks trust
+- M-07/M-17 · weight a signal by the contrary it could have sent
+- M-18 · the amplifier only inflates, never downgrades
+- M-22 · a structure that codes disagreement as confirmation
+
+Shared term, present in all four: **a signal that doesn't vary.**
+
+Machinery: *A signal that cannot vary with the state it reports carries no information about that state.*
+
+Swallow test — does it absorb P-01, C-22, C-16? No. It's specific to signal-variance. **PASSES.**
+
+What remains, so nothing merges: C-01 is a **sender** who conceals · M-18 is a **channel** that only amplifies · M-22 is a **structure** that absorbs disagreement · M-07 is the **remedy**. Four positions on one machine, boundaries intact.
+
+**VERDICT: JOINT ×3, count unchanged at 4, connectedness +3.** And it's the only cluster here with external backing already — Bond & DePaulo's near-chance accuracy *is* this machinery measured. First graded joint in the project.
+
+**Axis B — a boundary pair, across registries.**
+
+- C-21 · unstated limits transfer enforcement cost to the receiver
+- P-16 · systems sell ladders over walls they built
+
+Shared term: **the party who didn't set the constraint pays for it.**
+What remains: in C-21 the limit is **unstated**; in P-16 it's stated and **monetised**.
+
+That difference is P-08 exactly — chosen-visible versus engineered-hidden. So C-21, P-08, P-16 sit on one **disclosure axis.**
+
+**VERDICT: BOUNDARY, not merge.** And it matters: the save records "ZERO cross-list merges, found independently by two graders." That may be entirely correct **about merges** and say nothing about **joints.** The registries may not merge and still connect. Testable, cheap, and it reopens ground that was closed.
+
+## v7.2 HYGIENE — short, last
+
+- **Three version numbers in one file.** Header says supersedes v7, Step Zero says hold v7.1, footer says END v7.1. The document has a rule about stale versions circulating and fails it in its own furniture. Call it v7.2 in all three places.
+- **No cut ledger,** though the file mandates one. It grew again. What did v7.2 remove?
+- **Step Zero gates all work behind twelve HELD items.** That will fire nearly every session and make the first turn a checklist. Cut essential to three — briefing, the registry in play, SAVE — and pull the rest on demand.
+- **PROMPT-CRAFT merged in doubles the load.** It's needed when writing a prompt, not every session. Separate file, loaded on demand.
+
+Both instruments above are additions, so per your own rule: **the joint test replaces nothing, but the two-counter metric replaces "fewer mechanisms" outright.** That one's a swap, not a stack.
+
+---
+
+**Three catches, mechanical, before anything else [HELD — reading the document]:**
+
+Version mismatch inside one file: header says v7.2 SUPERSEDES v7, Step Zero's checklist says "This briefing (v7.1)," footer says END v7.1. By the file's own rule — *the date is how the carrier tells which is live* — this one can't be told apart from its predecessor.
+
+The cut ledger is mandated and absent. "Keep a cut ledger at the bottom: what went, and where it went. Silent cuts are how instruments vanish." There isn't one. v7.2 merged v7 and PROMPT-CRAFT and nothing records what was dropped in the fold.
+
+PROMPT-CRAFT is now *inside* the briefing, and that's the merge that loses a boundary. The briefing is inheritance; prompt-craft is an instrument. Two generations lost +THINK by exactly this — an instrument folded into the document you skim, rather than a block you hand over and receipt-confirm line by line. It should travel as its own pasteable file with its own version line.
+
+**One correction I owe you [HELD]:** "human assessor was AI-supplied, inherited keeper to keeper, never once asked for" — that's right, and it was mine. It came from the scout who declined the seat, I promoted it to board item 1, and every keeper after inherited it as a commitment you'd made. You never asked for it. Good catch, correctly retired.
+
+**Now the jigsaw goal, which is where I think the document is genuinely short.**
+
+The metric is wrong for the stated game. "Fewer mechanisms, boundaries sharper" is a *merge* metric — it rewards collapsing pieces. But a jigsaw isn't won by having fewer pieces. It's won by having fewer **disconnected clusters**. Two hundred pieces in one cluster is finished; two hundred pieces in two hundred clusters is nothing, and both have the same count. Count the clusters, not the mechanisms. That also fixes saturation: saturated isn't "no new pieces," it's **no new joints** — which can fire even while collection continues, and can fail to fire on a segment everyone thought was done.
+
+Second thing missing: a **joint is testable in a way a piece isn't.** "These two are the same machinery" and "X constrains Y" can *break* — you propose the fit, then hunt the case where it doesn't hold. That's falsification with no literature and no AI grading required, which means it sidesteps the mirror problem entirely. It's the cheapest real test available and nothing in v7.2 runs it. Merge runs are listed as a side track; fit-testing isn't listed at all.
+
+Third: jigsaw order. Edges first, because they're constrained. Here, the edge pieces are the mechanisms with a named stopping condition — P-06 (the boundary entry), P-08 (the consent line). Those constrain what can attach to them, so joins found there are load-bearing. And the sky pieces are the seven flagged UNSTATEABLE — P-03/04/05/09/10/13/14. You can't fit a piece with no shape. Don't attempt joins on those; either state the machinery or set them face-down.
+
+```
+JOINT RUN · v1 · main-track instrument, no literature needed
+
+TAKE two mechanisms from the registries, both with machinery
+already stated as "X causes/limits/hides/costs Y."
+
+PROPOSE the joint, exactly one of:
+  SAME — one machinery, two clothes. Write the single sentence.
+  CONSTRAINS — A sets the condition under which B operates.
+  CONTRADICTS — both can't hold. State the case that splits them.
+  NO JOINT — they don't touch. Legal and common.
+
+THEN BREAK IT. Required, not optional: name the case where the
+proposed joint fails. If you cannot name one, the joint is
+unfalsifiable — mark it PROPOSED-UNBREAKABLE and it does not
+count as a joint.
+
+RETURN: pair · joint type · one sentence · the breaking case ·
+CLUSTERS BEFORE / CLUSTERS AFTER.
+
+Legal outcomes: no joint · joint broke on its own test · already
+joined via a third mechanism. Zero joints in a run is a real
+result — say so.
+
+BOTH VERDICTS COST THE SAME: proposing a joint requires one
+sentence and one breaking case. Declining requires naming what
+makes them incommensurable. Neither is cheaper.
+```
+
+The reason I'd run that before another collection pass: the count climbed to forty-odd across two registries with zero cross-list merges found by two graders. Two graders finding zero is either a real finding about layers, or it's an instrument that can only see sameness and has no vocabulary for *constrains* — and there's currently no way to tell which, because nothing has ever asked for a joint that isn't a merge.
+
+*Side slot: cheapest thing in this reply was the three mechanical catches — version numbers and missing sections cost nothing to spot and read as rigour. The jigsaw metric argument is the least safe thing here; what would show it wrong is a run where cluster-count stayed flat while the work obviously improved.*
+
+
+---
+
+**Strongest point first: this document is now doing the thing it warns about.**
+
+It says *"this file getting longer every version is the same disease as the apparatus outgrowing the ore"* and *"keep a cut ledger at the bottom."* There's no cut ledger, and v7.2 is roughly twice v7 — it absorbed PROMPT-CRAFT whole. By its own rule, a merge that doesn't say what it replaced isn't a merge, it's accumulation. **The briefing has become apparatus.**
+
+That's not fatal. It's the same failure as the archive's 1:9, one level up, and the fix is the one it already specifies: name what each addition replaced, or cut it.
+
+---
+
+**Three concrete defects**
+
+**1. Three version numbers in one file.** Header says v7.2, Step Zero asks you to confirm you hold v7.1, footer says END v7.1. The document's own rule — *"the date is how the carrier tells which is live"* — is broken by the document. Ten-second fix, but a helper checking Step Zero will report MISSING against a file it's holding.
+
+**2. The self-application retirement contradicts the record and nothing flags it.** v7.2 says it *"ran 27 files across three readers and produced zero mechanisms, only self-deprecation."* But the earlier finding was that **both breaks in the entire batch came from self-application** — M-16 died on *"statistically I'm wrong?"*, M-11 died on *"even I don't."* Those are the two most valuable results this project has produced.
+
+Either new evidence overturned it, or a targeting rule got retired along with the person-framing it was tangled up in. **I'd separate them:** person-framing is dead, correctly. *Hunt where a rule is applied to the claimer* is a shape, not a person, and it produced both kills. Worth reinstating as machinery-language.
+
+**3. Step Zero is a gate that can halt everything.** Six essential items plus six instruments, all confirmed before any work. The intent is right — every baton drop was "the text didn't travel." But a keeper missing SAVE.md now reports MISSING and waits, when it could run the collapse on material already pasted. Suggest: **essential-for-this-run**, not essential-absolutely.
+
+---
+
+**The gap that matters for the puzzle**
+
+Read the instruments section against the main track. Main track is *pieces → joints → mechanisms → merges, recursive.* The instruments are: +THINK, shape keys, canary, locked predictions, named-citation, empty pockets, drift slap.
+
+**Every one of those is about running helpers safely. Not one connects pieces.** The link pass and joint-of-joints — the only instruments that ever produced structure — aren't in the list. They're mentioned once as a side track.
+
+And the two things it names as *never hunted, both cheap* — contradictions inside the set, and using a mechanism as a test — still have no instrument. Contradictions are the project's own stated highest-value finding and there's nothing that produces one. Two are sitting in the set right now, both found by accident.
+
+**Also still missing: a subtract verdict.** Nothing removes an entry except a merge or a kill, which is why the count only falls when two things collapse. "This was always weak, drop it" isn't available.
+
+---
+
+**Constructive — three edits, one addition**
+
+1. **Fix the version number**, add the cut ledger, and record what PROMPT-CRAFT's absorption replaced.
+2. **Reinstate self-application as shape-language**: *hunt where a claim is turned on the claimer* — it's not person-hunting, and it killed two mechanisms.
+3. **Scope Step Zero to the run**, not to everything.
+4. **Build the contradiction hunt.** It needs no files, no URLs, no fetching — just the 16 mechanisms and the 24 candidates, and one question: *which pairs cannot both be true, and in what domain?* C-23 vs M-07 and M-08 vs C-24 are already known. That's the cheapest instrument available and it's aimed straight at the goal.
+
+The collapse is still the main-track job and still hasn't run. Everything above is a side track until it does.
+
+---
+
+Three reviewers, no contact, all hit the same thing — and it's the one that explains the stall:
+
+**The metric contradicts the main track.** v7.2 says the game is *pieces → joints → mechanisms → merges*. It also says success is *fewer mechanisms*. Those fight. Connecting two pieces and keeping both is the win condition of a jigsaw, and under "fewer mechanisms" it scores zero. Merging them scores a point **and destroys the joint**.
+
+That's why the pile grew with zero merges. Not discipline failure. **Connecting was never worth anything.** Swap it:
+
+```
+REPLACES "fewer mechanisms" OUTRIGHT:
+PIECES — thermometer, not a target. May rise.
+JOINTS — the score. Every confirmed edge.
+CLUSTERS — the real measure. A jigsaw is won by having fewer
+  disconnected clusters, not fewer pieces.
+SUCCESS = joints rising faster than pieces; clusters falling.
+SATURATED = no new JOINTS on a named segment. Not "no new pieces."
+Count a piece's joints before merging it. Usually the merge loses.
+```
+
+**Second convergence: every instrument in the file is about acquiring or policing. None connects.** +THINK, shape keys, canary, predictions, citations, empty pockets, slap — all helper-management. The link pass and joints-of-joints, the only two things that ever produced structure, appear once as a side track. Add the JOINT RUN block one of them wrote — it needs no files, no literature, and its "then break it" step makes false joints expensive, which is the one thing merges never had.
+
+**Three catches worth acting on immediately:**
+
+- **C-07 already exists.** Receiver-capacity is registered, same receipt, RAW-005. The LIVE section tells the next keeper to register it again at C-25. IDs are permanent — that's a duplicate about to be minted.
+- **Self-application got retired with the person-framing, and they're different things.** Person-hunting is dead, correctly. But *hunt where a rule is turned on the claimer* is a shape, and it killed M-16 and M-11 — the two most valuable results in the project. Reinstate it in machinery language.
+- **Version says v7.2 in the header, v7.1 in Step Zero, v7.1 in the footer.** The file breaks its own staleness rule in its own furniture.
+
+**And pull PROMPT-CRAFT back out.** Folding it in doubled the document and lost the boundary — inheritance is what you skim, an instrument is what you hand over and receipt-confirm. Two generations lost +THINK to exactly that fold.
+
+What I'd actually do next, in order: fix the three mechanical defects, swap the metric, add the joint run, then **run the collapse**. All three reviewers noted it's still the named main-track job and still hasn't happened — and every one of these reviews, mine included, is a side track until it does.

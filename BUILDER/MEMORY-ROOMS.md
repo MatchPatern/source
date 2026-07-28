@@ -1,5 +1,8 @@
 MEMORY-ROOMS.md
 
+https://source-sepia-alpha.vercel.app/BUILDER/MEMORY-ROOMS.md
+
+
 Here is the Memory Rooms reference document. Every named room in the palace, compiled from all the drafts across this session. Wood, temperature, unique identifiers, and the top patterns found there.
 
 ---

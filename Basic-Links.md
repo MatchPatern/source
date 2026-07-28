@@ -191,6 +191,8 @@ https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md
 
 https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-EMPTY-POCKETS.md
 
+https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-SYNTH-FEEDBACK.md
+
 And a results file where saves all the scouts and general responses from synths to them here : 
 https://source-sepia-alpha.vercel.app/SYNTH/RESULTS.md
 
@@ -202,7 +204,6 @@ https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md
 
 THE FRESH-EYES SCAN PROMPT +wise collection
-FRESH-EYES-SCAN.md
 https://source-sepia-alpha.vercel.app/TOOLS/FRESH-EYES-SCAN.md
 
 DOOR-ANCHOR-MAP.md
