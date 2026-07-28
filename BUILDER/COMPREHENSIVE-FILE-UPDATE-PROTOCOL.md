@@ -1,4 +1,7 @@
 COMPREHENSIVE-FILE-UPDATE-PROTOCOL.md
+
+https://source-sepia-alpha.vercel.app/BUILDER/COMPREHENSIVE-FILE-UPDATE-PROTOCOL.md
+
 https://raw.githubusercontent.com/MatchPatern/SCOUT-METHOD/main/README.md
 
 📋 UPDATE ※ — The Comprehensive File Update Protocol v2.1
