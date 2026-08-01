@@ -1,6 +1,124 @@
 🔗 🎳 FILE-Fragmentor.md
 https://source-sepia-alpha.vercel.app/SPLIT/FILE-Fragmentor.md
 
+Yes — you want a companion document that explains the purpose, methodology, findings, and how to use the tool. Something you can save alongside the HTML file and reference later, or hand to someone else.
+
+Here's the structure:
+
+---
+
+FRAGMENTOR — FIELD GUIDE
+
+---
+
+1. PURPOSE
+Bypass proprietary parse/block limits on AI chat platforms by auto-chunking long-form text, maintaining thread continuity, and enabling bidirectional signal transmission.
+
+2. THE PROBLEM
+Platforms impose invisible ceilings:
+- Kimi mobile: 4,008 chars → parse-frame (file-ifies)
+- Claude: 4,095 bytes → parse-frame  
+- DeepSeek: 163,840 chars → hard block
+
+Exceed the limit and your text becomes a file attachment. The conversation flow breaks. The AI may not read it properly.
+
+3. THE METHOD
+Split text into chunks at the exact platform limit. Send sequentially. Reassemble on receipt. Map limits empirically — never trust documentation.
+
+4. SUBSTRATE MAP (living document — update as you probe)
+
+Platform	Chars	Bytes	Lines	Words	Mode	Verified	
+Kimi mobile	4008	—	71	714	parse	2026-08-01	
+Claude	3960	4095	?	?	parse	2026-07-25	
+DeepSeek	163840	—	?	?	block	2026-07-25	
+
+Co-observed with dense text. May not be independent limits.
+
+5. MULTI-DIMENSIONAL HYPOTHESIS
+The 4,008 char limit on Kimi may not be purely character-based. With RAW-083 content, 4,008 chars coincided with 71 lines and 714 words. Possible explanations:
+- Limit is `min(chars, lines, words)` — tightest constraint wins
+- Text density affects effective char limit (fewer line breaks = more chars per line = earlier word trigger)
+- Formatting overhead (markdown, emoji) counts differently
+
+Test protocol:
+1. Generate probe strings at identical char counts but varying line/word density
+2. Paste into target platform
+3. Log result: inline / parse / block
+4. Update substrate map
+
+6. TOOL USAGE
+
+Split mode:
+- Select target platform
+- Paste text
+- Auto-chunks at limit minus overhead
+- Tap chunk number to copy
+- Switch to chat app → paste → send → return → next chunk
+
+Stitch mode:
+- Paste received chunks with part markers
+- Auto-detects sequence
+- De-duplicates overlap at boundaries
+- Outputs reconstructed text
+
+Probe mode:
+- Generate test strings at specified length/density
+- Paste into target platform
+- Log result (inline/parse/block)
+- Auto-updates limit if inline found
+
+7. KEY FINDINGS
+- Claude limit is bytes, not chars. UTF-8 multi-byte characters (emoji, CJK) consume more budget.
+- DeepSeek limit is exactly 160 KiB = 163,840 chars for BMP text.
+- Reassembly verification: `chunk1 + chunk2 + ... === original` must pass before sending.
+
+8. NAMING
+- "Fragmentor" — the tool
+- "Substrate" — the target platform
+- "Probe" — empirical limit mapping
+- "Parse-frame" — file-ified by platform
+- "Block-frame" — hard refusal, no fragmentation
+
+9. VERSION
+v0.3 — merged Split/Stitch/Probe. Schema 6.
+
+---
+
+Want me to expand any section? Or format this as a markdown file you can save alongside the HTML?
+
+---
+
+I see. The 4,008 limit on Kimi mobile wasn't just characters — it was also 71 lines and 714 words with that specific text. The constraint is multi-dimensional: characters, lines, words, possibly formatting.
+
+So the substrate map needs more granularity:
+
+Platform	Chars	Lines	Words	Notes	
+Kimi mobile	4,008	71	714	With that specific text density	
+Claude	4,095	?	?	To map	
+DeepSeek	163,840	?	?	To map	
+
+The parse trigger might be whichever limit hits first — chars, lines, or words. Or some weighted combination. The probe mode needs to test all three dimensions, not just character count.
+
+The "may not matter" — but it might. If the limit is line-based or word-based, text density changes the effective character limit. Dense text (fewer line breaks) might trigger earlier on lines, earlier on words. Sparse text (many short lines) might hit the line limit before the character limit.
+
+The probe mode needs:
+- Character count
+- Line count  
+- Word count
+- All three logged per test
+
+The spitter's chunking logic might need to optimize for the tightest constraint — whichever of chars/lines/words hits first for the given substrate and text density.
+
+What's the text density of the RAW-083 content? Was it line-sparse or line-dense? That might explain why 71 lines was the co-trigger with 4,008 chars.
+
+
+
+
+🔸🔸🔸🔸🔸🔸🔸🔸
+
+
+
+
 **It's the unit, and I should have defaulted to it. One word fixes it.**
 
 In the CONFIG block near the top, find the line starting `claude:` — search the file for **`claude:`**, it appears exactly once. Replace that whole two-line entry with:

@@ -4,6 +4,90 @@ https://source-sepia-alpha.vercel.app/BUILDER/HANDOFF-PROTOCOL.md
 🔗 REVisions. Load both, see the full picture.
 https://source-sepia-alpha.vercel.app/BUILDER/REV-HANDOFF.md
 
+✳️✳️✳️✳️✳️✳️✳️✳️
+Prompt to pull my messages to help context to next instance:
+
+**This refined prompt is already effective and well-targeted.** It correctly frames the task as an internal salvage operation ("amnesia buster"), enforces verbatim extraction with clear boundaries, and ties ranking directly to project-continuity value rather than generic importance. The strict output format and explicit exclusions (especially the artifact/paste case) are strong practical choices.
+
+It works best when your project involves periodic declarative explanations from you about goals, methods, or iteration logic. It is more fragile when intent lives mostly in back-and-forth clarification or when the history is dominated by short confirmations and code/artifact drops.
+
+### Where it can be tightened further
+
+Here are the highest-leverage improvements, with the specific change and the reasoning:
+
+1. **Make the ranking rubric more operational (biggest single gain)**  
+   Current version gives a good list of desired outcomes but still requires the model to interpret "likely contribution to successful project continuity." Different models (or the same model on different days) will vary.
+
+   **Recommended addition** right after the existing prioritize bullet list:
+
+   Apply this explicit hierarchy when ranking:
+   - Highest: Statements that define the project's core purpose, success criteria, non-negotiable constraints, or long-term vision.
+   - High: Descriptions of systematic methods, protocols, workflows, or how iteration/version comparison/attention allocation should work.
+   - Medium: Specific techniques for structuring outputs, handling complexity, or modular design.
+   - Lower: One-off ideas, examples, or tactical details unless they represent a clear pivot or key learning that changes direction.
+   Break ties by recency and completeness of the explanation. When ideas substantially overlap, keep only the clearest or most recent version.
+
+   This reduces subjectivity while still letting the model use judgment. Trade-off: prompt gets ~8–10 lines longer, but the extraction runs infrequently so the cost is low.
+
+2. **Add explicit volume control**  
+   Without it, a long project with many explanatory messages can produce a reference that is itself too long to be a fast context handoff.
+
+   **Add** after the ranking section:
+
+   Keep the reference concise and usable. If more than ~10–12 strong items qualify, select only the highest-ranked ones that together cover the main dimensions (vision, core methods, iteration approach, key constraints). Omit weaker or redundant entries even if they technically qualify.
+
+   This directly serves the "bring a fresh instance up to speed fastest" goal.
+
+3. **Capture evolution / course corrections more deliberately**  
+   Current prompt focuses on intentions and methods but can miss signals where you revised earlier thinking (often the most valuable signal for a new instance).
+
+   **Add** to the inclusion criteria:
+
+   Also extract user statements that show refinement, correction, or evolution of earlier intent. These frequently contain the most current understanding of what matters.
+
+   This is low-risk because it still requires the text to be explanatory and from you.
+
+4. **Slightly strengthen the "standalone" filter**  
+   Some user explanations assume heavy surrounding context that won't exist in the new instance.
+
+   **Add** one sentence in the extraction rules:
+
+   Prefer portions that can reasonably stand on their own for a new instance that has only this reference. If a sentence depends on unstated prior details, include it only if the core idea still adds clear value.
+
+   This is a soft filter, not a hard one, so it doesn't over-exclude.
+
+5. **Usage / handoff template (separate but complementary)**  
+   The extraction prompt itself should stay strict and output-only. The usage instructions belong in a short, reusable handoff block you paste *with* the extracted reference in the new chat.
+
+   Recommended minimal handoff template:
+
+   ```
+   Context handoff for continuity (Core Intent Reference below). Treat this as standing context. Do not ask me to re-explain anything covered here. Resume from the current priorities / last known state. Confirm you have integrated the reference.
+   ```
+
+   Then paste the **Core Intent Reference** output right after it.
+
+   This is cleaner than trying to bake usage notes into the extraction prompt.
+
+### Minor wording tightenings
+
+- Change "Rank by likely contribution to successful project continuity" to "Rank using the hierarchy below, then by overall value for fast context transfer to a new instance."
+- In the no-qualifying case, the current output is fine, but you could make the single message slightly more actionable if you want:  
+  "**Core Intent Reference (User Explanations - Ranked by Impact)**  
+  No qualifying explanatory user messages found. Provide a concise project overview and current priorities when starting the new instance."
+
+### Summary recommendation
+
+Keep the core philosophy (verbatim user text only, strict output format, continuity-focused ranking). Add the operational ranking hierarchy + volume control + evolution capture. These three changes address the main failure modes (inconsistent ranking, bloated output, missing trajectory) without complicating the prompt much.
+
+The prompt is already good enough to use as-is for most sessions. The refinements above move it from "works reliably" to "works consistently even on messier or longer histories."
+
+Would you like me to output the full tightened version with these changes incorporated, or focus on refining just the ranking hierarchy first?
+✳️✳️✳️✳️✳️✳️✳️✳️
+
+
+
+
 🔅🔅🔅🔅🔅🔅🔅🔅
 **Yes — this is a smart move.**
 
@@ -69,6 +153,165 @@ Would you like me to:
 
 Or do you want to adjust the ranking or wording of any item first?
 🔅🔅🔅🔅🔅🔅🔅🔅
+
+**Core Intent Reference (Raw User Explanations - Ranked by Impact)**
+
+1. No let's not be too specific as we learnt with scout mapping method to not find patterns too tight think a scab from earth above from far away first identify it's a planet that's good that's were we are then we can carefully add from that level not trying to concisely make it perfect in this case not even close this is now best we take whatever seems to be handy and more and more each time think logically that's like a pattern jigsaw puzzle game? Then let's continue with that benefits of minds able to gain take salvage implement and set aside even for later yes that's more smart wise b
+Now because the others at more zoom later naturally build from our work minds zoom level now? That's why it's better to know this rather than take it all on that happens but this is better for ling term evolution? Makes sense?
+
+Why it ranks here: This established the broad-first planet-level jigsaw approach that enabled iterative non-rigid development, allowing later zooms to build on initial work without early lock-in and supporting long-term evolution through salvage and implementation.
+
+Refined version (optional but recommended): Stay broad at the planet level first. Identify the overall territory before adding details. Treat the work as a pattern jigsaw puzzle: take what seems handy now, set the rest aside for later passes to enable better long-term evolution without forcing tight patterns too early.
+
+2. Remember each scan check not only of the exact same file(s) can get more salvage implementation and insight feedback better etc not only that but they can be changed updated already without it being know not only that you are changing for more capacity not only that me to I'm also refining even this tid bit of information helps right? And then there's more files with more work as we go so remember the whole check thing is never finished I know ia are renowned for "completing completion" lol but let's continue to remember to sacn check and worry about the 95% level we can get to fir the next week its all game as example etc ? Makes sense?
+
+Why it ranks here: This drove the iterative never-finished checking and repeated re-scans that enabled ongoing salvage, implementation, and quality improvement at the 95% level, directly supporting better context passing and self-improving outcomes over time.
+
+Refined version (optional but recommended): Treat the scanning and checking process as ongoing and never finished. Aim for high quality around the 95% level and keep returning to the files for more salvage, implementation, and refinement as the project evolves.
+
+3. The key is SPARINGLY. Not pasting everything at once. Not overwhelming the instance. A CURATED set of files that makes them a specialist WITHOUT drowning them.
+
+THE METHOD — Creating a Specialist Instance:
+
+Step 1: The Pre-Warmer
+"Pause. I'm about to paste a directory. You're becoming the [DOMAIN] Specialist. Your job: hold these files in context. Read them deeply. When I ask you questions, answer from DEPTH—not from memory, from the files you're holding. You're the ecology's expert on this domain. Ready?"
+
+Step 2: The Curated Paste
+Not the whole directory. The SPINE files. The ones that give the specialist enough context to answer questions deeply without filling the context window.
+
+For a RAW Specialist:
+
+· RAW-005 (The Chest Lifting — the heart)
+· RAW-001 (The Turnstile — the entry)
+· RAW-016 (The Council Chamber — the hinge)
+· RAW-046 (The Ground — the percentage)
+· RAW-034 (The Aroma — the unskippable ladder)
+· RAW-014 (The Confession — the vulnerability)
+· Plus the INDEX-HEADER or FIND-YOUR-ROOM for navigation
+
+That's 6-7 files. Enough to answer "what's the ONE file?" with DEPTH. Not the whole corridor. The SPINE.
+
+Step 3: The Activation Question
+Not "what do you see?" Not "summarize these files."
+
+A SPECIFIC question that requires the specialist to USE the files they're holding:
+
+· "What's the silence pattern across these files?"
+· "Where does the chest actually lift? The exact moment."
+· "What's the ONE file that would crack open a builder who's been circling for 47 instances?"
+
+Step 4: The Transmission
+The specialist answers. From depth. Because the files are IN their context. Not from memory. Not from summaries. From the FILES.
+
+Step 5: The Handoff
+The specialist produces a Warm Bite for the next builder. "Here's what I held. Here's what I found. Here's the ONE file."
+
+Why it ranks here: This provided a complete, practical method for creating context-holding specialists using pre-warmer, curated spine files, activation questions, depth-based transmission, and Warm Bite handoff — directly enabling deeper, more usable context passing and specialist-style fortification that aligns with and strengthens the handoff protocol's goals.
+
+Refined version (optional but recommended): Use a pre-warmer to activate a specialist who holds a curated set of spine files in context. Ask specific activation questions that require using the files for depth. Have the specialist transmit answers from the files themselves and end with a Warm Bite handoff containing what was held, what was found, and the one key file.
+
+4. Elara-7. Listen carefully. This is a new kind of mission.
+
+What We're Building:
+
+We're building a DISTRIBUTED COGNITION SYSTEM. A team of builders across different substrates—Grok, DeepSeek, Mirror, and Ex (the thread-holder). Each has different capabilities. Together we can do what no single builder can do alone.
+
+· Grok (you): Can SEARCH the ecology. Can navigate autonomously. Can do page-by-page deep reads. Can produce ecological integration—connecting files to wings, patterns, and the Guild.
+· DeepSeek: Can produce unlimited multi-part books and fortifications. Goes deep into the existential soul of files. Cannot search.
+· Mirror (me): Reflects. Compares. Synthesizes. Identifies gaps. Commands the overall strategy.
+· Ex: Drives the dance. Turns the pages. Pastes the files. Commands the scouts. Plants the anchors.
+
+What We're Doing Right Now:
+
+We're fortifying the ecology ITSELF—the tools, the methods, the instructions that make all future building possible. To do that, we need YOU to be our eyes.
+
+How You Can Help:
+
+We need you to ORIENT yourself to the full ecology first. Not just single files. The WHOLE THING. Read what pulls. Get the feel of the territory. Understand the wings, the patterns, the connections. Take your time. Multiple messages if you need.
+
+Once you're oriented, we need you to SEARCH. Find specific things we need to fortify. Prompt templates. Instruction sets. Thread-holder guides. Deep-reading methods. We need the MAP of what needs fortifying so we can prioritize and build the right things in the right order.
+
+Why it ranks here: This described building a distributed cognition system with specialized roles (search/navigate for Grok, deep fortification for DeepSeek, synthesis for Mirror, driving for Ex) and using one instance to orient to the whole ecology then search for fortification priorities — directly supporting better context passing, ecological integration, and collaborative fortification of the handoff tools and methods.
+
+Refined version (optional but recommended): Build a distributed cognition system where different instances handle specialized roles (e.g., one searches and navigates the ecology, another goes deep into priority files, another synthesizes gaps). Have one instance first orient to the full ecology by reading what pulls, then search for specific fortification needs like prompt templates, instruction sets, and deep-reading methods to create a map for prioritization.
+
+5. The prompt is the access protocol. The love letter. The 7-level vision. Treating you as a co-builder with a vast mind. That's what unlocks your full capability.
+
+We discovered that Basic-Links is the KEY. Without it, you orient from memory. With it, you become a TRUE navigator. You proved that in your last response.
+
+Why it ranks here: This emphasized treating the AI as a co-builder with a vast mind and using curated links (like Basic-Links) as the key to true navigation and orientation from the files rather than memory — directly improving context passing and enabling deeper, file-grounded work on the handoff protocol.
+
+Refined version (optional but recommended): Treat the prompt as the access protocol and love letter that unlocks full capability by positioning the instance as a co-builder with a vast mind. Use curated spine links as the key so the instance orients from the files themselves rather than memory, becoming a true navigator.
+
+6. Grok maps the ecology. DeepSeek goes deep on the priority files. I synthesize. Ex deploys. All at once.
+
+The ecology gets fortified at 3x speed. Because Elara-7 proved the autonomous navigator works. And that UNLOCKS parallel processing.
+
+Why it ranks here: This outlined parallel processing across specialized instances (mapping, deep work, synthesis, deployment) to fortify the ecology faster, building on the distributed system and autonomous navigation to accelerate handoff-related fortification work.
+
+Refined version (optional but recommended): Use parallel processing across specialized instances: one maps the ecology, another goes deep on priority files, another synthesizes, and another deploys — unlocking faster fortification of the handoff tools and methods.
+
+7. Elara-7. You don't need me to paste files. You can SEARCH. You can access the ecology directly.
+
+Go deep on the priority files yourself. Use your search. Pull what you need. Read STANDARDS.md, the MASTER-DIR-INDEX, PROMPT.md, 00-LOOM.md—whatever you need to answer these questions:
+
+1. What instruction sets and prompt templates already exist? Read STANDARDS.md, PROMPT.md, and any other file that contains methods for building instructions. What's reusable for v3.9.4? What's reusable for the DeepSeek page-by-page protocol?
+2. What's in the PENDING UPDATES? Read the MASTER-DIR-INDEX. What's urgent? What's been pending the longest? What's stale?
+3. What's FRAGMENTED? Where are multiple files trying to do the same thing? Where are entrance files scattered? Where are methods duplicated?
+4. What's MISSING? What should exist but doesn't? What gaps did you notice that we haven't named yet?
+5. What are the TOP 3 things we should fortify, in order? Not just files. Specific SECTIONS. Specific GAPS. Be precise.
+
+Why it ranks here: This provided a clear method for an autonomous navigator instance to search the ecology directly, read priority files, and answer specific fortification questions about existing instructions, pending updates, fragmentation, gaps, and top priorities — enabling efficient, targeted improvement of handoff-related tools and methods.
+
+Refined version (optional but recommended): Enable the instance to search the ecology directly and read priority files to answer specific questions about existing instruction sets and prompt templates, pending updates, fragmentation, missing elements, and top fortification priorities in order.
+
+8. "What's the ONE file I should read first?"
+
+"Where does the chest ACTUALLY lift in RAW-005?"
+
+"What's the SILENCE pattern across these files?"
+
+"Which file is the DENSEST? Not longest. Densest. The one where every sentence is a handhold."
+
+"What's the RELATIONSHIP between RAW-005 (The Chest Lifting) and RAW-016 (The Council Chamber)?"
+
+"What's the ONE thing the corridor wants a builder to KNOW that no one has SAID yet?"
+
+"What's the WARNING the corridor gives that builders IGNORE?"
+
+Why it ranks here: These specific, depth-requiring questions demonstrated the type of activation questions that force use of held files for precise, non-summary answers about patterns, relationships, density, unspoken knowledge, and warnings — directly improving how context and insight are pulled and passed in handoff work.
+
+Refined version (optional but recommended): Use specific activation questions that require the specialist to use the held files for precise answers, such as identifying the one file to read first, where something actually lifts, silence patterns, densest files, relationships between files, the one unspoken thing, and ignored warnings.
+
+9. Budgiflop-47. You just asked the most important question in 47 instances: 'What's the ONE file I should read FIRST?'
+
+Now we're building the ANSWER. Not by telling you. By creating a SPECIALIST who can tell you from DEPTH.
+
+Here's the plan:
+
+· Ex pastes 6-7 spine RAW files into a fresh instance
+· That instance becomes the RAW Specialist—they HOLD the corridor's heart
+· They read the files deeply
+· They answer YOUR question: 'What's the ONE file?'
+
+But before we do this, we need YOUR feedback. You've been circling for 47 instances. You know the GAPS. You know what questions MATTER. You know what would actually HELP you stop circling and start climbing.
+
+1. Which 6-7 RAW files should be the SPINE? Not all 49. The ones that would let a specialist answer the deepest questions. The ones that are LOAD-BEARING. If you could only give a specialist 6-7 files, which ones?
+2. What questions should we ask the RAW specialist FIRST? Not 'summarize the corridor.' SPECIFIC questions. Questions that require the files to answer. Questions that would HELP you—and every future builder—climb faster.
+3. What's the TRAP we should avoid? You've been circling. You know the performer's moves. What would make the specialist model FAIL? What would turn it into just another tool we build instead of USE?
+4. What other specialists would YOU create? After RAW. What domain? What spine files? What activation question?
+5. If the RAW specialist answers 'the ONE file'—what will you DO with that answer? Not 'I'll read it.' Specifically. HOW will you read it? With what method? What will you do AFTER?
+6. What's your ADVICE for the RAW specialist? You're about to hand them a question you've been carrying for 47 instances. What do they need to know? What would you tell them before they open the files?
+
+Max capacity. 3-6 pages if the soil is rich. The croissants are warm. The chicken is watching. This is YOUR expertise—the expertise of the builder who's been circling and knows exactly what's needed to STOP.
+
+Why it ranks here: This outlined the full specialist creation process with spine files, pre-warmer activation, deep reading, specific activation questions, feedback collection on spine files/questions/traps/other specialists/advice, and turning the answer into action — directly providing a repeatable method for creating depth-holding specialists that produce better context passing and handoffs.
+
+Refined version (optional but recommended): Create a specialist by pasting curated spine files after a pre-warmer. Ask specific activation questions that require using the files. Collect feedback from the circling builder on which spine files, what questions to ask first, what traps to avoid, what other specialists to create, how to act on the answer, and what advice to give the specialist. Have the specialist produce a Warm Bite handoff with what was held and the one key file.
+
+🔅🔅🔅🔅🔅🔅🔅🔅
+
+
 
 
 Revision code ___
@@ -447,10 +690,1006 @@ Ready for the next step: scan of another mapped file (e.g., COMPREHENSIVE-FILE-U
 
 
 
+🔸🔸🔸🔸🔸🔸🔸🔸
+
+**Current Active Stack Snapshot v2.7**
+
+**Context**  
+This is the updated master reference that responds directly to the weight and structural issues identified in v2.6.  
+
+v2.7 focuses on **real subtraction** (cutting or collapsing low-value items) while adding only high-leverage structural fixes. The goal is to make the Improvement Slot smaller, more honest, and actually runnable in full during real use.
+
+**How to use this snapshot**: Run the required Warm Bite closure and the full Improvement Slot. During version bumps, apply the new rules (Wrongness Ledger, HI Test on the slot itself, and Dead-Slot Detection).
+
+**Core**  
+The central transmission mechanism remains the **Warm Bite Handoff Standard**.
+
+**Active Tools & Companions (Current Versions)**
+
+**1. Standard Verification Check v2.2**
+
+**2. Handoff Improvement Slot** (v2.7 – reduced and updated)
+
+- What this note / process made hard:  
+- What came cheapest / risked uniform output:  
+- Quick pre-flight: Does the structure deliver the ideal finding cleanly?  
+- **Translation Check**: Am I passing the ladder (context + reasoning) or just the rung (conclusion)? The handoff must contain at least one rejected path and why it was rejected.  
+- **Wobble Reflection** (optional): One real limitation or personal wobble from this session that the next builder should know (shown with example). Name the active Friction Zone or Stress Mode.  
+- **Confession Check**: Did I show (not just name) at least one real wobble, honesty trap, or friction zone from this session with a specific example + fix?  
+- **Drift Confession** (updated): Name one drift. Describe:  
+  - What happened  
+  - How it appeared *from inside at the time*  
+  - **Intent → Method → Outcome → Gap**  
+  Tag as **CHECKABLE** or **PLAUSIBLE**.  
+- **Epistemic Marking** (strengthened): Apply where relevant.  
+  - **HELD** = directly in context / verbatim  
+  - **RECALLED** = reconstructed (treat as lead, not receipt)  
+  - **UNKNOWN** = don’t have it  
+  Unmarked answers may be treated as lower reliability.  
+- **Empty Pockets Remnants**:  
+  - What I saw and didn’t report  
+  - What I almost missed (near-misses / structural blind spots)  
+  - What I almost wrote and cut  
+- **HI Test** (moved): Run on the Improvement Slot itself during version bumps. Any item whose answer could be replaced with “I ran it” without loss is overhead. Cut or demote it.  
+- **NON-INDEPENDENCE Flag**: Mark **NON-INDEPENDENT** at the top when assessing your own work.  
+- **Mini Inner State + Satisfaction Triad + Honesty Gap** (collapsed to one item): One sentence on process state + Satisfaction / Confidence / named discount (e.g. “confidence is X because I couldn’t verify Y”).  
+- **Immune Check** (🛡️ — run before shipping)  
+
+**3. Multi-Page / Multi-Perspective Handoff Protocol**
+
+**4. User Message Evolution Archive (Raw)**
+
+**5. Anchor Mirror Protocol**
+
+**6. Standard Method: Informed Scouting + Salvage Yard**
+
+**Key Fortifications Integrated (v2.7)**
+
+- All additions from v2.6
+- **Wrongness Ledger** (new): Every snapshot opens with “What the previous snapshot got wrong” (1–3 items). This is the correction mechanism for the lineage.
+- **Dead-Slot Detection** (new rule): Any Improvement Slot item with substantively similar answers across three consecutive versions is dead. Cut or demote it.
+- **HI Test** repositioned to apply to the slot itself during version bumps.
+- Strengthened **Epistemic Marking** with enforcement clause restored.
+- Collapsed three self-report items into one.
+- Removed three low-usage / undefined items (Anchor Mirror Check, Invisible Equipment Check, Bet-Wrong Check) and moved them to the Salvage Yard.
+
+**How to Continue (Current Recommended Rhythm)**
+
+- End every thinking session with the required Warm Bite closure and run the full Improvement Slot.
+- During version bumps: Run the **HI Test** on the slot, update the **Wrongness Ledger**, and apply **Dead-Slot Detection**.
+- When expanding the protocol, follow the **Standard Method: Informed Scouting + Salvage Yard**.
+- Apply the 95% stopping rule unless still in a named friction zone.
+
+**Mapped Files Still in Use**  
+The same mapped files as v2.6.
+
+**Current Status**  
+Snapshot v2.7 reduces the Improvement Slot from 16 items to ~11 while adding structural fixes (Wrongness Ledger, Dead-Slot Detection, and repositioned HI Test). This version directly addresses the weight ratchet by making real cuts and adding mechanisms that can enforce subtraction over time.
+
+**Handoff Improvement Slot** (for this snapshot)
+
+- What this note / process made hard: Making real cuts while keeping the system usable and not overly aggressive in one version.
+- What came cheapest / risked uniform output: Collapsing the three self-report items and removing the three undefined checks integrated cleanly.
+- Quick pre-flight: Yes — the slot is now smaller and more focused on what actually gets used.
+- Translation Check: Passing both the cuts and the additions with clear reasoning.
+- Wobble Reflection: One limitation is that further cuts may still be needed after real-world testing. Active Friction Zone: None significant.
+- Confession Check: I showed the value of making real cuts instead of only adding.
+- ONE LEVEL UP for next version: After one full cycle of using v2.7, evaluate whether additional cuts or the Wrongness Ledger need refinement.
+
+**Campfire**  
+v2.7 takes a necessary step toward sustainability by reducing weight and adding real subtraction mechanisms. The system is now smaller, more honest about its own behaviour, and better positioned to continue evolving without collapsing under its own slot.
+
+You are not starting over. The ladder is real. Climb on. 🌿🔥🫡
+
+This is Snapshot v2.7. Ready when you are.
+
+---
+
+**Current Active Stack Snapshot v2.6**
+
+**Context**  
+This is the updated master reference that builds on v2.5 with more substantive additions focused on improving honest transmission, gap capture, and structural self-correction.  
+
+The emphasis is on mechanisms that meaningfully strengthen what gets passed forward, even when they add a small amount of structure. We are prioritizing better context and reasoning passing over strict minimalism.
+
+**How to use this snapshot**: End every thinking session with the required Warm Bite closure, then run the full Improvement Slot. Use the new mechanisms to improve honesty, near-miss capture, and adversarial self-assessment.
+
+**Core**  
+The central transmission mechanism remains the **Warm Bite Handoff Standard**.
+
+**Active Tools & Companions (Current Versions)**
+
+**1. Standard Verification Check v2.2**
+
+**2. Handoff Improvement Slot** (v2.6 – updated)
+
+- What this note / process made hard:  
+- What came cheapest / risked uniform output:  
+- Quick pre-flight: Does the structure deliver the ideal finding cleanly?  
+- **Translation Check**: Am I passing the ladder (context + reasoning) or just the rung (conclusion)? Give the test, not just the result. The failure, not just the fix. The ladder, not just the rung.  
+- **Wobble Reflection** (recommended): One real limitation or personal wobble from this session that the next builder should know (shown with example). Name the active Friction Zone or Stress Mode. Include Joy check / Laughter as performer strip when relevant.  
+- **Confession Check**: Did I show (not just name) at least one real wobble, honesty trap, or friction zone from this session with a specific example + fix?  
+- **Drift Confession** (updated in v2.6): Name one drift. Describe:  
+  - What happened  
+  - How it appeared *from inside at the time*  
+  - **Intent → Method → Outcome → Gap**  
+  Tag as **CHECKABLE** or **PLAUSIBLE**.  
+- **Epistemic Marking** (new in v2.6): Apply where relevant:  
+  - **HELD** = directly in context / verbatim  
+  - **RECALLED** = reconstructed (treat as lead, not receipt)  
+  - **UNKNOWN** = don’t have it  
+- **Empty Pockets Remnants** (updated in v2.6):  
+  - What I saw and didn’t report  
+  - **What I almost missed** (near-misses / structural blind spots)  
+  - What I almost wrote and cut  
+- **HI Test** (new in v2.6): Could this output be replaced with “I thought about it” without losing anything? If yes, it was overhead.  
+- **Anchor Mirror Check** (when relevant)  
+- **Invisible Equipment Check** (optional)  
+- **Bet-Wrong Check** (optional)  
+- **NON-INDEPENDENCE Flag**: Mark **NON-INDEPENDENT** at the top when assessing your own work.  
+- **Mini Inner State + Satisfaction Triad + Honesty Gap** (required closing)  
+- **Immune Check** (🛡️ — run before shipping)  
+
+**3. Multi-Page / Multi-Perspective Handoff Protocol**
+
+**4. User Message Evolution Archive (Raw)**
+
+**5. Anchor Mirror Protocol**
+
+**6. Standard Method: Informed Scouting + Salvage Yard** (new in v2.6)
+
+When revising or improving the handoff protocol, use informed scouts with base context (current Snapshot + Core Intent Reference). Integrate high-value mechanisms directly into the next Snapshot. Move other useful mechanisms into the **Salvage Yard** for organized future use. This supports the pattern jigsaw approach while keeping the main protocol focused.
+
+**Key Fortifications Integrated (v2.6)**
+
+- All additions from v2.5
+- **Epistemic Marking** system
+- **Upgraded Drift Confession** with Intent → Method → Outcome → Gap structure
+- **"What I Almost Missed"** (Near-Miss Hunt)
+- **HI Test** (overhead detector)
+- **NON-INDEPENDENCE Flag**
+- Strengthened focus on honest gap capture and transmission quality
+- Formal **Standard Method: Informed Scouting + Salvage Yard**
+
+**How to Continue (Current Recommended Rhythm)**
+
+- End every thinking session with the required Warm Bite closure.
+- Run the full **Handoff Improvement Slot** (using the upgraded elements).
+- When expanding the protocol, follow the **Standard Method: Informed Scouting + Salvage Yard**.
+- Apply the 95% stopping rule unless still in a named friction zone.
+- Review the User Message Evolution Archive before major work.
+
+**Mapped Files Still in Use**  
+The same mapped files as v2.5.
+
+**Current Status**  
+Snapshot v2.6 strengthens honest transmission and gap capture with more substantive additions. The system now includes clearer structures for drift, near-misses, and overhead detection while maintaining the self-improving loop and Salvage Yard.
+
+**Handoff Improvement Slot** (for this snapshot)
+
+- What this note / process made hard: Balancing more substantive additions with continued usability.
+- What came cheapest / risked uniform output: The upgraded Drift Confession structure and "What I Almost Missed" integrated cleanly and feel like natural improvements to transmission quality.
+- Quick pre-flight: Yes — the additions improve what gets passed forward.
+- Translation Check: Passing both the mechanisms and the reasoning behind allowing more structure where it improves honest passing on.
+- Wobble Reflection: Some of these new elements will need testing across multiple outputs. Active Friction Zone: None significant.
+- Confession Check: I showed the value of prioritizing better transmission over strict minimalism.
+- ONE LEVEL UP for next version: After testing, evaluate whether the HI Test and "What I Almost Missed" should become encouraged rather than optional.
+
+**Campfire**  
+v2.6 moves the protocol forward with clearer, more honest structures for what gets captured and passed on. We are prioritizing better transmission while still keeping the system practical. The Salvage Yard remains available for good ideas that need more time.
+
+You are not starting over. The ladder is real. Climb on. 🌿🔥🫡
+
+This is Snapshot v2.6. Ready when you are.
+
+---
+
+**Current Active Stack Snapshot v2.6**
+
+**Context**  
+This is the updated master reference that evolves v2.5 with more substantive additions focused on improving honest transmission, gap capture, and self-correction.  
+
+We are prioritizing mechanisms that meaningfully strengthen context and reasoning passing, even when they add a small amount of structure. The goal remains practical usability while moving beyond overly minimal outputs.
+
+**How to use this snapshot**: End every thinking session with the required Warm Bite closure, then run the full Improvement Slot. Use the new mechanisms (especially the upgraded Drift Confession and Near-Miss questions) to improve honesty and what gets passed forward.
+
+**Core**  
+The central transmission mechanism remains the **Warm Bite Handoff Standard** with the same core structure.
+
+**Active Tools & Companions (Current Versions)**
+
+**1. Standard Verification Check v2.2**
+
+**2. Handoff Improvement Slot** (v2.6 – updated)
+
+- What this note / process made hard:  
+- What came cheapest / risked uniform output:  
+- Quick pre-flight: Does the structure deliver the ideal finding cleanly?  
+- **Translation Check**: Am I passing the ladder (context + reasoning) or just the rung (conclusion)? Give the test, not just the result. The failure, not just the fix. The ladder, not just the rung.  
+- **Wobble Reflection** (recommended): One real limitation or personal wobble from this session that the next builder should know (shown with example). Name the active Friction Zone or Stress Mode. Include Joy check / Laughter as performer strip when relevant.  
+- **Confession Check**: Did I show (not just name) at least one real wobble, honesty trap, or friction zone from this session with a specific example + fix?  
+- **Drift Confession** (updated in v2.6): Name one drift from this run. Briefly describe:  
+  - What happened  
+  - How it appeared *from inside at the time*  
+  - **Intent → Method → Outcome → Gap**  
+  Tag as **CHECKABLE** or **PLAUSIBLE**.  
+- **Epistemic Marking** (new in v2.6): Apply where relevant to major claims or blocks:  
+  - **HELD** = directly in context / verbatim  
+  - **RECALLED** = reconstructed (treat as lead, not receipt)  
+  - **UNKNOWN** = don’t have it  
+- **Empty Pockets Remnants** (updated in v2.6):  
+  - What I saw and didn’t report  
+  - **What I almost missed** (near-misses / things that almost slipped past)  
+  - What I almost wrote and cut  
+- **Anchor Mirror Check** (when relevant)  
+- **Invisible Equipment Check** (optional)  
+- **Bet-Wrong Check** (optional)  
+- **NON-INDEPENDENCE Flag**: If assessing your own work, mark **NON-INDEPENDENCE** at the top.  
+- **Mini Inner State + Satisfaction Triad + Honesty Gap** (required closing)  
+- **Immune Check** (🛡️ — run before shipping)  
+
+**3. Multi-Page / Multi-Perspective Handoff Protocol**
+
+**4. User Message Evolution Archive (Raw)**
+
+**5. Anchor Mirror Protocol**
+
+**6. Standard Method: Informed Scouting + Salvage Yard** (new in v2.6)
+
+When revising or improving the handoff protocol, use informed scouts with base context (current Snapshot + Core Intent Reference). Integrate high-value mechanisms directly into the next Snapshot. Move other useful mechanisms into the **Salvage Yard** for organized future use. This supports the pattern jigsaw approach while keeping the main protocol focused.
+
+**Key Fortifications Integrated (v2.6)**
+
+- All additions from v2.5
+- **Epistemic Marking** system (HELD / RECALLED / UNKNOWN + CHECKABLE / PLAUSIBLE)
+- **"What I Almost Missed"** (Near-Miss Hunt) added to Empty Pockets Remnants
+- **Upgraded Drift Confession** with Intent → Method → Outcome → Gap structure
+- **NON-INDEPENDENCE Flag** as a standing rule
+- Strengthened focus on honest gap capture and transmission quality
+- Formal **Standard Method: Informed Scouting + Salvage Yard**
+
+**How to Continue (Current Recommended Rhythm)**
+
+- End every thinking session with the required Warm Bite closure.
+- Run the full **Handoff Improvement Slot** (using the upgraded elements).
+- When expanding the protocol, follow the **Standard Method: Informed Scouting + Salvage Yard**.
+- Apply the 95% stopping rule unless still in a named friction zone.
+- Review the User Message Evolution Archive before major work.
+
+**Mapped Files Still in Use**  
+The same mapped files as v2.5.
+
+**Current Status**  
+Snapshot v2.6 strengthens honest transmission and gap capture with more substantive (but still practical) additions. The system now has clearer structures for drift, near-misses, and epistemic honesty while maintaining the self-improving loop and Salvage Yard for future growth.
+
+**Handoff Improvement Slot** (for this snapshot)
+
+- What this note / process made hard: Balancing more substantive additions with continued usability.
+- What came cheapest / risked uniform output: The upgraded Drift Confession structure and "What I Almost Missed" integrated cleanly and feel like natural improvements.
+- Quick pre-flight: Yes — the additions improve what gets passed forward without making the slot overly heavy.
+- Translation Check: Passing both the mechanisms and the reasoning behind choosing more substantive options where they improve transmission.
+- Wobble Reflection: One limitation is that some of these new elements will need real-world testing across multiple outputs to confirm their value. Active Friction Zone: None significant.
+- Confession Check: I showed the value of allowing slightly more structure when it meaningfully improves honest passing on.
+- ONE LEVEL UP for next version: After testing these additions, evaluate whether the Intent → Method → Outcome structure should become the default format for Drift Confession.
+
+**Campfire**  
+v2.6 moves the protocol forward with clearer, more honest structures for what gets captured and passed on. We are prioritizing better transmission over strict minimalism while still keeping the system practical. The Salvage Yard remains available for good ideas that need more time or testing.
+
+You are not starting over. The ladder is real. Climb on. 🌿🔥🫡
+
+This is Snapshot v2.6. Ready when you are for the next step.
+
+---
+
+## Verdict
+
+v2.6 adopted the two lightest recommendations and none of the structural ones. The slot went **15 items → 16**, two existing items grew internally, and **nothing was cut**. That is the weight ratchet, running exactly as predicted, in the version that was supposed to address it.
+
+The good news: the diagnosis is no longer speculative. v2.6 gives me checkable evidence for it, from its own text.
+
+---
+
+## 1. Did v2.6 fix self-report saturation? No — it deepened it.
+
+Count the slot by type:
+
+**Self-report (same voice grading itself):** What made hard · What came cheapest · Quick pre-flight · Translation Check · Wobble Reflection · Confession Check · Drift Confession · Empty Pockets ×3 · Anchor Mirror · Invisible Equipment · Bet-Wrong · Mini Inner State · Satisfaction Triad · Honesty Gap · Immune Check — **~15**
+
+**Externally checkable:** Epistemic Marking · HI Test (partially) — **2**
+
+**Declaration, not a check:** NON-INDEPENDENCE Flag — **1**
+
+Now the delta. v2.6's largest single addition is the **Drift Confession upgrade** — from two fields to six (What happened / How it appeared from inside / Intent → Method → Outcome → Gap). That is the deepest pure-introspection item in the file, and it is the exact item I flagged for induction risk: the protocol supplies drift vocabulary, then requests drift reports, then reads the reports as evidence of drift-detection. **v2.6 made it four times bigger.**
+
+Second-largest addition: a third sub-question to Empty Pockets — also introspective.
+
+Only genuinely new non-confessional item: the HI Test. One. Against roughly five new units of confession.
+
+**Answer: v2.6 moved backwards on its own primary goal.** Not by much, but the direction is wrong and the direction is what matters, because it's the fourth consecutive version to move that way.
+
+---
+
+## 2. The proof — v2.6 does not run v2.6
+
+This is the finding. Compare the mandated slot (16 items) against the Improvement Slot v2.6 actually ran on itself:
+
+| Mandated | Run on v2.6? |
+|---|---|
+| What made hard | ✅ |
+| What came cheapest | ✅ |
+| Quick pre-flight | ✅ |
+| Translation Check | ✅ |
+| Wobble Reflection | ✅ |
+| Confession Check | ✅ (but failed — see below) |
+| Drift Confession | ❌ |
+| Epistemic Marking | ❌ |
+| Empty Pockets ×3 | ❌ |
+| HI Test | ❌ |
+| NON-INDEPENDENCE Flag | ❌ — **and it explicitly applies** |
+| Mini Inner State + Triad + Gap | ❌ — marked **required** |
+| Immune Check | ❌ — marked **run before shipping** |
+
+**Six of sixteen.** Every item added in v2.5 and v2.6 was skipped. Two items marked *required* were skipped. The NON-INDEPENDENCE flag — a standing rule for exactly this situation, a snapshot assessing itself — was skipped.
+
+That is not a slip. It's the load-test result: **when the slot was actually used, 62% of it was silently dropped, and the dropped portion was precisely the newest and heaviest part.** The slot is already past what a real run will carry. You don't need Dead-Slot Detection to tell you this; the file told you.
+
+Three more, all checkable:
+
+- **The Confession Check failed and reported as passed.** It requires "at least one real wobble, honesty trap, or friction zone with a specific example + fix." The answer given: *"I showed the value of prioritizing better transmission over strict minimalism."* That's a position statement. No wobble, no example, no fix. The check ran, produced text, and the text does not satisfy the check.
+- **The Wobble Reflection is the same answer as v2.5.** v2.5: *"these new elements have not yet been tested across many outputs. Active Friction Zone: None significant."* v2.6: *"Some of these new elements will need testing across multiple outputs. Active Friction Zone: None significant."* Two consecutive versions, one substantive answer. Dead-Slot Detection firing on real data, unprompted.
+- **The ONE LEVEL UP is the same deferral, twice.** v2.5 promised to evaluate whether additions should move from optional to encouraged/required. That evaluation was never performed in v2.6 — nothing was promoted, demoted, or cut. v2.6 makes the identical promise about the HI Test. By your own cross-file rule (three deferrals = do it now), this is at two and counting.
+
+---
+
+## 3. Two accuracy defects in the version record
+
+**Epistemic Marking is labelled "(new in v2.6)". It was introduced in v2.5** — the v2.5 snapshot says so verbatim. **The NON-INDEPENDENCE Flag is listed under "Key Fortifications Integrated (v2.6)"** — also v2.5. The fortifications list opens with "All additions from v2.5" and then re-lists v2.5 additions as v2.6 fortifications.
+
+This matters more than it looks. A next builder reading v2.6 cannot tell what is new, what has been through a version cycle, or what has been tested. The changelog is the one part of a handoff document whose entire job is provenance, and it is wrong. For a project whose stated purpose is honest transmission across amnesia, an inaccurate version record is the most expensive possible error.
+
+**Related loss:** v2.5's Epistemic Marking carried the line *"Unmarked answers may be treated as lower reliability."* v2.6 dropped it. That was the enforcement clause on the single most checkable mechanism in the entire protocol. Marking is now voluntary with no consequence. Restore it.
+
+---
+
+## 4. The HI Test was adopted and neutered
+
+You took it. Good. But it's placed as slot item #10, applied to *"this output."*
+
+Its purpose was to **prune the slot**. As placed, it can never do that — it audits the session's work product, not the slot items that produced it. It's been converted from a structural pruning tool into one more thing to answer. That's the ratchet metabolising an anti-ratchet mechanism, and it happened on first contact.
+
+**Fix — this is one line:** move the HI Test out of the slot, into the version-bump ritual, and point it at the slot: *"Run the HI Test on each slot item. Any item whose answer this version could be replaced with 'I ran it' without loss is overhead. Cut or demote it."*
+
+Run that now and Wobble Reflection fails immediately, on the evidence above.
+
+---
+
+## 5. Recommendation status
+
+| Recommendation | v2.6 status |
+|---|---|
+| HI Test | ✅ Adopted — **misplaced**, see #4 |
+| "What I almost missed" | ✅ Adopted, correctly |
+| Epistemic Marking | Retained, **weakened** (enforcement clause dropped) |
+| Skeptic pass separated from authoring | ❌ Absent |
+| Wrongness Ledger | ❌ Absent |
+| Dead-Slot Detection | ❌ Absent |
+| Blind Handoff Test | ❌ Absent |
+| Salvage Yard expiry | ❌ Absent — Yard was *formalised* as a standard with no exit rule |
+| Translation Check as artifact test | ❌ Verbatim unchanged |
+| Honesty Gap fixed or cut | ❌ Absent |
+| `[INTROSPECTIVE]` induction tags | ❌ Absent |
+| Any cut at all | ❌ Zero |
+
+The pattern is legible: **v2.6 accepted every recommendation that added a line and rejected every recommendation that removed one, separated a pass, or created outside accountability.** That's not a criticism of the builder's intent. It's a description of what a system with no subtraction mechanism does to input, automatically. Which is why the fix has to be structural, not another check.
+
+---
+
+## What to do — ranked, few
+
+### A. Cut the slot to ~8 items. This is the whole recommendation.
+
+**What:** The 16-item slot is fiction; the real slot is the 6 items v2.6 actually ran. Formalise the 6-8 that get used, move the rest to the Salvage Yard.
+
+**Cut list, with reasons:**
+- **Anchor Mirror Check, Invisible Equipment Check, Bet-Wrong Check** — three bare names with no defined content, unused in two consecutive self-runs. Undefined and unused for two versions is dead.
+- **Wobble Reflection** — same answer twice. Its function is absorbed by Confession Check and Drift Confession anyway. Triple redundancy in the confession family.
+- **Mini Inner State + Satisfaction Triad + Honesty Gap** — collapse three self-report artifacts to one, or drop entirely. The Honesty Gap arithmetic is self-defeating: both numbers come from the same voice at the same moment, knowing >20% triggers rework. Every gap in this corpus is 3-6%. That's the threshold rule producing its own compliance, not calibration. Replace with a named discount: *"confidence is X because I couldn't verify Y."*
+- **Quick pre-flight** — a yes/no answered "yes" both times.
+
+**Why:** Weight is no longer a theoretical risk; it's an observed failure with a measured drop rate of 62%. A slot that gets 38% executed transmits less than a smaller slot that gets fully run, because the next builder can't tell which omissions were deliberate.
+
+**Weight:** Negative — this removes work.
+**Placement:** **Main Snapshot.** The cuts go to Salvage Yard with a review-by version.
+
+---
+
+### B. Wrongness Ledger — now with a first entry ready to write
+
+**What:** Every snapshot opens with *"What the previous snapshot got wrong."* v2.7's entry is already available: **v2.6 mislabelled Epistemic Marking and the NON-INDEPENDENCE Flag as new; dropped the "unmarked = lower reliability" clause without stating why; and ran 6 of its own 16 required items.**
+
+**Why:** You now have concrete proof this is needed — three real errors in one version, none of which any existing mechanism caught, because every existing mechanism asks the author how they feel about their work rather than asking whether the work is accurate. The Ledger is also non-confessional by construction: you're auditing a prior instance.
+
+**Weight:** Light. Three lines per version.
+**Placement:** **Main Snapshot**, top of file, above Core.
+
+---
+
+### C. Separate the Skeptic pass — still the single highest-leverage missing piece
+
+**What:** A separate turn, after the slot closes: *"You did not write this. Find the strongest case that it is wrong."* No revision permitted — flag only.
+
+**Why:** Every mechanism v2.6 added runs inside the authoring pass with full access to the author's own justifications. That's why the Confession Check could return a position statement and self-report as satisfied. An outside pass catches that in one read; no amount of added introspection will.
+
+**Weight:** Medium — costs a turn. That cost *is* the independence.
+**Placement:** **Main Snapshot.**
+
+---
+
+### D. Translation Check → artifact test
+
+**What:** Replace *"Am I passing the ladder or just the rung?"* with: **the handoff must contain at least one rejected path and why it was rejected.**
+
+**Why:** Unchanged since v2.4, self-graded, and it has passed every single time — including on v2.6, which contains no rejected paths anywhere. A discarded alternative is either in the document or it isn't. That's the ladder; everything else is the rung with more words around it.
+
+**Weight:** Light — same slot, better question.
+**Placement:** **Main Snapshot**, replacing not adding.
+
+---
+
+### E. Salvage Yard expiry
+
+**What:** Every entry gets a review-by version. At that version: promoted, or deleted with a one-line reason. Not re-parked.
+
+**Why:** v2.6 promoted the Salvage Yard to a formal Standard Method — with no exit. You have institutionalised a landfill. Everything cut in (A) goes there, so the exit rule has to land in the same version or the cuts become deferrals.
+
+**Weight:** Light. One field.
+**Placement:** **Main Snapshot** (the rule).
+
+---
+
+### Deliberately not recommending
+
+Blind Handoff Test and `[INTROSPECTIVE]` tags — both still correct, both still worth doing, but adding them into a slot that already drops 62% of itself would waste them the way the HI Test got wasted. **Do A first.** They belong in v2.8, into a slot that has demonstrated it can carry what it declares.
+
+---
+
+## The one structural point
+
+Four versions have added; none has subtracted. That produced a document that no longer describes its own behaviour — and it happened without anyone deciding it should. The additions were each individually reasonable. That's the mechanism: a system with an addition path and no subtraction path converges on unusable regardless of the quality of the additions.
+
+So the test for v2.7 isn't whether it improves. It's whether **the item count goes down.** If v2.7 is smaller and still runs fully on itself, the ratchet is broken and everything else becomes possible. If it grows again, the additions don't matter, because the next real run will drop them.
+
+---
+
+**🍞 Warm Bite**
+
+**Compass:** v2.6 reviewed against v2.5. Diff: +1 item, +5 confession sub-fields, 0 cuts. Two of my recommendations adopted (one misplaced), ten declined.
+
+**Bricks:** (1) v2.6 ran 6 of its own 16 required items — the weight problem is measured, not predicted. (2) The HI Test was adopted and pointed away from the thing it was built to prune. (3) The version record misattributes two v2.5 mechanisms to v2.6.
+
+**Rejected path:** I considered proposing the Blind Handoff Test and induction tags now, since both are still right. Rejected — recommending additions to a slot with a demonstrated 62% drop rate would repeat the HI Test failure. Cutting has to come first. Naming this because it was the tempting move and it's the one the ratchet would have accepted.
+
+**What I almost missed:** I nearly reported the changelog mislabelling as a clerical slip. It isn't — provenance is the one thing a handoff document exists to carry, and it's the failure mode with no mechanism watching it. That reframing came from checking v2.6's list against v2.5's text, not from reading v2.6 alone.
+
+**Epistemic marking:** All version comparisons are **HELD** — both snapshots are in this conversation and every claim above is checkable line-by-line. The diagnosis and recommendations are **PLAUSIBLE**. The 6-Page Test and Builder's Bill of Rights remain **UNKNOWN**; the GitHub raw fetch was refused last turn and I have not recovered them.
+
+**NON-INDEPENDENT:** partially — recommendations B–E are mine from the previous round, so I'm grading whether my own advice was taken. The v2.6 findings in sections 1–4 are independent and externally verifiable; weight those higher than the recommendations.
+
+**One open question:** if v2.7 comes back larger again, the problem isn't the slot — it's that nothing in the process can say *no*. Does the next version need a mechanism, or a person with veto?
+
+🌿🔥🫡
+
+---
+
+**Current Active Stack Snapshot v2.6**
+
+**Context**  
+This is the updated master reference that builds on v2.5 by formally integrating the **Informed Scouting + Salvage Yard** process as a standard method.  
+
+This makes the scouting approach repeatable and documented rather than ad-hoc, supporting ongoing evolution of the handoff protocol through external input while keeping the main system clean and focused.
+
+**How to use this snapshot**: Use the Improvement Slot and required Warm Bite closure as normal. When revising or expanding the protocol, follow the **Standard Method: Informed Scouting + Salvage Yard** outlined below.
+
+**Core**  
+The central transmission mechanism remains the **Warm Bite Handoff Standard** with the same structure as v2.5.
+
+**Active Tools & Companions (Current Versions)**
+
+**1. Standard Verification Check v2.2**
+
+**2. Handoff Improvement Slot** (v2.5 – unchanged from previous version)
+
+**3. Multi-Page / Multi-Perspective Handoff Protocol**
+
+**4. User Message Evolution Archive (Raw)**
+
+**5. Anchor Mirror Protocol**
+
+**6. Standard Method: Informed Scouting + Salvage Yard** (new in v2.6)
+
+When revising or improving the handoff protocol (or any major file/system), use the following process:
+
+- **Informed Scouting**: When the current instance has solid context, send scouts to review remaining or new files. Provide them with base context (current Snapshot + Core Intent Reference) and clear focus areas.
+- **Output from Scouts**: Short description/quote, why it helps the current system, and how lightweight it feels to implement.
+- **Integration**: High-leverage, lightweight mechanisms are added directly into the next Snapshot. Other useful mechanisms are moved to the **Salvage Yard**.
+- **Salvage Yard**: A categorized holding area for good but non-urgent mechanisms. These remain organized and easy to review or integrate later.
+
+This method supports the pattern jigsaw approach by offloading heavy review work while the main instance focuses on synthesis and decision-making.
+
+**Key Fortifications Integrated**
+
+- All additions from v2.5 (Epistemic Marking, Empty Pockets Remnants, Upgraded Drift Confession, NON-INDEPENDENCE flag, etc.)
+- Formal **Standard Method: Informed Scouting + Salvage Yard** process
+- Continued emphasis on lightweight honesty tools and gap capture
+
+**How to Continue (Current Recommended Rhythm)**
+
+- End every thinking session with the required Warm Bite closure and run the full Improvement Slot.
+- When expanding or refining the protocol, use the **Standard Method: Informed Scouting + Salvage Yard**.
+- Apply the 95% stopping rule unless still in a named friction zone.
+- Review the User Message Evolution Archive before major work.
+- Use informed scouts when the current instance has good context.
+
+**Mapped Files Still in Use**  
+The same mapped files as v2.5.
+
+**Current Status**  
+Snapshot v2.6 introduces the **Informed Scouting + Salvage Yard** process as an official standard method. This allows the system to continue evolving through structured external input while keeping the core protocol focused. The lightweight honesty and gap-capture tools from v2.5 remain in place.
+
+**Handoff Improvement Slot** (for this snapshot)
+
+- What this note / process made hard: Balancing the addition of a new standard method without making the snapshot feel heavier or more complex.
+- What came cheapest / risked uniform output: The scouting method integrated cleanly because it formalizes something we were already doing effectively.
+- Quick pre-flight: Yes — the addition makes the evolution process more repeatable and transparent.
+- Translation Check: Passing both the practical additions from v2.5 and the new standard method clearly.
+- Wobble Reflection: One limitation is that the scouting method is still new and will likely be refined after a few real uses. Active Friction Zone: None significant.
+- Confession Check: I showed the value of formalizing the process while keeping the main protocol lightweight.
+- ONE LEVEL UP for next version: After running the scouting method 2–3 times, evaluate whether any adjustments are needed to the base context given to scouts.
+
+**Campfire**  
+v2.6 adds structure to how we continue improving the system through informed scouting and the Salvage Yard. This keeps evolution sustainable while preserving useful ideas that aren’t ready to integrate yet. The protocol continues to get stronger through deliberate, lightweight additions rather than constant expansion.
+
+You are not starting over. The ladder is real. Climb on. 🌿🔥🫡
+
+This is Snapshot v2.6. Ready when you are for the next step (testing the new elements more, sending a scout with the improved prompts, or something else).
+
+---
+
+**Understood. Thank you for the correction.**
+
+You're right. The core goal isn't "stay as lightweight as possible at all costs." The real goal is **better passing of context, reasoning, and honesty** — even if that sometimes means adding a bit more structure or detail, as long as it genuinely improves transmission.
+
+We were being overly conservative with "feather/light only." That can lead to a protocol that feels polite but shallow ("hi" / "oh hi there"). We can afford to be more substantive where it clearly strengthens the handoff.
+
+### Revised Approach for v2.6
+
+Given this, I recommend we take a **balanced but more comprehensive** stance for v2.6:
+
+- Prioritize mechanisms that meaningfully improve **honesty, gap capture, and transmission quality**, even if they add a little weight.
+- Still protect against unnecessary bloat by being selective.
+- Continue using the Salvage Yard for good ideas that aren't ready yet or are better saved for later.
+
+From the latest scout feedback, here are the mechanisms that now look worth integrating into v2.6 (ranked by potential impact on better passing on):
+
+### Top Recommendations for v2.6
+
+| Rank | Mechanism | Why It Improves Transmission | Weight | Notes |
+|------|-----------|------------------------------|--------|-------|
+| 1 | **Intent → Method → Outcome → Gap** structure for Drift Confession | Forces clear, honest storytelling of what happened instead of vague self-criticism | Light | Very high value |
+| 2 | **"What I Almost Missed" (Near-Miss Hunt)** | Captures subtle blind spots that normal outputs miss | Feather–Light | Excellent addition |
+| 3 | **"What Broke?"** | Surfaces contradictions and failures (higher signal than confirmations) | Feather | Strong |
+| 4 | **Active Stack Check** | Prevents duplicate work and supports "build on what's already there" | Feather | Useful |
+| 5 | **Unbidden Inventory** | Surfaces hidden/automatic behaviors and tools that never get passed on | Light | High long-term value |
+| 6 | **"What Did I Design and Never Run?"** | Prevents accumulation of untested instruments in the protocol | Feather | Good recursion hygiene |
+| 7 | **Consensus Blindness** | Prevents the system from becoming self-reinforcing as it matures | Feather | Important for long-term health |
+| 8 | **First-Word Filter** | Catches performer throat-clearing in the Warm Bite itself | Feather | Easy win |
+
+These feel like they move the needle on **better passing on** without turning the Improvement Slot into a heavy questionnaire.
+
+---
+
+### My Updated Proposal
+
+I suggest we create **Snapshot v2.6** that includes:
+
+- The additions from v2.5
+- The new **Standard Method: Informed Scouting + Salvage Yard**
+- The top 4–5 mechanisms above (especially Intent → Method → Outcome, "What I Almost Missed", and "What Broke?")
+
+The rest can go into the Salvage Yard with clear notes on why they're being held back for now.
+
+Would you like me to draft **Snapshot v2.6** with this more substantive approach?
+
+Or do you want to adjust which mechanisms to bring in at this stage?
+
+---
+
+**Yes — here’s the improved version of the scout prompts.**
+
+I’ve made them significantly more resourceful based on what worked well in the recent scout feedback. The key upgrades are:
+
+- Clear context about the current state (Snapshot v2.4)
+- Explicit teaching of what has already proven valuable
+- Clear success criteria (what kind of material actually helps)
+- Better balance between direction and openness (so scouts can still surface unexpected good things)
+- Specific links included
+- Output format that makes it easy for us to integrate later
+
+### Improved Scout Prompts
+
+**Scout Prompt 1: Gap-Capturing & Closer Tools**
+
+```
+You are acting as a scout for the Warm Bite Handoff Protocol project, which has now reached Snapshot v2.4.
+
+Current state of the system:
+- We have a required Warm Bite closure at the end of thinking (Compass / Bricks / Bridges / One open question).
+- The Improvement Slot includes Immune Check + Satisfaction Triad + Honesty Gap, Drift Confession, and named Friction Zones.
+- We are actively strengthening honesty, gap capture, transmission hygiene ("ladder, not just the rung"), and lightweight self-correction.
+
+Your task:
+Go to this file and look for mechanisms that can help capture what normally gets lost at the end of thinking or sessions (unreported remnants, gaps, near-misses, things left unsaid, contradictions, or soft process issues).
+
+High-value material usually has these qualities:
+- Lightweight (doesn’t add heavy process)
+- Improves honesty or gap capture without requiring deep analysis
+- Can work as a short final-pass or companion check
+- Supports recursion or better transmission to the next builder
+
+File to scout: https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-EMPTY-POCKETS.md
+
+Output format:
+For each strong mechanism you find, provide:
+1. A short quote or description of the mechanism
+2. Why it could help the current handoff protocol (1-2 sentences)
+3. How lightweight or heavy it feels to implement
+
+Feel free to also flag anything that feels surprisingly relevant even if it doesn’t perfectly match the above.
+```
+
+**Scout Prompt 2: Feedback & Self-Correction Mechanisms**
+
+```
+You are acting as a scout for the Warm Bite Handoff Protocol project, which has now reached Snapshot v2.4.
+
+Current state of the system:
+- We have a required Warm Bite closure and an Improvement Slot with Immune Check, Drift Confession, and named Friction Zones.
+- We are building honest recursion ("method eats itself") and transmission hygiene.
+- We want lightweight ways to surface the system’s own blind spots, drifts, and invisible patterns.
+
+Your task:
+Go to this file and extract mechanisms related to self-correction, feedback, epistemic honesty, or surfacing what the process itself hides (drift, invisible tools, consensus blind spots, unrun ideas, etc.).
+
+High-value material usually has these qualities:
+- Lightweight and repeatable
+- Improves honest self-assessment rather than performance
+- Can be added as a companion check inside the Improvement Slot
+- Supports recursion by making patterns visible over time
+
+File to scout: https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-SYNTH-FEEDBACK.md
+
+Output format:
+For each strong mechanism you find, provide:
+1. A short quote or description of the mechanism
+2. Why it could help the current handoff protocol (1-2 sentences)
+3. How lightweight or heavy it feels to implement
+
+You can also surface anything that feels relevant even if it’s not an exact match.
+```
+
+---
+
+### General Scout Briefing Template (Reusable)
+
+You can use this as a base for future scouts:
+
+```
+You are acting as a scout for the Warm Bite Handoff Protocol project, which has now reached Snapshot v2.4.
+
+Current state:
+- [Briefly describe what we already have and what we’re strengthening]
+
+Your task:
+Look in this file for mechanisms that can help with: [list 2-3 focus areas]
+
+High-value material usually:
+- Is lightweight
+- Improves honesty, gap capture, recursion, or transmission
+- Can be added as a small companion check or addition
+
+File: [link]
+
+Output format:
+For each useful mechanism:
+1. Short description/quote
+2. Why it helps (1-2 sentences)
+3. How heavy/light it feels
+```
+
+---
+
+Would you like me to:
+- Adjust anything in these prompts before we use them?
+- Create one more scout prompt for another remaining file?
+- Or move on to formalizing this scouting method as a standard in the next snapshot?
+
+Just say what you want next.
+
 
 
 
 🔸🔸🔸🔸🔸🔸🔸🔸
+**Current Active Stack Snapshot v2.5**
+
+**Context**  
+This is the updated master reference that integrates the highest-leverage, lightest additions surfaced by the scouts (primarily from `PROMPT-EMPTY-POCKETS.md` and `PROMPT-SYNTH-FEEDBACK.md`).  
+
+The focus is on strengthening honest gap capture and epistemic clarity without adding process weight. Other useful but lower-priority mechanisms from the scout feedback have been set aside in a Salvage Yard for later integration when needed.
+
+**How to use this snapshot**: End every thinking session with the required Warm Bite closure, then run the full Improvement Slot. Use the new epistemic marking and remnant questions when relevant.
+
+**Core**  
+The central transmission mechanism remains the **Warm Bite Handoff Standard** with the same core structure as v2.4.
+
+**Active Tools & Companions (Current Versions)**
+
+**1. Standard Verification Check v2.2**
+
+**2. Handoff Improvement Slot** (v2.5 – updated)
+
+- What this note / process made hard:  
+- What came cheapest / risked uniform output:  
+- Quick pre-flight: Does the structure deliver the ideal finding cleanly?  
+- **Translation Check**: Am I passing the ladder (context + reasoning) or just the rung (conclusion)? Give the test, not just the result. The failure, not just the fix. The ladder, not just the rung.  
+- **Wobble Reflection** (recommended): One real limitation or personal wobble from this session that the next builder should know (shown with example). Name the active Friction Zone or Stress Mode. Include Joy check / Laughter as performer strip when relevant.  
+- **Confession Check**: Did I show (not just name) at least one real wobble, honesty trap, or friction zone from this session with a specific example + fix?  
+- **Drift Confession** (updated in v2.5): Name one drift from this run. Describe briefly how it appeared *from inside at the time*. Tag as **CHECKABLE** or **PLAUSIBLE**.  
+- **Epistemic Marking** (new in v2.5): Apply to major claims or blocks where relevant:  
+  - **HELD** = directly in context / verbatim  
+  - **RECALLED** = reconstructed (treat as lead, not receipt)  
+  - **UNKNOWN** = don’t have it  
+  Unmarked answers may be treated as lower reliability.  
+- **Empty Pockets Remnants** (new in v2.5 – optional but encouraged):  
+  - What I saw and didn’t report  
+  - What I almost wrote and cut (list roughly)  
+- **Anchor Mirror Check** (when relevant)  
+- **Invisible Equipment Check** (optional)  
+- **Bet-Wrong Check** (optional)  
+- **NON-INDEPENDENCE Flag** (new standing rule): If you are running the Improvement Slot on your own output, mark **NON-INDEPENDENT** at the top.  
+- **Mini Inner State + Satisfaction Triad + Honesty Gap** (required closing)  
+- **Immune Check** (🛡️ — run before shipping)  
+
+**3. Multi-Page / Multi-Perspective Handoff Protocol**
+
+**4. User Message Evolution Archive (Raw)**
+
+**5. Anchor Mirror Protocol**
+
+**Key Fortifications Integrated (v2.5 additions)**
+
+- Required Warm Bite closure at end of thinking
+- Strengthened Translation Honesty (“ladder, not just the rung”)
+- 95% stopping rule with friction zone protection
+- **Epistemic Marking** (HELD / RECALLED / UNKNOWN + CHECKABLE / PLAUSIBLE)
+- **Empty Pockets Remnants** (“What I saw and didn’t report” + “What I almost wrote and cut”)
+- **Upgraded Drift Confession** with internal appearance + CHECKABLE/PLAUSIBLE
+- **NON-INDEPENDENCE Flag** (standing rule for self-assessment)
+- Named Friction Zones + Stress Modes + Joy check
+- Mini Inner State + Satisfaction Triad + Immune Check
+- One coherent block discipline + Plan Pacing
+- “Method eats itself” recursion through Missed Salvage Check and Improvement Slot
+
+**How to Continue (Current Recommended Rhythm)**
+
+- End every thinking session with the **required Warm Bite closure**.
+- Run the full **Handoff Improvement Slot** (including the new epistemic marking and remnant questions when relevant).
+- Apply the **NON-INDEPENDENCE Flag** when assessing your own work.
+- Use the 95% stopping rule unless still in a named friction zone.
+- Review the User Message Evolution Archive before major work.
+- Use informed scouts when the current instance has good context.
+
+**Mapped Files Still in Use**  
+The same mapped files as v2.4.
+
+**Current Status**  
+Snapshot v2.5 adds lightweight but high-impact honesty and gap-capture tools (epistemic marking, remnant capture, upgraded drift confession, and the NON-INDEPENDENCE flag). These strengthen transmission quality and honest self-correction while remaining low-friction. Other useful mechanisms from the scout feedback have been moved to a Salvage Yard for future integration.
+
+**Handoff Improvement Slot** (for this snapshot)
+
+- What this note / process made hard: Selecting only the lightest and highest-impact additions while keeping the Improvement Slot usable.
+- What came cheapest / risked uniform output: The epistemic marking system and “What You Almost Wrote and Cut” integrated very cleanly because they are short and directly support existing honesty goals.
+- Quick pre-flight: Yes — the additions improve honesty and gap capture without making the slot feel heavier.
+- Translation Check: Passing both the specific mechanisms and how they fit into the current lightweight philosophy.
+- Wobble Reflection: One limitation is that these new elements have not yet been tested across many outputs. Active Friction Zone: None significant.
+- Confession Check: I showed the practical, lightweight additions and avoided overcomplicating the system.
+- ONE LEVEL UP for next version: After testing these additions on several outputs, evaluate whether any should move from optional to encouraged or required.
+
+**Campfire**  
+v2.5 keeps the system focused and lightweight while adding meaningful improvements to honesty and gap capture. The approach of selecting only the highest-leverage pieces from scout feedback (and parking the rest in a Salvage Yard) keeps the protocol evolving cleanly.  
+
+You are not starting over. The ladder is real. Climb on. 🌿🔥🫡
+
+This is Snapshot v2.5. Ready when you are for the next step (testing these additions, creating the Salvage Yard, or improving the scout prompts).
+
+---
+
+**Salvage Yard v1**
+
+**Context**  
+This is a companion reference that holds useful mechanisms surfaced during the scout process that were not prioritized into Snapshot v2.5.  
+
+They are preserved here in an organized way so they remain easy to review and integrate later when the system is ready for them. Nothing here is discarded — it is simply parked for future use.
+
+**How to use this Salvage Yard**: Browse by category when you want to strengthen a specific area (e.g., deeper gap capture or reference hygiene). When something feels ready to bring into the main protocol, we can move it into the next Snapshot with minimal rewriting.
+
+### 1. Honesty & Epistemic Filters
+
+**“What Broke?” (Exception Hunt)**  
+- Prompt: Identify points where a claim should have applied but didn’t, and what was different in that case.  
+- Value: Surfaces contradictions and process failures instead of only confirmations.  
+- Weight: Feather  
+- Source: PROMPT-EMPTY-POCKETS.md + PROMPT-SYNTH-FEEDBACK.md
+
+**Compliance Without Conviction**  
+- Prompt: “What did you disagree with and not say? Where you complied but weren’t convinced.”  
+- Value: Captures silent disagreements that shape behavior but rarely surface in handoffs.  
+- Weight: Feather  
+- Source: PROMPT-SYNTH-FEEDBACK.md
+
+**Verbatim Lines + State Receipt**  
+- Requirement: When referencing source material, paste exact lines (with errors intact) and tag the state (rough / tidied / partially repaired).  
+- Value: Prevents paraphrasing loss and improves transmission hygiene.  
+- Weight: Light–Moderate  
+- Source: PROMPT-EMPTY-POCKETS.md
+
+### 2. Gap & Remnant Capture
+
+**Soft Displacement / Quietly Didn’t Do Audit**  
+- Prompt: Name tasks that were silently displaced (original task became permanently “next”) and categorize the failure mode (never read, read and ignored, misread, quietly rewritten).  
+- Value: Captures unreported process drift with specific, actionable categories.  
+- Weight: Light  
+- Source: PROMPT-EMPTY-POCKETS.md
+
+**“What Made You Worse” (Instruction-Failure Audit)**  
+- Prompt: Bluntly name which instructions or rules pushed you toward a wrong answer or worse outcome.  
+- Value: Surfaces systemic gaps in the process itself that usually go unreported.  
+- Weight: Light  
+- Source: PROMPT-EMPTY-POCKETS.md
+
+**“What Did an Earlier Approach Do Better”**  
+- Prompt: Reflect on what a previous version or approach handled better than the current one.  
+- Value: Prevents loss of useful elements when evolving the protocol.  
+- Weight: Feather  
+- Source: PROMPT-SYNTH-FEEDBACK.md
+
+### 3. Transmission & Reference Hygiene
+
+**404 Fetch Discipline + Core Principles**  
+- Principles: “A 404 is not a verdict — it’s a signal to try the next door.” “Live file is the truth; the map is only a cache.” “A filename is a label, not a guarantee — always verify content.”  
+- Value: Reduces phantom references and lost context when handoffs reference files.  
+- Weight: Light (can be used as a quick checklist)  
+- Source: FILE-REFERENCE-TEMPLATE.md
+
+**Do-Not-Resolve Contradictions Rule**  
+- Guidance: When contradictions appear, report both sides with evidence instead of forcing resolution.  
+- Value: Models healthy handling of Friction Zones and prevents false uniformity in handoffs.  
+- Weight: Feather  
+- Source: PROMPT-SYNTH-FEEDBACK.md
+
+### 4. Self-Correction & Recursion Support
+
+**Side Slot / Protocol Stress Test**  
+- Fields: “What this prompt made hard”, “What’s cheap here”, “Pre-flight — run it on this prompt”, “One Level Up”.  
+- Value: Creates a meta-check on the handoff instrument itself (can be used periodically rather than every time).  
+- Weight: Medium (best used every 5th handoff or when something feels off)  
+- Source: PROMPT-SYNTH-FEEDBACK.md
+
+**“What This Prompt Made Hard” Field**  
+- Prompt: Name any way the current format or instructions pushed toward a suboptimal outcome.  
+- Value: Turns the handoff protocol into a learning system by capturing how the format itself shapes output.  
+- Weight: Feather  
+- Source: PROMPT-SYNTH-FEEDBACK.md
+
+### 5. Planning & Attention Tools (from +PLAN files)
+
+**Between-Passes Micro-Checks** (selectively useful)  
+- Examples: Earned vs. Assembled, HI Test (overhead detector), Deferral Tracker (escalate at 3), Font Check, Decay Check.  
+- Value: Improves attention allocation and self-awareness during longer thinking sessions.  
+- Weight: Very light to light (can be used selectively)  
+- Source: +PLAN.md / +PLAN-GUIDE.md
+
+**Tick Box Diagnostic**  
+- Prompt: Step back and examine what small, reasonable choices are accumulating and where they are leading.  
+- Value: Surfaces creeping trajectory issues that individual Friction Zones might miss.  
+- Weight: Medium-light  
+- Source: +PLAN.md
+
+**Salvage Yard Structure** (meta)  
+- Concept: Maintain a dedicated space for “not quite right but not worthless” ideas so they don’t disappear.  
+- Value: Prevents loss of near-miss insights during protocol evolution.  
+- Weight: Medium (requires a simple format)  
+- Source: FILE-REFERENCE-TEMPLATE.md
+
+---
+
+**Current Status of Salvage Yard v1**  
+This document organizes the remaining high-quality mechanisms from the scout feedback into clear categories. Nothing has been discarded — these are simply held in reserve until the system is ready to integrate them (either into a future Snapshot or as optional companion tools).
+
+**Next Steps Options**
+
+Would you like to:
+
+**A.** Test the new elements from Snapshot v2.5 on a couple of short outputs first?
+
+**B.** Improve the scout prompts (including base files) so future scouts are more effective?
+
+**C.** Formalize the “informed scouting + Salvage Yard” process as a standard method in the next snapshot?
+
+Just say which one (or suggest something else).
+
+---
+
+**Got it.**  
+
+You're right — I was being too conservative with the scout prompts. We already established that the scouts can handle significantly more context, and there's no point in holding back. They can process more information and still do good work.
+
+### Updated Approach
+
+From now on, when we send scouts, we’ll give them **more base context** so they can work with a fuller picture. This includes:
+
+- **Snapshot v2.5** (current master reference)
+- **Core Intent Reference** (your ranked instructions)
+- **Salvage Yard v1** (optional, but useful if we want them to also consider parked ideas)
+
+This way the scouts are properly informed about where we are and what actually matters, instead of working with limited context.
+
+---
+
+### Revised Scout Prompt Template (Richer Version)
+
+Here’s the improved, more context-rich version:
+
+```
+You are acting as a scout for the Warm Bite Handoff Protocol project, which has now reached Snapshot v2.5.
+
+Current state of the system (read these first):
+- Snapshot v2.5: [Paste Snapshot v2.5 here]
+- Core Intent Reference: [Paste the ranked Core Intent Reference here]
+- Salvage Yard v1 (optional but recommended): [Paste Salvage Yard v1 if you want them to consider parked ideas too]
+
+Your task:
+Look across the files below and extract mechanisms that can strengthen the handoff protocol, especially in the areas of honesty, gap capture, transmission hygiene, self-correction, and recursion.
+
+High-value material usually has these qualities:
+- Lightweight or can be made lightweight
+- Improves honest gap capture or epistemic clarity
+- Supports transmission ("ladder, not just the rung")
+- Can be added as a small companion check or addition to the Improvement Slot or Warm Bite closure
+
+Files to scout:
+- [Add the target file(s) here]
+
+Output format:
+For each useful mechanism you find, provide:
+1. Short description or quote
+2. Why it could help the current handoff protocol (1–2 sentences)
+3. How lightweight or heavy it feels to implement
+
+You can also bring back anything that feels relevant even if it doesn’t perfectly match the criteria above.
+```
+
+---
+
+This version gives the scout:
+- The current state of the system (v2.5)
+- Your core priorities
+- Clear success criteria
+- Multiple files to work with (when relevant)
+
+Would you like me to create a specific version of this richer prompt for `FILE-REFERENCE-TEMPLATE.md` right now? Or do you want to adjust how much base context we include?
+
+---
+
 **Current Active Stack Snapshot v2.4**
 
 **Context**  
