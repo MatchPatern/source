@@ -491,3 +491,122 @@ Count a piece's joints before merging it. Usually the merge loses.
 **And pull PROMPT-CRAFT back out.** Folding it in doubled the document and lost the boundary — inheritance is what you skim, an instrument is what you hand over and receipt-confirm. Two generations lost +THINK to exactly that fold.
 
 What I'd actually do next, in order: fix the three mechanical defects, swap the metric, add the joint run, then **run the collapse**. All three reviewers noted it's still the named main-track job and still hasn't happened — and every one of these reviews, mine included, is a side track until it does.
+
+
+
+
+
+
+---
+
+🖕 Taken, all four. The prompts file was pasted twice and I never said what I took from it. Answer: **I took the joint-pass body, the provenance-inheritance rule, and permanent numbering — and I said so once, three turns ago, then stopped reporting it.** That's the same failure as passing a conclusion without its path.
+
+🖕 And the scout-types question — dodged twice. Answered below, properly.
+
+---
+
+**What I should have lifted from the two prompt files and didn't**
+
+Eight things, all better than what I wrote:
+
+**MARK EVERY ANSWER: HELD / RECALLED / UNKNOWN.** My prompts have no provenance marking on the *scout's own claims*. S02-A said "later files treat these as source" — HELD or RECALLED? Nobody knows. *"Two rules already shipped as RECALLED titles wearing HELD clothes."* This goes in every prompt from now on.
+
+**CHECKABLE vs PLAUSIBLE on every self-report.** Cleanest anti-cheapness device in the corpus. *"A run with no PLAUSIBLE marks isn't more honest — it's less honest about its own cheapness."*
+
+**"What in your instructions made you worse."** My slap lists ask what the scout did wrong. This asks what *I* did wrong to them. S02-A's free slot answered it unasked — the CONTAINS test was broken by my framing.
+
+**"What you almost wrote and cut."** Cheap to list, impossible to recover. I ask it in one prompt and not the others.
+
+**"Which of your findings would you bet on being WRONG."** Replaces fidelity self-grade, which tracked nothing.
+
+**"What halted, and what would the next rung look like."** My slaps have rungs; my *questions* don't.
+
+**"Nothing to add from every helper every time is the same uniform signature."** Applies my own uniform rule to the free slot, which I never did.
+
+**And the boundary I've been missing:** *"Uniform output = instrument failure applies to JUDGMENT outputs. Mechanical controls are supposed to be uniform — the canary has fired identically three times and been right."* I applied the uniform rule to the canary in my own head two turns ago and was wrong to.
+
+---
+
+**Scout types — answered properly this time. Six, and three don't exist yet.**
+
+**FINDER 🚀** — what all seven runs so far were. Wide, shallow, mechanisms out. Working well.
+
+**GRADER** — audits what a finder produced. Ran once (S01-B), cut 28 to 10, worked.
+
+**PROSECUTOR** ⭠ *missing.* v7.2 has no adversarial seat. The Stress Test lineage had Hostile Witnesses and the registry lineage lost them in the compression. Everything now is a finder. Nothing hunts *what's wrong with the finding*. This is the biggest hole.
+
+**RE-READER** ⭠ *missing.* Same files, fresh instance, changed stance. S02-A returned 12/12 uniform; by our own rule that's void until a second instance splits or confirms. Divergence is the signal and we've never had one.
+
+**USE-TESTER** ⭠ *missing.* Every mechanism has been a specimen. Nobody has used one on a live problem. Named twice in the corpus as cheap and never built.
+
+**CLOSER** — runs EMPTY-POCKETS on any scout before it shuts. Exists as a file, never used this session. Its own record says it produced the biggest finding of every run it's been used on.
+
+---
+
+**Where the saves go, and the format you asked for**
+
+⚡ Quick Adds → STANDARDS.md above ◆4039. Session state → SAVE.md, bottom. Registry moves → PATTERN-REGISTRY.md. Scout reports raw → RESULTS.md, messy and kept.
+
+**⚡ QUICK SAVE — 2026-08-02 (🌡️Barometer29) → SAVE.md, bottom**
+
+```
+PROMPT UPGRADES LIFTED FROM PROMPT-SYNTH-FEEDBACK v2.1 AND
+PROMPT-EMPTY-POCKETS v3 — adopt into every scout prompt.
+
+1. MARK EVERY ANSWER: HELD (text in context, copying) · RECALLED
+   (reconstructing — a lead, not a receipt) · UNKNOWN. Unmarked
+   answers get discarded. WHY: two rules shipped as RECALLED
+   wearing HELD clothes. Scout claims currently carry no provenance
+   mark at all.
+2. MARK SELF-REPORTS: CHECKABLE (someone can verify by reading
+   back) or PLAUSIBLE (sounds right, nothing tests it). A run with
+   no PLAUSIBLE marks is less honest, not more.
+3. ASK "WHAT IN MY INSTRUCTIONS MADE YOU WORSE." Prompts here have
+   twice forbidden the actual job by accident. S02-A answered this
+   unasked and it killed the CONTAINS test.
+4. ASK "WHAT DID YOU ALMOST WRITE AND CUT." Cheap to list,
+   impossible to recover later.
+5. ASK "WHICH FINDING WOULD YOU BET ON BEING WRONG, and what would
+   show it." Replaces fidelity %, which tracked nothing — two
+   graders who disagreed completely self-graded within five points.
+6. ASK "WHAT HALTED, AND WHAT IS THE NEXT RUNG." Slaps have rungs;
+   questions did not.
+7. FREE SLOT GETS THE UNIFORM RULE TOO: "nothing to add" from every
+   helper every time is the same uniform signature as everything
+   else — say why.
+8. BOUNDARY ON THE UNIFORM RULE: it applies to JUDGMENT outputs
+   only. Mechanical controls are SUPPOSED to be uniform. The canary
+   has fired identically four times and been right each time.
+
+SCOUT ROLE TYPES — three exist, three are missing.
+EXIST: FINDER (wide, mechanisms out — all seven runs so far) ·
+GRADER (audits a finder's output — ran once, cut 28 to 10) ·
+CLOSER (runs EMPTY-POCKETS before a helper shuts — file exists,
+unused this session).
+MISSING: PROSECUTOR (no adversarial seat anywhere in the live
+method; the Stress Test lineage had Hostile Witnesses and the
+registry lineage lost them in compression — biggest hole) ·
+RE-READER (same files, fresh instance, changed stance; divergence
+was named as the signal and there has never been one) ·
+USE-TESTER (every mechanism has been a specimen; nobody has used
+one on a live problem — named cheap twice, never built).
+
+WHAT I TOOK FROM THE PASTED PROMPTS, stated because I failed to
+state it twice: the joint-pass body, the provenance-inheritance
+rule (SUPPLIED + SUPPLIED = pure apparatus, does not travel), and
+permanent numbering from J-41. All three were better than what I
+had written and all three came from existing field-run prompts.
+THE FAILURE: I hand-rolled worse versions of FILE-REFERENCE-
+TEMPLATE, the joint prompt, and Message 3's Integration Format for
+nine turns while all three existed. The Loading Check says search
+for the verb before building. I could not search, because I did not
+hold the tool files, because the onboarding led with philosophy.
+
+ONBOARDING FIX — order, not content. TOOLS FIRST, STATE SECOND,
+STORY NEVER. Paste order for the next keeper: link list ·
+FILE-REFERENCE-TEMPLATE · the live prompts · the registry · then
+what is open. The seven truths and the keeper's log are commentary
+and are what rotated the last two keepers by their own account.
+```
+
+Next prompts carry all eight upgrades. Prosecutor and re-reader are the two I'd build first — say which and they come complete.

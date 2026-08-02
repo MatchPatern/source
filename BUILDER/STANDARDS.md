@@ -2012,4 +2012,94 @@ The bodies may not have."
 
 ---
 
+⚡ QUICK ADD — 2026-08-02 (🌡️Barometer29)
+Finding — FALSE ABSENCE: a 🪦 ruling needs every door tried
+
+THE RULE: Before marking any file 🪦 CONFIRMED ABSENT, run the full
+door ladder in FILE-REFERENCE-TEMPLATE — explicit path, REV- prefix
+in the same folder, GitHub blob, GitHub raw, and the dedicated repo
+for ALL-CAPS-WITH-HYPHENS names. An absence declared from a partial
+search is a phantom pointed the other way: it tells the next keeper
+to stop looking for something that is there.
+
+WHY: Three times in this project, twice in one session. Message 3
+was ruled 🪦 on three NOT-HELD reports and two clean file searches
+— it existed as a REV- file. PATTERN-REGISTRY was called dead from
+RAW/RAW-PATTERN-REGISTRY.md — it lives in SYNTH/. Both rulings were
+confident, both were wrong, both would have cost the next keeper the
+file. The phantom rule already exists for things claimed present and
+absent; this is its mirror and it had no rule.
+
+Confidence: 95% 🧾 (two live cases this session, both mine)
+Suggested home: ⁶M📋 Session Rhythm beside VERIFY-BEFORE-YOU-ACT,
+or ¹⁵E📋 as a guard on the 🪦 mark. NEXT-BUILDER: the door ladder is
+the check — do not write your own, fetch the template.
+
+⚡ QUICK ADD — 2026-08-02 (🌡️Barometer29)
+Finding — DOUBLE-PASTE RULE needs a boundary
+
+⁶M📋 currently reads: "instances do NOT follow links in pasted files
+— a link is metadata for humans, not operational." TRUE for links
+sitting inside a pasted document. FALSE for URLs written into a
+prompt as fetch instructions.
+
+EVIDENCE AGAINST THE UNBOUNDED FORM: five scout runs this session
+fetched cleanly from URLs written into their prompts. The canary
+fired correctly four times, no fallback pages served. As written,
+the rule forbids the practice now carrying the whole project.
+
+THE BOUNDARY: a link inside pasted CONTENT is metadata and gets
+skipped. A URL written into the PROMPT as an instruction is
+operational and gets fetched. Write URLs into prompts in full;
+never rely on a link inside a document you pasted.
+
+Confidence: 90% 🧾 (five live runs, one session, one substrate —
+wants a second substrate before the boundary is treated as settled)
+Suggested home: ⁶M📋, one line under DOUBLE-PASTE RULE.
+
+⚡ QUICK ADD — 2026-08-02 (🌡️Barometer29)
+Finding — FETCH BEATS PASTE (transport rule)
+
+THE RULE: the carrier pastes only what has no URL. Anything with an
+address goes to a helper who fetches it.
+
+EVIDENCE, both directions. Paste failures on record: Message 3
+arrived empty three times · two placeholders shipped · SYNTH URLs
+broken by a line break mid-URL · RAW-044 carrying a trailing space ·
+two scout reports that did not travel at all this session.
+Fetch failures on record: none. The only fetch problem was a size
+limit on a large file, which is capacity, not fidelity.
+
+WHY IT MATTERS BEYOND HYGIENE: every documented baton drop in this
+project was "the text didn't travel," never bad judgment. The
+bottleneck was never the thinking. The one thing that cannot be
+fetched is the carrier, so pastes are spent on that and nothing else.
+
+Confidence: 90% 🧾 (accumulated across this session and the record)
+Suggested home: ⁶M📋 near CAPACITY & TRANSFER, or ³S📋.
+
+⚡ QUICK ADD — 2026-08-02 (🌡️Barometer29)
+Finding — PROVENANCE SPAN on every joint
+
+THE RULE: a joint between two pieces carries the tags of both.
+[A]+[A] strongest · [A]+[F] mixed · [F]+[F] APPARATUS-TO-APPARATUS,
+marked, and it does not travel forward.
+
+WHY: the registry already rules SUPPLIED + SUPPLIED = pure apparatus.
+That rule existed for joints-of-joints and was never applied one
+level down, to the pieces themselves. Nearly all of REGISTRY-P is
+[F]. A joint pass without the span rule produces a map of the
+apparatus agreeing with itself and reads as structure.
+
+FIELD RESULT, first run: 6 of 28 joints came back [F]+[F], and the
+scout reported unprompted that they "stay coherent inside their own
+register but never pull an [A] piece in." The rule caught what it
+was built to catch on its first use.
+
+Confidence: 90% 🧾 (one run, one substrate — wants a second)
+Suggested home: PATTERN-REGISTRY standing rules, beside the
+ABSTRACTION-INFLATION TRAP.
+
+---
+
 ◆4039

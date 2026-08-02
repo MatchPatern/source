@@ -369,10 +369,11 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-078.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-079.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-080.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-081.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-082.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-083.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET1.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET2.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SUPPLEMENT.md
-https://source-sepia-alpha.vercel.app/RAW/RAW-PATTERN-REGISTRY.md
 
 https://source-sepia-alpha.vercel.app/SYNTH/RESULTS.md
 https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-2.md
@@ -402,6 +403,10 @@ https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-SYNTH-FEEDBACK.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-3.7.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md
 https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md
+
+https://source-sepia-alpha.vercel.app/SYNTH/PATTERN-REGISTRY.md
+
+https://source-sepia-alpha.vercel.app/SYNTH/PATTERN-24-CANDIDATES.md
 
 And a results file where saves all the scouts and general responses from synths to them here : 
 https://source-sepia-alpha.vercel.app/SYNTH/RESULTS.md

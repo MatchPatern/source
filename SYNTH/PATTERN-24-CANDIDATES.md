@@ -1,3 +1,5 @@
+https://source-sepia-alpha.vercel.app/SYNTH/PATTERN-24-CANDIDATES.md
+
 YOUR PASTE CHECKLIST — new synth setup
 
 1. BRIEFING v7 + file-list + STEP ZERO   ← one paste, all three

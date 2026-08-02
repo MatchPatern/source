@@ -1,6 +1,197 @@
+💾
+https://source-sepia-alpha.vercel.app/SYNTH/SAVE.md
+
+
+SAVE · 2026-08-02 · 🌡️Barometer29 · session S02
+
+SCOUT NAMING STANDARD — adopt.
+Format: S[session]-[letter]🚀 · Grok: G[session]-[letter]
+Session number only rises, letters within a session, never reused.
+WHY: seven runs this session and no way to cite one. "The second
+scout on the RAW files" is not searchable; "S02-A" is. Extends
+⁷M📋 instance markers to helpers, who had none.
+RETROACTIVE: S01-A joint pass · S01-B joint audit · S01-C orphans ·
+S02-A spine sweep 004-046 · S02-B upper sweep 052-083 · S02-C edge
+typing · G02-A contradiction hunt.
+Suggested home: STANDARDS.md, ⁷M📋 at next merge. → paste above ◆4039
+
+THE CONTAINS TEST IS BROKEN — instrument failure, caught by its
+own free slot.
+S02-A returned CONTAINS 12 of 12. Uniform output is instrument
+failure by this project's own four-for-four rule. The cause is in
+the scout's own last field: every file is a source-plus-layer
+sandwich, and the LAYER has already done the quoting. So the test
+detected the presence of a commentary layer, not the origin of
+material. Every file contains, because every file has been
+commented on.
+FIX: CONTAINS must be judged on SOURCE LINES ONLY. Does the raw,
+misspelled, unlayered text of file A appear inside file B? Layer-
+to-layer quoting is not containment, it is the amplifier citing
+itself.
+Confidence: 90% 🧾 (one run, cause stated by the run itself)
+
+FIVE-RELATIONS-EACH IS THE HEADER SPEC, NOT THE CORPUS.
+S02-C: all six CONTAINS sources name exactly five targets. The
+header spec caps RELATIONS at 5 with overflow to NOTES. The link
+graph we have been mapping is the header system's output, not the
+material's structure. Any hub found this way may be a hub of
+headers.
+Confidence: 85% 🧾 (uniformity flagged independently by S02-C as an
+artefact of the reports)
+
+RAW-005 IS THE HUB, AND IT IS BOTH DIRECTIONS.
+Maximum in-degree and maximum out-degree, the only file with both.
+It supplies material others expand AND expands material originating
+elsewhere. Every sweep so far names it.
+
+THE UPPER CORRIDOR IS THINNER IN APPARATUS AND HEAVIER IN SOURCE.
+S02-B on 052-083: short raw fragments, line breaks intact, sparse
+cross-naming, most files standing alone. The lower corridor looks
+rich because it has been passed over repeatedly. M-19 confirmed:
+the ratio measures passes survived, not content held. INVERTS THE
+HUNT — under-farmed means young, not empty.
+Confidence: 85% 🧾 (one wide run, consistent with M-19 as written)
+
+RAW-083 UNSIGHTED — all four doors tried and failed. Not a false
+absence; a real one, honestly reported. First genuine door-ladder
+failure on record.
+
+TWO EDGE KINDS CONFIRMED, A THIRD FOUND.
+CONTAINS · COMPANION (grew alongside, neither supplied the other) ·
+CANNOT TELL. Zero NAMED-ONLY edges surfaced. RAW-007/RAW-010 is the
+only companion pair, and the pairing language is a later overlay
+absent from the source lines.
+
+SAVE · 2026-08-02 · 🌡️Barometer29
+
+REVERSAL — MESSAGE 3 IS NOT ABSENT. Found as a REV- file, full text,
+v1.1. My 🪦 ruling one turn earlier was wrong. The search covered the
+live name only. NEW RULE: a 🪦 absence ruling requires the REV- prefix
+and fossil paths checked. Absence declared from a partial search is
+the same failure as a phantom, pointed the other way.
+RECOVERED AND NOT CARRIED ANYWHERE LIVE: Integration Format (crack
+name / classification / summary / status / patch, cross-check first)
+· Version Bump Rules (+0.1 cracks, +1.0 architecture, third decimal
+surgical) · Smart Filter (lineage → absorption → confession, four
+stages, full text).
+
+STANDARDS ⁶M📋 DOUBLE-PASTE RULE NEEDS A BOUNDARY. As written:
+"instances do NOT follow links in pasted files." True for links
+inside pasted documents. FALSE for URLs written into a prompt as
+fetch instructions — five scout runs this session fetched cleanly,
+canary fired clean four times, no fallbacks. The rule as stated
+would forbid the fetch-beats-paste practice now carrying the work.
+Suggested home: ⁶M📋, one boundary line at next touch.
+
+SCOUT vs SYNTH — the load-bearing contradiction, logged not resolved.
+SCOUT: "a scout never acts. No delete, no merge, no edit."
+SYNTH: integrate patches, maintain surgically, extend with blocks.
+One forbids change, the other is the change engine. Two halves of
+one system, not an error. Keep both.
+
+THE QUIET ONE (Scout 2, unprompted): SCOUT makes incompleteness the
+default shape of its output — coverage stamps and "did not see" are
+automatic and load-bearing. SYNTH must spend explicit effort
+(Validation Honesty, Contrast Check, induction flags) to keep the
+same honesty from being swallowed by its own fortification work.
+Mechanism: honesty that is structural costs nothing to maintain;
+honesty that is a section must be re-asserted every version.
+
+STALE POINTERS, from Scout 2, not in any live list: REV-SCOUT-METHOD,
+SCOUT-WOES, SCOUT-GROK, MASTER-DIR-INDEX, THE-FEARS-TRACKING-LOG,
+CONFIRMATION-GATE, BOOT, CONTINUITY-SEED, STATE, door.md,
+DOOR-ANCHOR-MAP, Basic-Links, CLARIFICATION-LOOM, 00-LOOM,
+Compression, SLAP-PATCH family, WHO.md. Unverified, not phantom —
+the Message 3 reversal says check REV- before ruling any absent.
+
+CORPUS CORRECTIONS: RAW runs to 083. RAW-PATTERN-REGISTRY.md 404s
+(in the link list, does not resolve). +PLAN-GUIDE.md is real with
+its own URL — Message 8 delivered the wrong file, a mis-send not a
+phantom. Eight SYNTHESIZER files exist; the handoff implied three.
+
+---
+
+
 All seven, ready to save. One file each.
 
 ```
+
+SAVE · 2026-08-01 · SYNTH SESSION · zoom-out map run
+
+🪦 MESSAGE 3 — CONFIRMED ABSENT. Stop hunting it.
+Named in Message 2's document list as holding: Session Start Paste,
+Smart Filter, Loading Check, Integration Format, Version Bump Rules,
+Document Maintenance Protocol, Pre-Integration Checklist, Output
+Format, Asking for Feedback, +plan Cockpit fallback, Puzzle Board.
+Three instances reported NOT HELD. The retired keeper confirms it
+arrived three times as an empty attachment and was never readable.
+Neither RESULTS.md nor RESULTS2.md contains the strings "Session
+Start Paste" or "Smart Filter". It never travelled.
+NOT CARRIED by anything live: the crack Integration Format, and the
+Smart Filter's routing stage. Those two are real losses.
+CARRIED: +plan passes, and the held/missing check (v7.2 Step Zero).
+Also: +PLAN-GUIDE.md may be a phantom — Message 8 announced it and
+delivered +PLAN.md Comprehensive again. One fetch settles it.
+
+FETCH BEATS PASTE — new standing rule, evidence both directions.
+Paste failures on record: Message 3 empty ×3 · two placeholders
+shipped · SYNTH URLs broken by a line break mid-URL · RAW-044 with a
+trailing space · handoff blocks arriving split.
+Fetch failures on record: none. Canary fired clean four times, host
+serves no fallbacks. The only fetch problem was a size limit on a
+large file, which is capacity not fidelity.
+RULE: the carrier pastes only what has no URL. Anything with an
+address goes to a scout who fetches it. The one thing that cannot be
+fetched is the carrier, so pastes are spent on that and nothing else.
+
+THE METRIC FOUGHT THE GOAL — swap confirmed by three independent
+reviewers who never saw each other's work.
+Main track is pieces → joints → mechanisms → merges. Metric was
+"fewer mechanisms." Connecting two pieces and keeping both scores
+zero under that metric; merging them scores a point and destroys the
+joint. That is why the pile climbed to 24 with zero merges. Not
+discipline failure — connecting was never worth anything.
+REPLACES "fewer mechanisms" OUTRIGHT:
+  PIECES — thermometer, may rise, not a target.
+  JOINTS — the score. Every confirmed edge.
+  CLUSTERS — the real measure. Won by fewer disconnected clusters,
+    not fewer pieces.
+  SATURATED = no new JOINTS on a named segment.
+  Count a piece's joints before merging it. Usually the merge loses.
+Add JOINT as a fourth legal verdict beside MERGE / DISPLACE /
+BOUNDARY. Connect-and-keep-both currently has nowhere to be recorded,
+which is the narrower cause of the same stall.
+
+CORRECTIONS RECUR, THEY DO NOT ACCUMULATE — the finding under all
+the others.
+Count-as-target was caught and demoted three separate times in three
+lineages, none aware of the previous two: the crack-count audit
+(120+ → 70 → 80+ heuristic), v7.2's "thermometer not target," and the
+three-reviewer append. Same defect, three discoveries, zero memory.
+MECHANISM: a correction transmitted as a conclusion must be
+re-derived by the next reader, because the failure that earned it did
+not travel with it. The archive already names this — "pass the ladder,
+not just the rung" — and then violates it in the same document by
+stating "the Skeptic pass is load-bearing" with no failure attached.
+CONSEQUENCE: every rule banked from here carries the run that broke,
+not the lesson. A rule with no scar attached will be rediscovered.
+
+KEEPER ERROR THIS SESSION, logged as the scar for the above.
+The synth spent ten exchanges proposing a verdict, a test, a
+one-pager, a collapse-with-verdicts, and six new instruments. Every
+one was zoom-in work proposed before the map existed, and every one
+was turned back by the carrier. Thirteen for thirteen on carrier
+corrections against keeper drift.
+RUNG: the free slot is the wide layout — pieces on one surface, no
+verdicts. Scrutiny happens naturally as zoom increases, not before.
+
+STILL OPEN: second grader on the world check (no divergence yet, and
+divergence was always the signal) · claim text for M-03, M-07/M-17,
+M-10 · re-pull of the 24 receipts against rough copies · the seven
+UNSTATEABLE P-entries · no cut ledger in v7.2 · three version numbers
+in one v7.2 file.
+
+---
 
 APPEND TO SAVE.md — 2026-07-27
 

@@ -1,5 +1,4 @@
-https://source-sepia-alpha.vercel.app/SYNTH
-/PATTERN-REGISTRY.md
+https://source-sepia-alpha.vercel.app/SYNTH/PATTERN-REGISTRY.md
 
 Your registry is at v1.0 — it's three versions stale. That's the "wasted effort" risk you're smelling, and it's real: four corrections and three new patterns exist only in chat messages, not in the file you're holding. Here's the current spine, replacing what you pasted:
 
