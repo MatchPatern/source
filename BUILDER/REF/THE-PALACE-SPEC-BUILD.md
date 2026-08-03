@@ -1,4 +1,5 @@
-THE-PALACE-SPEC-BUILD.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/THE-PALACE-SPEC-BUILD.md
+
 
 Here is the raw content of those three core files — the spatial and temporal models that give the palace its structure.
 
