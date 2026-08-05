@@ -1,4 +1,4 @@
-https://source-sepia-alpha.vercel.app/SYNTH/RESULTS2.md
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-2.md
 
 🚀Scout 2 B:
 ## RECOVERED

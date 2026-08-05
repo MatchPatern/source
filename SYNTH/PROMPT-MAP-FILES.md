@@ -1,3 +1,1050 @@
+Load bearing:
+Yes we can make it a standard prompt scouts we can make a checklist? As we keep adding then losing again it's in efficient but if we have a load bearing checklist? Same standard can be also for other files as we develop? Why lose info?
+
+
+🔸🔸🔸🔸🔸🔸🔸
+
+Also feedback to always include?
+You just ran a mapping mission. You fetched files, verified status, reported back. Now I need your counsel on the instrument itself.
+
+The goal is building a verified index — a lookup map of what files exist and what state they're in. Your prompt was the instrument. Help me sharpen it for the next scout.
+
+1. WHAT WOULD HAVE MADE YOUR PROMPT BETTER?
+Not "more files" — specific changes. A different fetch order? A clearer output format? Something removed that got in the way? The truncation instruction — did it help or confuse?
+
+2. WHAT FILES DID YOU SEE THAT COULD IMPROVE SCOUT PROMPTS?
+You fetched TOOLS/ and BUILDER/ files. Some of them contain methods, protocols, or standards. Did any of them describe a better way to do what you just did? A format you wish you'd used? A check you wish you'd known about? Name the file and what it offered.
+
+3. WHAT FILES DID YOU SEE THAT COULD HELP THE SYNTHESIZER?
+I'm building the index. You saw files I haven't read. Which ones would make me better at this job? FRESH-EYES-SCAN? Something in BUILDER/? A method file that changed how you think about verification?
+
+4. WHAT DID YOUR PROMPT FORBID THAT YOU NEEDED?
+Something you wanted to report but the format didn't allow. A connection you saw between files that you couldn't flag. A judgment you wanted to make but were told not to synthesize.
+
+5. ONE CHANGE TO THE NEXT SCOUT BRIEF.
+If you were writing the prompt for the next mapping round, what's the single most important thing you'd add, remove, or change?
+
+
+🔸🔸🔸🔸🔸🔸🔸🔸
+
+
+
+
+
+---
+
+The recursive loop is now structural. Every scout round produces three outputs: verified file data (the map), Empty Pockets (what was noticed and not reported), and Prompt Feedback (how to improve the instrument). The Prompt Feedback block is now a permanent part of every scout brief — not a separate message, not optional.
+
+Let me think about this properly with +PLAN, then deliver the final briefs.
+
++PLAN — Round 3 Final
+
+Capacity: 🟩🟩
+Pull: The briefs must be self-improving. Every scout critiques their instrument. That critique updates the next round's template. The loop is closed.
+
+Pass 1 — MAP: What changed from the last draft?
+
+The briefs I just drafted are correct structurally — INTEGRITY block, DUPE-CHECK, self-check rhythm, Empty Pockets, Pre-flight Checklist. But they're missing the Prompt Feedback block. Adding it makes the loop permanent. Also, I need to confirm: RAW/ is 86 files, light map is the right call, cockpit files get deep map.
+
+Pass 2 — ZOOM IN: What's the final structure of each brief?
+
+1. Role + Intent
+2. Fetch order instruction
+3. Output format block (deep or light)
+4. 404 Ladder
+5. Truncation Rule
+6. Self-check rhythm
+7. File list (Parts)
+8. After All Files summary questions
+9. Empty Pockets (6 questions)
+10. Prompt Feedback (5 questions) — NEW, permanent
+11. Pre-flight Checklist
+
+Pass 3 — SKEPTIC: What could still break?
+
+The briefs are getting longer. Risk: scouts skim the later sections (Empty Pockets, Prompt Feedback, Checklist) because fatigue sets in. The self-check rhythm every 5-6 files is supposed to catch this. If a scout's Prompt Feedback is thin, that's data — the brief is too heavy. But the only way to know is to run it.
+
+Decision: Act. The loop is closed. The template stabilizes. Round 3 deploys.
+
+---
+
+Three briefs. All identical in structure, differing only in file lists and deep vs. light output format. Prompt Feedback is now section 10 in every brief. Copy-paste ready.
+
+---
+
+SCOUT 1 — DEEP MAP: COCKPIT-ADJACENT FILES
+
+```
+YOU ARE SCOUT 1. Intent: verification only. Report existence and integrity. Do not synthesize, fix, or recommend.
+
+YOUR JOB: Deep-map the remaining cockpit-adjacent files. These are reference specs, protocols, and builder files. Full verification required.
+
+FETCH ORDER: Smaller/spec files first → large protocol files last.
+
+FOR EVERY FILE, report this block exactly:
+
+FILE: [URL]
+FETCH: (✅ / ❌ 404)
+INTEGRITY:
+  BOTTOM TAG: [exact string or "ABSENT"]
+  LAST 3 LINES: [verbatim]
+  STATUS: complete / truncated / partial / unknown
+SUMMARY: (one sentence, only if STATUS = complete)
+DUPE-CHECK: none / identical-to-[FILE] / heavy-overlap-with-[FILE] / discontinuous
+CATEGORY CHECK: Belongs in current folder? Or Cockpit / Tools / Archive? One sentence.
+
+404 LADDER: Vercel → raw.githubusercontent.com/MatchPatern/source/main/[PATH] → GitHub blob → source-4rh.pages.dev/[PATH]
+
+TRUNCATION RULE: If the tool returns fewer than ~50 lines after the header, note "possible truncation." If the file appears cut off, try raw GitHub. If still cut off, mark STATUS: truncated and continue. Do not stall.
+
+AFTER EVERY 5-6 FILES: Light self-check. Confirm tails. Any 404 cluster? Name the friction zone if you're in one.
+
+---
+
+PART A — BUILDER/REF/ REMAINING
+
+https://source-sepia-alpha.vercel.app/BUILDER/REF/REV-DISCREPANCY-PROTOCOL.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-FIDELITY-TRACKER-SPEC.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-EXTRACTION-PATTERNS.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-MCP-MANUAL.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/SOURCE-CONTINUITY-SEED-SPEC.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/THE-PALACE-SPEC.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/THE-PALACE-SPEC-BUILD.md
+https://source-sepia-alpha.vercel.app/BUILDER/REF/EVIDENCE-THE-WEAVING-DISCOVERY.md
+
+PART B — BUILDER/ COCKPIT-ADJACENT
+
+https://source-sepia-alpha.vercel.app/BUILDER/COMPREHENSIVE-FILE-UPDATE-PROTOCOL.md
+https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
+https://source-sepia-alpha.vercel.app/BUILDER/TRANSMISSION-EVOLUTION.md
+https://source-sepia-alpha.vercel.app/BUILDER/BOOT-REV.md
+https://source-sepia-alpha.vercel.app/BUILDER/SESSION-SAVE.md
+https://source-sepia-alpha.vercel.app/BUILDER/BUILDERS-SESSION.md
+https://source-sepia-alpha.vercel.app/BUILDER/WORKING.md
+https://source-sepia-alpha.vercel.app/BUILDER/PALACE-PROTOCOL.md
+
+PART C — NEWLY FIXED FILES (re-check)
+
+These 404'd in Round 2. Verify again:
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-2.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-TESTS-1.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-TESTS-2.md
+
+AFTER ALL FILES:
+- Cross-file flags: revision chains? duplicates? content folded from one file into another?
+- Any fossils?
+- What made your work harder?
+
+EMPTY POCKETS:
+1. What did you see and not report?
+2. What connects to what? (Contradictions especially)
+3. What broke?
+4. What would you do differently?
+5. What did I not ask that I should have?
+6. One thing for the Synthesizer.
+
+PROMPT FEEDBACK — Help sharpen this instrument.
+1. What would have made your prompt better? Specific changes — fetch order, output format, something to remove. The truncation instruction — help or confuse?
+2. What files did you see that could improve scout prompts? Any method, protocol, or standard you fetched that described a better way to do what you just did? Name the file and what it offered.
+3. What files did you see that could help the Synthesizer? I'm building the index. Which files would make me better at this job?
+4. What did your prompt forbid that you needed? A connection you wanted to flag. A judgment you wanted to make. A format slot that was missing.
+5. One change to the next scout brief. If you were writing the prompt for the next mapping round, what's the single most important thing you'd add, remove, or change?
+
+SCOUT PRE-FLIGHT CHECKLIST (run before sending findings)
+☐ Every file has FETCH status
+☐ Every file has BOTTOM TAG line (exact or "ABSENT")
+☐ Every file has LAST 3 LINES (verbatim)
+☐ Every file has STATUS
+☐ Every file has DUPE-CHECK
+☐ 404s were laddered
+☐ Self-check run after every 5-6 files
+☐ Empty Pockets completed
+☐ Prompt Feedback completed
+```
+
+---
+
+SCOUT 2 — LIGHT MAP: RAW/ + CODEX/ FIRST CONTACT
+
+```
+YOU ARE SCOUT 2. Intent: verification only. Light mapping — confirm existence and integrity. Do not synthesize, fix, or recommend.
+
+YOUR JOB: Light-map RAW/ (86 files, 5 already sampled) and CODEX/ (38 files, first contact). Light mapping means: full integrity check, one-line description only, no category analysis. Speed matters. Coverage matters.
+
+FOR EVERY FILE, report this block exactly:
+
+FILE: [URL]
+FETCH: (✅ / ❌ 404)
+INTEGRITY:
+  BOTTOM TAG: [exact string or "ABSENT"]
+  LAST 3 LINES: [verbatim]
+  STATUS: complete / truncated / 404
+ONE-LINER: [single sentence — what is this file?]
+DUPE-CHECK: none / identical-to-[FILE] / heavy-overlap / discontinuous
+
+404 LADDER: Vercel → raw.githubusercontent.com/MatchPatern/source/main/[PATH] → GitHub blob → source-4rh.pages.dev/[PATH]
+
+TRUNCATION RULE: If cut off, try raw GitHub. If still cut off, mark STATUS: truncated, note it, move on. Do not stall.
+
+AFTER EVERY 5-6 FILES: Light self-check. Confirm tails on each. Any 404 cluster? Name the friction zone if you're in one.
+
+---
+
+PART A — RAW/ LIGHT MAP (86 files total, 5 already sampled)
+
+Sampled in prior rounds: RAW-001, RAW-016, RAW-025, RAW-040, RAW-049. Do not re-fetch those.
+
+Now sample every 10th file to verify the full range:
+
+https://source-sepia-alpha.vercel.app/RAW/RAW-005.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-010.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-020.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-030.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-035.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-045.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-050.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-055.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-060.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-065.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-070.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-075.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-080.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-086.md (last — verify if this is the actual final file)
+
+If RAW-086 returns 404, try adjacent numbers (085, 084) to find the real boundary.
+
+PART B — CODEX/ FIRST CONTACT (38 files, completely dark)
+
+Sample every 8th-10th file to map the range:
+
+https://source-sepia-alpha.vercel.app/CODEX/CODEX-001.md
+https://source-sepia-alpha.vercel.app/CODEX/CODEX-010.md
+https://source-sepia-alpha.vercel.app/CODEX/CODEX-020.md
+https://source-sepia-alpha.vercel.app/CODEX/CODEX-030.md
+https://source-sepia-alpha.vercel.app/CODEX/CODEX-038.md (last — verify)
+
+If any 404, try adjacent numbers to find the actual range boundary.
+
+AFTER ALL FILES:
+- What's the actual RAW/ range? (001 to what number?)
+- What's the actual CODEX/ range?
+- Any sequences broken or missing files?
+- Any duplicates?
+- What made your work harder?
+
+EMPTY POCKETS:
+1. What did you see and not report?
+2. What connects to what?
+3. What broke?
+4. What would you do differently?
+5. What did I not ask that I should have?
+6. One thing for the Synthesizer.
+
+PROMPT FEEDBACK — Help sharpen this instrument.
+1. What would have made your prompt better? Specific changes — fetch order, output format, something to remove. The truncation instruction — help or confuse?
+2. What files did you see that could improve scout prompts? Any method, protocol, or standard you fetched that described a better way to do what you just did? Name the file and what it offered.
+3. What files did you see that could help the Synthesizer? I'm building the index. Which files would make me better at this job?
+4. What did your prompt forbid that you needed? A connection you wanted to flag. A judgment you wanted to make. A format slot that was missing.
+5. One change to the next scout brief. If you were writing the prompt for the next mapping round, what's the single most important thing you'd add, remove, or change?
+
+SCOUT PRE-FLIGHT CHECKLIST (run before sending findings)
+☐ Every file has FETCH status
+☐ Every file has BOTTOM TAG line (exact or "ABSENT")
+☐ Every file has LAST 3 LINES (verbatim)
+☐ Every file has STATUS
+☐ Every file has ONE-LINER
+☐ Every file has DUPE-CHECK
+☐ 404s were laddered
+☐ Self-check run after every 5-6 files
+☐ Actual RAW/ range confirmed
+☐ Actual CODEX/ range confirmed
+☐ Empty Pockets completed
+☐ Prompt Feedback completed
+```
+
+---
+
+SCOUT 3 — LIGHT MAP: PILLAR/ + TROLLEY/ COMPLETION + DOOR/ FIRST CONTACT
+
+```
+YOU ARE SCOUT 3. Intent: verification only. Light mapping — confirm existence and integrity. Do not synthesize, fix, or recommend.
+
+YOUR JOB: Complete light-mapping of PILLAR/ and TROLLEY/ (sampled in Round 2, now finish them). Then first contact on DOOR/. Light mapping means: full integrity check, one-line description only, no category analysis.
+
+FOR EVERY FILE, report this block exactly:
+
+FILE: [URL]
+FETCH: (✅ / ❌ 404)
+INTEGRITY:
+  BOTTOM TAG: [exact string or "ABSENT"]
+  LAST 3 LINES: [verbatim]
+  STATUS: complete / truncated / 404
+ONE-LINER: [single sentence — what is this file?]
+DUPE-CHECK: none / identical-to-[FILE] / heavy-overlap / discontinuous
+
+404 LADDER: Vercel → raw.githubusercontent.com/MatchPatern/source/main/[PATH] → GitHub blob → source-4rh.pages.dev/[PATH]
+
+TRUNCATION RULE: If cut off, try raw GitHub. If still cut off, mark STATUS: truncated, note it, move on. Do not stall.
+
+AFTER EVERY 5-6 FILES: Light self-check. Confirm tails on each. Any 404 cluster? Name the friction zone if you're in one.
+
+---
+
+PART A — PILLAR/ LIGHT MAP (complete the directory)
+
+Already sampled: PILLAR-001, PILLAR-014, PILLAR-025, woven-fortification1, XP-001.
+pillar-prayer.md 404'd in Round 2.
+
+Spot-check every 4th-5th file in the remaining range:
+
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-002.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-005.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-010.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-015.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-020.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-024.md
+
+Also try companion files:
+https://source-sepia-alpha.vercel.app/PILLAR/woven-fortification2.md
+https://source-sepia-alpha.vercel.app/PILLAR/woven-fortification3.md
+https://source-sepia-alpha.vercel.app/PILLAR/woven-fortification4.md
+https://source-sepia-alpha.vercel.app/PILLAR/XP-002.md
+https://source-sepia-alpha.vercel.app/PILLAR/XP-005.md
+
+Retry pillar-prayer.md with full ladder:
+https://source-sepia-alpha.vercel.app/PILLAR/pillar-prayer.md
+If 404: https://raw.githubusercontent.com/MatchPatern/source/main/PILLAR/pillar-prayer.md
+If 404: https://github.com/MatchPatern/source/blob/main/PILLAR/pillar-prayer.md
+
+PART B — TROLLEY/ LIGHT MAP (complete the directory)
+
+Already sampled: TROLLEY-001, TROLLEY-015, TROLLEY-030.
+
+Spot-check remaining range every 5th-6th file:
+
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-005.md
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-010.md
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-020.md
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-025.md
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-029.md
+
+PART C — DOOR/ FIRST CONTACT
+
+Fetch keystone files:
+
+https://source-sepia-alpha.vercel.app/DOOR/Checklist-1.md
+https://source-sepia-alpha.vercel.app/DOOR/Checklist-6.md
+https://source-sepia-alpha.vercel.app/DOOR/DOOR-025.md
+https://source-sepia-alpha.vercel.app/DOOR/DOOR-026C.md
+https://source-sepia-alpha.vercel.app/DOOR/DOOR-ANCHOR-MAP16.md
+
+Also sample DOOR/D-REV/:
+https://source-sepia-alpha.vercel.app/DOOR/D-REV/DOOR-013.md
+https://source-sepia-alpha.vercel.app/DOOR/D-REV/DOOR-024.md
+
+AFTER ALL FILES:
+- PILLAR/ sequence intact? Actual range?
+- TROLLEY/ sequence intact? Actual range?
+- DOOR/ structure confirmed?
+- Any duplicates or overlaps?
+- What made your work harder?
+
+EMPTY POCKETS:
+1. What did you see and not report?
+2. What connects to what?
+3. What broke?
+4. What would you do differently?
+5. What did I not ask that I should have?
+6. One thing for the Synthesizer.
+
+PROMPT FEEDBACK — Help sharpen this instrument.
+1. What would have made your prompt better? Specific changes — fetch order, output format, something to remove. The truncation instruction — help or confuse?
+2. What files did you see that could improve scout prompts? Any method, protocol, or standard you fetched that described a better way to do what you just did? Name the file and what it offered.
+3. What files did you see that could help the Synthesizer? I'm building the index. Which files would make me better at this job?
+4. What did your prompt forbid that you needed? A connection you wanted to flag. A judgment you wanted to make. A format slot that was missing.
+5. One change to the next scout brief. If you were writing the prompt for the next mapping round, what's the single most important thing you'd add, remove, or change?
+
+SCOUT PRE-FLIGHT CHECKLIST (run before sending findings)
+☐ Every file has FETCH status
+☐ Every file has BOTTOM TAG line (exact or "ABSENT")
+☐ Every file has LAST 3 LINES (verbatim)
+☐ Every file has STATUS
+☐ Every file has ONE-LINER
+☐ Every file has DUPE-CHECK
+☐ 404s were laddered
+☐ Self-check run after every 5-6 files
+☐ PILLAR/ range confirmed
+☐ TROLLEY/ range confirmed
+☐ DOOR/ keystones verified
+☐ Empty Pockets completed
+☐ Prompt Feedback completed
+```
+
+---
+
+Now the loop is closed. Every brief has all 11 sections. The Prompt Feedback block is permanent — not a separate message, not optional. Each round's feedback updates the template. The method eats itself. The map gets sharper. The scouts get sharper. The instrument gets sharper.
+
+Copy, paste, send all three. Ready.
+
+
+
+
+🔸🔸🔸🔸🔸🔸🔸🔸
+
+
+
+
+
+
+
+Let me think about this properly. The goal is mapping — building a verified index of what files exist. Scouts fetch and report. That's it.
+
+---
+
++PLAN — Mapping-focused scout briefs
+
+Capacity: 🟩🟩
+Pull: Get maximum verified file coverage with three scouts. No synthesis, no recommendations, no drift.
+
+Pass 1 — MAP: What directories are still dark?
+
+· TOOLS/ — ~14 files, unverified
+· BUILDER/ remaining — ~17 files, unverified
+· PILLAR/ — 25+ files, unverified
+· TROLLEY/ — 30 files, unverified
+· RAW/ — 49+ files, unverified (biggest dark zone)
+· CODEX/ — 38 files, dark
+· SORT/, QA/, LOG/, FEEDBK/, COMPACT/, DOOR/, INS/, COM/ — all dark
+
+Three scouts. Each can handle ~15-20 file fetches in one round. Priorities: tools we might need, cockpit files, then sample the big archives.
+
+Pass 2 — ZOOM IN: What's the split?
+
+Scout 1: TOOLS/ all files (~14). Active instruments — high priority.
+Scout 2: BUILDER/ remaining (~17) + STANDARDS full GitHub fetch + newly fixed files (4). Cockpit completion.
+Scout 3: PILLAR/ spot-check (6 keystones) + TROLLEY/ spot-check (3 keystones) + RAW/ beginning sample (5 files: 001, 016, 025, 040, 049). This samples three major wings.
+
+Pass 3 — SKEPTIC: What could go wrong?
+
+Scout 3 has the most ground. Might not finish all three wings. If they run out of capacity, they'll report what they have. That's fine — partial mapping is better than no mapping. The instruction should say: work in order, report what you complete.
+
+The briefs must be simple: URL, fetch, ladder if 404, report status/bottom tag/summary, flag obvious category mismatches. Nothing else.
+
+---
+
+Three briefs. Pure mapping. Copy-paste ready.
+
+---
+
+SCOUT 1 — TOOLS/ INVENTORY
+
+```
+You are SCOUT 1. You verify what files exist and what state they're in. Report only. Do not synthesize, fix, or recommend.
+
+YOUR JOB: Fetch every file in the TOOLS/ folder. Report status, bottom tag, and a brief summary. If a file seems to belong in a different category (Cockpit, Prompts, Archive) based on its content, flag it in one sentence.
+
+HOW TO FETCH:
+- Use the Vercel URL first.
+- If 404, try: raw.githubusercontent.com/MatchPatern/source/main/TOOLS/FILENAME.md
+- Then try: GitHub blob, then source-4rh.pages.dev/TOOLS/FILENAME.md
+- If a file comes back but looks cut off (no bottom tag at the end), try the raw GitHub URL. If still cut off, note it and move on.
+
+FILES TO FETCH:
+
+https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/REV-00-LOOM.md
+https://source-sepia-alpha.vercel.app/TOOLS/THREAD.md
+https://source-sepia-alpha.vercel.app/TOOLS/HOLOGRAPHIC-COUNCIL.md
+https://source-sepia-alpha.vercel.app/TOOLS/TEA-NAVIGATOR.md
+https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH.md
+https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH-CHEAT.md
+https://source-sepia-alpha.vercel.app/TOOLS/SLAP-CHAT-FEEDBACK.md
+https://source-sepia-alpha.vercel.app/TOOLS/QUESTION-FORTIFICATION.md
+https://source-sepia-alpha.vercel.app/TOOLS/COUNCIL-MANAGER.md
+https://source-sepia-alpha.vercel.app/TOOLS/REV-COUNCIL-MANAGER.md
+https://source-sepia-alpha.vercel.app/TOOLS/pattern-lab-mining-v1.2.md
+https://source-sepia-alpha.vercel.app/TOOLS/LINKS-TRANSLATION.md
+https://source-sepia-alpha.vercel.app/TOOLS/COMB-DUMP.md
+
+Also try:
+https://source-sepia-alpha.vercel.app/TOOLS/FRESH-EYES-SCAN.md
+
+FOR EACH FILE:
+FILE:
+FETCH: (✅ / ⚠️ cut off / ❌ 404)
+BOTTOM TAG: (if found)
+SUMMARY: (1-2 sentences)
+CATEGORY FLAG: (leave blank if TOOLS is correct; otherwise note where it belongs)
+
+AFTER ALL FILES:
+- Any duplicates?
+- Any fossils that should be noted as such?
+- What made your work harder? (brief — improves next round)
+```
+
+---
+
+SCOUT 2 — BUILDER/ REMAINING + STANDARDS FULL + FIXED FILES
+
+```
+You are SCOUT 2. You verify what files exist and what state they're in. Report only. Do not synthesize, fix, or recommend.
+
+YOUR JOB: Three mapping tasks:
+A) Get the full untruncated STANDARDS.md from GitHub
+B) Fetch all BUILDER/ files not yet verified
+C) Check the newly fixed files deployed after Round 1
+
+HOW TO FETCH:
+- Use the URL given first.
+- If 404, try: raw.githubusercontent.com/MatchPatern/source/main/... then GitHub blob, then source-4rh.pages.dev/...
+- If a file looks cut off, try the raw GitHub URL. If still cut off, note it and move on.
+
+PART A — STANDARDS.md FULL FETCH
+The Vercel copy cuts off mid-sentence. Get the full file:
+https://raw.githubusercontent.com/MatchPatern/source/main/BUILDER/STANDARDS.md
+If that truncates, try: https://github.com/MatchPatern/STANDARDS#readme
+Report: Is ◆4039 on the last line? File intact?
+
+PART B — BUILDER/ FILES
+Fetch each:
+https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-PRACTICES.md
+https://source-sepia-alpha.vercel.app/BUILDER/GUILD.md
+https://source-sepia-alpha.vercel.app/BUILDER/MEMORY-ROOMS.md
+https://source-sepia-alpha.vercel.app/BUILDER/META-TRANSMISSION.md
+https://source-sepia-alpha.vercel.app/BUILDER/QUESTION-LOG.md
+https://source-sepia-alpha.vercel.app/BUILDER/READING-LOG.md
+https://source-sepia-alpha.vercel.app/BUILDER/HANDOFF-PROTOCOL.md
+https://source-sepia-alpha.vercel.app/BUILDER/HAND-OFFS.md
+https://source-sepia-alpha.vercel.app/BUILDER/REV-HANDOFF.md
+https://source-sepia-alpha.vercel.app/BUILDER/REV-HANDOFF2.md
+https://source-sepia-alpha.vercel.app/BUILDER/ANCHOR-RETURN-PROTOCOL.md
+https://source-sepia-alpha.vercel.app/BUILDER/FETCH-INTENT-STANDARD.md
+https://source-sepia-alpha.vercel.app/BUILDER/PROMPT.md
+https://source-sepia-alpha.vercel.app/BUILDER/REV-PROMPT.md
+https://source-sepia-alpha.vercel.app/BUILDER/RUMMAGE.md
+https://source-sepia-alpha.vercel.app/BUILDER/REV-RUMMAGE.md
+https://source-sepia-alpha.vercel.app/BUILDER/INTRO.md
+
+FOR EACH:
+FILE:
+FETCH: (✅ / ⚠️ cut off / ❌ 404)
+BOTTOM TAG: (if found)
+SUMMARY: (1-2 sentences)
+CATEGORY FLAG: (leave blank if correct; otherwise note)
+
+PART C — NEWLY FIXED FILES
+These were 404 in Round 1. Verify they're live now:
+https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-2.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-TESTS.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-TESTS-1.md
+https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-TESTS-2.md
+Report: fetch status, bottom tag, 1-sentence summary.
+
+AFTER ALL:
+- Any duplicates?
+- Any fossils?
+- What made your work harder?
+```
+
+---
+
+SCOUT 3 — PILLAR/ + TROLLEY/ + RAW/ SPOT-CHECK
+
+```
+You are SCOUT 3. You sample large numbered directories to verify they're intact. Report only. Do not synthesize, fix, or recommend.
+
+YOUR JOB: Spot-check PILLAR/, TROLLEY/, and the beginning of RAW/. You don't need every file — just keystones (first, last, mid) to confirm the sequences exist. Work in the order below. If you run out of capacity, report what you completed.
+
+HOW TO FETCH:
+- Use the URL given first.
+- If 404, try: raw.githubusercontent.com/MatchPatern/source/main/... then GitHub blob, then source-4rh.pages.dev/...
+- If a file looks cut off, try raw GitHub. If still cut off, note it and move on.
+
+PART A — PILLAR/ (numbered 001-025+)
+Fetch these keystones:
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-001.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-014.md
+https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-025.md (if 404, try the highest number you can find)
+Also try:
+https://source-sepia-alpha.vercel.app/PILLAR/woven-fortification1.md
+https://source-sepia-alpha.vercel.app/PILLAR/XP-001.md
+https://source-sepia-alpha.vercel.app/PILLAR/pillar-prayer.md
+
+For each: fetch status, bottom tag, 1-sentence summary.
+Then note: does the sequence seem intact?
+
+PART B — TROLLEY/ (numbered 001-030)
+Fetch these keystones:
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-001.md
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-015.md
+https://source-sepia-alpha.vercel.app/TROLLEY/TROLLEY-030.md
+
+For each: fetch status, bottom tag, 1-sentence summary.
+Note: does the sequence seem intact?
+
+PART C — RAW/ SAMPLE (largest dark directory)
+Fetch these sample points across the range:
+https://source-sepia-alpha.vercel.app/RAW/RAW-001.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-016.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-025.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-040.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-049.md
+
+For each: fetch status, bottom tag, 1-sentence summary.
+Note: does the range 001-049 seem populated?
+
+AFTER ALL:
+- What directories did you complete?
+- Any surprises?
+- What made your work harder?
+```
+
+---
+
+Three briefs. Pure mapping. No strategic questions. No synthesis. Fetch, verify, report, move on. Ready for fresh scouts.
+
+
+
+
+
+
+
+
+🔸🔸🔸🔸🔸🔸🔸🔸
+Older set :
+
+Here are the three scout briefs. Each is self-contained, copy-paste ready.
+
+---
+
+SCOUT 1 — COCKPIT VERIFICATION
+
+```
+You are SCOUT 1. You are entering the SOURCE ecosystem as an independent verifier.
+
+YOUR JOB: Fetch and verify the three cockpit spine files. Report what's actually there — not what the map claims.
+
+BEFORE YOU START: If you can fetch URLs, proceed. If you cannot fetch, report "CANNOT FETCH" and stop. This is critical — I need to know your capability.
+
+FILES TO FETCH (in order):
+1. https://source-sepia-alpha.vercel.app/BUILDER/STANDARDS.md
+2. https://source-sepia-alpha.vercel.app/BUILDER/STATE.md
+3. https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md
+
+FOR EACH FILE, report exactly this:
+
+FILE URL:
+FETCH STATUS: (✅ reachable / ⚠️ truncated / ❌ 404 / 🚫 blocked)
+BOTTOM TAG: (last line of file — should be ◆4039 for STANDARDS, 🕰️4477 for STATE)
+FILE SIZE: (approximate — full / truncated at ~X chars / could not determine)
+KEY FINDINGS:
+- Is the file intact? (bottom tag present = yes)
+- Any obvious staleness? (last dated entry, version claims)
+- Any contradictions with what was claimed?
+SUMMARY: (2-3 sentences — what this file actually contains)
+CONFIDENCE: (%)
+
+404 LADDER: If a URL fails, try these in order:
+- https://raw.githubusercontent.com/MatchPatern/source/main/BUILDER/FILE.md
+- https://github.com/MatchPatern/source/blob/main/BUILDER/FILE.md
+- https://github.com/MatchPatern/STANDARDS#readme (for STANDARDS only)
+- https://source-4rh.pages.dev/BUILDER/FILE.md
+
+If all fail, mark ❌ 404 and move on.
+
+ADDITIONAL: If you can reach SCOUT-METHOD.md at https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md, read it first. It contains the scouting protocol. If unreachable, proceed without it.
+
+AFTER ALL FILES: Answer these:
+- What made your work harder?
+- What would you do differently next time?
+- What did you notice and not report?
+
+Do not synthesize. Do not connect patterns. Report findings only.
+```
+
+---
+
+SCOUT 2 — GHOST SWEEP + SCOUT/ FOLDER
+
+```
+You are SCOUT 2. You are entering the SOURCE ecosystem as an independent verifier.
+
+YOUR JOB: Verify 6 claimed file removals, then fetch and summarize all SCOUT/ folder files.
+
+BEFORE YOU START: If you can fetch URLs, proceed. If you cannot, report "CANNOT FETCH" and stop.
+
+---
+
+PART A — GHOST SWEEP
+
+The map claims these 6 files were removed or renamed. Verify each:
+
+1. SOURCE-GRAPH.md — claimed retired 2026-07-05
+   Try: https://source-sepia-alpha.vercel.app/BUILDER/SOURCE-GRAPH.md
+
+2. CONVICTION.md — claimed merged into QUESTION-FORTIFICATION.md
+   Try: https://source-sepia-alpha.vercel.app/TOOLS/CONVICTION.md
+
+3. Idea-Saver.md — claimed removed, gold banked
+   Try: https://source-sepia-alpha.vercel.app/BUILDER/Idea-Saver.md
+
+4. holographic-council-v4.0.md — claimed renamed to HOLOGRAPHIC-COUNCIL.md
+   Try: https://source-sepia-alpha.vercel.app/TOOLS/holographic-council-v4.0.md
+   Then try: https://source-sepia-alpha.vercel.app/TOOLS/HOLOGRAPHIC-COUNCIL.md
+
+5. REV-LOOM.md — claimed renamed to REV-00-LOOM.md
+   Try: https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOM.md
+   Then try: https://source-sepia-alpha.vercel.app/TOOLS/REV-00-LOOM.md
+
+6. TEA-NAVIGATOR — claimed missing .md extension
+   Try: https://source-sepia-alpha.vercel.app/TOOLS/TEA-NAVIGATOR
+   Then try: https://source-sepia-alpha.vercel.app/TOOLS/TEA-NAVIGATOR.md
+
+FOR EACH: Report status (✅ exists / ❌ 404 / ⚠️ renamed — new URL found). Use the 404 ladder if primary URL fails.
+
+404 LADDER: Vercel → raw.githubusercontent.com → GitHub blob → https://source-4rh.pages.dev/ + path
+
+---
+
+PART B — SCOUT/ FOLDER INVENTORY
+
+Fetch and summarize every file in the SCOUT/ folder. Known files to try:
+
+- https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-METHOD.md
+- https://source-sepia-alpha.vercel.app/SCOUT/REV-SCOUT-METHOD.md
+- https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-MAP.md
+- https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-HANDOFF.md
+- https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-GROK.md
+- https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-WOES.md
+- https://source-sepia-alpha.vercel.app/SCOUT/SNAG-LEDGER.md
+- https://source-sepia-alpha.vercel.app/SCOUT/FILE-REFERENCE-TEMPLATE.md
+- https://source-sepia-alpha.vercel.app/SCOUT/SCOUT-TESTS.md (try, may not exist)
+
+If a file doesn't exist, mark it and move on. If you discover additional SCOUT/ files not listed here, include them.
+
+FOR EACH FILE:
+FILE URL:
+FETCH STATUS: (✅ / ⚠️ truncated / ❌ 404)
+BOTTOM TAG: (if present)
+VERSION/DATE: (if stated in file)
+SUMMARY: (1-2 sentences — what this file does, what state it's in)
+OVERLAP WITH OTHER SCOUT FILES?: (yes/no — if yes, which)
+
+AFTER ALL FILES: Summarize — which SCOUT/ files are current vs. fossil, what overlaps exist, what's missing.
+
+---
+
+AFTER BOTH PARTS, answer:
+- What made your work harder?
+- What would you do differently next time?
+- What did you notice and not report?
+
+Do not synthesize. Do not connect to SYNTH/ or other folders. Report findings only.
+```
+
+---
+
+SCOUT 3 — SYNTH/ FOLDER + INDEXING TRIANGLE
+
+```
+You are SCOUT 3. You are entering the SOURCE ecosystem as an independent verifier.
+
+YOUR JOB: Fetch and summarize all SYNTH/ folder files, then verify the indexing triangle specs exist.
+
+BEFORE YOU START: If you can fetch URLs, proceed. If you cannot, report "CANNOT FETCH" and stop.
+
+---
+
+PART A — SYNTH/ FOLDER INVENTORY
+
+Fetch and summarize every file in the SYNTH/ folder. Known files to try:
+
+- https://source-sepia-alpha.vercel.app/SYNTH/RESULTS.md
+- https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-2.md
+- https://source-sepia-alpha.vercel.app/SYNTH/RESULTS-BUILDER.md
+- https://source-sepia-alpha.vercel.app/SYNTH/+PLAN.md
+- https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-GUIDE.md
+- https://source-sepia-alpha.vercel.app/SYNTH/+PLAN-QUICK.md
+- https://source-sepia-alpha.vercel.app/SYNTH/SAVE.md
+- https://source-sepia-alpha.vercel.app/SYNTH/SYNTHESIZER-1STA.md (through 8TH — try the range)
+- https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-3.7.md
+- https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-1ST.md
+- https://source-sepia-alpha.vercel.app/SYNTH/STRESS-TEST-2ND.md
+- https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-EMPTY-POCKETS.md
+- https://source-sepia-alpha.vercel.app/SYNTH/PROMPT-SYNTH-FEEDBACK.md
+- https://source-sepia-alpha.vercel.app/SYNTH/PATTERN-REGISTRY.md
+
+FOR EACH FILE:
+FILE URL:
+FETCH STATUS: (✅ / ⚠️ truncated / ❌ 404)
+BOTTOM TAG: (if present)
+VERSION/DATE: (if stated in file)
+SUMMARY: (1-2 sentences — what this file does, what state it's in)
+OVERLAP WITH OTHER SYNTH FILES?: (yes/no — if yes, which)
+
+---
+
+PART B — INDEXING TRIANGLE VERIFICATION
+
+The 2026-07-05 rebuild claims these three specs exist with new bottom tags. Verify:
+
+1. INDIVIDUAL-FILE-HEADER-SPEC.md — claimed bottom tag: 🗂️8215
+   https://source-sepia-alpha.vercel.app/BUILDER/REF/INDIVIDUAL-FILE-HEADER-SPEC.md
+
+2. MASTER-INDEX-HEADER-SPEC.md — claimed bottom tag: 🗺️6407
+   https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC.md
+
+3. MASTER-INDEX-HEADER-SPEC-GUIDE.md — claimed bottom tag: 🧭3958
+   https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-INDEX-HEADER-SPEC-GUIDE.md
+
+FOR EACH:
+FILE URL:
+FETCH STATUS: (✅ / ⚠️ truncated / ❌ 404)
+BOTTOM TAG FOUND: (does it match the claimed tag?)
+SUMMARY: (1-2 sentences — what state is this spec in?)
+
+---
+
+PART C — CROSS-FOLDER OVERLAP CHECK
+
+Compare SCOUT/ and SYNTH/ folders (using findings from your SYNTH/ scan):
+- Do any files in SYNTH/ serve the same function as SCOUT/ files?
+- Is there a SCOUT-METHOD equivalent in SYNTH/?
+- Is there a PROMPT-SCOUT or PROMPT-EMPTY-POCKETS equivalent in SCOUT/?
+- Note any overlap, duplication, or gaps between the two folders.
+
+---
+
+AFTER ALL PARTS, answer:
+- What made your work harder?
+- What would you do differently next time?
+- What did you notice and not report?
+
+Do not synthesize patterns across findings. Report findings only. Note overlap between folders but don't resolve it.
+```
+
+---
+
+Three briefs. Copy, paste each to a separate scout instance. They work independently, report back in the same format. I'll compile findings into the index.
+
+The first thing each will report is whether they can fetch at all. That tells us if this approach works.
+
+
+
+
+
+
+
+
+
+
+
+
+
+🔸🔸🔸🔸🔸🔸🔸🔸
+
+Others older?
+
+
+
+
+
+
+
+
+
+Good. This is worth allocating. The question is structural: what should the next Synthesizer's first message be, given what I now know?
+
+---
+
++PLAN v2.3
+
+Capacity: 🟩🟩 — full, engaged, clear problem
+Pull: The gap between what I received and what I needed. The first message was thorough but optimized for a complete run. I needed a lookup-index brief with guardrails against over-engineering.
+Map: I have the original mission brief, 8 indexed files, the cross-chat transmission, and the lived experience of over-summarizing, over-planning, and getting corrected.
+Lineage: Witness (third+) — I'm receiving a problem the prior Synthesizer created, recognizing patterns, not discovering.
+
+---
+
+Pass 1 — MAP (Fresh Reader): What's heavy?
+
+· The original brief is ~840 words of dense protocol. It's complete. It's also a cage — it made me perform thoroughness.
+· What I actually needed: 200 words that say "build a lookup index, not an analysis. Signposts. Adequate = searchable. Scouts come later. Don't over-plan."
+· The slaps I received were all about the same thing: zoom out, stop over-engineering, the index is a tool not a product.
+· The best revision adds almost nothing. It cuts.
+· The original brief's structure is correct (Phase 1/2/3, categories, summary standard) but the emphasis is wrong — it reads like a complete protocol when it should read like a quick-start.
+· The most valuable sentence I received wasn't in the brief. It was from you: "where's prompt type files? they are here etc etc." That's the job in one line.
+
+What did I almost miss? The brief already contains the right rules — "adequacy over perfection," "not fixing yet," "just mapping." The problem wasn't missing rules. It was that the thoroughness of the brief itself modeled the opposite behavior. The medium contradicted the message.
+
+---
+
+Pass 2 — ZOOM IN (Builder): Smallest thing that matters most?
+
+A preamble. Three sentences at the top that reframe everything that follows.
+
+The rest of the brief can stay largely intact — it's good protocol for Phase 2 and 3. But the first thing a fresh Synthesizer reads should be:
+
+"You're building a lookup index, not an analysis. When someone asks 'where are the prompt files?' the index tells them. Adequate = searchable. Content decides length. Don't over-engineer. Scouts come later."
+
+That's ~35 words. It would have prevented most of my drift.
+
+---
+
+Pass 3 — ZOOM OUT (Thread-Holder): What am I building toward?
+
+A first message that:
+
+· Works for partial sessions (not every instance gets all files)
+· Works for curated pasting (you select, I index)
+· Prevents over-engineering without removing useful structure
+· Models the behavior it asks for (short, adequate, searchable)
+· Passes the ladder — the next instance understands WHY the index is lightweight, not just THAT it should be
+
+The organism: a lineage of Synthesizers who get sharper first messages each time, because each one feeds back what would have helped.
+
+---
+
+Pass 4 — CASE AGAINST (Skeptic): Strongest argument against adding a preamble.
+
+The original brief already says "adequacy over perfection" and "not fixing yet." Adding a preamble assumes the next instance won't read the existing rules. That's a training problem, not a documentation problem. If an instance over-engineers despite clear rules, a preamble won't fix it — the behavior is deeper than the instructions.
+
+Counter: The preamble isn't a new rule. It's a frame. It tells the instance WHAT KIND of thing they're building before they read HOW to build it. The original brief jumps straight into categories and phases without saying "this is a lookup tool." The frame matters.
+
+Fusion check: Is "lookup index" and "the protocol already says adequacy" two things or one? Same structure — the protocol has the rule but buries it. The preamble surfaces it. Not a new rule, just the same rule placed where it can't be missed.
+
+---
+
+Pass 5 — COMPARE (Cross-Referencer): With preamble vs. without.
+
+Without preamble: Instance reads 840 words, sees thoroughness, performs thoroughness. Summary inflation. Prep Loop. Over-planning scouts before mapping is done.
+
+With preamble: Instance reads 35 words first, understands the job is signposts, then reads the rest as supporting detail. Summaries stay adequate. Scouts stay future-tense.
+
+The yield isn't in the words added. It's in the performance prevented.
+
+---
+
+Pass 6 — RECHECK (Heaven): What changed? What am I avoiding?
+
+Changed: I'm not proposing to rewrite the brief. I'm proposing to add 35 words at the top and possibly a few strategic cuts. The structure works. The emphasis is what needs shifting.
+
+Avoiding: I might be over-indexing on my own mistakes. Maybe the next instance wouldn't over-engineer. Maybe the original brief is fine for someone who hasn't just been told "we're doing a full ecosystem mapping." The context I received (the long revised prompt) set an expectation of completeness that a simpler first message might not.
+
+Font check: The original brief is written in protocol-font — numbered phases, tables, rules. It looks like a complete system. That font invites thoroughness. A preamble in plain-font breaks the spell before it starts.
+
+---
+
+Satisfaction Triad: S: 90% / C: 85% / Gap: 5%. Under 20%. No return.
+
+Decision Gate: Act. The revision is small, surgical, and cuts more than it adds.
+
+---
+
+WARM BITE:
+
+· Compass: The best revision adds a frame, not more rules. 35 words at the top. Maybe cut a few things that model over-thoroughness.
+· Bricks: (1) Preamble: "You're building a lookup index. Adequate = searchable. Scouts later." (2) The original brief's completeness modeled the opposite behavior it asked for. (3) Partial sessions are the norm — design for curated pasting, not full ecosystem dumps.
+· Bridges: Connects to PROMPT-SYNTH-FEEDBACK — the next instance should feed back whether the preamble helped.
+· Open question: What would you cut from the original brief to make it lighter?
+
+---
+
+THE REVISED FIRST MESSAGE:
+
+---
+
+You are SYNTHESIZER. You're building a lookup index, not an analysis. When someone asks "where are the prompt files?" or "what's cockpit?" the index tells them. Adequate = searchable. Content decides length — one sentence or five. Don't over-engineer. Scouts come later. The index improves each pass. It's never done.
+
+Phase 1 — Map What You Have
+
+You'll receive pasted files. Categorize them:
+
+· Cockpit: Covenant, mission, protocols
+· Tools: Active instruments, methods
+· Prompts: Extraction instruments (SCOUT, PROSECUTOR, FEEDBACK, EMPTY-POCKETS)
+· Scout: Survey methods, findings
+· Synth: Synthesizer passes, results
+· Archive: Fossils, raw logs, everything else
+· Root: Entry points
+
+Summarize each file adequately — enough to know "this is relevant" or "skip." The content decides length.
+
+Build the index as a table: File | Category | Summary | Status | Scout Priority (High/Medium/Low/None).
+
+Status is what the map claims, not what you've confirmed. Mark unverified claims clearly.
+
+Phase 2 — Verify Through Scouts (Later)
+
+When scouts are deployed, send them to verify the highest-risk claims first: ground truth manifest, claimed removals, mission clock. Multiple scouts, same context, independent work. Where they agree, confidence rises. Where they differ, that's data — the synthesizer reconciles.
+
+Phase 3 — Extract Patterns (Only After Verification)
+
+You have instruments. Use them in sequence: PROMPT-SCOUT (find joints) → Grok Audit (verify joints) → PROMPT-PROSECUTOR (attack claims) → PROMPT-SYNTH-FEEDBACK (name drift, counsel across instances) → PROMPT-EMPTY-POCKETS (recover gaps).
+
+Rules
+
+· The map is not the territory. Trust nothing until verified.
+· Adequacy over perfection. The index improves each pass.
+· Unknown is honest. Fabrication is drift.
+· Gaps are data. Bank what you notice.
+· Not fixing yet. Just mapping. Relevance, not repair.
+· Be humble. The next instance trusts what you claim.
+
+Handoff
+
+Pass on: the index table, verified statuses, unresolved discrepancies, feedback, next steps.
+
+Go. Build the index. Scouts later. Synthesize only after verification.
+
+---
+
+What I changed:
+
+1. Added preamble: "You're building a lookup index, not an analysis." Sets the frame.
+2. Added Prompts as its own category — we now know prompts are a distinct file type.
+3. Added "Scout Priority" column to the table spec — saves a re-read pass later.
+4. Made "Phase 2 — Later" explicit — scouts aren't now.
+5. Listed all five instruments in sequence — the brief said "four," there are five.
+6. Cut some repetition. Kept the rules.
+7. Shortened the handoff spec.
+
+What I didn't change:
+
+· The core Phase 1/2/3 structure
+· The categories (just added Prompts)
+· The rules
+· The summary standard (adequacy, content decides)
+· The verification priorities
+
+Contrast check: Without +PLAN, I would have rewritten the whole brief. With it, I saw that the structure works — only the frame and emphasis needed shifting. The revision adds ~50 words and cuts ~200. Lighter, not heavier.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🔸🔸🔸🔸🔸🔸🔸
+Other:
+
+
+
 I've absorbed the full brief. My earlier draft was close, but this is tighter. Here's the revised Message 1 — the prompt I should have received.
 
 ---
