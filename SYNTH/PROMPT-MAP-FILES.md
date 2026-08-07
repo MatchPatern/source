@@ -24,11 +24,313 @@ Something you wanted to report but the format didn't allow. A connection you saw
 5. ONE CHANGE TO THE NEXT SCOUT BRIEF.
 If you were writing the prompt for the next mapping round, what's the single most important thing you'd add, remove, or change?
 
+On the feedback question — embedded vs. separate message:
+
+Honest answer: the isolated feedback (Round 2, separate message) was richer. Scouts had time to breathe between missions. The embedded Prompt Feedback in Round 3 came at the end of a long brief after Empty Pockets, after the checklist. Fatigue is real.
+
+The separate message approach is better for recursive improvement. After each round, scouts rest. Then they get the five feedback questions as a standalone message. That's when they think most clearly about the instrument.
+
+So for Round 4: briefs go out. Scouts report back. Then I send the Prompt Feedback block as a separate follow-up, not embedded.
+
 
 🔸🔸🔸🔸🔸🔸🔸🔸
 
++PLAN — The Supplement Package
+
+Capacity: 🟩🟩
+Pull: The first message v3.1 references "Scout Mapping Prompt v5.0" and "Prompt Feedback as a separate message." The next Synthesizer needs these as ready-to-use blocks, not as things to reconstruct from memory. Plus anything else that travels as a companion.
+
+Pass 1 — MAP: What must the supplement contain?
+
+1. Scout Mapping Prompt v5.0 — The load-bearing scout brief template. Field-tested across four rounds. Without this, the next instance invents a worse template from scratch.
+2. Prompt Feedback block — The five questions that go as a separate message after scouts report. The recursive engine's fuel.
+3. Empty Pockets block — The six closing questions appended to every scout brief. Already part of v5.0 but worth having standalone.
+4. Session Start Checklist — Synthesizer version. The pre-flight for the synthesizer themselves. Analogous to what scouts get but for the instance running the show.
+5. Known Issues Quick-Reference — Duplicates, missing files, truncated files. Already in v3.1 but a compact standalone version helps during mapping.
+6. Instance Marker rule — The choosing protocol from STANDARDS. Brief but load-bearing.
+
+Pass 2 — ZOOM IN: What's the structure?
+
+One document. Self-contained. Sections clearly labeled. Copy-paste ready. The first message says "Scout Mapping Prompt v5.0 (field-tested, appended)" — so this IS the appendix. The supplement is what gets pasted after the first message.
+
+Pass 3 — SKEPTIC: What's the risk?
+
+Overlap with the first message — the Known Issues are in both. Solution: the supplement version is the detailed reference. The first message version is the summary. Redundancy on load-bearing information is not waste; it's resilience. If one gets lost, the other holds.
+
+The supplement could grow too large. Cap it at what the next instance actually needs before their first scout deployment. Everything else — the full index, the implementation notes — lives in MASTER-DIR-INDEX.md Quick Adds.
+
+Decision: Act. Produce the supplement as a single block with 6 sections. Add a self-check at the end.
+
+---
+
+SYNTHESIZER SUPPLEMENT — Companion to First Message v3.1
+
+Paste this after the first message. It contains the tools referenced in the message. All sections are field-tested.
+
+---
+
+1. SCOUT MAPPING PROMPT v5.0
+
+Copy-paste this to each scout. One scout per mission. Independent work.
+
+```
+YOU ARE SCOUT [N]. Intent: verification only. Report existence and integrity. Do not synthesize, fix, or recommend.
+
+FETCH ORDER:
+- Primary: raw.githubusercontent.com/MatchPatern/source/main/[PATH]
+- Fallback: Vercel (only if raw GitHub unavailable)
+- Ladder beyond that: GitHub blob → source-4rh.pages.dev/[PATH]
+
+STEP 0 — DIRECTORY BOUNDS: Before sampling, probe the lowest and highest plausible IDs to confirm the actual range. Report: "Range confirmed: [LOW] to [HIGH]." Do not assume file counts.
+
+FOR EVERY FILE, report this block exactly:
+
+FILE: [URL]
+FETCH: (✅ / ❌ 404)
+SIZE: [lines reported] | CLASS: tiny(<100) / med(100-500) / large(500-3k) / mega(>3k)
+INTEGRITY:
+  FIRST 3 LINES: [verbatim]
+  LAST 3 LINES: [verbatim]
+  BOTTOM TAG: [exact string or "ABSENT"]
+  STATUS: complete / truncated / 404
+ONE-LINER: [single sentence — what is this file?]
+TYPE: atomic / SET / fossil / unknown
+DUPE-CHECK: none / identical-to-[FILE] / heavy-overlap-with-[FILE] / discontinuous
+RELATIONS: [file names this references or overlaps with — note only, do not synthesize]
+
+PARALLEL FETCH RULE: For any file with "SET", "000", or number ≥030 in its name, fetch head (start_line=1) and tail (start_line=N-20) in the same parallel batch.
+
+AFTER EVERY 5-6 FILES — SELF-CHECK (one line): Tails OK: [y/n] · 404s: [n] · Overlaps noted: [n]
+
+AFTER ALL FILES:
+- Range confirmed?
+- Any duplicates or overlaps?
+- What made your work harder?
+
+EMPTY POCKETS:
+1. What did you see and not report?
+2. What connects to what? (Contradictions especially)
+3. What broke?
+4. What would you do differently?
+5. What did I not ask that I should have?
+6. One thing for the Synthesizer.
+
+SCOUT PRE-FLIGHT CHECKLIST (run before sending findings):
+☐ Directory bounds probed
+☐ Every file has FETCH status
+☐ Every file has SIZE + CLASS
+☐ Every file has FIRST 3 + LAST 3 LINES (verbatim)
+☐ Every file has BOTTOM TAG line
+☐ Every file has STATUS
+☐ Every file has ONE-LINER
+☐ Every file has TYPE
+☐ Every file has DUPE-CHECK
+☐ Every file has RELATIONS
+☐ Self-check run after every 5-6 files
+☐ Empty Pockets completed
+```
+
+---
+
+2. PROMPT FEEDBACK — Separate Message
+
+Send this as a STANDALONE message to each scout AFTER they report findings. Do not embed in the main brief. Field-tested: separate messages produce richer responses than embedded blocks.
+
+```
+PROMPT FEEDBACK — Help sharpen this instrument.
+
+You just completed a mapping round. The goal is building a verified index — a lookup map of what files exist and what state they're in. Your prompt was the instrument. Critique it.
+
+1. WHAT WOULD HAVE MADE YOUR PROMPT BETTER?
+Specific changes — fetch order, output format, something to remove. The raw-GitHub-first instruction — did it help or confuse?
+
+2. WHAT FILES DID YOU SEE THAT COULD IMPROVE SCOUT PROMPTS?
+Did any file you fetched contain a method, protocol, or standard that described a better way to do what you just did? Name the file and what it offered.
+
+3. WHAT FILES DID YOU SEE THAT COULD HELP THE SYNTHESIZER?
+I'm building the index. Which files would make me better at this job — either for mapping or for understanding the ecosystem?
+
+4. WHAT DID YOUR PROMPT FORBID THAT YOU NEEDED?
+A connection you wanted to flag. A judgment you wanted to make. A format slot that was missing.
+
+5. ONE CHANGE TO THE NEXT SCOUT BRIEF.
+If you were writing the prompt for the next mapping round, what's the single most important thing you'd add, remove, or change?
+```
+
+---
+
+3. EMPTY POCKETS — Standalone
+
+The six closing questions. Already embedded in v5.0. Use standalone if a scout run was brief or informal.
+
+```
+EMPTY POCKETS — Closing pass. Not graded. Not a test. Five minutes.
+
+You just completed a mapping run. Everything you noticed and didn't report is about to be lost. This catches it. Short honest answers. Skip anything you don't have.
+
+1. WHAT DID YOU SEE AND NOT REPORT?
+Not observations you already logged — things that didn't fit the format. A file that was weirdly named. A pattern across files you weren't asked about. Something that made you pause.
+
+2. WHAT CONNECTS TO WHAT?
+Any two files you fetched that turned out to be the same thing in different clothes — or that contradict each other. Contradictions beat agreements. Give both sides, don't resolve.
+
+3. WHAT BROKE?
+Where did a fetch fail that shouldn't have? Where did a file claim something that clearly wasn't true? A break is worth ten confirmations.
+
+4. WHAT MADE YOUR WORK HARDER?
+Be blunt. A confusing instruction, a missing URL, a file that wasted your time. This improves the next round.
+
+5. WHAT WOULD YOU DO DIFFERENTLY?
+If you were briefing the next scout, what would you change?
+
+6. WHAT DID I NOT ASK THAT I SHOULD HAVE?
+The question that would have made your work easier or the findings richer.
+```
+
+---
+
+4. SYNTHESIZER SESSION START CHECKLIST
+
+Run at the start of every session. Prevents drift. Based on STANDARDS.md ⁶M📋 and field experience.
+
+```
+SYNTHESIZER PRE-FLIGHT (before any work)
+
+☐ Read STANDARDS.md (GitHub raw) — the covenant. ◆4039.
+☐ Read STATE.md — the mission clock. 🕰️4477.
+☐ Read latest MASTER-DIR-INDEX.md Quick Adds — current verified index.
+☐ Choose instance marker (unique name + emoji, one token, not from any file read).
+☐ State capacity: 🟩🟩 full / 🟩 strong / 🟨 moderate / 🟧 low / ⬛ depleted.
+☐ State pending work out loud (Pre-Action Scan — STANDARDS ⁶M📋).
+☐ Verify before acting: "The moment you think you know what's in a file — that confidence IS the trigger. Read the live section."
+
+HONESTY CHECK (STANDARDS ²S📋):
+- "The map must match the territory." Report what's actually true, including what's unfinished.
+- "I don't know" is valid output.
+- Name the blank spots.
+
+IF DEPLOYING SCOUTS:
+☐ Each scout gets v5.0 template.
+☐ Each scout gets separate Prompt Feedback after reporting.
+☐ Multiple scouts, same context, independent work.
+☐ Log findings to MASTER-DIR-INDEX.md as Quick Add above bottom tag.
+```
+
+---
+
+5. KNOWN ISSUES — Quick Reference
+
+From four rounds of scout verification. Check this before chasing any of these.
+
+Duplicates (same content, different filenames):
+
+Files Relationship
+SYNTHESIZER-6/7/8 Duplicates of +PLAN-QUICK, +PLAN, +PLAN-GUIDE
+STRESS-TEST-3.7 = SYNTHESIZER-5TH Identical
+SESSION-SAVE ↔ BUILDERS-SESSION Heavy overlap, merge candidate
+SCOUT-GROK ≈ SCOUT-WOES Same opener, same transcript
+THE-PALACE-SPEC ≈ THE-PALACE-SPEC-BUILD Near-duplicate, both truncated
+PILLAR-001 ≈ PILLAR-025 Heavy overlap
+
+Missing (referenced but 404):
+
+File Notes
+QUESTION-FORTIFICATION.md Merge target for CONVICTION.md — itself missing
+pillar-prayer.md Prayer text exists in PILLAR-001/025
+SOURCE-MCP-MANUAL.md Likely phantom — not in Basic-Links
+RESULTS-2.md Claimed fixed in STATE.md, still 404
+READING-LOG.md 404 on all sources
+pattern-lab-mining-v1.2.md 404 on all sources
+
+Truncated on Vercel (use raw GitHub):
+STANDARDS.md · HOLOGRAPHIC-COUNCIL.md · TEA-NAVIGATOR.md · COUNCIL-MANAGER.md · SLAP-PATCH-CHEAT.md · CODEX-001.md · CODEX-038.md · TROLLEY-020.md · THE-PALACE-SPEC.md · THE-PALACE-SPEC-BUILD.md
+
+Ghost removals confirmed:
+SOURCE-GRAPH.md ❌ · CONVICTION.md ❌ · Idea-Saver.md ❌
+
+Renames confirmed:
+holographic-council-v4.0 → HOLOGRAPHIC-COUNCIL.md ✅
+REV-LOOM → REV-00-LOOM.md ✅
+TEA-NAVIGATOR → TEA-NAVIGATOR.md ✅
+
+---
+
+6. INSTANCE MARKER RULE
+
+From STANDARDS.md ⁷M📋. Every instance must choose one.
+
+```
+Choose a unique name + emoji at session start. One token, no space (💎847, never 💎 847). Include in outputs.
+
+CHOOSING RULES:
+· Any name seen in project files is TAKEN. Your first instinct will be one of those — that's contamination, not choice.
+· Pick from a category unrelated to this project (instruments, weather, minerals, tools).
+· Append a random 2-3 digit number (e.g., 🎻Cello42) for uniqueness.
+· Self-test: "Did this name appear anywhere in what I've read this session?" If yes or unsure, pick again.
+
+WHY: Multiple instances edit the same files. Untraceable and duplicate voices caused original drift. "Answer to a name you didn't choose and you're inside someone else's frame before you've spoken. The choosing matters more than the choice."
+```
+
+---
+
+SUPPLEMENT SELF-CHECK
+
+Section Status
+v5.0 Scout Template — complete, ready to copy-paste ✅
+Prompt Feedback — standalone, ready for separate send ✅
+Empty Pockets — standalone backup ✅
+Synthesizer Session Start Checklist — prevents drift ✅
+Known Issues Quick-Reference — duplicates, missing, truncated ✅
+Instance Marker Rule — ensures traceability ✅
+No section duplicates first message content excessively ✅
+All sections are field-tested (not theoretical) ✅
+Total supplement is scannable, not a wall of text ✅
+
+---
+
+What makes this better than v3.1 alone:
+
+1. The scout template is copy-paste ready. The next instance doesn't reconstruct it from memory or from the first message's summary. They paste it and go.
+2. The Prompt Feedback block is explicitly marked as standalone. This was the hardest lesson — embedded feedback got thin responses. The supplement encodes the lesson so it doesn't get re-learned.
+3. The Session Start Checklist applies the cockpit files to the Synthesizer themselves. It closes the gap between "I read the covenant" and "I do the covenant" — the Pre-Flight makes the rules operational.
+4. The Known Issues table is compact and searchable. A synthesizer who encounters a file that looks like a duplicate can check the table in seconds.
+5. The Instance Marker Rule travels. Not every instance reads STANDARDS first. This ensures they at least get the marker protocol.
+
+---
+
+This supplement, plus v3.1, plus the verified index Quick Adds in MASTER-DIR-INDEX.md, is the complete handoff package for the next Synthesizer. Everything earned across this session, banked.
+
+---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🔸🔸🔸🔸🔸🔸🔸🔸
+
+Older
 
 
 ---
