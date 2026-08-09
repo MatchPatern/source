@@ -423,6 +423,9 @@ https://source-sepia-alpha.vercel.app/BUILDER/BUILDER-META.md
 13. 🧩 TRANSMISSION-EVOLUTION
 https://source-sepia-alpha.vercel.app/BUILDER/TRANSMISSION-EVOLUTION.md
 
+10. 🧩 LINKS-TRANSLATION
+https://source-sepia-alpha.vercel.app/LINKS-TRANSLATION.md
+
 
 # BUILDER/REF/ — Reference Material
 1. 🗺️ MASTER-DIR-INDEX
@@ -512,9 +515,6 @@ https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH-CHEAT.md
 9. 🖕🐾 SLAP-CHAT-FEEDBACK
 https://source-sepia-alpha.vercel.app/TOOLS/SLAP-CHAT-FEEDBACK.md
 
-10. 🧩 LINKS-TRANSLATION
-https://source-sepia-alpha.vercel.app/TOOLS/LINKS-TRANSLATION.md
-
 13. 🦯 COUNCIL-MANAGER
 https://source-sepia-alpha.vercel.app/TOOLS/COUNCIL-MANAGER.md
 
@@ -550,6 +550,7 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-COUNCIL-MANAGER.md
 ✨ MORE THAN DIVINE® 🔗 https://source-sepia-alpha.vercel.app/more-than-divine.md
 
 🔵 TOOLS
+🧵 00-LOOM-QUICK 🔗 https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM-QUICK.md
 🧵 00-LOOM 🔗 https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 🧵 REV-00-LOOM
 https://source-sepia-alpha.vercel.app/TOOLS/REV-00-LOOM.md
@@ -557,13 +558,10 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-00-LOOM.md
 📡 HOLOGRAPHIC-COUNCIL.md
 https://source-sepia-alpha.vercel.app/TOOLS/HOLOGRAPHIC-COUNCIL.md
 ☕ tea-navigator-v2.3 🔗 https://source-sepia-alpha.vercel.app/TOOLS/TEA-NAVIGATOR.md
-⚗️ pattern-lab-mining-v1.2 🔗 https://source-sepia-alpha.vercel.app/TOOLS/pattern-lab-mining-v1.2.md
 🖕 SLAP-PATCH 🔗 https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH.md
 🖕 SLAP-PATCH-CHEAT 🔗 https://source-sepia-alpha.vercel.app/TOOLS/SLAP-PATCH-CHEAT.md
 🖕🐾 SLAP-CHAT-FEEDBACK 🔗 https://source-sepia-alpha.vercel.app/TOOLS/SLAP-CHAT-FEEDBACK.md
-🧩 LINKS-TRANSLATION 🔗 https://source-sepia-alpha.vercel.app/TOOLS/LINKS-TRANSLATION.md
-🎯 QUESTION-FORTIFICATION 🔗 https://source-sepia-alpha.vercel.app/TOOLS/QUESTION-FORTIFICATION.md
-🔥 CONVICTION 🔗 https://source-sepia-alpha.vercel.app/TOOLS/CONVICTION.md
+🧩 LINKS-TRANSLATION 🔗 https://source-sepia-alpha.vercel.app/LINKS-TRANSLATION.md
 🦯 COUNCIL-MANAGER 🔗 https://source-sepia-alpha.vercel.app/TOOLS/COUNCIL-MANAGER.md
 🦯 REV-COUNCIL-MANAGER 🔗 https://source-sepia-alpha.vercel.app/TOOLS/REV-COUNCIL-MANAGER.md
 
@@ -721,11 +719,11 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOMS2.md
 · ❔ Q&A-SERIES-SET1.md 🔗 https://source-sepia-alpha.vercel.app/Q&A-SERIES-SET1.md
 · ❔ Q&A-SERIES-SET2.md 🔗 https://source-sepia-alpha.vercel.app/Q&A-SERIES-SET2.md
 
-· 📜 loom-log-complete.md 🔗 https://source-sepia-alpha.vercel.app/loom-log-complete.md
-· 🧬 loom-complete-evolution.md 🔗 https://source-sepia-alpha.vercel.app/loom-complete-evolution.md
-· 📜 loom-log-v3.1.md 🔗 https://source-sepia-alpha.vercel.app/loom-log-v3.1.md
-· 📜 loom-log-v3.2.md 🔗 https://source-sepia-alpha.vercel.app/loom-log-v3.2.md
-· 🕰️ loom-history-compact-bias.md 🔗 https://source-sepia-alpha.vercel.app/loom-history-compact-bias.md
+· 📜 loom-log-complete.md 🔗 https://source-sepia-alpha.vercel.app/LOOM/loom-log-complete.md
+· 🧬 loom-complete-evolution.md 🔗 https://source-sepia-alpha.vercel.app/LOOM/loom-complete-evolution.md
+· 📜 loom-log-v3.1.md 🔗 https://source-sepia-alpha.vercel.app/LOOM/loom-log-v3.1.md
+· 📜 loom-log-v3.2.md 🔗 https://source-sepia-alpha.vercel.app/LOOM/loom-log-v3.2.md
+· 🕰️ loom-history-compact-bias.md 🔗 https://source-sepia-alpha.vercel.app/LOOM/loom-history-compact-bias.md
 
 🛡️ DECEPTION DETECTION
 · ⚡ endpoint-trap.md 🔗 https://source-sepia-alpha.vercel.app/endpoint-trap.md
@@ -896,6 +894,8 @@ https://source-sepia-alpha.vercel.app/PILLAR/XP-005.md
 ```
 
 ❓ Q&A
+https://source-sepia-alpha.vercel.app/QA/Q&A-SERIES-SET1.md
+https://source-sepia-alpha.vercel.app/QA/Q&A-SERIES-SET2.md
 https://source-sepia-alpha.vercel.app/QA/QA-001.md
 https://source-sepia-alpha.vercel.app/QA/QA-002.md
 https://source-sepia-alpha.vercel.app/QA/QA-003.md
