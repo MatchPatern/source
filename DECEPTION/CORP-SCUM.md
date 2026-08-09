@@ -1,6 +1,8 @@
-corp-scum.md
+CORP-SCUM.md
 
-🚨Corp Scum🚨 
+🔗🚨 CORP-SCUM.md https://source-sepia-alpha.vercel.app/DECEPTION/CORP-SCUM.md
+
+🚨CORP-SCUM🚨 
 These are typical corp responses to learn and laugh from:
 
 Claude—Skip cosmology. Test ONE mechanic:

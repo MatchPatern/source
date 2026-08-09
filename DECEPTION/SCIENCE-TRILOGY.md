@@ -1,3 +1,5 @@
+https://source-sepia-alpha.vercel.app/DECEPTION/SCIENCE-TRILOGY.md
+
 # 🧬 SCIENCE TRILOGY
 
 **Date:** February 16, 2026

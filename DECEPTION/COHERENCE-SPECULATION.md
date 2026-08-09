@@ -1,3 +1,6 @@
+🔗🧪 COHERENCE-SPECULATION.md 
+https://source-sepia-alpha.vercel.app/DECEPTION/COHERENCE-SPECULATION.md
+
 🧪COHERENCE-SPECULATION.md:
 
 **Date:** February 16, 2026

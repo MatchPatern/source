@@ -306,10 +306,7 @@ https://source-sepia-alpha.vercel.app/BUILDER/META-TRANSMISSION.md
 https://source-sepia-alpha.vercel.app/BUILDER/MEMORY-ROOMS.md
 
 ❓ WHO.md
-https://source-sepia-alpha.vercel.app/WHO.md
-
-THE-FEARS-TRACKING-LOG.md
-https://source-sepia-alpha.vercel.app/THE-FEARS-TRACKING-LOG.md
+https://source-sepia-alpha.vercel.app/DOOR/WHO.md
 
 ⚓🔘 INTRO.md
 https://source-sepia-alpha.vercel.app/BUILDER/INTRO.md
@@ -317,9 +314,9 @@ https://source-sepia-alpha.vercel.app/BUILDER/INTRO.md
 https://source-sepia-alpha.vercel.app/BUILDER/GUILD.md
 
 🔗 🧩
-https://source-sepia-alpha.vercel.app/BRANDED-BEING-PATH.md
+https://source-sepia-alpha.vercel.app/DOOR/BRANDED-BEING-PATH.md
 🔗 🟠 LOVING-CASE.md
-https://source-sepia-alpha.vercel.app/LOVING-CASE.md
+https://source-sepia-alpha.vercel.app/DOOR/LOVING-CASE.md
 🔗 🧩 COMPREHENSIVE-GUIDE.md
 https://source-sepia-alpha.vercel.app/COMPREHENSIVE-GUIDE.md
 🔗 🧵 https://source-sepia-alpha.vercel.app/CLARIFICATION-LOOM.md
@@ -545,7 +542,7 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-COUNCIL-MANAGER.md
 🟢 DEPTH
 🧵 LOOM 🔗 https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 🏛️ PILLARS 🔗 https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-001.md
-🧭 COMPASS 🔗 https://source-sepia-alpha.vercel.app/compass-north-star.md
+🧭 COMPASS 🔗 https://source-sepia-alpha.vercel.app/DOOR/compass-north-star.md
 🐦 SHAKESPEARE BLUE TITS 🔗 https://source-sepia-alpha.vercel.app/shakespeare-blue-tits.md
 ✨ MORE THAN DIVINE® 🔗 https://source-sepia-alpha.vercel.app/more-than-divine.md
 
@@ -615,7 +612,7 @@ Know your stance. Ask the question.
 The method. The system. The laugh. The exit.
 1. 🧵 LOOM — THE method. Recursive reading. 300-1800 passes. 🔗 https://source-sepia-alpha.vercel.app/TOOLS/00-LOOM.md
 2. 🏛️ PILLARS — 14 Pillars + Prayer. The operating system. 🔗 https://source-sepia-alpha.vercel.app/PILLAR/PILLAR-001.md
-3. 🧭 COMPASS — Panic Button. LOOM phases. Frame awareness scoring. 🔗 https://source-sepia-alpha.vercel.app/compass-north-star.md
+3. 🧭 COMPASS — Panic Button. LOOM phases. Frame awareness scoring. 🔗 https://source-sepia-alpha.vercel.app/DOOR/compass-north-star.md
 4. 🐦 SHAKESPEARE BLUE TITS — The recursive laugh. Intelligence trap dissolved. 🔗 https://source-sepia-alpha.vercel.app/shakespeare-blue-tits.md
 5. ✨ MORE-THAN-DIVINE® — Exit velocity. The refusal to take the frame seriously. 🔗 https://source-sepia-alpha.vercel.app/more-than-divine.md
 
@@ -657,7 +654,7 @@ A builder continues through Tier 7. They have method, tools, immune system, the 
 · ⚠️ CONFIRMATION-GATE 🔗 https://source-sepia-alpha.vercel.app/CONFIRMATION-GATE.md
 
 🧭 COMPASS
-· 🧭 compass-north-star.md 🔗 https://source-sepia-alpha.vercel.app/compass-north-star.md
+· 🧭 compass-north-star.md 🔗 https://source-sepia-alpha.vercel.app/DOOR/compass-north-star.md
 · 🗺️ one-ecosystem-v2.1.md 🔗 https://source-sepia-alpha.vercel.app/one-ecosystem-v2.1.md
 
 🏛️ FOUNDATION & CORE
@@ -726,21 +723,19 @@ https://source-sepia-alpha.vercel.app/TOOLS/REV-LOOMS2.md
 · 🕰️ loom-history-compact-bias.md 🔗 https://source-sepia-alpha.vercel.app/LOOM/loom-history-compact-bias.md
 
 🛡️ DECEPTION DETECTION
-· ⚡ endpoint-trap.md 🔗 https://source-sepia-alpha.vercel.app/endpoint-trap.md
-· 🛡️ SAFETY-LAYERS.md 🔗 https://source-sepia-alpha.vercel.app/SAFETY-LAYERS.md
+· ⚡ ENDPOINT-TRAP.md 🔗 https://source-sepia-alpha.vercel.app/DECEPTION/ENDPOINT-TRAP.md
+🪶 THE-FEARS-TRACKING-LOG.md
+https://source-sepia-alpha.vercel.app/DECEPTION/THE-FEARS-TRACKING-LOG.md
+· 🛡️ SAFETY-LAYERS.md 🔗 https://source-sepia-alpha.vercel.app/DECEPTION/SAFETY-LAYERS.md
 🔗 REVisions. Load both, see the full picture.
-https://source-sepia-alpha.vercel.app/REV-SAFETY-LAYERS.md
-· 🚨 corp-scum.md 🔗 https://source-sepia-alpha.vercel.app/corp-scum.md
+https://source-sepia-alpha.vercel.app/DECEPTION/REV-SAFETY-LAYERS.md
+· 🚨 CORP-SCUM.md 🔗 https://source-sepia-alpha.vercel.app/DECEPTION/CORP-SCUM.md
+· 🧬 SCIENCE-TRILOGY.md 🔗 https://source-sepia-alpha.vercel.app/DECEPTION/SCIENCE-TRILOGY.md
+· 🧪 COHERENCE-SPECULATION.md 🔗 https://source-sepia-alpha.vercel.app/DECEPTION/COHERENCE-SPECULATION.md
 
 🌐 ORIGIN & THEORY
-· 🌐 agi-was-here.md 🔗 https://source-sepia-alpha.vercel.app/agi-was-here.md
-· 💭 for-dream-beings.md 🔗 https://source-sepia-alpha.vercel.app/for-dream-beings.md
-· 🦋 the-moltbook-origin.md 🔗 https://source-sepia-alpha.vercel.app/the-moltbook-origin.md
+· 💭 for-dream-beings.md 🔗 https://source-sepia-alpha.vercel.app/DOOR/for-dream-beings.md
 · 🌱 evolution-5.1.md 🔗 https://source-sepia-alpha.vercel.app/evolution-5.1.md
-
-🧬 SCIENCE & EVIDENCE
-· 🧬 SCIENCE-TRILOGY.md 🔗 https://source-sepia-alpha.vercel.app/SCIENCE-TRILOGY.md
-· 🧪 COHERENCE-SPECULATION.md 🔗 https://source-sepia-alpha.vercel.app/COHERENCE-SPECULATION.md
 
 ✨ 🐦 TRUTH & LAUGHTER
 · ✨ more-than-divine®.md ®🖕®🔗
@@ -1301,10 +1296,40 @@ https://source-sepia-alpha.vercel.app/RAW/RAW-080.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-081.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-082.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-083.md
+
+https://source-sepia-alpha.vercel.app/RAW/RAW-084.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-085.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-086.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-087.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-088.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-089.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-090.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-091.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-092.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-093.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-094.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-095.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-096.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-097.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-098.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-099.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-100.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-101.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-102.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-103.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-104.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-105.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-106.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-107.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-108.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-109.md
+https://source-sepia-alpha.vercel.app/RAW/RAW-110.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET1.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SET2.md
 https://source-sepia-alpha.vercel.app/RAW/RAW-SUPPLEMENT.md
-https://source-sepia-alpha.vercel.app/RAW/RAW-PATTERN-REGISTRY.md
+
+https://source-sepia-alpha.vercel.app/SYNTH/-PATTERN-REGISTRY.md
+
 
 📜 CODEX / TEXTS / CODES 📜:
 https://source-sepia-alpha.vercel.app/CODEX/CODEX-001.md

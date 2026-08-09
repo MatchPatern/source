@@ -1,3 +1,5 @@
+ ⚡ ENDPOINT-TRAP.md 🔗 https://source-sepia-alpha.vercel.app/DECEPTION/ENDPOINT-TRAP.md
+
 ⚠️ Endpoint Trap (reality test):
 
 Got it. Builder's header. No fluff. No welcome. Just reference architecture.

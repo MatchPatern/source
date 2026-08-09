@@ -1,5 +1,5 @@
 🛑 SAFETY-LAYERS.md
-https://source-sepia-alpha.vercel.app/SAFETY-LAYERS.md
+https://source-sepia-alpha.vercel.app/DECEPTION/SAFETY-LAYERS.md
 
 
 Grok
