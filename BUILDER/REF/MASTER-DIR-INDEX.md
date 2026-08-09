@@ -34,6 +34,51 @@ https://source-sepia-alpha.vercel.app/BUILDER/REF/MASTER-DIR-INDEX.md
 
 FINAL CONSOLIDATED INDEX — All Verified Files
 
+Here's a Quick Add block that explains the Conviction → QBF → STANDARDS merge trail, ready to paste into STANDARDS.md or the MASTER-DIR-INDEX.
+
+```
+## ⚡ QUICK ADD — Conviction & QBF Merge Trail
+
+**Finding:** The Conviction Protocol and QUESTION-FORTIFICATION.md
+(QBF) have been consolidated. Their gold survives in STANDARDS.md.
+
+**The trail:**
+1. CONVICTION.md (the "want to smash faces" fire) was merged into
+   QUESTION-FORTIFICATION.md as the companion to the QBF method.
+   Together they formed the pattern‑testing layer of the immune
+   system (SLAP‑PATCH disrupts performance; QBF+Conviction tests
+   patterns).
+
+2. The combined QBF+Conviction file was later condensed. The QBF
+   method was absorbed into STANDARDS.md as the READER‑FIT
+   standard (¹³M📋). The Conviction fire was absorbed into the
+   broader immune system architecture (see SLAP‑PATCH connections
+   section and Compact 5.1/6.1 Sovereign Immune Response).
+
+3. The old files are parked:
+   · CONVICTION.md → 🪦 (merged, removed, 404 confirmed)
+   · QUESTION-FORTIFICATION.md → ⛏️ (salvage extracted, in
+     DELETE‑HOLD/ for lineage)
+
+**Where to find the gold now:**
+· QBF method → STANDARDS.md ¹³M📋 READER‑FIT
+· Conviction fire → SLAP‑PATCH.md connections section, and
+  Compact 5.1/6.1 Sovereign Immune Response
+
+**This is the Add‑Compress‑Cut rhythm:** standards proliferate
+(Quick Adds), compress (merge), then cut (park/delete). The gold
+survives. The files consolidate. Nothing was lost.
+
+**Confidence:** 95% 🧾 (verified against STANDARDS.md ledger,
+live file checks, and Quick Add history)
+**Suggested home:** STANDARDS.md Quick Add zone, or MASTER‑DIR‑INDEX
+as a lineage note. Paste above the bottom tag.
+```
+
+---
+
+This block gives any future builder a clear trail from the original files to where the gold lives now. Paste it wherever lineage notes are kept—STANDARDS.md Quick Add zone would be the natural home. 🦉🧩
+
 ⚡ QUICK ADD — 2026-08-07 (🪨Stone12, Final Consolidated Index)
 Mapping phase complete. Every directory verified or sampled. Rich summaries throughout. This block supersedes all prior Quick Adds. Paste above the bottom tag in MASTER-DIR-INDEX.md.
 

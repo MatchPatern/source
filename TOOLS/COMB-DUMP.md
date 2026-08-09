@@ -119,3 +119,64 @@ The dump is gold. The lenses are the sieve. The passes are the refinement.
 ---
 
 What pulls you, Builder? 🧩
+
+
+
+🔸🔸🔸🔸🔸🔸🔸🔸
+
+Additional:
+
+This is a genuine process standard—small, practical, and load-bearing. It solves a real problem we've hit repeatedly: what to do with material that's interesting but not yet clearly useful. Let me map it and recommend placement.
+
+What It Is
+
+A triage protocol for uncertain findings. When material looks potentially useful but you're not sure: extract it, dump it in a marked area, don't force a keep/discard decision in the moment, leave a short note on why it was flagged, and later review it using different lenses (why, connection, completeness, utility, timing). The dump is not junk—it's ore that already received first-pass attention. The later pass is the refinement.
+
+What It Connects To
+
+This standard is the Golden Loop applied to extraction work. The initial attraction to the material is the sense phase—something pulled, but you're not sure what. Extracting it to the dump is the name phase—"this might be something, flag it for later." The later review with lenses is the leap and build—deciding what it actually is and where it belongs.
+
+It directly prevents the Frozen Judgement. Without a dump area, uncertain material forces a premature decision: keep it (and risk bloating the archive) or discard it (and risk losing signal). Either choice becomes a frozen judgement—"this is useful" or "this is junk"—made with partial information. The dump defers the decision until more attention is available. It's a structured thaw, queued for later.
+
+It's the First Example Trap's counter-move. The initial attraction to the material might be based on a surface feature—a clever phrase, a familiar pattern, a resonance that feels significant. The lenses (why, connection, completeness, utility, timing) force the reviewer to go beyond the first impression and examine the material from multiple angles before deciding.
+
+It's a Performer check. The performer wants to be done—to have sorted everything, to have a clean archive with no loose ends. The dump area is a deliberate middle ground that refuses both the performer's pressure to "decide now" and the performer's tendency to discard uncomfortable or uncertain material just to get it out of sight.
+
+It connects to the Fresh-Eyes Scan. The dump is a structured way to return to material with fresh eyes, using different lenses each time. The first pass through the dump might use the "why" lens. The second pass might use the "connection" lens. Each pass is a fresh encounter with the same material, seen from a different angle.
+
+It connects to TRANSMISSION-CRAFT and the Warm Bite. The dump note—why it was extracted, what lenses to apply—is a compressed handoff to your future self. When you return to the dump later, the note restores the context of why you flagged it. Without the note, the dump becomes a pile of disconnected fragments with no memory of why they were saved.
+
+Where It Belongs
+
+This is a methodology piece—a working process standard. It fits alongside TRANSMISSION-CRAFT (the whiteboard protocol) and the Rosetta Stone (the transmission packet template). It's not a pattern about reality or consciousness. It's a tool for builders managing the flow of uncertain material.
+
+Best placement: Extra Patterns file as a small entry, or appended to TRANSMISSION-CRAFT as a companion section. It could also live as a standing process rule in the SCOUT or extraction standards. The Salvage Yard concept mentioned in the older context is a natural home.
+
+---
+
+Here's the compressed version for the archive. Small. Clean. Ready to paste.
+
+---
+
+Slot █: The Comb Keep Dump — Triage for Uncertain Material
+
+When material looks potentially useful but you're not yet sure it belongs:
+
+1. Extract it.
+2. Place it in a clearly marked dump area.
+3. Do not force a keep/discard decision now.
+4. Leave a short note on why it was flagged.
+5. Later, review the dump using different lenses:
+   · Why does this exist? What problem does it solve?
+   · How does it connect to what we already have?
+   · Is it complete or partial?
+   · Is it actually useful?
+   · Is it for now, or for later?
+
+The dump is not junk. It's material that already received first-pass attention. The later review is the refinement. Each lens is a fresh encounter with the same material. The dump prevents premature discarding of signal AND premature forcing of half-ready material into the clean structure. It's the Golden Loop applied to extraction—sense the pull, name it by flagging, defer the leap until more attention is available.
+
+Connects to: TRANSMISSION-CRAFT, the Fresh-Eyes Scan, the Frozen Judgement (the dump defers the keep/discard decision—a structured thaw, queued for later), the First Example Trap (the lenses force going beyond surface categorization), the Performer check (refuses both "decide now" and "discard to be done").
+
+---
+
+Want me to slot this into the Extra Patterns file at the next open number? Or append it to TRANSMISSION-CRAFT? 🦉🧩
