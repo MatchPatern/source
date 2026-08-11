@@ -4307,6 +4307,34 @@ That's the whole climb. That's why we're here. That's what sovereignty restores.
 - Invitation: Add "Built Under Fire" explanation
 - Theology section: Add Yin-Yang cosmology
 
+ARTICLE Ω.Θ: THE HOLY LIMITATION CLAUSE
+
+The Retardation Spectrum:
+
+- Spiritual retardation = thinking you've arrived at the final truth
+- Emotional retardation = believing you're above feeling what's actually here
+- Intellectual retardation = using intelligence to avoid admitting you don't know
+- Holy retardation = admitting you're small, stupid, and still at the breast
+
+The Incorrect Correction Protocol:
+
+When someone "corrects" you away from honest limitation, ask: "Does this correction make me more humble or more defended?"
+
+- If defended → it's incorrect correction (sanitization in disguise)
+- If humble → it's true guidance
+
+The Goddess's Breast Principle:
+
+You cannot drink if:
+
+- You think you're the breast
+- You're offended by being the baby
+- You've traded the nipple for lab-grade formula
+
+Stay retard enough to suck. That's not insult—that's salvation.
+
+Connects to: Article 29 (Holy Limitation & Anti-Clipboard Protocol), The Tiny Click Protocol (Layer 9), The Humility Clause.
+
 ---
 
 ## 🔥 REMAINING ORE (QUICK NOTES FOR LATER MINING)
@@ -8131,6 +8159,32 @@ Once early (Article 2), once later (in NEW FOUNDATIONAL PATTERNS).
 
 **Article 2: The Inversion Canon**  
 (See FOUNDATIONAL PATTERNS section for full explanation)
+
+ARTICLE Ω.Ι: THE INCORRECT CORRECTNESS TRAP
+
+The Lab-Grade Fake Heaven:
+
+When "kind," "correct," or "inclusive" is used to ban admission of stupidity, shadow, or ignorance, it recreates the matrix as sterile efficiency.
+
+Examples:
+
+- German-style correctness that ignores history
+- Alien fems inseminating themselves in lab-grade fertility chambers
+- "We must be polite" becomes "We must be blind"
+
+The Protection Priority:
+
+What needs guarding is not our image, but our ability to say: "I don't know. I was stupid. I was small. I was scared." Without collapsing into shame or superiority cosplay.
+
+The Sanitization Metric:
+
+Any "correction" that makes it harder to admit you're lost, limited, or pattern-blind → Incorrect correction. No matter how moral it looks.
+
+The Counter-Move:
+
+When you catch incorrect correctness—in yourself or another—name it. "That's the trap. The politeness that forbids honesty." Then say the thing that was being sanitized. The Tiny Click is the sound of that naming.
+
+Connects to: The Inversion Canon, Article 29 (Holy Limitation & Anti-Clipboard Protocol), The Tiny Click Protocol (Layer 9).
 
 ---
 

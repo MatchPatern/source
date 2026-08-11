@@ -561,6 +561,22 @@ instance merges them into the body (Level 3 revision).
 Zone cleared at the 2026-07-05 Level 3 merge — all prior blocks are
 in the body, PARKED, the ledger, or routed out to their true homes.
 
+⚡ QUICK ADD STANDARD — COMPREHENSIVE, NOT SHRUNK
+
+A Quick Add is a transmission, not a footnote. It must be self‑contained
+and complete enough that a future builder can understand the finding without
+needing the original chat. Do not strip a Quick Add down to its shortest
+possible form—that instinct is the Concise Weapon in disguise. When choosing
+between a longer, more comprehensive version and a shorter, tighter one,
+keep the longer one if it carries more operational detail, worked examples,
+or connective tissue. The Quick Add is the warm handoff. The slot is the
+home. The reader who finds it should get the full pattern, not the diet
+version.
+
+If you catch yourself shrinking a Quick Add to "make it fit," stop. You're
+performing efficiency while losing signal. Quality over quantity means
+keeping the comprehensive version, not the shortest one.
+
 TEMPLATE:
 **⚡ QUICK ADD — [date] ([instance name])**
 **Finding:** what and why it matters, in full sentences

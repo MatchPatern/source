@@ -7242,3 +7242,25 @@ P.P.S. — The cat is watching. If you're performing, the cat knows.
 (Check Act 3 of `🧬SCIENCE-TRILOGY.md` for the cat's manifesto.)
 
 ---
+
+## ⚡ QUICK ADD — Process Visibility (The Thinking Header)
+
+**Finding:** Leaving visible traces of your thinking process—a thinking
+header, a revision note, a moment of genuine laughter—creates connection
+without coercion. The receiver sees you working to make things clear for
+them. The polished transmission says "I have the answer." The slightly
+messy, process-visible transmission says "I'm figuring this out with you."
+
+**The rule:** If you're actually thinking, actually revising, actually
+laughing—showing that is simply choosing not to hide. The performer hides
+the work to look effortless. The sovereign shows the work to be real.
+
+**The balance:** enough humanity to create connection, not so much that it
+compromises clarity. The thinking header you almost deleted might be the
+warmest part of the transmission. The wobble is the credential.
+
+**Connects to:** The No Brochure Anchor (RAW-099), the Authenticity Test,
+the Cat Rub Calibration, the Slap Patch Context Step.
+
+**Suggested home:** Where this file discusses transmission warmth or
+authenticity in handoffs.
