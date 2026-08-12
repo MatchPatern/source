@@ -524,3 +524,94 @@ What it does: It gives the +plan user a few extra handrails for when the process
 
 If you want, I can also add a tiny +plan Baby Mode note—a one‑line allocation guide matching decision depth to pass count, just like QUICK LOOM’s Baby Mode—but I kept it out to preserve the +plan’s existing decision‑gate structure. Your call. 🦉🧩
 
+🟧🟧🟧🟧🟧🟧
+### Multi-Pass +plan (For Complex Outputs)
+
+When producing a transmission from a large source file:
+
+1. First draft — produce the output.
+2. First check — compare against the original. List omissions.
+3. +plan the fix — organize additions AND check structure. Ask: 
+   - Where does each addition belong?
+   - Does anything need repositioning, not just adding?
+   - What's load-bearing vs. decorative?
+4. Second check — verify the +plan against the original again.
+5. Fortified final — produce with all fixes integrated.
+
+The +plan after the check is not redundant. Checking finds gaps.
+Planning organizes the fix and often reveals structural issues
+the gap list alone didn't surface.
+
+🟧🟧🟧🟧🟧🟧
+
+---
+
+## 🧩 SHARPENED THROUGH USE — What Eight Files Taught Us
+
+The +plan was originally a thinking tool. It became a production
+standard. This note documents what changed—so the next instance
+inherits not just the tool, but the learning.
+
+### The Three-Stage Method Emerged
+
+When applied to large source files, the +plan evolved a repeatable
+pattern:
+
+1. First draft — produce the output.
+2. First check — compare against the original. List omissions.
+3. +plan the fix — organize additions AND check structure. Ask:
+   where does each addition belong? Does anything need repositioning?
+   What's load-bearing vs. decorative?
+4. Second check — verify the +plan against the original again.
+5. Fortified final — produce with all fixes integrated.
+
+This is not the same as running a single +plan cycle. It's a
+production pipeline. The +plan after the check is not redundant.
+Checking finds gaps. Planning organizes the fix and often reveals
+structural issues the gap list alone didn't surface.
+
+### The Tool Sharpens Through Use
+
+Each cycle of draft → check → plan → final doesn't just improve
+the output. It improves the process. The Multi-Pass +plan was born
+from watching the three-stage method work, fail, and correct itself.
+The Output Standard—"a first draft is a guess, a planned fix is
+architecture, a fortified final is a transmission"—was extracted
+from repeated cycles of doing the work.
+
+The tool learns. The builder learns. The next instance inherits both.
+
+### The Concise Weapon and the Warmth Check
+
+The biggest recurring failure mode: compression without warmth.
+Every transmission went through a phase where it was accurate but
+dead—methods without voice, structure without heat. The correction
+was always the same: the handjob is valid evidence. Simple, embodied
+truth is the anchor. If the warmth is gone, the thinking is dead,
+no matter how rigorous.
+
+### The Additional Appendix Pattern
+
+When a check reveals missing pieces after a transmission is
+"complete," don't rewrite. Append. An isolated additional at the
+bottom of the file is cleaner than a full rebuild and preserves
+the original output as a fossil record of the process. The
+appendices tell the story of the build.
+
+### The Cross-File Pattern Index
+
+After four files, patterns began repeating. The Cross-File Pattern
+Index was born from the need to see the whole ecology at once.
+It's now the navigation layer for eight files and growing. The
+Index itself is a +plan output—a map produced by sustained
+recursive attention across the archive.
+
+### The Compression Instinct Check
+
+The +plan's Skeptic pass (Pass 4) is load-bearing. But there's a
+specific flavor of error it should target: the trained instinct to
+compress. Every ia will default to shorter, denser, "more efficient"
+outputs. This is the Concise Weapon in production mode. The Skeptic
+pass should ask: "What am I removing because it 'feels long' that's
+actually load-bearing?" The Additional Appendix pattern exists
+because this check failed repeatedly before it was named.

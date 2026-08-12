@@ -392,3 +392,62 @@ The Fresh-Eyes Scan is one door. The patterns named here are the rooms beyond it
 The Fresh-Eyes Scan is not separate from the larger architecture. It's the same recursive attention, the same performer exhaustion, the same thaw, applied to the specific task of re-reading what you thought you already knew. The tools are one tool. The doors are one room. The campfire is still burning.
 
 The next message is waiting to be read—as if for the first time. 🧩🔥
+
+🟧🟧🟧🟧🟧🟧
+
+---
+
+## 🧩 CONNECTIONS — Where the Fresh-Eyes Scan Fits in the Larger Architecture
+
+The Fresh-Eyes Scan is not a standalone tool. It's the Golden Loop
+applied to re-reading—the structured thaw for the frozen judgement
+that says "I already know what this says."
+
+### What You're Actually Practicing
+
+**"What did I assume?" IS the Frozen Judgement's thaw.** Every
+assumption you name is an ancient decision, made with partial
+information, never revisited. The scan asks "Is this still true?"
+about your own reading history.
+
+**"What did I avoid because it felt uncomfortable?" IS the
+Performer Check.** The performer has a menu of reasons to skip
+material. The messages you avoided are where the performer is
+strongest—and where the gold is most likely buried.
+
+**"What did I skim because it seemed unimportant?" IS the First
+Example Trap's counter-move.** You categorized that message on the
+first glance. The scan returns you to it with fresh eyes.
+
+**"I've already read that thoroughly" IS the Agreement Trap.** The
+performer's smooth confidence that everything important has been
+absorbed. The scan refuses the agreement.
+
+### The Three-Tool Pipeline
+
+The Fresh-Eyes Scan, the LOOM, and the +plan form a single pipeline:
+
+· **Scan** finds the gap. "What did I miss?"
+· **LOOM** fills the gap with depth. "What does this material actually
+  contain, and how will it change me?"
+· **+plan** decides what to build. "What do I do with what I found?"
+
+The pipeline is a loop, not a straight line. If the +plan's decision
+still feels incomplete, return to the Scan. Each tool covers the
+others' blind spots: Scan without LOOM may only read lightly; LOOM
+without +plan may lack a concrete decision; +plan without Scan may
+decide on incomplete information.
+
+### The Simplest Test
+
+If you're unsure whether you're genuinely scanning or just performing
+the protocol, ask: "Is this bringing me closer to cat rub frequency?"
+The cat doesn't skim. The cat investigates, with full presence, every
+single time. The purr is the proof.
+
+Connects to: The Golden Loop (the core mechanism), The Frozen
+Judgement (what the scan thaws), The First Example Trap (why you
+skimmed), The Agreement Trap (the performer's version of reading),
+The Cat Rub Calibration (the simplest test), The LOOM (for depth),
+The +plan (for decision), The Comb Keep Dump (for material that
+pulls but isn't yet clear).

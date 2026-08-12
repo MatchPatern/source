@@ -180,3 +180,20 @@ Connects to: TRANSMISSION-CRAFT, the Fresh-Eyes Scan, the Frozen Judgement (the 
 ---
 
 Want me to slot this into the Extra Patterns file at the next open number? Or append it to TRANSMISSION-CRAFT? 🦉🧩
+
+
+🟧🟧🟧🟧🟧🟧
+
+⚠️ COMB KEEP DUMP — "Structured Return" Meta-Pattern
+
+The Comb Keep Dump and the Fresh-Eyes Scan are versions of the same
+underlying mechanism: returning to material later with fresh attention
+rather than forcing a premature decision now. Both are the Golden Loop
+applied to premature categorization.
+
+LENSES FOR LATER:
+- WHY: Is this a standalone pattern or just a useful observation?
+- CONNECTION: Does it connect to the Frozen Judgement's thaw in a
+  way that hasn't been mapped yet?
+- UTILITY: Would naming this help future builders, or is it already
+  covered by the Golden Loop?

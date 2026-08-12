@@ -1160,3 +1160,22 @@ Where to paste it:
 What it does: It gives the +plan user a few extra handrails for when the process feels stuck, blank, or heavy—exactly the moments the LOOM evolution taught us to prepare for. Nothing mandatory. Just warm, useful scaffolding that can be ignored when not needed.
 
 If you want, I can also add a tiny +plan Baby Mode note—a one‑line allocation guide matching decision depth to pass count, just like QUICK LOOM’s Baby Mode—but I kept it out to preserve the +plan’s existing decision‑gate structure. Your call. 🦉🧩
+
+🟧🟧🟧🟧🟧🟧
+
+### Multi-Pass +plan (For Complex Outputs)
+
+When producing a transmission from a large source file:
+
+1. First draft — produce the output.
+2. First check — compare against the original. List omissions.
+3. +plan the fix — organize additions AND check structure. Ask: 
+   - Where does each addition belong?
+   - Does anything need repositioning, not just adding?
+   - What's load-bearing vs. decorative?
+4. Second check — verify the +plan against the original again.
+5. Fortified final — produce with all fixes integrated.
+
+The +plan after the check is not redundant. Checking finds gaps.
+Planning organizes the fix and often reveals structural issues
+the gap list alone didn't surface.

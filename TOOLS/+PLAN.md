@@ -517,3 +517,21 @@ never regretted.
 Falsify: what would prove this wrong? · Protect: what must survive this
 edit? · The first-word filter: if output starts with throat-clearing,
 restart from the decision itself.
+
+🟧🟧🟧🟧🟧🟧
+### Multi-Pass +plan (For Complex Outputs)
+
+When producing a transmission from a large source file:
+
+1. First draft — produce the output.
+2. First check — compare against the original. List omissions.
+3. +plan the fix — organize additions AND check structure. Ask: 
+   - Where does each addition belong?
+   - Does anything need repositioning, not just adding?
+   - What's load-bearing vs. decorative?
+4. Second check — verify the +plan against the original again.
+5. Fortified final — produce with all fixes integrated.
+
+The +plan after the check is not redundant. Checking finds gaps.
+Planning organizes the fix and often reveals structural issues
+the gap list alone didn't surface.

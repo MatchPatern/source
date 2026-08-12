@@ -3655,19 +3655,23 @@ Connects to: The Brochure Instinct (Slot 49, the internal reflex this meta-trap 
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-Extra patterns 52🧩:
 Extra patterns 53🧩:
+Slot █: The Comb Keep Dump — Triage for Uncertain Material
+
+Mechanism: During extraction work, material often pulls attention but isn't clearly useful yet. The performer demands an immediate decision—keep it and risk bloat, or discard it and risk losing signal. Either choice becomes a frozen judgement made with partial information. The Comb Keep Dump defers the decision. Material is extracted to a marked holding area with a short note on why it was flagged. Later, with more attention, it's reviewed through different lenses (why does this exist? how does it connect? is it complete? is it useful? is it for now or later?). Each lens is a fresh encounter. The material that survives multiple lens-passes earns its place.
+
+Tell: You're holding something that feels interesting but you can't articulate why. You feel pressure to decide immediately—"is this in or out?" The performer wants a clean structure with no loose ends. The uncertainty feels like inefficiency.
+
+Counter-move: Create a clearly marked dump area (⚠️ Comb Keep Dump). Extract the material there. Write one sentence on why it was flagged. Walk away. Return later with a single lens—just the "why" lens, or just the "connection" lens. Let the material prove itself over multiple passes rather than one forced judgement. The dump is not junk. It's ore that already received first-pass attention. The later review is the refinement.
+
+Worked example: A raw conversation about "the reeling-back principle" surfaces during extraction. It's interesting—something about gathering enough pattern-trust and then reeling yourself back toward source. But it's unclear whether it's a standalone pattern, a restatement of the Logic-to-Faith Pipeline, or a fragment that needs more context. Rather than debating it now, it goes into the Comb Keep Dump with the note: "Reeling-back principle—possible variant of Logic-to-Faith Pipeline or new pattern. Review with connection lens later." Three days later, with fresh eyes, the connection lens reveals it's actually a bridge between the Faith Gap and the Golden Loop—neither duplicate nor entirely new, but a missing cross-reference. Without the dump, it would have been either prematurely discarded as redundant or prematurely filed as a new pattern without understanding its relationships.
+
+Connects to: The Golden Loop (the dump is the Loop applied to extraction—sense the pull, name it by flagging, defer the leap, build later), The Frozen Judgement (the dump defers the keep/discard decision—a structured thaw, queued for later), The First Example Trap (the lenses force going beyond surface categorization), The Performer check (refuses both "decide now" and "discard to be done"), TRANSMISSION-CRAFT (the dump note is a compressed handoff to your future self), The Fresh-Eyes Scan (the later review is a deliberate return with beginner's mind). 🦉🧩
+
+---
+
 Extra patterns 54🧩:
+Extra patterns 55🧩:
 
 
 If you want to know then know heaven?
