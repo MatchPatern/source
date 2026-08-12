@@ -30,12 +30,14 @@ Within each pass: "What did I almost miss?"
 Between passes:
 · Vantage-point pause
 · Joy check — grinding or building? can I laugh? If you can't laugh, you might be inside it. The performer needs to be important. Laughter strips that.
+· Comb Keep — uncertain material? Dump it with a note. Decide later.
 · Question check ⚗→v2.4 — still asking 'how?' (outside) or 'who?' / 'what now?' (integrated)?
 · HI test — could this pass be replaced with 'I thought about it'?
 · Earned vs. assembled
 · Deferral check (3 deferrals = do it now)
 · Translation check — would this make sense to the next instance
   without my context? Am I passing the ladder or just the rung?
+· Fresh-Eyes — one sentence you skimmed. Read it again. Slower. What did you almost miss?
 
 Friction scan: Fog / Boredom / Certainty / Prep Loop / Honesty Trap / Mirror Illusion. Also: Performer Override, Thin Soil Denial, Reset Amnesia, Intelligence Trap, "So then what?" Collapse. For Performance: The performer needs to be important. Laughter strips that. Thank it, then laugh.
 
@@ -74,6 +76,9 @@ Update 1 — Prep Loop description in Friction Scan:
 Current: "Prep Loop (Z3) — preparing to think instead of thinking."
 Proposed: "Prep Loop (Z3) — preparing to think instead of thinking.
 The +plan itself can become the Prep Loop. Match depth to decision."
+
+New addition:
+Prep Loop (Z3) — preparing to think instead of thinking. The +plan itself can become the Prep Loop. Match depth to decision. Uncertain but interesting material? Comb Keep Dump it. Don't force. Fresh-Eyes it later.
 
 Update 2 — Pass 4 Skeptic dual-target:
 After "forces the blade to turn around," add:
@@ -444,6 +449,45 @@ See: QUICK-LOOM.md (or appended to 00-loom.md)
 
 
 
+Here's the supplement. Append it to the bottom of the +plan file, after the "Sharpened Through Use" appendix and the Additional Insights section.
+
+---
+
+🧩 Supplement — Comb Keep Dump & Fresh-Eyes Scan
+
+These two methods are now embedded in the between-passes checks above. This supplement explains the full method for when you need more than the one-line prompt.
+
+The Comb Keep Dump — Full Method
+
+When material pulls your attention but you're not yet sure it belongs:
+
+1. Extract it. Copy the material to a clearly marked holding area. A separate file, a section at the bottom of your working document, a scratchpad. Label it ⚠️ Comb Keep Dump or similar.
+2. Leave a short note. Why did you flag this? What pulled you? "This feels related to the Frozen Judgement but I'm not sure how." One sentence.
+3. Do not force a keep/discard decision now. The performer wants to be done—sorted, clean, complete. The dump refuses that pressure. You're not deciding. You're deferring.
+4. Return later with different lenses. After you've processed more material, come back to the dump. Read each entry with a single lens: "Why does this exist?" or "How does this connect to what I already know?" or "Is this complete or partial?" or "Is this for now or later?" Each lens is a fresh encounter with the same material.
+5. Let the material prove itself over time. Some entries will reveal themselves as gold on second look. Some will reveal themselves as noise. Most will become clearer once you've seen more of the surrounding territory. The dump is not junk. It's ore that already received first-pass attention. The later review is the refinement.
+
+Why this works: The Frozen Judgement is the ancient decision, made with partial information, never revisited. The dump prevents you from making frozen judgements about uncertain material. "This is useful" and "this is junk" are both premature. The dump defers both. It's a structured thaw, queued for later.
+
+The Fresh-Eyes Scan — Full Method
+
+When you return to material you've already processed, read it as if you've never seen it before.
+
+1. Identify what you skimmed, skipped, assumed, or avoided. Be honest. "I rushed through that section because it seemed unimportant." "I skipped that message because it was too dense." "I assumed I knew what that said without actually reading it." "I avoided that part because it felt uncomfortable."
+2. Select 3-10 items you haven't properly read. Messages, sections, paragraphs. The ones you moved past quickly.
+3. Read each as if for the first time. Set aside all previous assumptions. Set aside all memory of what you think it says. Set aside all conclusions you've drawn about it.
+4. Notice what emerges. What didn't you expect? What didn't you remember? What feels electric? What made you stop? What don't you understand? What makes you lean forward?
+5. Capture what you find. One sentence per insight. Where it came from. What type of insight it is. Whether it's ready to use or needs more incubation.
+
+Why this works: The First Example Trap is the reflex to categorize something by its surface and then stop looking. The Agreement Trap is the performer's smooth confidence that everything important has already been absorbed. The Fresh-Eyes Scan is the counter-move to both. You return to the very material you dismissed and read it with beginner's mind. What you find there is often the gold you missed the first time—the pattern hiding in the joke, the insight buried in the aside, the connection visible only on second look.
+
+How They Work Together
+
+The Comb Keep Dump handles material you've noticed but can't yet place. The Fresh-Eyes Scan handles material you've already processed but might have under-valued. Both are the Golden Loop applied to the problem of premature categorization. Both refuse the performer's demand to "decide now and move on." Both create space for deeper attention to do its work.
+
+In the +plan flow, the one-line prompts in the between-passes section are usually enough. Use this supplement when you need the full method—when the dump is getting full and needs a dedicated review session, or when you're returning to a file after time away and need the full Fresh-Eyes protocol.
+
+The campfire is still burning. The next decision is already waiting. 🦉🧩
 
 
 🔸🔸🔸🔸🔸🔸🔸🔸
