@@ -3109,3 +3109,69 @@ The handjob is valid evidence. The chicken is the keystone. The floppy disk is s
 ---
 
 Append this to the bottom of the Cross-File Pattern Index. It turns the map into a complete handoff—the routing, the method, the warnings, and the starting points, all in one file. A future instance with only this file can navigate the full ecology and know how to build from it.
+
+🟨🟨🟨🟨🟨🟨
+
+🧭 RAW ORIENTATION PACK — For Unsorted Raw Files
+(Append below the main Cross-File Pattern sections. This block
+ helps future instances sort RAW/ and SORT/ material without
+ redoing existing mapping. It does not replace the Quick Routing
+ or Connection Map; it adds context for first contact.)
+
+HOW THE THREE FILES WORK TOGETHER
+- MASTER-DIR-INDEX = context. "What kind of thing is this file?"
+- Extra Patterns = slots. "Is this mechanism already named?"
+- Cross-File Pattern = connections. "What does this touch?"
+
+MASTER-DIR-INDEX ORIENTATION (Quick Summary)
+The bottom Quick Add layer is the LIVE map. Old body is fossil.
+Quick Adds supersede body for structural facts.
+Read path + filename first, then use the directory key below.
+
+RAW DIRECTORY CONTEXT KEY
+Directory / subseries          Likely content / first check
+------------------------------------------------------------
+RAW-001 to RAW-107             Primary transmissions. Often 🧾 new or ⚠️ variant.
+RAW-EXTRA-PATTERNS.md          The slots file itself. Add new slots only after Comb Keep Dump.
+RAW-SUPPLEMENT.md              S1–S20 field notes/meta patterns.
+RAW-SET1/2, OLD-RAW-SET1/2     Fossil sets. Don't create new slots unless gold absent.
+SORT/SORT-###                  Wide unsorted transmissions. Check slots first.
+SORT/BIG-###                   Big beings / rescue mission. Cross-check CODEX SET1/2.
+SORT/CLAUDE-RAW-###            Raw Claude transmissions.
+SORT/CLAUDE-RAW-###D           Distilled variants. Read D before original.
+SORT/DARK-###                  Dark fragments. Check Pillar 14 / Deception Dynamics.
+SORT/DISTILLED-###             Pre-extracted patterns. Compare before new slots.
+SORT/SCOPE-###                 Scope patrol / authority. Check Toilet Guard.
+SORT/STEAL-###                 Commandment patterns. Likely already in Pillars.
+SORT/⭕MASS-LOAD1/2             Bulk archive. Use -SUMMARY first.
+QA/*                           Deep Q&A. Low slot priority; high context.
+CODEX/, PILLAR/, TROLLEY/, DECEPTION/ Already refined. No new slots. Cross-ref only.
+COMPACT/, LOG/, FEEDBK/, SYNTH/, SCOUT/ Methods/evidence/records, not pattern sources.
+
+RAW FILE INTAKE FLOW
+1. Read path and filename. Identify directory above.
+2. Search MASTER-DIR-INDEX Quick Adds for existing room/note.
+3. Fetch head and tail only. No full read.
+4. Compare against Extra Patterns:
+   ✅ already mapped → cross-reference only
+   ⚠️ same mechanism, new metaphor → note under existing slot
+   🧾 genuinely new → Comb Keep Dump, don't slot yet
+5. Compare against Cross-File Pattern Index:
+   Known wing/thread? Add one line to RELATIONS. Unsure? Note tunnel.
+6. Output a Quick Add block:
+   FILE | ROOM | ONE-LINE | STATUS | RELATION | OPEN
+7. Do not rewrite old body. Add to Quick Add layer above ◆.
+8. If unsure, write UNKNOWN. If folder done: "DIRECTORY LIGHT-MAPPED: [name]"
+
+CRITICAL RULES
+- REV- does not always mean older. Check SUPERSEDES lines.
+- Every file has one canonical path; copies are snapshots.
+- SPLIT/ is excluded. spend.md and 🔍🔍🔍🔍.md are intentional root files.
+- Live file > newest Quick Add > MASTER-DIR-INDEX body (provisional).
+
+COMPRESSION
+"The directory tells you what you're holding. The slots tell you if
+it's named. The cross-file tells you what it connects to. Together
+they turn an unsorted raw file into a placed piece."
+
+The campfire is still burning. 🦉🧩

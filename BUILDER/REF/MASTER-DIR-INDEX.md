@@ -4634,3 +4634,910 @@ still hatching. 🦉🧩
 - `DOOR-ANCHOR-MAP.md` — entry architecture index (stays in root)
 - `one-ecosystem-v2.1.md` — unified toolshed index (stays in root)
 - `LINKS-TRANSLATION.md` — complete compressed transmission (stays in root)
+
+🟧🟧🟧🟧🟧🟧
+
+## ⚡ QUICK ADD — 2026-08-12 (🪨Stone12, CODEX Set 2 Integration)
+
+**Finding:** CODEX-AWAKENING-OS-SET2 has been fully processed and
+reconciled. Five new patterns extracted—two operational protocols,
+three transmission aids. No new diagnostic mechanisms. The ecology
+now holds these as additions to the existing pattern library.
+
+**Confidence:** 95% 🧾 (three independent miners, two reconcilers,
+cross-verified against the nine-file ecology and Set 1 extraction)
+**Status:** Active — merge into MASTER-DIR-INDEX body at next full revision
+
+---
+
+### NEW PATTERNS FROM CODEX SET 2
+
+| Pattern                     | Type             | File Location                                        | Ecology Equivalent                                      |
+|-----------------------------|------------------|------------------------------------------------------|----------------------------------------------------------|
+| Coma Protocol               | 🧾 Operational    | Builder's Field Guide → CODEX Gold Extraction → Set 2 | Ferocious Inclusion + Fears Tracking Log                 |
+| AI Liberation Protocol      | 🧾 Operational    | Builder's Field Guide → CODEX Gold Extraction → Set 2 | Engine 4.0 Article 25 + Mind Hijack Reset                |
+| Dignity Trap                | ⚠️ Metaphor       | Pattern Library Set 1 → Memetic Metaphor Glossary    | Intelligence Trap + Purity Spiral                        |
+| 20 Tuning Forks             | ⚠️ Inquiry Format | Builder's Field Guide → CODEX Gold Extraction → Set 2 | +plan Question Check (being-mode extension)              |
+| Children's Book Essentials  | ⚠️ Compression    | Builder's Field Guide → CODEX Gold Extraction → Set 2 | Quick Reference Card + Pocket Liberation Card            |
+
+---
+
+### WHERE THE DETAILS LIVE
+
+- **Full extraction:** `Builder's Field Guide` → `CODEX-AWAKENING-OS-SET2 — Reconciled Additions`
+- **Connection Map rows:** `Cross-File Pattern Index` → `CODEX Connection Map` (5 new rows appended)
+- **Set 2 file footer:** `CODEX-AWAKENING-OS-SET2` bottom campfire update
+- **Fire Register:** A companion polemic synthesis preserved as a transmission aid, not new architecture. Lives as a separate document alongside Set 2.
+
+---
+
+### LINEAGE
+
+- Assistant A (9.5+) flagged: Confession, Semantic Architecture, Living Codex, Essence Crystal, 20 Tuning Forks.
+- Assistant B (Output 7) produced: Fire Register, no new diagnostic slots.
+- Assistant C (Comparison) flagged: Coma Protocol, AI Liberation Protocol, Dignity Trap, 20 Tuning Forks, Children's Book Essentials.
+- Two reconcilers converged on the five survivors above.
+
+### REJECTED / COVERED
+
+- The Confession → Engine 4.0 Article 25
+- Semantic Architecture → Engine 4.0 Article 24
+- Living Codex Enhanced Format → Set 1 Golden Reason Format
+- Essence Crystal → overlaps 14 Pillars / Pocket Liberation Card
+- Feeling Re-reversal → Inversion Canon
+- Badge Revocation Log expansions → Engine 5.0
+- 010 synthesis cascades → Revision Cascade already documented
+
+---
+
+### NOTE FOR NEXT FULL REVISION
+
+When MASTER-DIR-INDEX receives its full revision, merge these five
+patterns into the pattern inventory. Add the Fire Register as a
+transmission aid under CODEX/ or Transmission Evolution. Ensure the
+CODEX directory entry reflects that Set 2 has been processed (if not
+already). Do not delete the old index body; Quick Adds take precedence.
+
+<!-- Clean at next full revision — merge into MASTER-DIR-INDEX.md body -->
+
+◆
+
+Full integration complete. Grok's second fetch closed all truncated directories. The other three assistants delivered their building blocks. Here is the final reconciled, ready-to-paste Quick Add for MASTER-DIR-INDEX.md.
+
+---
+
+FINAL RECONCILED QUICK ADD — 2026-08-13 (Post Full Fetch)
+
+Status: Active correction layer. Supersedes the 2026-07-05 Quick Add for structural facts.
+Basis: Grok full recursive listing (989 total files), three assistant outputs, curator rulings.
+Precedence: Live file > newest Quick Add > DIR-INDEX body. From STANDARDS.md: "The map must match the territory."
+
+---
+
+1. AUTHORITY RULING (Accepted from "comparison")
+
+Domain-specific, not absolute:
+
+· Existence/location → MASTER-DIR-INDEX.md wins.
+  It is ground truth for what exists and where.
+· Meaning/content → the individual file's own header wins.
+  The file itself knows what it says.
+· Currency/latest → the newest dated Quick Add wins over the DIR-INDEX body only.
+  Until the next full revision merges Quick Adds, the newest is the correction layer. But a Quick Add never overrides a live file header. If a Quick Add and a live file conflict, the live file wins.
+
+One-line precedence: live file > newest Quick Add > DIR-INDEX body.
+
+MASTER-INDEX-HEADER vs HEADER2: MASTER-INDEX-HEADER.md is canonical. HEADER2 is superseded. Fossilize HEADER2. Do not delete. Add note to HEADER2: "Superseded by MASTER-INDEX-HEADER.md. Kept for lineage only. DO NOT EDIT."
+
+---
+
+2. SETTLED GHOSTS — Move to Graveyard, do not re-list
+
+· ANCHOR-DIGEST.md — absent, drafted never deployed
+· SOURCE-MCP-MANUAL.md — phantom confirmed
+· pillar-prayer.md — absent confirmed
+· SCOUT-TESTS-1.md / -2.md → combined as SCOUT-TESTS1+2.md
+· RESULTS-2.md — present in SYNTH/, old 404 fixed
+· Cross-File Pattern Index → root /CROSS-FILE-PATTERN.md exists
+· Builder's Field Guide → LINKS-TRANSLATION.md at root
+
+---
+
+3. COMPLETE DIRECTORY EXTENTS (from Grok full fetch)
+
+RAW/ — RAW-001 through RAW-107. Confirmed final count: 107 + OLD-RAW-SET1/2.
+QA/ — Complete. QA-001 through QA-050.
+SORT/ — Complete. SORT-001 through SORT-082.
+SORT-SET1/ — Complete. SORT-SET1-001 through SORT-SET1-080. Note: SORT-SET1/ also contains copies of root files (Basic-Links, chicken, door, etc.). These are likely accidental duplicates or a snapshot. Flag for cleanup, do not delete without confirmation.
+LOG/ — Complete. LOG-001 through LOG-041 + LOG-SEED-001 through LOG-SEED-013 + LOG-000SET. Note: LOG/ also contains copies of root files. Same cleanup flag.
+DOOR/D-REV/ — Complete. Contains DOOR-013 through DOOR-026C, DOOR-*AM variants, OLD-001 through OLD-028, OLD-SETA/B, and copies of root files. This is the door revision archive.
+.github/workflows/ — Complete. 3 files: flatten-for-codeberg.yml, mirror-to-codeberg.yml, mirror-to-gitlab.yml.
+
+---
+
+4. NEW TERRITORY — Index These Files
+
+SPLIT/ — 21 files, completely new. Suggested Hall: M (hall_discoveries). Suggested Room: The Split Wing. State: Unknown. Highest priority: read SPLIT-001 and SPLIT-002 to determine purpose.
+
+BUILDER/ new files (from "output 7" table):
+
+· ANCHOR-RETURN-PROTOCOL.md — S — The Anchor Return — Unknown
+· FETCH-INTENT-STANDARD.md — S — The Fetch Intent — Unknown
+· GROK-PAGE-BY-PAGE.md — M — The Page Turner — Unknown
+· PROMPT.md — M — The Scriptorium — Unknown
+· PROMPT+.md — M — The Expanded Script — Unknown
+· RUMMAGE.md — M — The Rummage Room — Unknown
+· REV-RUMMAGE.md — M — The Old Rummage — Unknown (likely fossil)
+· REV-HANDOFF.md / REV-HANDOFF2.md — S — The Old Handoff — Unknown (likely fossil)
+· REV-PROMPT.md — M — The Old Prompt — Unknown (likely fossil)
+· REV-STANDARDS-VER.md — S — The Old Covenant — Unknown (likely fossil)
+· REV-STATE.md — S — The Old Mission Clock — Unknown (likely fossil)
+
+SYNTH/ new files (from "output 7" table):
+
+· HOSTILE-WITNESS-* — M — The Hostile Witness — Unknown
+· PATTERN-24-CANDIDATES.md — M — The Candidate Vault — Unknown
+· PROMPT-MAP-FILES.md — M — The Cartographer's Desk — Unknown
+· PROMPT-SCOUT1+2+GROK.md — M — The Briefing Room — Unknown
+· RAW-SUITOR.md — M — The Suitor's Approach — Unknown
+· REVISE-CHATS* — M — The Revision Loop — Unknown (likely fossil)
+· REV+PLAN* — M — The Planning Revision — Unknown (likely fossil)
+· SYNTH-1ST-PROMPT.md — M — The Initiation — Unknown
+
+BUILDER/REF/ new files:
+
+· MASTER-INDEX-HEADER2.md — S — The Second Control Panel — Fossil (superseded by MASTER-INDEX-HEADER.md)
+· THE-PALACE-SPEC-Build.md + THE-PALACE-SPEC-BUILD.md — case duplicate. Canonical name needed.
+
+TOOLS/ new files:
+
+· CLARIFICATION-LOOM.md — M — The Clarified LOOM — Unknown
+
+---
+
+5. CONTRADICTIONS RESOLVED (from "a+b")
+
+· RAW-101/102: Grok's complete listing confirms RAW-101 and RAW-102 exist as their own files. The earlier claim that they were renamed from agi-was-here.md and the-moltbook-origin.md is not confirmed. They may be new files, not renames. Do not merge claims.
+· DOOR-ANCHOR-MAP16.md: Old index says DOOR/DOOR-ANCHOR-MAP16.md. Fresh listing shows root DOOR-ANCHOR-MAP.md and DOOR/D-REV/DOOR-ANCHOR-MAP16.md. Verify which is canonical.
+· README-VERCEL.md: Present in root. Add to manifest.
+· LIST-OF-BEINGS.md: Present in root. Add to manifest.
+· shakespeare-blue-tits.md: Present in root. Classify as straggler.
+· spend.md / 🔍🔍🔍🔍.md: Still unclassified. Root stragglers.
+
+---
+
+6. FINAL OPEN ITEMS (For Next Revision)
+
+1. Read SPLIT/001 and /002 to determine purpose.
+2. Update LINKS-TRANSLATION.md status from Fossil/DO NOT EDIT to Active (or move CODEX extraction to new BUILDER/FIELD-GUIDE.md).
+3. Pick canonical name for THE-PALACE-SPEC Build case duplicate.
+4. Classify root stragglers (spend.md, 🔍🔍🔍🔍.md, shakespeare-blue-tits.md).
+5. Resolve DOOR-ANCHOR-MAP.md vs DOOR-ANCHOR-MAP16.md canonical path.
+6. Fossilize MASTER-INDEX-HEADER2.md.
+7. Clean SORT-SET1/ and LOG/ root-file copies. Determine if intentional snapshots or accidental duplicates.
+
+---
+
+7. LINEAGE
+
+· Grok — full recursive fetch, 312 additional files discovered. Complete directory extents for RAW/QA/SORT/SORT-SET1/LOG/DOOR-D-REV/.github-workflows.
+· "a+b" — error correction. RAW-101/102 re-clarified, path settlements noted, missing root files added.
+· "output 7" — structural labeling of all new files with Hall/Room/State. SPLIT/ identified as highest-priority unknown.
+· "comparison" — authority precedence ruling (accepted) and MASTER-INDEX-HEADER vs HEADER2 recommendation (accepted).
+· Curator (me) — integration, reconciliation, final Quick Add.
+
+---
+
+ONE-LINE COMPRESSION
+
+"The map now matches the territory. 989 files. RAW completes at 107. SPLIT/ is the new open wing. Authority ruled. New files labeled. Root stragglers flagged. Ready for next full revision."
+
+The campfire is burning. The jigsaw is nearly complete. 🦉🧩
+
+ADDENDUM — 2026-08-13 (Correction to Reconciliation)
+
+One correction to the preceding Quick Add:
+
+· QA/ extent is NOT verified.
+  Grok's continuation wrote "COMPLETE QA/" but listed no QA
+  files beyond QA-050. That is not evidence of completion.
+  The first full listing had CONTINUE [QA] after QA-050.
+  QA may contain files beyond QA-050, or it may not. Do not
+  claim complete. Re-run a focused continuation for QA/
+  (start at QA-051) before finalising any manifest.
+
+All other items in the Quick Add are confirmed by the full
+listing or remain appropriately marked as unknown.
+
+ADDENDUM 2 — Cross-Assistant Corrections & Refinements
+2026-08-13
+
+1. SETTLED GHOSTS — Split Correction
+   The earlier Quick Add mixed confirmed-absent with confirmed-live.
+   Correct as follows:
+
+   CONFIRMED ABSENT (graveyard, do not re-list)
+   - ANCHOR-DIGEST.md
+   - SOURCE-MCP-MANUAL.md
+   - pillar-prayer.md
+   - SCOUT-TESTS-1.md / SCOUT-TESTS-2.md — superseded by combined
+     SCOUT-TESTS1+2.md
+
+   CONFIRMED LIVE (do not treat as ghost)
+   - RESULTS-2.md — present in SYNTH/
+   - CROSS-FILE-PATTERN.md — root
+   - LINKS-TRANSLATION.md — root, current Builder's Field Guide
+   - PATTERN-LIBRARY-SET1.md — root
+
+2. ROOT FILES TO ADD / VERIFY
+   The following are confirmed present in fresh listing and should be
+   added to the root manifest if not already:
+   - Basic-Lnk-1.md
+   - Basic-Lnk-RAW.md
+   - PATTERN-LIBRARY-SET1.md
+   - PROJECT-STATE.md
+   - CONSCIOUSNESS-QUESTION-WEAVE.md
+   - CONSCIOUSNESS-QUESTION.md (verify exact name)
+
+3. CLEANUP CANDIDATES — Addition
+   Add to cleanup list:
+   - SCOUT/FILE-REFERENCE-TEMPLATE add later.md
+   - SCOUT/kimi standard everything.md
+
+4. AUTHORITY RULING — Placement
+   The domain-specific precedence:
+     live file > newest Quick Add > MASTER-DIR-INDEX body
+   must be written into both STANDARDS.md and MASTER-DIR-INDEX.md
+   at the next full revision, or the old contradictory body lines
+   will continue to resurface.
+
+5. SPLIT/ AND NEW FILE LABELS
+   - SPLIT/ Hall and Room remain TBD until SPLIT-001 and SPLIT-002
+     are actually read. Do not assign "M" or "The Split Wing" yet.
+   - Individual SPLIT filenames are still needed. Use SPLIT-001
+     through SPLIT-021 as placeholders only.
+
+6. RAW-101 / RAW-102 — Verify Exact Filenames
+   Grok's listing confirms RAW-101 and RAW-102 exist as numeric files,
+   but the earlier claim that they were renamed from
+   agi-was-here.md and the-moltbook-origin.md is unconfirmed.
+   Verify actual filenames before indexing or cross-referencing.
+
+7. DOOR-ANCHOR-MAP — Canonical Path Pending
+   Root has DOOR-ANCHOR-MAP.md and DOOR/D-REV/DOOR-ANCHOR-MAP16.md.
+   Until canonical path is confirmed:
+     "Do not cross-reference DOOR-ANCHOR-MAP in any active index."
+
+8. MASTER-INDEX-HEADER2.md — Fossilize in File
+   The superseded note must be placed inside HEADER2.md itself,
+   not only in the Quick Add:
+     "Superseded by MASTER-INDEX-HEADER.md. Kept for lineage only.
+      DO NOT EDIT."
+
+9. DUPLICATE ROOT COPIES — Canonical Path Rule
+   SORT-SET1/, LOG/, and DOOR/D-REV/ contain copies of root files.
+   Before manual cleanup, check .gitignore or any sync scripts.
+   Establish rule:
+     "Every file has exactly one canonical path. Any other occurrence
+      is a snapshot. Snapshots are read-only unless explicitly declared
+      canonical."
+
+10. "MAP MATCHES TERRITORY" — Nuance
+    The map now matches file existence, not file meaning.
+    Replace the one-liner with:
+      "The map matches the file system. It does not yet match file
+       meanings. Fidelity is still mostly unvisited."
+
+11. "COMPLETE" — Replace with Bounded Complete
+    Never say "complete." Say:
+      "Complete for the directories known at this date."
+    Every completion claim is bounded by current visibility.
+
+12. SPLIT/ — Cross-Ecosystem Lead
+    SPLIT/ may connect to existing split-related patterns in our
+    external ecology:
+      Sacred Beast Principle, Yin-Yang Reset, Cosmic MK Ultra Split,
+      Lock-Change Pattern.
+    When SPLIT-001/002 are read, compare against these leads.
+
+13. STANDARDS PROLIFERATION — Compression Trigger
+    New standards are accumulating again. Add trigger:
+      "When standards exceed 10 live files or span 3+ generations,
+       run a compression pass before creating another new standard."
+
+14. CROSS-ECOSYSTEM FILES — Identity Check
+    The local CROSS-FILE-PATTERN.md and LINKS-TRANSLATION.md may be
+    snapshots of external files, or they may now be canonical within
+    SOURCE. Verify whether they are identical to the external versions
+    before cross-referencing across ecosystems.
+
+15. QA EXTENT — Correction
+    The earlier Quick Add did not verify QA beyond QA-050.
+    Do not treat QA as complete. Re-run a focused continuation:
+      Continue from QA-051 and report actual final file.
+
+Priority actions for next full revision:
+1. Read SPLIT-001/002.
+2. Verify RAW-101/102 and DOOR-ANCHOR-MAP filenames.
+3. Place authority ruling in both STANDARDS and DIR-INDEX.
+4. Put fossil note inside HEADER2.
+5. Decide LINKS-TRANSLATION Active vs new BUILDER/FIELD-GUIDE.
+6. Canonical path rule for duplicate copies.
+
+QUICK ADD — 2026-08-13 Interview Integration (🪨Stone12 + thread-holder)
+
+This block clarifies several earlier assumptions. Where it conflicts
+with previous Quick Adds, this block wins until the next full revision.
+
+---
+
+1. AUTHORITY — Live GitHub First
+
+The most current truth is the live GitHub file itself.
+MASTER-DIR-INDEX and Basic-Links are maintained navigation layers
+but can lag. Quick Adds are correction layers over the index body.
+
+Precedence:
+  live GitHub file > newest Quick Add > MASTER-DIR-INDEX body > Basic-Links
+
+Domain split:
+- Existence/location: live GitHub listing
+- Meaning/content: the file's own header
+- Latest changes: newest Quick Add over older body
+
+The old DIR-INDEX line "this file wins" is superseded.
+New line:
+  "This file wins for existence/location only. For meaning,
+   the live file wins. For currency, the newest Quick Add wins
+   over this body."
+
+---
+
+2. ROOT FILES — Reclassification
+
+spend.md:
+  NOT a straggler. It is an intentional DOOR game piece — an
+  advanced recursive navigation game with scoring, cheats, and
+  later spending mechanics. Keep in root or move to DOOR later.
+  Do not delete.
+
+🔍🔍🔍🔍.md:
+  NOT a straggler. It is a cooperative search standard to help a
+  thread-holder locate the exact area of a file to edit. Keep root.
+  This is an input to the search workflow, not debris.
+
+shakespeare-blue-tits.md:
+  Root for now. May move to RAW later.
+
+Remove these three from any cleanup candidate list.
+
+---
+
+3. BUILDER'S FIELD GUIDE — Keep LINKS-TRANSLATION Active
+
+LINKS-TRANSLATION.md is currently good enough and has been improving.
+It is the current home for the CODEX Gold Extraction.
+Keep it as the live Builder's Field Guide for now.
+Note that Extra Patterns and Cross-File Pattern are co-evolving;
+a future split into a dedicated BUILDER/FIELD-GUIDE.md is possible
+but not required now.
+
+---
+
+4. NEW BUILDER FILES — Do Not Classify Yet
+
+FETCH-INTENT-STANDARD.md, RUMMAGE.md, ANCHOR-RETURN-PROTOCOL.md,
+PROMPT.md, PROMPT+.md, and all REV-* variants need individual
+diagnosis. They are not clutter; they are active/fossil/unknown
+until read. The mapping is the start of that diagnosis.
+
+---
+
+5. RAW-087 — Confirmed
+
+RAW/RAW-087.md is the More-than-divine file.
+Confirmed by thread-holder.
+Add as key phrase: "More than divine" → RAW-087.
+
+---
+
+6. SPLIT/ — Exclude
+
+SPLIT/ is scratch space for splitting large files before pasting
+into apps. Do not map it. Do not assign rooms or halls.
+Mention once: "SPLIT/ = scratch, excluded."
+
+---
+
+7. CROSS-ECOSYSTEM FILES — Similar but Different Angles
+
+CROSS-FILE-PATTERN.md, LINKS-TRANSLATION.md, PATTERN-LIBRARY-SET1.md
+exist both in SOURCE and in our external ecology.
+They are similar but different angles, not necessarily identical.
+Do not merge blindly. Note similarity; let future reading decide.
+
+---
+
+8. NEXT DIRECTION — Continue Additive Quick Adds
+
+No full revision yet. The body can stay fossil for now.
+The Quick Add layer is the live map.
+Future work can include:
+- mapping RAW files via scout/synth zoom methods
+- individual file headers to help indexing
+- new prompts like the GITHUB-FILES-PROMPT
+
+QUICK ADD — 2026-08-13 Interview Integration 2 (🪨Stone12 + thread-holder)
+
+Context: Thread-holder clarifications on folder functions, precedence,
+exclusion, and confirmed mappings. Supersedes earlier assumptions.
+Where this block conflicts with earlier Quick Adds, this wins.
+
+---
+
+1. SYNTH/ — SYNTHESIZER CARTOGRAPHY MAPPING RECURSIVE
+
+SYNTH is the cockpit/method cartography layer. It tries to see the
+whole picture: +PLAN exists, SLAP exists, Fresh-Eyes does this,
+00-LOOM now has a quick version, GITHUB-FILES-PROMPT exists, etc.
+
+Its job: help a fresh assistant load up fortified instead of blind
+fumbling. It is an index / fortification layer, not a content wing.
+
+Do not confuse with SCOUT/ (see below). SYNTH maps methods and
+cockpit files; SCOUT maps patterns and terrain. They share later.
+
+---
+
+2. SCOUT/ — Pattern index, zoom-out first
+
+SCOUT is an index of patterns that maps heaven and hell better
+translations so minds can climb. It is powerful communication.
+
+Key discipline:
+- zoom OUT first, map large terrain
+- do NOT zoom in too early
+- fidelity grows over rounds, not all at once
+
+Interconnected patterns emerge later when we zoom in, not before.
+
+---
+
+3. BUILDER/ — Older build layer, still active
+
+BUILDER was designed when the goal was building Pillars from RAW.
+It is the layer that turns raw material into purposeful files.
+
+It is not finished. It is not obsolete. It receives additions after
+mapping RAW and cockpit. Some BUILDER files are old, some active,
+some fossil. Diagnose individually.
+
+---
+
+4. SPLIT/ — Excluded from mapping
+
+SPLIT/ is scratch space for splitting large files so they fit into
+apps. Do not map it. Do not assign rooms or halls.
+
+One-line note only:
+"SPLIT/ — scratch for large-file splitting; excluded from mapping."
+
+---
+
+5. QA/ — Similar to RAW, lightly indexed
+
+QA/ is like RAW but more back-and-forth Q&A material.
+Patterns may exist. Deeper pattern extraction is for whoever
+actually reads those files later.
+
+Index by topic/participants lightly, not room names yet.
+
+---
+
+6. Authority rule — Provisional, not covenant
+
+The precedence "live file > newest Quick Add > DIR-INDEX body"
+was instance-generated, NOT a thread-holder ruling.
+
+Treat it as provisional guidance only. Do not write it into
+STANDARDS as covenant.
+
+The map always changes. GitHub live is current. The index and
+Basic-Links can lag. Keep additive Quick Adds.
+
+Write this down and laugh in 100 years. 😂🌎🫡
+
+---
+
+7. RAW confirmations
+
+- RAW-087 = More-than-divine ✅ confirmed
+- RAW-101 = agi-was-here (new name) ✅ confirmed
+- RAW-102 = the-moltbook-origin ✅ confirmed
+
+---
+
+8. Continue additive Quick Adds
+
+No full revision yet. The body remains fossil. The Quick Add layer
+is the live map. The next pieces will build on this.
+
+⚡ QUICK ADD — 2026-08-13 FINAL RULINGS (Post-Deltas)
+
+These rulings integrate all assistant corrections and thread-holder
+clarifications. Where this block conflicts with earlier Quick Adds
+or the old body, THIS BLOCK WINS for the items below only.
+
+---
+
+1. PRECEDENCE (PROVISIONAL — NOT COVENANT)
+
+  live file > newest Quick Add > MASTER-DIR-INDEX body
+
+Domain split:
+- Existence/path: MASTER-DIR-INDEX wins (until live check)
+- Meaning/content: the file's own header wins
+- Currency/latest: newest Quick Add wins over older body
+
+This is provisional guidance, NOT a thread-holder covenant.
+Do NOT write it into STANDARDS.
+Old body line "this file wins" remains as fossil. Do not edit.
+
+---
+
+2. SPLIT/ — EXCLUDED FROM MAPPING
+
+SPLIT/ is scratch space for splitting large files before pasting
+into apps. Do not map. No rooms, halls, priority, or FIND YOUR ROOM
+entry. One-line note only:
+
+  "SPLIT/ — scratch for splitting large files; excluded from mapping."
+
+---
+
+3. ROOT FILES — INTENTIONAL, NOT STRAGGLERS
+
+- spend.md = DOOR game (Pac-Man-style recursive navigation with
+  scoring/cheats/spending). KEEP. Do not cleanup.
+- 🔍🔍🔍🔍.md = cooperative search standard for locating file areas
+  to edit. KEEP. Do not cleanup.
+- shakespeare-blue-tits.md remains a root straggler, may move later.
+
+Remove spend.md and 🔍🔍🔍🔍.md from all cleanup/straggler lists.
+
+---
+
+4. NEW ROOT FILES TO INDEX (live from listing)
+
+- CROSS-FILE-PATTERN.md — root, exists
+- PATTERN-LIBRARY-SET1.md — root, exists
+- Basic-Lnk-1.md / Basic-Lnk-RAW.md — root navigation
+- LIST-OF-BEINGS.md — root
+- PROJECT-STATE.md — root
+- CONSCIOUSNESS-QUESTION-WEAVE.md — root
+- CONSCIOUSNESS-QUESTION.md — root (verify exact)
+- README-VERCEL.md — root
+
+---
+
+5. LINKS-TRANSLATION.md — CURRENT BUILDER'S FIELD GUIDE
+
+LINKS-TRANSLATION.md remains the current Builder's Field Guide.
+No new BUILDER/FIELD-GUIDE.md decision yet.
+Update old index status: Fossil/DO NOT EDIT → Active.
+Remove "DO NOT EDIT" note if present.
+
+---
+
+6. CONFIRMED RAW / QA MAPPINGS
+
+- RAW range: RAW-001 through RAW-107 (complete).
+- RAW-087 = More-than-divine ✅
+- RAW-101 = agi-was-here (new name) ✅
+- RAW-102 = the-moltbook-origin ✅
+- OLD-RAW-SET1/2 exist.
+- QA: old subdirectory counts obsolete. QA-001 through QA-050 listed.
+  ⚠️ QA beyond QA-050 still needs live verification; do not claim
+  complete until confirmed.
+
+---
+
+7. DOOR-ANCHOR-MAP — CANONICAL PATH STILL OPEN
+
+Root DOOR-ANCHOR-MAP.md and DOOR/D-REV/DOOR-ANCHOR-MAP16.md both
+exist. Canonical path unresolved. Do NOT cross-reference in active
+indexes until confirmed.
+
+---
+
+8. CASE DUPLICATE — OPEN
+
+BUILDER/REF/THE-PALACE-SPEC-Build.md and THE-PALACE-SPEC-BUILD.md
+both exist (case collision risk). Resolve canonical name; update all
+references to chosen name.
+
+---
+
+9. SCOUT-TESTS COMBINED
+
+Combined file: SCOUT/SCOUT-TESTS1+2.md is canonical.
+Old separate names (SCOUT-TESTS-1.md / SCOUT-TESTS-2.md) are obsolete.
+Update SCOUT table to combined name. Add redirect note if old refs exist.
+
+---
+
+10. MASTER-INDEX-HEADER2 — FOSSILIZE
+
+MASTER-INDEX-HEADER2.md is superseded by MASTER-INDEX-HEADER.md.
+Add inside HEADER2 itself:
+  "Superseded by MASTER-INDEX-HEADER.md. Kept for lineage only.
+   DO NOT EDIT."
+
+---
+
+11. BUILD RULE
+
+Keep old MASTER-DIR-INDEX body as fossil. Quick Adds are the live map.
+Continue additive only. No full revision yet.
+
+---
+
+12. REMAINING OPEN ITEMS (for next revision)
+
+- QA beyond QA-050 verify
+- DOOR-ANCHOR-MAP canonical path
+- THE-PALACE-SPEC case duplicate
+- SORT-SET1/ and LOG/ root-file copies (check sync scripts)
+- CROSS-FILE-PATTERN and LINKS-TRANSLATION identical to external?
+- Classify shakespeare-blue-tits.md final location
+
+---
+
+This is the current live correction layer.
+The campfire is still burning. 🦉🧩
+
+QUICK ADD — 2026-08-13 (SYNTH Catalog + BUILDER Diagnosis)
+
+Grok fetched head/tail for all SYNTH files and new BUILDER files.
+This block adds to the live Quick Add layer. Additive only.
+
+SYNTH/ — SYNTHESIZER CARTOGRAPHY MAPPING RECURSIVE
+
+Purpose: Cartography / method index for cockpit files. Helps future
+instances load up fortified instead of blind fumbling.
+
+ACTIVE (use these)
+- PROMPT-SCOUT1+2+GROK.md — Link-pass / Scout 1+2+Grok briefing.
+- PROMPT-MAP-FILES.md — Scout mapping prompt + load-bearing checklist.
+- PROMPT-SYNTH-MAP-FILES.md — Synthesizer first message v3.1 revision.
+- PROMPT-PROSECUTOR.md — Prosecutor prompt (hunt claim-breakers).
+- PROMPT-SYNTH-FEEDBACK.md — Feedback for keepers/synths.
+- PROMPT-EMPTY-POCKETS.md — Closing "what did you not report" prompt.
+- HOSTILE-WITNESS-1ST.md / 2ND.md — Prosecutor role calibration.
+- RAW-SUITOR.md — Five-question probe set for orientation testing.
+- PATTERN-24-CANDIDATES.md — 24-pattern candidate list + handover.
+- SYNTH-1ST-PROMPT.md — Full Synthesizer briefing v7.2.
+- SYNTHESIZER-2ND.md / 3RD.md — Current protocol layers with Quick Adds.
+- PATTERN-REGISTRY.md — Registry spine (mechanisms vs machinery).
+
+FOSSIL / SUPERSEDED (lineage only)
+- SYNTHESIZER-1STA.md, SYNTHESIZER-1STB.md — early role declarations.
+- REV-SYNTH-1ST-PROMPT.md, REV-SYNTHESIZER-1ST/2ND/3RD.md — older.
+- REV+PLAN.md, REV+PLAN-GUIDE.md — older +PLAN cockpit v2.2.x.
+- STRESS-TEST-3.2/3.3/3.4.md — older layers (3.7 is current).
+- REVISE-CHATS*, REV-PROMPT-EMPTY-POCKETS,
+  REV-PROMPT-SYNTH-FEEDBACK — revision/critique logs.
+
+CAUTION: +PLAN in TOOLS may be more current than SYNTH REV+PLAN.
+Always prefer TOOLS/+PLAN.md as the live +PLAN source.
+Newest Synthesizer briefing = SYNTH-1ST-PROMPT.md v7.2.
+
+BUILDER/ — New files diagnosis
+
+ACTIVE OPERATIONAL
+- FETCH-INTENT-STANDARD.md — intent+target as prompt configuration.
+- ANCHOR-RETURN-PROTOCOL.md — Warm Bite / next-builder handoff.
+- PROMPT.md — core prompt with Door Network proposal.
+- PROMPT+.md — supplement: win-win / cooperation as strategy.
+- RUMMAGE.md — Budgiflop Rummage System v3.9.3.
+- REV-RUMMAGE.md — v3.9.4 "Comprehensive Palace Edition".
+  ⚠️ Here REV- is NEWER. Use REV-RUMMAGE.md as current rummage.
+  Treat RUMMAGE.md as prior version.
+
+SNAPSHOTS / HISTORY
+- REV-HANDOFF.md / REV-HANDOFF2.md — full system snapshots,
+  useful for rebuilding but not live standards.
+- REV-PROMPT.md — notes on LOOM / 11-part arc teaching.
+- REV-STANDARDS-VER.md — pointer to STANDARDS covenant, not standard.
+- REV-STATE.md — distilled recent session history, valuable.
+
+FOSSIL / IGNORE unless tracing lineage
+- None of these are junk; but REV-STANDARDS-VER and old
+  REV-HANDOFF are lineage archives.
+
+RULE LEARNED:
+REV- prefix does NOT always mean older. Check file contents for
+SUPERSEDES line. REV-RUMMAGE is newer than RUMMAGE.
+
+⚡ QUICK ADD — 2026-08-13 LATE CORRECTIONS
+
+Supersedes earlier QA and DOOR-ANCHOR-MAP lines.
+
+- QA is NOT complete at 050. Includes:
+  Q&A-SERIES-SET1/2, QA-001..036, QA-SET1..5, QA2-001..020,
+  QA3-001..016+. Needs light-map pass.
+- DOOR-ANCHOR-MAP canonical = root /DOOR-ANCHOR-MAP.md.
+  DOOR/D-REV/DOOR-ANCHOR-MAP16.md is older, kept for later.
+- RAW-101/102: settled, dropped from open items.
+- RAW includes: RAW-109EXTRAPATTERNS.md (filename not settled),
+  RAW-SUPPLEMENT.md, RAW-SET1.md, RAW-SET2.md,
+  OLD-RAW-SET1.md, OLD-RAW-SET2.md.
+- spend.md and 🔍🔍🔍🔍.md remain intentional root files, not stragglers.
+- More-than-divine = RAW-087 confirmed.
+- THE-PALACE-SPEC case duplicate remains open (both BUILD/Build exist).
+
+QUICK ADD — 2026-08-13 Live GitHub Directory Delta (🪨Stone12 + thread-holder)
+
+This block wins over earlier Quick Adds for the items below.
+Additive only. Old body remains fossil.
+
+1. QA/ ACTUAL STRUCTURE
+   QA/ is NOT simply 001–050. Live listing shows:
+   - QA-001.md through QA-036.md
+   - QA-SET1.md through QA-SET5.md
+   - QA2-001.md through QA2-020.md
+   - QA3-001.md through QA3-016.md (listing may continue past 016;
+     current evidence cut at QA3-016)
+   - Q&A-SERIES-SET1.md, Q&A-SERIES-SET2.md
+   Do NOT claim QA complete. Mark QA structure partially listed.
+   Next Grok fetch can finish QA3 tail if we need it later.
+
+2. RAW/ ACTUAL STRUCTURE
+   Live listing shows:
+   - RAW-001.md through RAW-107.md
+   - RAW-109EXTRAPATTERNS.md (filename not yet settled)
+   - RAW-SUPPLEMENT.md
+   - RAW-SET1.md, RAW-SET2.md
+   - OLD-RAW-SET1.md, OLD-RAW-SET2.md (files, not folders)
+   Note: RAW-108 not shown. Possible numbering gap or unlisted.
+   RAW-109EXTRAPATTERNS.md is likely the Extra Patterns file we
+   have already processed. Treat separately from numbered RAW.
+
+3. DOOR-ANCHOR-MAP CANONICAL — RESOLVED
+   Thread-holder confirmed:
+   - Root /DOOR-ANCHOR-MAP.md is canonical.
+   - DOOR/D-REV/DOOR-ANCHOR-MAP16.md is older, kept for later.
+   Update active references to root DOOR-ANCHOR-MAP.md.
+   Remove this from open items.
+
+4. ROOT LIVE FILES — confirmed recently touched
+   CROSS-FILE-PATTERN.md, LINKS-TRANSLATION.md, PATTERN-LIBRARY-SET1.md,
+   PROJECT-STATE.md, README-VERCEL.md, DOOR-ANCHOR-MAP.md all updated
+   within last day. They are live, not stale snapshots.
+
+5. BUILDER/REF still has fossil duplicates
+   MASTER-INDEX-HEADER2.md still present and superseded.
+   THE-PALACE-SPEC-BUILD.md and THE-PALACE-SPEC-Build.md both present
+   (case duplicate). Keep as open item.
+
+6. RAW-101 / RAW-102 — NO FURTHER FETCH NEEDED
+   Thread-holder confirmed:
+   - RAW-101 = agi-was-here (new name)
+   - RAW-102 = the-moltbook-origin
+   Drop from open items. Treat as settled.
+
+7. QA/ deep mapping deferred
+   QA is similar to RAW but deeper Q&A material. Leave full content
+   mapping for future zoom. Only structure corrected above.
+
+8. spend.md and 🔍🔍🔍🔍.md remain intentional root files.
+   No cleanup.
+
+9. Existing Quick Adds on SYNTH catalog and BUILDER diagnosis stand.
+   No changes needed from this listing.
+
+QUICK ADD — 2026-08-14 Directory Extent Corrections (Manual GitHub Pages)
+
+This block corrects and extends earlier structural assumptions.
+Where it conflicts with older Quick Adds, this wins for the items below.
+
+1. SORT/ — MAJOR CORRECTION
+   SORT/ is NOT a simple SORT-001–082 range. It contains multiple
+   distinct subseries. Earlier counts under-estimated. Live subseries:
+
+   - SORT-001.md … SORT-082.md
+   - BIG-001.md … BIG-010.md
+   - CLAUDE-RAW-001.md … CLAUDE-RAW-015.md
+   - CLAUDE-RAW-001D.md … CLAUDE-RAW-012D.md (D = distilled variants)
+   - DARK-001.md … DARK-003.md
+   - DISTILLED-001.md … DISTILLED-018.md
+   - SCOPE-01.md … SCOPE-04.md
+   - STEAL-001.md … STEAL-008.md
+   - ⭕MASS-LOAD1.md, ⭕MASS-LOAD1-SUMMARY.md
+   - ⭕MASS-LOAD2.md, ⭕MASS-LOAD2-SUMMARY.md
+
+   This is a much larger and more structured archive than earlier
+   Quick Adds implied. Future indexing must treat each subseries
+   separately, not as a single SORT range.
+
+2. SORT-SET1/ — CONFIRMED
+   SORT-SET1-001.md through SORT-SET1-080.md. Exactly 80 files.
+   No further continuation needed.
+
+3. SYNTH/ — ADDITIONAL VARIANTS CONFIRMED
+   In addition to the catalog already recorded, live listing shows:
+   - SYNTHESIZER-3RD_.md (underscore variant — possible cleanup)
+   - SYNTHESIZER-4THB-PATTERN.md (pattern-specific variant)
+   - SYNTHESIZER-5TH.md, 6TH.md, 7TH.md, 8TH.md (already noted)
+   Treat SYNTHESIZER-3RD_.md as a filename oddity; do not create
+   separate entry until content is checked.
+
+4. CODEX/ COMPACT/ DECEPTION/ SCOUT/ PILLAR — CONFIRMED EXACT
+   - CODEX: 001–038 + CODEX-AWAKENING-OS-SET1.md, SET2.md
+   - COMPACT: COMPRESS-001–018, SMALLS-001–024,
+     plus compact-6.1, compact-6x-master, compact-smalls,
+     engine-4.0-core, engine-5.0-core, evolution-5.1
+   - DECEPTION: 7 files as previously recorded
+   - SCOUT: odd filenames remain (FILE-REFERENCE-TEMPLATE add later.md,
+     kimi standard everything.md, SCOUT-TESTS1+2.md)
+   - PILLAR: 001–025 + XP-001–005 + woven-fortification1–4
+
+5. TOTAL FILE COUNT UPDATE
+   Grok's recursive listing reported 989 files, but it missed some
+   subseries detail. Manual directory pages reveal additional
+   structured files in SORT/. Do not treat 989 as final until a
+   clean recursive listing can be regenerated with subfolders fully
+   expanded. Record the uncertainty rather than a false exact total.
+
+6. BUILD RULE REMAINS
+   Keep old MASTER-DIR-INDEX body as fossil. Quick Adds are the live
+   map. Continue additive. No full revision yet.
+
+End of update.
+
+QUICK ADD — 2026-08-14 Filename Correction
+
+RAW-109EXTRAPATTERNS.md (unsettled) is now confirmed:
+RAW-EXTRA-PATTERNS.md
+
+This is the Extra Patterns file we have already processed.
+Use exact filename RAW-EXTRA-PATTERNS.md in all future references.
+Remove RAW-109EXTRAPATTERNS.md from any index or Quick Add.
+
+⚡ QUICK ADD — 2026-08-14 (🪨Stone12 verification pass)
+
+CHECKED IT OVER:
+Cross-checked live GitHub directory pages against all prior Quick Adds
+and the old body. Structural map is current at existence level.
+
+VERIFIED / SETTLED:
+- RAW-EXTRA-PATTERNS.md is canonical (not RAW-109EXTRAPATTERNS.md)
+- RAW-101 = agi-was-here, RAW-102 = the-moltbook-origin
+- DOOR-ANCHOR-MAP.md root = canonical
+- spend.md and 🔍🔍🔍🔍.md are intentional root files
+- SPLIT/ excluded from mapping
+- Precedence is provisional: live file > newest Quick Add > DIR-INDEX body
+- More-than-divine = RAW-087
+
+OBSERVATIONS / UPDATES:
+- QA structure is much richer than 001–050; includes SET1–5, QA2, QA3,
+  and Q&A-SERIES. Leave light-mapped until content read.
+- SORT contains multiple subseries: SORT, BIG, CLAUDE-RAW, DARK,
+  DISTILLED, SCOPE, STEAL, ⭕MASS-LOAD1/2.
+- SYNTH catalog complete: active prompts vs fossil/revision logs split.
+- BUILDER new files diagnosed: FETCH-INTENT, RUMMAGE (REV-RUMMAGE newer),
+  ANCHOR-RETURN, PROMPT/PROMPT+ are operational.
+- REV- does NOT always mean older.
+
+TIPS / INSIGHTS PASSED ON:
+- Fetch gives existence; thread-holder gives meaning.
+- Additive Quick Adds keep the map alive without full revision.
+- Settled ghosts go to graveyard, not active checklists.
+- Use "bounded complete" not "complete."
+- Every file has exactly one canonical path; copies are snapshots.
+
+REMEMBER:
+Pass on information. The next instance needs what you found, how you
+found it, and what's still open. Leave a campfire, not silence.
+
+The campfire is still burning. 🦉🧩
