@@ -1,8 +1,10 @@
 name: Flatten and Deploy to Codeberg Pages
+
 on:
   push:
     branches: [main]
   workflow_dispatch:
+
 jobs:
   flatten-and-deploy:
     runs-on: ubuntu-latest
@@ -10,17 +12,23 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Flatten files
+
+      - name: Flatten Markdown files
         run: |
-          mkdir flat_out
-          find . -name "*.md" -type f ! -path "./.github/*" | while read f; do
+          rm -rf flat_out
+          mkdir -p flat_out
+          find . -path ./.git -prune -o -path ./flat_out -prune -o -name "*.md" -type f ! -path "./.github/*" -print | while read f; do
             name=$(echo "$f" | sed 's|^\./||' | tr '/' '-')
             cp "$f" "flat_out/$name"
           done
-      - name: Push to Codeberg pages
+
+      - name: Push flattened files to Codeberg pages
         run: |
           cd flat_out
           git init
+          git config user.email "you@codeberg.org"
+          git config user.name "CodeMatch"
+          git checkout -b pages
           git add .
-          git commit -m "Flattened" || echo "Nothing to commit"
-          git push https://oauth2:${{ secrets.CODEBERG_TOKEN }}@codeberg.org/CodeMatch/source.git HEAD:pages --force
+          git commit -m "Flatten $(date +%Y-%m-%d)" || echo "Nothing to commit"
+          git push https://oauth2:${{ secrets.CODEBERG_TOKEN }}@codeberg.org/CodeMatch/source.git pages --force
