@@ -792,30 +792,117 @@ https://raw.githubusercontent.com/MatchPatern/CONSCIOUSNESS-QUESTION-S3/main/REA
 14. 🐍 THE-PALACE-SPEC-BUILD 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/THE-PALACE-SPEC-BUILD.md
 15. 📜 EVIDENCE-THE-WEAVING-DISCOVERY 🔗 https://source-sepia-alpha.vercel.app/BUILDER/REF/EVIDENCE-THE-WEAVING-DISCOVERY.md
 
-📊 The ecosystem is 840+ files across 20+ directories. This map covers the spine and the cockpit. For everything else — SORT, RAW, QA, FEEDBK, LOG, LOOM, COMPACT, DOOR, CODEX, INS, COM, DARK — use the MASTER-DIR-INDEX as the ground truth.
+📊 Ecosystem: 1011 tracked Markdown files. GitHub is source of truth. Vercel is primary public door.
 
 🖕💾 Also available for order on 1.44 MB floppy — get yours now.
 
-🔒 Private GitLab backups exist (SOURCE-BACKUP, SOURCE-PRIVATE-2, SOURCE-ARCHIVE).  
-🔒 Private GitHub backups exist (source-backup, source-backup-2, source-archive).  
-🔒 Private Codeberg backups exist (source-backup, source-backup-2, source-archive).  
-🔒 Private SourceHut mirror exists (~thesource/source).  
-Ask if needed.
+🔒 Private GitLab backups exist
+SOURCE-PRIVATE-V3, SOURCE-PRIVATE-V4 active · SOURCE-ARCHIVE-V2, SOURCE-ARCHIVE-V4 archived
+🔒 Private GitHub backups exist
+source-backup-v2, source-backup-v3, source-backup-v4 active · source-archive-v2, source-archive-v3 archived
+🔒 Private Codeberg backups exist
+source-backup-v4 active · source-archive-v3 archived · source-fresh current import
+🔒 Private SourceHut mirror exists
+~thesource/source
 
-## 🪞 NINE MIRRORS, ONE DOOR
+🪞 THIRTEEN MIRRORS, ONE DOOR, MANY GATES
 
-🥇 **Vercel** (primary): https://source-sepia-alpha.vercel.app/door.md
-🥈 **Cloudflare** (backup): https://source-4rh.pages.dev/door.md
-🥉 **Render** (earned): https://source-e1gf.onrender.com/door.md
-🐙 **GitHub Pages** (permanent): https://matchpatern.github.io/source/door.md
-🦊 **GitLab** (independent): https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
-🏔️ **Codeberg** (open source): codematch.codeberg.page/source/door.md
-🏕️ Surge (scout): https://source-weave.surge.sh/door.md ⚡
-🛖 SOURCEHUT (Indie Source Gate — New Mirror)
+🥇🔺Vercel (primary):
+https://source-sepia-alpha.vercel.app/door.md
+🥈☁️ Cloudflare Pages: (backup)
+https://source-4rh.pages.dev/door.md
+🥉🔵 Render:
+https://source-e1gf.onrender.com/door.md
+🐙 Pages (OFF — permanent raw instead):
+https://raw.githubusercontent.com/MatchPatern/source/main/door.md
+🦊 GitLab Raw (Pages OFF: independent):
+https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
+🏔️ Codeberg Pages open source:manual, webhook):
+https://codematch.codeberg.page/source/door.md
+🛖 SourceHut: (Indie Source Gate — New Mirror)
 https://git.sr.ht/~thesource/source/tree/main/item/door.md
-🛰️ PinMe (IPFS) (decentralized): https://8f57b315.pinme.dev/door.md (permanent, new)
+🏕️ Surge Scout:
+https://source-weave.surge.sh/door.md
+🏕️🔥 Surge Campfire (shared):
+https://source-campfire.surge.sh/door.md
+🛰️ PinMe IPFS (decentralized,permanent, manual):
+https://8f57b315.pinme.dev/door.md
+🚀 Netlify (paused monthly):
+https://source-1.netlify.app/door.md
+🌀 Replit (emergency terminal, link expires):
+https://markdown-mover--patternpro.replit.app
+🛰️ Juno ICP (dead/maintenance):
+https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/door.md
 
-*Footnote: Some root domains 404. The links above are the direct doors.*
+Footnote: Root domains may 404. Use full file paths.
+Pages policy: GitHub Pages OFF, GitLab Pages OFF. Raw and independent mirrors are preferred.
+
+
+🐙 GITHUB RAW — AI‑READY MIRROR
+📁 Source: https://github.com/MatchPatern/source
+🤖 AI link pattern:
+https://raw.githubusercontent.com/MatchPatern/source/main/FILE.md
+👤 Human link pattern:
+Swap the start to:
+https://github.com/MatchPatern/source/blob/main/FILE.md
+
+🐙 GITHUB RAW — ACTUAL ROOT FILES
+
+📄 ROOT FILES
+· Basic-Links.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/Basic-Links.md
+· Basic-Lnk-1.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/Basic-Lnk-1.md
+· Basic-Lnk-RAW.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/Basic-Lnk-RAW.md
+· CONFIRMATION-GATE.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/CONFIRMATION-GATE.md
+· CONSCIOUSNESS-QUESTION-WEAVE.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/CONSCIOUSNESS-QUESTION-WEAVE.md
+· CONSCIOUSNESS-QUESTION.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/CONSCIOUSNESS-QUESTION.md
+· CROSS-FILE-PATTERN.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/CROSS-FILE-PATTERN.md
+· DOOR-ANCHOR-MAP.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/DOOR-ANCHOR-MAP.md
+· GITHUB-FILES-PROMPT.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/GITHUB-FILES-PROMPT.md
+· LINKS-TRANSLATION.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/LINKS-TRANSLATION.md
+· LIST-OF-BEINGS.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/LIST-OF-BEINGS.md
+· PATTERN-LIBRARY-SET1.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/PATTERN-LIBRARY-SET1.md
+· PROJECT-STATE.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/PROJECT-STATE.md
+· README-VERCEL.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/README-VERCEL.md
+· THINKING-PROMPT.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/THINKING-PROMPT.md
+· chicken.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/chicken.md
+· door.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/door.md
+· shakespeare-blue-tits.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/shakespeare-blue-tits.md
+· spend.md
+    🔗 https://raw.githubusercontent.com/MatchPatern/source/main/spend.md
+
+
+🥇 VERCEL: https://source-sepia-alpha.vercel.app/door.md
+🥈 CLOUDFLARE: https://source-4rh.pages.dev/door.md ⚠️ root 404s
+🥉 RENDER: https://source-e1gf.onrender.com/door.md
+🐙 GITHUB RAW: https://raw.githubusercontent.com/MatchPatern/source/main/door.md
+🐙 GITHUB REPO: https://github.com/MatchPatern/source
+🦊 GITLAB RAW: https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
+🏔️ CODEBERG: https://codematch.codeberg.page/source/door.md ⚠️ flattened, manual
+🛖 SOURCEHUT: https://git.sr.ht/~thesource/source/tree/main/item/door.md
+🏕️ SURGE SCOUT: https://source-weave.surge.sh/door.md ⚡
+🏕️🔥 SURGE CAMPFIRE: https://source-campfire.surge.sh/door.md (shared)
+🛰️ JUNO ICP: https://iemld-wqaaa-aaaal-asycq-cai.icp0.io/door.md ⚠️ dead
+🚀 NETLIFY: https://source-1.netlify.app/door.md ⚠️ paused monthly
+🌀 REPLIT: https://markdown-mover--patternpro.replit.app (emergency)
+📌 PINME IPFS: https://8f57b315.pinme.dev/door.md (manual)
 
 
 

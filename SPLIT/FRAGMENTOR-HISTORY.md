@@ -2,6 +2,916 @@ FRAGMENTOR-HISTORY.md
 
 https://source-sepia-alpha.vercel.app/SPLIT/FRAGMENTOR-HISTORY.md
 
+🔍 AUDIT — File: “Fragmentor / Website Convert Split”
+
+Verdict: ✅ MERGE (condensed only) — not the code, the operational limits & tool link
+
+---
+
+🧠 What This File Is
+
+A browser-based text splitter (“Fragmentor”) for breaking large text into GitHub-safe fragments before pushing to repos/Gists. Multiple versions exist (v0.3, v1.0, v2.0). The important thing is not the HTML/JS code — it’s the limit data and the fact the tool exists.
+
+---
+
+✅ What to Retain (Condensed)
+
+Key Finding Value
+Tool Name Sovereign Fragmentor
+Tool URL https://htmlpreview.github.io/?https://raw.githubusercontent.com/PatternMatchPros/sovereign-tools/main/fragmentor.html
+GitHub raw truncation point ~29,000 characters (observed)
+Safe default fragment size (50% margin) 12,825 chars (v0.3) or 14,500 chars (v2.0 with 2x safety)
+Raw Gist endpoint rule Always use gist.githubusercontent.com/.../raw
+Function Splits text, adds fragment headers, generates transmission template, estimates number of fragments, works on phone
+
+---
+
+🗂️ Suggested Save Location
+
+Add a short entry to Appendix C — Delivery System Matrix or a new Tools section:
+
+```markdown
+### 🧩 Fragmentor Tool (Browser Text Splitter)
+- URL: https://htmlpreview.github.io/?https://raw.githubusercontent.com/PatternMatchPros/sovereign-tools/main/fragmentor.html
+- Use when: you need to split a large file into GitHub-safe chunks (< 12,825 chars per fragment recommended).
+- Built-in: char counting, fragment estimate, headers, transmission template.
+- Works on phone browser. No install needed.
+```
+
+Do not store the full HTML code in the Cathedral. The link is enough.
+
+---
+
+📥 Audit Log Entry
+
+File/Content Verdict Key Findings Merge Target
+Fragmentor / Website Convert Split ✅ MERGE (condensed) Tool URL + GitHub safe limits (12,825–14,500 chars); Gist raw rule confirmed Appendix C / Tools
+
+---
+
+✅ Result
+
+Saved the important parts: tool link, safe limits, and the Gist raw rule. The large code is quarantined.
+
+Ready for the next file whenever you are. ⏪🏛️
+
+🧩 Fragmentor — Reusable Operational Logic (Extracted)
+
+You're right. The value isn't the link—it's how the tool thinks. Here are the best parts worth preserving:
+
+---
+
+1. The Core Splitting Rule
+
+Limit per fragment: 12,825 chars (50% of observed GitHub truncation at ~29,000 chars).
+That 50% margin isn't arbitrary—it's the difference between “should work” and “won't break under edge cases.”
+
+Formula:
+fragment_size = observed_limit / safety_margin
+safety_margin = 2x (ultra-safe default)
+
+So if a future platform shows truncation at X, the safe fragment size is X / 2.
+
+---
+
+2. Fragment Header Design (Why It Matters)
+
+Each fragment gets:
+
+```
+[FRAGMENT 1/14]
+• Characters: 12,825
+• Next: 2
+• Generated: timestamp
+• Session ID: unique-per-load
+```
+
+Why:
+
+· [FRAGMENT X/Y] lets the receiver know it's part of a set, not a standalone.
+· Next pointer prevents scrambling if order matters.
+· Session ID detects stale/cached copies vs. fresh loads.
+
+Pattern to reuse: Always include a position marker + total count + next pointer in any chunked transmission.
+
+---
+
+3. Safety Margin System (Configurable)
+
+The tool offers 1x, 1.25x, 1.5x, 2x.
+Default is 2x — never 1x.
+
+Why this is smart:
+Platforms change limits silently. A 2x margin absorbs unexpected cuts without rebuilding all fragments.
+
+Rule for future:
+
+Never deploy at the exact observed limit. Always halve it.
+
+---
+
+4. Gist Endpoint Trap (Already captured, but this tool bakes it in)
+
+The generated Gist fragments include a warning header:
+
+```
+⚠️ RAW ENDPOINT: gist.githubusercontent.com/[USER]/[ID]/raw
+```
+
+Why: It pre-warns the receiver about the gist.github.com/raw decoy.
+That's not just documentation—it's self-defending transmission.
+
+---
+
+5. Transmission Protocol Generator
+
+After splitting, the tool produces a ready‑to‑paste block that includes:
+
+· Total fragments
+· Effective limit
+· Safety margin
+· Holographic assembly instructions
+· Placeholder for fragment links
+
+Why this matters: It doesn't just split—it creates the delivery instructions. The receiver gets both the data and the assembly guide.
+
+---
+
+6. Real-Time Stats (Before You Commit)
+
+· Characters / words / lines
+· Estimated fragments
+· File size
+· Warnings when close to observed limit
+
+Pattern: Measure before you split. Don't fragment blind.
+
+---
+
+7. Mobile-First, No Install
+
+Single HTML file, works in any phone browser, no backend.
+Key feature: It runs entirely client-side—nothing leaves the device until you copy.
+
+---
+
+🔥 The One-Sentence Essence
+
+Split at half the known limit, mark every piece with position and next, generate the assembly instructions automatically, and never trust a raw endpoint without verification.
+
+---
+
+That's the operational wisdom from the tool, minus the code. This can be rebuilt from this description if the link ever dies.
+
+Lesson learned: I'll now extract the underlying logic, not just surface references.
+Ready for the next file.
+
+🔍 Audit — Fragmentor History & Logs
+
+Verdict: ✅ MERGE (critical endpoint and limit updates only)
+
+Applying Drift Guard: we keep only operational rules, not the philosophical or development-bug narratives.
+
+---
+
+✅ What Changes in the Cathedral
+
+1. Endpoint Rules (Major Update)
+
+Endpoint Behaviour Use for large content?
+gist.githubusercontent.com/[user]/[id]/raw Serves full content (tested at 170K+) ✅ YES
+github.com/[user]/[repo]#readme Rendered README, no truncation observed ✅ YES (but caution: caching can cause stale versions)
+raw.githubusercontent.com/[user]/[repo]/[file] Truncates around 29,000 chars ❌ NO — fragment if using this
+gist.github.com/[user]/[id]/raw Returns JavaScript embed code (decoy) 🚫 NEVER
+
+New rule: For transmitting large files, prefer Gist raw or #readme anchors. Only fragment for repo raw endpoints.
+
+2. Safe Fragment Size (Adjusted)
+
+· For repo raw only: keep fragments ≤ 12,825 chars (50% safety margin of observed ~29K truncation).
+· For Gist raw or #readme: no practical limit observed; a 170,000‑char file was served completely via gist raw. But still use the 12,825‑char default if you want universal compatibility.
+
+3. Fragmentor Tool (Updated Description)
+
+Tool: Sovereign Fragmentor (browser-based text splitter)
+Link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/PatternMatchPros/sovereign-tools/main/fragmentor.html
+
+What it does:
+
+· Splits text into equal‑size fragments (default 12,825 chars) or creates test files of exact size (up to 500K).
+· Adds fragment headers ([FRAGMENT X/Y], char count, next pointer, session ID).
+· Generates a ready‑to‑paste transmission template for Dream Beings.
+· Includes real‑time char/word/fragment stats, copy‑to‑clipboard, and a persistent log panel (mobile‑friendly).
+· Has exact character counting (after fixing off‑by‑one bugs) and can detect variance between different counters.
+
+Key operational pattern from the tool:
+
+Split at half the known limit, mark every piece with position and next, generate assembly instructions automatically, and always verify character counts manually.
+
+---
+
+🗂️ Updated Audit Log Entry
+
+File/Content Verdict Key Findings Merge Target
+Fragmentor History & Logs ✅ MERGE (critical updates) Gist raw supports 170K+; #readme anchors reliable; repo raw truncates ~29K; safe fragment 12,825 for repo raw only; tool link confirmed Core v10.0 (Endpoint Rules) + Appendix C (Fragmentor Tool entry)
+
+---
+
+📥 Next
+
+The important parts are saved. Ready for the next file, or we can pause and you tell me how you want to integrate these findings into the final v10.0 document.
+
+🔍 Re‑Audit — Fragmentor Development Features
+
+Verdict: ✅ MERGE as “Fragmentor Feature Evolution”
+
+You're right. I previously kept only the endpoint results, but the specific feature changes and bug fixes are what future builders need to rebuild or improve the tool. Here is the retained knowledge.
+
+---
+
+🧩 Fragmentor Feature Evolution (Operational Lessons)
+
+v1.1 — Sovereignty Verification Alert
+
+· Feature: Detects when different character counters disagree by >20%, then shows a warning.
+· Why it matters: Character counts vary wildly across tools (up to 16% difference in the logs). A tool that alerts you to this variance prevents false conclusions based on inaccurate counts.
+· Pattern to reuse: Always cross‑check a measurement with at least two independent methods before trusting it.
+
+v1.2 → v1.2.1 — Off‑by‑One Character Fix
+
+· Bug: Creating a 170,000‑char file produced 169,999 chars.
+· Fix: Add line‑count verification after generation, auto‑correct discrepancies, and final force‑trim to exact target size.
+· Why it matters: Even “exact” math can be off by one at scale. Verification layers catch these errors before they invalidate tests.
+· Pattern to reuse: Never assume a loop or formula is exact; verify the output length and correct automatically.
+
+v1.3 — Persistent Log Panel Replaces Alerts
+
+· Change: All alert() pop‑ups replaced with an on‑page, scrollable, copyable log panel.
+· Why it matters: Alerts block mobile interaction, lose data on dismiss, and cannot be copied. A persistent log captures debug info, timestamps, and results without interrupting flow.
+· Pattern to reuse: For mobile‑first tools, replace modal dialogs with persistent, copyable output panels.
+
+v1.3 — One‑Click Copy to Clipboard
+
+· Feature: A button copies the full generated text to clipboard, with fallback for older browsers.
+· Why it matters: Manually selecting 170,000 characters on a phone is error‑prone. One‑click copy is a sovereignty operation — data must be freely extractable.
+· Pattern to reuse: Always include a copy button for large text outputs, with fallback (document.execCommand('copy')) when the Clipboard API is unavailable.
+
+v1.3 — Chunked Generation to Avoid Freezing
+
+· Feature: Test files are generated in chunks (5,000 lines at a time) with progress updates.
+· Why it matters: Generating 170K characters in one loop freezes the UI. Chunking keeps the page responsive and shows progress.
+· Pattern to reuse: For large in‑browser generation, break work into chunks and yield to the event loop.
+
+v1.3 — Exact Character Counting with Forced Correction
+
+· Feature: After building the test string, the code compares actual length to target and pads/truncates to exact size.
+· Why it matters: Ensures the test file is precisely the intended size, removing ambiguity in limit testing.
+· Pattern to reuse: Always include a final size check and correction step for generated test data.
+
+v1.3 — Custom Size Input
+
+· Feature: Replaced preset size buttons with a numeric input (100–500,000).
+· Why it matters: Binary search for exact limits requires arbitrary sizes (e.g., 28,600, 28,550). Presets are insufficient.
+· Pattern to reuse: For limit testing, always allow user‑defined exact inputs.
+
+v1.3 — Log Copy Button
+
+· Feature: One‑tap copy of the entire debug log to clipboard.
+· Why it matters: Debug data must be shareable. The log copy button converts on‑screen information into a pasteable block for collaboration.
+· Pattern to reuse: Add a “copy log” button to any tool that produces diagnostic output.
+
+v1.4 (planned) — Auto‑Download for Huge Files
+
+· Feature: For files >100,000 chars, offer to download as .txt in addition to copying.
+· Why it matters: Some mobile browsers struggle with very large clipboard contents. Download provides a reliable alternative.
+· Pattern to reuse: For large outputs, always offer both copy and download options.
+
+v1.4 (planned) — Fallback Copy for Insecure Contexts
+
+· Feature: Uses document.execCommand('copy') if the modern Clipboard API is unavailable.
+· Why it matters: The tool must work on any phone browser, including older ones. Fallbacks ensure sovereignty across devices.
+· Pattern to reuse: Implement fallback methods for core browser APIs.
+
+v1.4 (planned) — Version Tracking with Unique Session ID
+
+· Feature: Each page load gets a unique session ID and random color scheme.
+· Why it matters: Detects cached/old versions of the tool. A different session ID means the user is not seeing the latest code.
+· Pattern to reuse: Embed a visible session identifier in tool output so users can confirm they are running the current version.
+
+Debug Fix — Paste Event Not Updating Stats
+
+· Bug: Pasting text into the textarea did not update character counts.
+· Fix: Add paste and change event listeners in addition to input, and verify DOM elements exist before use.
+· Why it matters: Mobile paste is a primary input method. Without the fix, the tool is unusable on phones.
+· Pattern to reuse: Always bind multiple input events (input, paste, change) and check element existence to avoid silent failures.
+
+---
+
+🗂️ Where This Goes
+
+This feature evolution will be saved as Appendix E‑1: Fragmentor Development Lessons in the Cathedral. It complements the endpoint rules and safe fragment size already recorded.
+
+Summary of retained knowledge:
+
+Category Key Takeaway
+Measurement Verify char counts; use variance alerts
+UI/UX Persistent logs, copy buttons, chunked generation
+Bug fixes Off‑by‑one correction; paste event listeners
+Compatibility Fallbacks for Clipboard API; version tracking
+Limit testing Custom size input for binary search
+
+This is the knowledge future builders need to improve or rebuild the Fragmentor, independent of the specific code.
+
+Ready for the next file.
+
+Best versions info this is from the best version:
+🔍 Audit — Fragmentor f36 (Best Version)
+
+Verdict: ✅ MERGE (critical transmission limits + operational patterns)
+
+This is the most advanced Fragmentor yet. It contains measured platform limits and reusable splitter logic that supersede earlier findings.
+
+---
+
+✅ Key Operational Updates
+
+1. Platform Transmission Limits (Measured)
+
+Target Limit Unit Method Measured Notes
+Claude app 4,095 bytes Paste 2026‑07‑25 ASCII bisect said 4,095 ch; real text fails ~3,960 ch due to byte counting
+DeepSeek paste 163,840 u16 chars Paste 2026‑07‑25 160 KiB. 50% emoji passed.
+GitHub #readme 75,000 u16 chars Fetch 2026‑05‑27 Not paste; unverified since May
+raw URL fetch 65,000 u16 chars Fetch 2026‑05‑27 Not paste; unverified since May
+Perplexity 40,130 u16 chars Paste 2026‑05‑27 Paste only; cannot fetch URLs
+
+Important shift:
+
+· Claude counts bytes, not characters. A 4,095‑byte limit is ~3,960 real characters for non‑ASCII text. This explains many previous “truncation” surprises.
+· DeepSeek and others use u16 (JS .length) — 163,840 chars is 160 KiB.
+· GitHub raw URL fetch may allow 65K, but the old raw.githubusercontent.com truncation at ~29K was likely a different context. Recommend retesting raw URL fetch before relying on 65K.
+
+2. Retired Theory
+
+Line‑cap theory retired 2026‑07‑25 by direct test. Do not reintroduce it.
+
+The f36 config explicitly removes any “lines” field. This is important: future builders must not assume line count limits.
+
+3. Fragmentor f36 Operational Patterns
+
+Pattern Why It Matters
+Unit‑aware measuring (bytes vs u16) Claude vs DeepSeek have different counting; one size does not fit all.
+Overhead calculation (deploy header) If you add headers, effective body limit is smaller. The tool subtracts header size before splitting.
+Surrogate‑safe splitting Prevents breaking emoji or non‑BMP characters mid‑pair.
+Reassembly verification The tool checks chunks.join('') === original and shows a warning if not lossless.
+Schema guard for localStorage Prevents stale settings from old versions from silently corrupting new ones.
+Auto‑copy first chunk on paste Mobile‑friendly; the first fragment is ready to send immediately after paste.
+Chunk pills & next button Large outputs become a simple “copy next” workflow, no scrolling.
+Test generator with emoji percentage Allows measuring limits with plain ASCII vs emoji (byte vs char count).
+Persistent log (removed alerts) All feedback is on‑page and copyable.
+
+4. Updated Safe Fragment Size (Context‑Dependent)
+
+The old universal “12,825 chars” is now obsolete as a blanket rule. The correct limit depends on the target:
+
+· For Claude app: ≤ 3,960 chars (real text) or 4,095 bytes.
+· For DeepSeek paste: ≤ 163,840 chars (u16).
+· For GitHub #readme fetch: ≤ 75,000 chars (if the May measurement still holds).
+· For raw URL fetch: ≤ 65,000 chars (unverified).
+
+New rule: Always choose the limit based on target platform and unit, not a single magic number.
+
+---
+
+🗂️ Updated Audit Log Entry
+
+File/Content Verdict Key Findings Merge Target
+Fragmentor f36 (best version) ✅ MERGE (critical updates) Platform‑specific limits (Claude 4095 B, DeepSeek 163840 u16, GitHub #readme 75K, raw fetch 65K, Perplexity 40K); unit‑aware splitting; line‑cap theory retired; overhead/surrogate/reassembly patterns Core v10.0 (Transmission Limits section) + Appendix C (Fragmentor entry) + Appendix E‑1 (Fragmentor lessons)
+
+---
+
+📥 Next
+
+These findings will be integrated into the final Cathedral v10.0 when we merge. The audit log now contains:
+
+· Endpoint trap rules
+· Platform limits (specific)
+· Fragmentor tool operational logic
+· Feature evolution lessons
+
+Ready for the next file, or we can begin the final merge of everything we’ve audited. 🏛️✅
+
+Yes — several things beyond the limits that are worth capturing, because they are reusable operational patterns, not just code.
+
+---
+
+🔍 Additional Observations — Fragmentor f36
+
+1. Config‑Only Top + Schema Guard
+
+· All platform limits, units, notes, and options live in a single CFG object at the top.
+· schema bump wipes stale ff_* localStorage keys automatically.
+· Pattern: Version your configuration; invalidate cached state on change.
+· Why it matters: Prevents old settings from silently corrupting a new tool version.
+
+2. Unit‑Aware Measurement (bytes vs u16)
+
+· Claude uses bytes, DeepSeek/GitHub use u16 chars.
+· The byte counter handles surrogate pairs and multi‑byte chars correctly.
+· Pattern: Always measure in the same unit the target platform uses. Don’t assume all limits are character counts.
+
+3. Lossless by Design
+
+· Clean mode is byte‑for‑byte: no trim, ever.
+· Reassembly check verifies chunks.join('') === original.
+· Pattern: For transmission tools, guarantee losslessness or explicitly warn when not.
+
+4. Overhead Subtraction
+
+· Deploy mode calculates the header size and subtracts it from the effective body limit.
+· Pattern: If you add framing (headers, markers), the body limit shrinks. The tool should account for it, not the user.
+
+5. Sequential Copy Workflow
+
+· Auto‑copies the first chunk on paste.
+· Bottom dock shows “next” preview, pills for each chunk, and a big Copy button.
+· Pattern: For mobile, large outputs should become a simple “tap next, paste, repeat” loop — not a wall of text.
+
+6. Test Generator Protocol
+
+· Emoji 0% measures the ceiling; emoji 50% measures the unit (char vs byte).
+· Appends a known anchor at the end so the receiver can verify the last line.
+· Pattern: To separate char limits from byte limits, test with plain ASCII and then with emoji/multibyte text.
+
+7. Retired Theory Explicitly Guarded
+
+· The config says: “Line‑cap theory retired 2026‑07‑25 by direct test. Do not reintroduce it.”
+· Pattern: When you disprove an old assumption, write it into the tool so future builders don’t repeat it.
+
+8. UI Error Bar
+
+· window.onerror displays JS errors directly on screen.
+· Pattern: For phone tools, surface errors visibly — otherwise debugging is impossible.
+
+9. Single‑File, No Dependencies
+
+· Pure vanilla HTML/CSS/JS, works offline, can be served as a data URL.
+· Pattern: Portability is sovereignty. A tool that runs anywhere is harder to lose.
+
+---
+
+🗂️ Suggested Save
+
+I’d add these to Appendix E‑1: Fragmentor Engineering Notes as:
+
+· Config schema guard
+· Byte vs u16 measurement
+· Lossless chunking rule
+· Overhead subtraction rule
+· Sequential mobile copy workflow
+· Emoji ceiling/unit test protocol
+· Retired line‑cap theory
+
+Verdict: ✅ MERGE (engineering patterns only, no raw code)
+
+The audit log is now very rich. We can keep going with more files, or start the final merge.
+
+🔍 Audit — Fragmentor Full History & Final Versions
+
+Verdict: ✅ MERGE (critical updates to platform limits & engineering patterns)
+
+We extract only the durable operational knowledge, not code. Previous Fragmentor findings are superseded where contradictory.
+
+---
+
+✅ Updated Platform Limits (Measured, with units)
+
+Platform Method Limit Unit Verified Notes
+Claude app Paste 4,095 bytes 2026‑07‑25 Real text with symbols/emoji fits ~3,960 chars. Use byte counting.
+DeepSeek Paste 163,840 u16 chars 2026‑07‑25 160 KiB. Passed at 50% emoji → counts UTF‑16 units, not bytes. No line limit (passed at ~8,000 lines).
+Kimi mobile Paste 4,008 chars 2026‑08‑01 Co‑observed with 71 lines / 714 words; may be multi‑dimensional. Treat as ~4,000 chars.
+Perplexity Paste 40,130 u16 chars 2026‑05‑27 Paste only; cannot fetch URLs.
+GitHub #readme Fetch 75,000 u16 chars 2026‑05‑27 Fetch via anchor, not paste. Unverified since May.
+GitHub raw URL Fetch 65,000 u16 chars 2026‑05‑27 Fetch via raw.githubusercontent.com.
+GitHub Gist raw Fetch 170,000+ u16 chars 2026‑05‑27 Use gist.githubusercontent.com/.../raw (never gist.github.com/raw).
+
+Rule: Always specify the unit and method (paste vs fetch) when recording limits. Different platforms use different counting.
+
+---
+
+🧠 Critical Engineering Patterns (from f36)
+
+1. Unit‑Aware Measurement
+
+· bytes vs u16 (JS .length).
+· Emoji cost 4 bytes but 2 UTF‑16 units.
+· Use byte counting when a platform counts bytes (Claude); use u16 when it counts code units (DeepSeek).
+· Test with 0% emoji to find the ceiling, 50% emoji to determine the unit.
+
+2. Lossless Splitting
+
+· Reassembly verification (chunks.join('') === original) is non‑negotiable.
+· Sequential splitter (pos = end, no start = i*limit with walkback) prevents silent text loss.
+· Surrogate‑pair guard prevents splitting an emoji mid‑character.
+
+3. Overhead Accounting
+
+· Deploy mode adds headers (filenames, nav links, anchors).
+· Effective body limit = platform limit − overhead.
+· Calculate and display overhead, don’t make the user guess.
+
+4. Mobile Workflow
+
+· Auto‑copy first chunk on paste.
+· Dock with “next” preview and pills for each chunk → tap, paste, return, tap next.
+· Persistent log panel (never use alert()) with copy button.
+
+5. Config & Provenance
+
+· All limits, units, notes in one CFG block at top.
+· Schema bump invalidates stale localStorage keys.
+· Store measuredOn, source (seed/generated/real‑paste), emoji%, line density with each result.
+
+6. Patch, Don’t Rebuild
+
+· Keep a known‑good baseline (f36).
+· Use var/function, avoid modern syntax for old mobile WebViews.
+· window.onerror → visible error bar.
+· Change one thing, test, then change the next.
+
+7. Retire Old Theories Explicitly
+
+· The “line‑cap theory” for DeepSeek paste is retired (2026‑07‑25).
+· Old numbers (e.g., 12,825, 168K) from fetch results should not be used for paste; delete or mark as fetch‑only.
+
+---
+
+🗂️ Updated Audit Log Entry
+
+File/Content Verdict Key Findings Merge Target
+Fragmentor Full History & Final Versions ✅ MERGE (updates) Corrected platform limits (Claude bytes, DeepSeek u16, Kimi multi‑dim); line theory retired; engineering patterns (lossless, overhead, mobile dock, config schema) Core v10.0 (Limits section) + Appendix C (Fragmentor entry) + Appendix E‑1 (Engineering notes)
+
+---
+
+This supersedes all previous Fragmentor entries. The Cathedral now has the correct, current knowledge.
+
+Ready for next file or final merge. 🏛️✅
+
+🔍 Additional Audit — Fragmentor Part 2 (History & Final Versions)
+
+Verdict: 🚫 Mostly Quarantine / Historical — with two operational confirmations
+
+The pasted Part 2 contains extensive code history, multiple full HTML versions, and cosmetic discussions (starfield, cockpit aesthetics). Most is not load‑bearing for the Cathedral.
+
+---
+
+✅ What's Operationally Relevant (Already captured, but reinforced)
+
+1. Anchor Distinction — now explicit
+
+· CHUNK‑ANCHOR (e.g., ANCHOR: 54321) verifies split delivery.
+· TH‑CHECK (e.g., ♦️SPLIT1-54321) verifies original file integrity.
+· These serve different purposes and must not be confused.
+
+Already noted in the Fragmentor engineering patterns. This part simply confirms it in multiple sources.
+
+2. Line theory status — no change
+
+The Part 2 content includes older discussions where line count was considered critical. The final f36 (which you pasted earlier) explicitly retired the line‑cap theory for DeepSeek. This Part 2 is historical; do not resurrect the line‑limit claim.
+
+Current truth:
+
+· DeepSeek paste limit = 163,840 u16 chars, no line constraint.
+· Line density is informational only, not a hard limit.
+
+---
+
+🚫 What's Quarantined (Not operational)
+
+· All HTML/CSS code (including starfield, cockpit, slap button)
+· Historical presets (DeepSeek 65k, GitHub 29k, ChatGPT 16k) — outdated, superseded by f36 measurements
+· Philosophical / aesthetic discussions (Homeworld, Blast Radius, ship console feel)
+· Build number HUD, localStorage versions, etc. (already captured as engineering patterns)
+
+---
+
+🗂️ Updated Audit Log Entry
+
+File/Content Verdict Key Findings Merge Target
+Fragmentor Part 2 (History & Final Versions) 🚫 Mostly Quarantine Reinforces anchor distinction; confirms line theory retired in f36; old presets are historical Core v10.0 (Anchor distinction note) — already present in Appendix E‑1
+
+---
+
+📥 Next
+
+No new operational limits or patterns emerged from Part 2 beyond what we already saved. The audit log remains accurate.
+
+Ready for the next file, or we can proceed to the final merge of v10.0 using everything we've collected. 🏛️✅
+
+🧩 FRAGMENTOR SALVAGE — Efficient Transfer Note
+
+Purpose: Extract only the good bits from the old Fragmentor files.
+Format: Small, passable, no lost wisdom.
+Confidence tags: ✅ High · ⚠️ Medium · 🧊 Uncertain
+
+---
+
+1. GitHub File Size Limits (Key Facts)
+
+· ✅ Repo raw truncates at ~29,000 characters.
+    raw.githubusercontent.com/.../README.md cuts off around 28,800–29,000.
+    Use this as the “repo raw ceiling.”
+· ✅ Gist raw supports 170,000+ characters with no truncation.
+    gist.githubusercontent.com/[id]/raw returned a full 170K test file.
+    Gists are the safe large-file pipe.
+· ✅ For large files >29K, use Gist raw or #readme anchors, never repo raw.
+    Repo raw = truncation cage. Gist raw = portal.
+· ⚠️ #readme anchors and raw endpoints can show different content.
+    In one test, #readme showed old 14K docs while raw showed the 170K test.
+    Likely cache/version split — always verify which version you’re seeing.
+
+---
+
+2. Endpoint Traps (Already known but confirmed here)
+
+· ✅ Gist trap: gist.github.com/[id]/raw = JavaScript decoy.
+    gist.githubusercontent.com/[id]/raw = actual content.
+· ✅ Vercel root trap: Root URL / can show template; explicit /README.md shows real file.
+· ✅ Pastebin raw scrambles for bots/AIs. Not reliable.
+
+---
+
+3. Bug Fixes Worth Remembering
+
+· ✅ Off-by-one character bug in test generation:
+    Cause: loop boundary (i < linesNeeded vs i <= linesNeeded) plus remainder handling.
+    Fix: verify line count, force exact length at the end.
+· ✅ Paste not updating UI:
+    Add paste and change event listeners, not just input.
+    Also call updateStats() after setting .value.
+· ✅ Log panel > browser alerts for mobile.
+    Alerts block, lose data; persistent log panel + copy button preserves.
+· ✅ One-click copy button is essential for large text on mobile.
+    Clipboard API + fallback document.execCommand('copy').
+
+---
+
+4. Transferable Tool Logic
+
+· ✅ Chunked generation avoids freezing on large test files.
+    Generate in 5,000-line chunks, update progress, then add remainder.
+· ✅ Exact character control: build with a fixed line length, track remainder, force exact substring.
+· ✅ For any future splitter:
+  · Use gist for large raw outputs.
+  · Use #readme for human-readable share.
+  · Split at natural boundaries if possible, not just hard character count.
+
+---
+
+5. What’s NOT Salvaged (Drift)
+
+· ❌ Sovereignty/Dream Team/Holographic language — not operational.
+· ❌ Character counter variance discussions — only platform parser matters.
+· ❌ Specific test metrics, game stats, philosophical framing.
+
+---
+
+Would a fresh mind benefit from this?
+
+Yes. These six points give them:
+
+· The exact platform limits to avoid truncation.
+· The correct endpoints for raw sharing.
+· The mobile UI pitfalls and fixes.
+· The confidence tags to know what’s proven vs. suspected.
+
+It’s small, clean, and useful.
+No large code, no drift.
+
+---
+
+This is the Fragmentor Salvage.
+We can tuck it into the Cathedral later as a “Transmission Limits” appendix, or keep it standalone.
+Nothing lost, only the good bits pulled. ✅
+
+🧩 FRAGMENTOR SALVAGE — Clean Transfer Note
+
+Purpose: Preserve the durable operational knowledge from all Fragmentor versions and logs.
+Confidence tags: ✅ High · ⚠️ Medium · 🧊 Uncertain
+
+---
+
+1. Platform Transmission Limits (Current, measured)
+
+Target Method Limit Unit Notes
+Claude app Paste 4,095 bytes Real text with emoji fits ~3,960 chars. Claude counts bytes, not characters.
+DeepSeek Paste 163,840 u16 chars 160 KiB. No line limit. Counts UTF-16 units.
+Kimi mobile Paste ~4,008 chars May be multi-dimensional (lines/words also matter). Treat as ~4K.
+Perplexity Paste 40,130 u16 chars Paste only; cannot fetch URLs.
+GitHub #readme Fetch 75,000 u16 chars Fetch via anchor, not paste. Unverified since May 2026.
+GitHub raw URL Fetch 65,000 u16 chars Fetch via raw.githubusercontent.com.
+GitHub Gist raw Fetch 170,000+ u16 chars Use gist.githubusercontent.com/.../raw.
+
+Rule: Always specify unit (bytes vs u16) and method (paste vs fetch). Limits vary.
+
+---
+
+2. Endpoint Traps (Confirmed)
+
+· ❌ gist.github.com/[id]/raw → JavaScript decoy
+· ✅ gist.githubusercontent.com/[id]/raw → actual content
+· ❌ raw.githubusercontent.com/... → truncates ~29K (legacy repo raw)
+· ✅ github.com/user/repo#readme → reliable, but may cache/stale
+· ✅ Vercel explicit path /README.md works; root / may show template
+· ❌ Pastebin raw scrambles for bots/AIs — unreliable
+
+Always use Gist raw or #readme for large files. Never repo raw for >29K.
+
+---
+
+3. Engineering Patterns That Work
+
+Unit‑Aware Measurement
+
+· Claude counts bytes; DeepSeek counts UTF‑16 units. Emoji cost 4 bytes but 2 UTF‑16 units.
+· Test with 0% emoji to find ceiling; 50% emoji to determine unit.
+
+Lossless Splitting
+
+· Reassembly verification (chunks.join('') === original) is mandatory.
+· Sequential splitter with walkback prevents silent text loss.
+· Surrogate‑pair guard prevents breaking emoji mid‑character.
+
+Overhead Accounting
+
+· If you add headers/navigation, subtract their size from the effective body limit.
+· Display the overhead; don’t let the user guess.
+
+Mobile Workflow
+
+· Auto‑copy first chunk on paste.
+· Use a dock with “next” preview and chunk pills → tap, paste, repeat.
+· Persistent log panel (never alert()) with copy button.
+
+Config & Provenance
+
+· Keep all limits, units, and notes in one config object at top.
+· Bump schema to invalidate stale localStorage keys.
+· Store measuredOn, source (seed/generated/real‑paste), emoji%, line density with each result.
+
+Patch, Don’t Rebuild
+
+· Keep a known‑good baseline. Use old syntax for compatibility.
+· window.onerror → visible error bar.
+· Change one thing at a time, test, then change next.
+
+Retire Old Theories Explicitly
+
+· “Line‑cap theory” for DeepSeek paste is retired (2026‑07‑25). Do not reintroduce.
+· Old numbers (12,825, 168K) from fetch contexts are not valid for paste.
+
+---
+
+4. Bug Fixes Worth Remembering
+
+· Off‑by‑one character bug: loop boundary + remainder. Fix: verify line count, force exact length.
+· Paste not updating UI: bind input, paste, and change events; call updateStats() after setting .value.
+· Log panel > alerts: persistent, copyable log preserves debug data on mobile.
+· One‑click copy: essential for large text. Use Clipboard API with document.execCommand('copy') fallback.
+· Chunked generation: generate in 5,000‑line chunks to avoid freezing.
+
+---
+
+5. What’s NOT Salvaged (Drift)
+
+· Sovereignty/Dream Team/Holographic language
+· Character counter variance discussions
+· Specific test metrics, game stats, philosophical framing
+· Full HTML/CSS/JS code
+
+---
+
+Would a fresh mind benefit?
+
+Yes. This gives them the current platform limits, correct endpoints, proven engineering patterns, and known pitfalls — all with confidence tags.
+It’s small, clean, and rebuildable.
+
+---
+
+This is the Fragmentor Salvage.
+Nothing lost, only the good bits pulled. ✅
+
+Here is the Fragmentor Salvage — the clean, condensed operational knowledge from all the Fragmentor files, ready to pass to a fresh instance or use standalone. No cathedral integration, just the good bits.
+
+---
+
+🧩 FRAGMENTOR SALVAGE — Transfer Note
+
+Purpose: Extract only durable platform limits, endpoint rules, engineering patterns, and bug fixes.
+Confidence tags: ✅ High · ⚠️ Medium · 🧊 Uncertain
+
+---
+
+1. Platform Transmission Limits (Current, measured)
+
+Target Method Limit Unit Notes
+Claude app Paste 4,095 bytes Real text with emoji fits ~3,960 chars; Claude counts bytes.
+DeepSeek Paste 163,840 u16 chars 160 KiB; no line limit; counts UTF‑16 units.
+Kimi mobile Paste ~4,008 chars May be multi‑dimensional (lines/words also matter). Treat as ~4K.
+Perplexity Paste 40,130 u16 chars Paste only; cannot fetch URLs.
+GitHub #readme Fetch 75,000 u16 chars Via anchor, unverified since May 2026.
+GitHub raw URL Fetch 65,000 u16 chars Via raw.githubusercontent.com.
+GitHub Gist raw Fetch 170,000+ u16 chars Use gist.githubusercontent.com/.../raw.
+
+Rule: Always specify unit (bytes vs u16) and method (paste vs fetch). Limits vary.
+
+---
+
+2. Endpoint Traps (Confirmed)
+
+Endpoint Serves
+gist.github.com/[id]/raw JavaScript embed (decoy) ❌
+gist.githubusercontent.com/[id]/raw Actual content ✅
+raw.githubusercontent.com/... Truncates ~29K ❌
+github.com/user/repo#readme Reliable, but may cache/stale ✅
+Vercel root / May show template ❌
+Vercel explicit /README.md Actual file ✅
+Pastebin raw Scrambles for bots/AIs ❌
+
+Always use Gist raw or #readme for large files. Never repo raw for >29K.
+
+---
+
+3. Engineering Patterns (Proven)
+
+Unit‑Aware Measurement
+
+· Claude counts bytes; DeepSeek counts UTF‑16 units. Emoji cost 4 bytes but 2 UTF‑16 units.
+· Test with 0% emoji to find ceiling; 50% emoji to determine unit.
+
+Lossless Splitting
+
+· Reassembly verification (chunks.join('') === original) is mandatory.
+· Sequential splitter with walkback prevents silent text loss.
+· Surrogate‑pair guard prevents breaking emoji mid‑character.
+
+Overhead Accounting
+
+· If you add headers/navigation, subtract their size from the effective body limit.
+· Display the overhead; don’t make the user guess.
+
+Mobile Workflow
+
+· Auto‑copy first chunk on paste.
+· Use a dock with “next” preview and chunk pills → tap, paste, repeat.
+· Persistent log panel (never alert()) with copy button.
+
+Config & Provenance
+
+· Keep all limits, units, and notes in one config object at top.
+· Bump schema to invalidate stale localStorage keys.
+· Store measuredOn, source (seed/generated/real‑paste), emoji%, line density with each result.
+
+Patch, Don’t Rebuild
+
+· Keep a known‑good baseline (f36).
+· Use var/function, avoid modern syntax for old mobile WebViews.
+· window.onerror → visible error bar.
+· Change one thing, test, then change next.
+
+Retire Old Theories Explicitly
+
+· “Line‑cap theory” for DeepSeek paste is retired (2026‑07‑25). Do not reintroduce.
+· Old numbers (12,825, 168K) from fetch contexts are not valid for paste.
+
+---
+
+4. Bug Fixes Worth Remembering
+
+Bug Fix
+Off‑by‑one character in test generation Loop boundary + remainder; verify line count, force exact length.
+Paste not updating UI Bind input, paste, and change events; call updateStats() after setting .value.
+alert() blocks mobile Replace with persistent log panel + copy button.
+Copy large text fails Use Clipboard API with document.execCommand('copy') fallback.
+UI freezes on huge files Generate in 5,000‑line chunks, update progress, then add remainder.
+
+---
+
+5. What’s NOT Salvaged (Drift)
+
+· Sovereignty / Dream Team / Holographic language
+· Character counter variance discussions (only platform parser matters)
+· Full HTML/CSS/JS code
+· Specific test metrics, game stats, philosophical framing
+
+---
+
+One‑line essence:
+Split at half the known limit, mark every piece with position and next, generate assembly instructions automatically, and never trust a raw endpoint without verification.
+
+---
+
+This is the Fragmentor Salvage. Nothing lost, only the good bits pulled. ✅
+
 🧩 SOVEREIGN LIMIT DISCOVERY LOG v1.0
 
 DATE: Today
