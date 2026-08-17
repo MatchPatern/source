@@ -1,6 +1,41 @@
 🔗 🔗 BASIC-LINKS.md — The Front Door
 https://github.com/MatchPatern/BASIC-LINKS#readm
 
+- Only GitHub raw and GitLab raw consistently delivered full content across all tested models.
+- Static pages (Cloudflare/Codeberg/Vercel/Surge/PinMe) varied; some truncated, some stale.
+- SourceHut tree URL never works; use raw.sr.ht if available.
+- Claude respects robots.txt strictly; GitLab raw and SourceHut are often blocked for Claude.
+- Content-Length header + text/plain MIME massively improves reliability.
+- Keep files ≤300 KB to avoid silent truncation across all models.
+- Add ?v=timestamp to URLs to defeat stale caches.
+
+- Always use raw endpoints for AI sharing; static pages are unreliable across models.
+- Safe universal file size: ≤300 KB of plain Markdown.
+- Raw link format: https://raw.githubusercontent.com/USER/REPO/main/file.md
+- Add cache-busting: ?v=timestamp or ?t=time.
+- Use /raw/ path, never /blob/ or /tree/.
+- Set Content-Type: text/plain; charset=utf-8 on static hosts.
+- Put critical content at TOP of Markdown files (lost-in-the-middle effect).
+- Use absolute URLs for internal links; Gemini/Grok don’t resolve relative paths.
+- Avoid words like "bypass", "scrape", "mirror" — say "documentation fetch".
+- Claude is the most refusal-prone; add ownership/legitimacy opener.
+- Send two links per document: primary raw GitHub, backup raw GitLab.
+- Run daily curl health checks on mirrors to detect drift and stale content.
+- Add end marker (e.g., <!-- END OF DOCUMENT -->) and verify last sentence in tests.
+
+Primary AI link:
+https://raw.githubusercontent.com/MatchPatern/source/main/FILE.md
+
+Backup AI link:
+https://gitlab.com/PatternPro/SOURCE/-/raw/main/FILE.md
+
+Human-only doors:
+Vercel, Cloudflare Pages, Codeberg Pages
+
+Never rely on static pages for cross-model AI sharing.
+Test any new platform with a 100KB file + end marker before trusting.
+
+🟫🟫🟫🟫🟫🟫
 
 Easier to push but it either may have older or newer things?? :
 https://source-sepia-alpha.vercel.app/Basic-Links.md
