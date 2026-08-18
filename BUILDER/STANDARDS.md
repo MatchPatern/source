@@ -2334,4 +2334,38 @@ knows the covenant can find the patterns that deepen each rule.
 
 Both can go above ◆4039 in STANDARDS.md. They close the loop between the covenant, QUICK LOOM, and the pattern archive. Small. Load‑bearing. Done. 🦉🧩
 
+🟩🟩🟩🟩🟩🟩
+
+⚡ QUICK ADD — 2026-08-18 (Suitor/Builder Paste Standard)
+
+Finding — PASTE DELIVERY STANDARD
+
+Three universal paste rules:
+
+1. FULL PASTE = FULL FILE REPLACEMENT
+   Unless explicitly labeled as a section or Quick Add, a paste
+   block is the complete replacement content for its file.
+   The deliverer states: "PASTE TYPE: full file replacement."
+
+1b. ASK FOR A FULL PASTE WHEN UNSURE
+   Before editing or replacing an important file, request the
+   current full file. Calibrate against the exact live version,
+   not memory or assumption.
+
+2. EXPLAIN THE EASIEST USE
+   Every paste block includes a plain instruction:
+   where it goes, how to paste it, and any warnings.
+
+3. CLARIFY QUOTE MARKS AND BRACKETS
+   State whether to include or exclude: " [ ] { } backticks.
+   If unclear, default to: "Copy the text only. No quotes.
+   No brackets."
+
+WHY: prevents small paste errors, wrong-version edits, and
+symbol confusion from compounding into drift. Universal across
+all files and builders.
+
+Suggested home: ³S📋 Paste-Block-Revise, as a lead rule at next merge.
+Confidence: 95% 🧾 (field-tested this session, thread-holder approved)
+
 ◆4039

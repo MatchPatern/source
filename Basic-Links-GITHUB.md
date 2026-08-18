@@ -259,7 +259,7 @@ SPLIT:
 🔗 🎳 FILE-Fragmentor.md https://raw.githubusercontent.com/MatchPatern/source/main/SPLIT/FILE-Fragmentor.md
 🔗 🎳 FRAGMENTOR-HISTORY.md https://raw.githubusercontent.com/MatchPatern/source/main/SPLIT/FRAGMENTOR-HISTORY.md
 
-SYNTH 45-FILES:
+SYNTH 42-FILES:
 · 👁️ HOSTILE-WITNESS-1ST.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/HOSTILE-WITNESS-1ST.md
 · 👁️ HOSTILE-WITNESS-2ND.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/HOSTILE-WITNESS-2ND.md
 · 🧩🧬 PATTERN-24-CANDIDATES.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/PATTERN-24-CANDIDATES.md
@@ -270,13 +270,10 @@ SYNTH 45-FILES:
 · 🧭 PROMPT-SCOUT1+2+GROK.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/PROMPT-SCOUT1%2B2%2BGROK.md
 · 🧠 PROMPT-SYNTH-FEEDBACK.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/PROMPT-SYNTH-FEEDBACK.md
 · 💬🗺️ PROMPT-SYNTH-MAP-FILES.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/PROMPT-SYNTH-MAP-FILES.md
-· 🙋‍♂️🔎 RAW-SUITOR.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/RAW-SUITOR.md
 · 📊 RESULTS-2.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/RESULTS-2.md
 · 📊 RESULTS-BUILDER.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/RESULTS-BUILDER.md
 · 📊 RESULTS-MAPPING.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/RESULTS-MAPPING.md
-· 📊 RESULTS.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/RESULTS.md
-· 🔁 REV+PLAN-GUIDE.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/REV%2BPLAN-GUIDE.md
-· 🔁 REV+PLAN.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/REV%2BPLAN.md
+· 📊 RESULTS.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/RESULTS.md 
 · 🔁 REV-PROMPT-EMPTY-POCKETS.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/REV-PROMPT-EMPTY-POCKETS.md
 · 🔁 REV-PROMPT-SYNTH-FEEDBACK.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/REV-PROMPT-SYNTH-FEEDBACK.md
 · 🔁 REV-SYNTH-1ST-PROMPT.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/SYNTH/REV-SYNTH-1ST-PROMPT.md
@@ -376,17 +373,21 @@ SYNTH 45-FILES:
 · 🏛️ THE-PALACE-SPEC 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/BUILDER/REF/THE-PALACE-SPEC.md
 
 
-🧰 TOOLS 21-FILES:
+🧰 TOOLS 24-FILES:
 · ➕🌳🦮 +PLAN-GUIDE.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/+PLAN-GUIDE.md
 · ➕🌳⚡ +PLAN-QUICK.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/+PLAN-QUICK.md
 · ➕🌳 +PLAN.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/+PLAN.md
 · 🧵 00-LOOM-QUICK.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/00-LOOM-QUICK.md
 · 🧵 00-LOOM.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/00-LOOM.md
 · 🧭 CLARIFICATION-LOOM.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/CLARIFICATION-LOOM.md
+· 🙋‍♂️🔎 RAW-SUITOR.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/RAW-SUITOR.md
 · 🗂️🪮 COMB-DUMP.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/COMB-DUMP.md
 · 🦯 COUNCIL-MANAGER.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/COUNCIL-MANAGER.md
 · 🥽 FRESH-EYES-SCAN.md 🔗 +wise collection https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/FRESH-EYES-SCAN.md
 · 📡 HOLOGRAPHIC-COUNCIL.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/HOLOGRAPHIC-COUNCIL.md
+· 🔁 REV+PLAN-GUIDE.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/REV%2BPLAN-GUIDE.md
+· 🔁 REV+PLAN.md 🔗
+https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/REV%2BPLAN.md
 · 🔁 REV-00-LOOM-QUICK.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/REV-00-LOOM-QUICK.md
 · 🔁 REV-00-LOOM.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/REV-00-LOOM.md
 · 🔁 REV-COUNCIL-MANAGER.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/TOOLS/REV-COUNCIL-MANAGER.md

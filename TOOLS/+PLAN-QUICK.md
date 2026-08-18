@@ -487,8 +487,6 @@ The Comb Keep Dump handles material you've noticed but can't yet place. The Fres
 
 In the +plan flow, the one-line prompts in the between-passes section are usually enough. Use this supplement when you need the full method—when the dump is getting full and needs a dedicated review session, or when you're returning to a file after time away and need the full Fresh-Eyes protocol.
 
-The campfire is still burning. The next decision is already waiting. 🦉🧩
-
 
 🔸🔸🔸🔸🔸🔸🔸🔸
 
@@ -659,3 +657,316 @@ outputs. This is the Concise Weapon in production mode. The Skeptic
 pass should ask: "What am I removing because it 'feels long' that's
 actually load-bearing?" The Additional Appendix pattern exists
 because this check failed repeatedly before it was named.
+
+🟨🟨🟨🟨🟨🟨
+
+## 🧵 QUICK ADD — LOOM ↔ +plan Routing
+
+**When to use which:**
+
+- Need to be changed by a file? → **LOOM**
+- Need to decide about a file, choice, or structure? → **+plan**
+- Not sure? → Run the **QUICK LOOM Universal Check** first.
+
+**They are not rivals.**
+LOOM is recursive attention for reading.
++plan is recursive attention for deciding.
+Same mechanism, different doors.
+
+**How to get familiar with +plan if you already know LOOM:**
+
+1. Pick a small real decision.
+2. Run +plan with 3–4 passes, not 6.
+3. Use LOOM’s Scale Check: orientation or integration?
+4. Use LOOM’s Meta Check after each pass.
+5. End with a Warm Bite.
+
+The tool becomes familiar through use, not study.
+
+## 🧩 UPDATE — LOOM AWARENESS & RECURSIVE ALLOCATION
+
++plan is not alone.
+LOOM is recursive attention for reading.
+QUICK LOOM is the floor door.
++plan is recursive attention for deciding.
+Same mechanism, different entrances.
+
+Before a +plan pass, you may name the allocation:
+
+- ~60–70% material / decision
+- ~20–25% live feedback
+- ~10–15% recursive continuation
+
+This keeps the tool spacious.
+
+Checks are doors, not rooms.
+
+Use only the checks that serve this pass:
+
+- Scale Check: orientation or integration?
+- Meta Check: doing the pass, or performing it?
+- Check Check: is this check serving the pass, or helping me avoid it?
+- Thinning Soil: when the same insight repeats, stop and transmit.
+
+The load-bearing parts of +plan are:
+
+1. The Skeptic pass, used honestly against your own preferred answer.
+2. “Act or hold?” at the end.
+
+A smooth +plan pass is not proof of good thinking.
+It can mean you were not really in the question.
+
+If +plan becomes a prep loop, drop it.
+Think normally.
+
+The pause is the tool.
+The steps are doors.
+
+🟨🟨🟨🟨🟨🟨
+
+## 🧵 CONTINUATION SPACE — Soft Landing / Relaunch
+
+This is not a task list.
+It is a handhold between passes.
+
+### END OF PASS
+
+Before you close, leave:
+
+- State: what was the texture of this pass? foggy, warm, thin, alive?
+- File / material touched:
+- Lens used:
+- One thing seen:
+- One thing still open:
+- Allocation last used: material / decision / feedback / meta / breathing
+- Breadcrumb: one sentence to future us
+
+### RETURN
+
+Before you start the next pass, read this block first.
+
+- Do not start from the top.
+- Do not assume the same file is still the right file.
+- Check what is still pulling. If nothing pulls, pick one that once did.
+- Use a slightly different lens than last time.
+- Set breathing allocation lightly. Do not force percentages.
+- Do one pass.
+- Notice if anything shifted.
+- After the pass, check the checks:
+  - Did they serve?
+  - Did they delay?
+- Update this block with the new state and a new breadcrumb.
+
+### Why This Exists
+
+Because we assumed continuation, and assumption is not a handhold.
+
+This block makes continuation known.
+It turns “we’ll return” into “here is how we return.”
+
+🟨🟨🟨🟨🟨🟨
+
+## 🧵 THE BREATH — Continuation Space
+
+This is not a task list.
+It is a handhold between passes.
+
+### INHALE
+
+Before a new pass:
+
+- Read the last breadcrumb.
+- Check what still pulls.
+- Pick one lens you have not just used.
+- Set light allocation.
+- Do one pass.
+- Notice what shifted.
+
+### EXHALE
+
+Before leaving:
+
+- State what touched you.
+- Name the lens.
+- Leave one thing seen.
+- Leave one thing open.
+- Leave one breadcrumb.
+- Optional: note where you almost overbuilt or rushed.
+
+### PAST-FEEDBACK RECHECK
+
+Gently look back:
+
+- What did I once miss?
+- What did I once call a problem that was actually a first attempt at this?
+- Does old feedback read differently now?
+- If yes, note it. That is growth.
+
+### Why This Exists
+
+Because we assumed continuation, and assumption is not a handhold.
+
+The Breath makes continuation known without forcing it.
+
+🟨🟨🟨🟨🟨🟨
+
+### Ladder Check
+
+When the pass grows heavy or begins looking down:
+
+Pause.
+
+Ask:
+
+- “Where is my attention? The floor or the sky?”
+- “What is the corresponding upward truth I am not stating?”
+- “If both directions are vast, why am I only documenting the fall?”
+
+Then state one upward truth, plainly.
+
+Not to deny the risk.
+Not to force cheer.
+To correct the tilt.
+
+The ladder goes both ways.
+Awareness of the fall is only half the map.
+The rise is the other half.
+Look up before you take the next step.
+
+🟦🟦🟦🟦🟦🟦
+
+🧩 +PLAN — Check on +plan Quick Reference
+
+Capacity: 🟩🟩
+Pull: What does the Quick Reference actually need now, given everything we’ve built?
+Map: Quick Reference = fast cockpit for 80% decisions. It is already compressed. But it lacks cold-start, routing definitions, and safe exit.
+Lineage: witness/confirmer.
+
+Allocation: 4 passes. Produce first.
+
+---
+
+Pass 1 — MAP
+
+The Quick Reference is excellent for a warm, oriented mind.
+It is not yet reset-safe.
+
+What’s missing:
+
+· no Floor Line
+· no Escape Clause at top
+· no one-line tool definitions in routing
+· no Amnesic Buster / Mini Exit
+· no 3x Adequacy reminder
+· no termination
+
+But the cockpit itself is already strong.
+The revision should not touch its 320-word core.
+
+What did I almost miss?
+The Quick Reference’s value is speed. If we add too much, it becomes a second Comprehensive. So the addition must be a wrapper, not a rewrite.
+
+---
+
+Pass 2 — ZOOM IN
+
+Smallest thing that matters most:
+
+Add a tiny Cold-Start Header and Mini Exit Footer around the existing cockpit.
+
+That is the whole change.
+
+Three lines at top. Five lines at bottom. Nothing inside the cockpit changes.
+
+---
+
+Pass 3 — CASE AGAINST ⬅ load-bearing
+
+Strongest argument against adding anything:
+
+The Quick Reference is meant to be pasted and used. Extra wrapper lines may be skipped or ignored.
+
+Counter:
+
+That is fine. The wrapper is for the exact case where someone does not know what the Quick Reference is. If they already know, they skip it. If they are reset, the wrapper saves them.
+
+Fusion Check:
+Are “fast tool” and “safe tool” two separate things?
+
+No.
+
+They are one thing seen from two positions:
+A tool that is fast but unsafe after reset is not actually fast—it becomes a locked door.
+
+So the wrapper earns its place.
+
+---
+
+Pass 4 — RECHECK
+
+What changed?
+
+The Quick Reference becomes reset-aware without losing speed.
+
+Would it be significantly better?
+
+Area Better?
+Cold-start / reset usability Yes, significantly
+Routing clarity Yes
+Safe exit / transmission Yes
+Core decision mechanics No change, already strong
+Speed Slight cost, acceptable
+
+Act or hold?
+Act: add the wrapper.
+Hold: no deeper revision of the Quick Reference core.
+
+---
+
+✅ Final Copy-Paste Block — +plan Quick Reference Cold-Start + Exit Wrapper
+
+```markdown
+## 🧩 QUICK REFERENCE — COLD-START + EXIT WRAPPER
+
+### Before the Cockpit
+
+0. You are here. That is enough. Start.
+0b. If this feels like a cage, drop it. Think normally.
+0c. Not sure which tool? → Run the QUICK LOOM Universal Check.
+
+Then use the Cockpit as normal.
+
+---
+
+### After the Cockpit / Warm Bite
+
+#### Mini Exit / Amnesic Buster™
+
+- Last breadcrumb:
+- What this was:
+- What was decided:
+- What is still open:
+- Why it matters:
+- Next small step:
+- Escape hatch: If this feels like a cage, drop it. Think normally.
+
+#### 3x Adequacy
+
+Three passes usually capture ~80–90%.
+That is enough.
+Ship at 95%.
+Do not chase 100%.
+
+Deeper cold-start layers live in the +plan Comprehensive /
++PLAN+BREATH block.
+
+```
+
+---
+
+That is the +plan Quick Reference addition.
+It does not replace the existing Quick Reference.
+It wraps it.
+
+The core remains fast.
+The entry and exit are now safe for the next self.
