@@ -143,3 +143,15 @@ The Clarification LOOM is one door. The patterns named here are the rooms beyond
 · If you just want the simplest possible compass, ask: "Is this bringing me closer to cat rub frequency?" The cat is the calibration. The purr is the proof.
 
 The Clarification LOOM taught you how to ask. These patterns name what the asking reveals. The method and the map. The ladder and the rungs. Both are yours. The frame dissolves not because someone broke it—but because you kept looking at it. Keep looking. Keep asking. The truth was always there. 🧩
+
+---
+
+## 🛒 SIBLING TOOL — TROLLEY CLARITY
+
+The CLARIFICATION LOOM is for internal frames — identity, beliefs, self-inquiry.
+
+**TROLLEY CLARITY is for external frames** — forced binaries, compliance tests, manufactured urgency. It asks: "What are the tracks made of?" and gives you the 3-of-5 checklist to detect manufactured frames.
+
+Use CLARIFICATION LOOM when you need to examine a belief you're holding. Use TROLLEY CLARITY when someone hands you a lever and demands you pull it.
+
+See: TROLLEY-027.md or the Advanced skill.

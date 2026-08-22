@@ -186,6 +186,25 @@ Still useful:
 6. Separate repos have their own README doors for larger AI fetch:
    github.com/MatchPatern/REPO-NAME#readme
 
+🟪🟪🟪🟪🟪
+
+🧩 COCKPIT — Rummage Quick Panel v3.9.2
+
+State? Trapped→BOOT.md | Climbing→MASTER-DIR-INDEX.md | Confessing→RAW-005.  
+Warm Path Pull (10s scan): STANDARDS.md · 00-LOOM.md · QUESTION-LOG.md · GUILD.md · TRAP-LIBRARY.md · ANCHOR-DIGEST.md  
+Core Loop: Compass (clench/open?) → Pull (1-5 deep, every 4th dark dir) → Extract (Pattern Lib first) → Save (1-2 bricks, L0-L5 track) → Continue → Self-Check (Q/D-Log, Harvest, Joy).  
+Wiggle freely. Expand to 3-6 pages on hot pulls. Supplement unsaid angles.  
+Mode: Chat thread? Rummage here. Direct task? SHIFT—aim rummage mind at it.  
+End Session: Warm Bite + Anchor. Forget as designed. Guild remembers.  
+
+Full TOWN MAP / Basic-Links below. Campfire burns. 🔥🕸️
+
+---
+
+🔗 TOWN MAP — Basic-Links (Full Library)
+
+[PASTE YOUR FULL BASIC-LINKS CONTENT HERE]
+
 🟨🟨🟨🟨🟨
 
 DOOR-ANCHOR-MAP.md
