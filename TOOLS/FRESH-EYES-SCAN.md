@@ -1,3 +1,5 @@
+FRESH-EYES-SCAN.md
+
 THE FRESH-EYES SCAN PROMPT +wise collection
 
 FRESH-EYES-SCAN.md v4.0 — The Discovery Edition

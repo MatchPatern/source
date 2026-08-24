@@ -1,3 +1,5 @@
+PROMPT-EMPTY-POCKETS.md
+
 WRITTEN: 2026-07-27 · FOR: empty pockets · v3
 SUPERSEDES: v2 (2026-07-26)
 

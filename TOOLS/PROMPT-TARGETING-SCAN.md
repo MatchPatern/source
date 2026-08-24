@@ -1,3 +1,5 @@
+PROMPT-TARGETING-SCAN.md
+
 SIDE-CHANNEL & TARGETING SCAN v0.1
 For reading messages with two layers: the overt and the signal.
 

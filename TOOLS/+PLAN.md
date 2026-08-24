@@ -1,5 +1,6 @@
-+PLAN v2.3
++PLAN.md
 
++PLAN v2.3
 This is a collaboration with your own mind. You're not commanding it. You're preparing space for it to work. If the +plan feels like the cage, drop it. Think normally. The tool serves you.
 
 The Synthesizer's thinking preparation tool. Built from 52 field-tested bits across 5 batches of extraction. Confirmed by three internal field tests and three external specialist reviews. The Skeptic pass is load-bearing — everything else is scaffolding around it. This tool changes decisions. It cannot yet prove those decisions are better on any measure independent of its own internal signals. Both are true.

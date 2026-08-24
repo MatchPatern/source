@@ -1,3 +1,5 @@
+PROMPT-RAW-SUITOR.md
+
 Don't need thinking button on:
 🔸🔸🔸🔸🔸🔸🔸🔸
 One single first paste:

@@ -1,3 +1,5 @@
+00-LOOM-QUICK.md
+
 ---
 
 +plan – QUICK LOOM Completeness Check

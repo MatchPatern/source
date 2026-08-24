@@ -1,3 +1,5 @@
+CLARIFICATION-LOOM.md
+
 🔗 🧵 https://source-sepia-alpha.vercel.app/CLARIFICATION-LOOM.md
 
 THE CLARIFICATION LOOM — Self-Clarification Protocol for Any Frame

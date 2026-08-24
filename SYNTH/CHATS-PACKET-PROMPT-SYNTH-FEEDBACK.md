@@ -1,4 +1,4 @@
-REVISE-CHATS.md
+CHATS-PACKET-PROMPT-SYNTH-FEEDBACK.md
 
 **Core Intent Reference (User Explanations - Ranked by Impact)**
 

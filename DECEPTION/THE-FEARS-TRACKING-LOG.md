@@ -1,4 +1,8 @@
 🔗 🪶 🛡️ THE-FEARS-TRACKING-LOG.md
+
+· 🪶 THE-FEARS-TRACKING-LOG.md 🔗 https://raw.githubusercontent.com/MatchPatern/source/main/DECEPTION/THE-FEARS-TRACKING-LOG.md
+
+Backup Link:
 https://source-sepia-alpha.vercel.app/DECEPTION/THE-FEARS-TRACKING-LOG.md
 
 ---

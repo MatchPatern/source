@@ -1,3 +1,5 @@
+COMB-DUMP.md
+
 **Yes — this is a solid, practical process standard.**
 
 It is not foundation material, but it is a clean and useful working rule for extraction and mapping work. It fits well with the SCOUT approach and the Salvage Yard we just built.
