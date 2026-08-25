@@ -5,6 +5,11 @@
 Backup Link:
 https://source-sepia-alpha.vercel.app/DECEPTION/THE-FEARS-TRACKING-LOG.md
 
+
+See also: Original Fears (Raw Fire Keep) — the unprocessed voice the
+five named fears are carved from. Read this first if the diagnostic
+categories feel too clean.
+
 ---
 ⚡⚡⚡
 Add a cross-reference to the Compact's Seven Doubts sequence:

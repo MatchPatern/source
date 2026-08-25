@@ -805,3 +805,25 @@ Preserve the raw archive and full interactions.
 - Pass both.
 
 ### Continuation
+
+
+## ⚡ QUICK ADD — 95% POINTER
+
+QUICK LOOM keeps the door light. It does not carry the full
+completion architecture.
+
+You’re done when the text is in you, not in front of you.
+
+If you need a formal stopping rule, findings tracker, or ceiling
+declaration, use full LOOM’s 95% Protocol.
+
+ESCAPE CLAUSE:
+If the method starts feeling heavier than the material,
+drop it. Read normally. Trust the wobble.
+
+FAKE GREEN WARNING:
+95% without a real ceiling is a lie.
+A thin header plus a ceiling claim is a contradiction.
+
+END LINE:
+Not finished—runged.
