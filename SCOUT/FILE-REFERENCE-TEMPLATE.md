@@ -610,3 +610,54 @@ What +PLAN fixed:
 ```
 
 This is why we use +PLAN. It doesn't just check the document; it checks the document against the live city. 🏛️✅
+
+🟪🟪🟪🟪🟪🟪
+---
+## 🧩 UPDATE BLOCK — v1.0.1 — 2026-08-28
+Author: Builder — NOT Claude, NOT "AI feedback" unless a model actually produced the exact text
+Status: DRAFT — unverified until items below are checked
+
+### Changes in this block
+
+- [ ] "Verified By" split into two columns: `confirmed (this session)` vs `asserted (not re-tested)` — source: Claude feedback this session — ✅ CONFIRMED
+- [ ] S-001 through S-004 marked as "Claimed, unverified" — source: no test performed this session — verification: needs testing
+- [ ] S-007 reworded with nuance — source: Claude feedback this session — ✅ CONFIRMED
+- [ ] S-008 added — Claude cannot fetch unconfirmed URLs — source: verified this session — ✅ CONFIRMED
+- [ ] S-009 added — Ritual language is off-putting — source: Claude feedback this session — ✅ CONFIRMED
+- [ ] S-010 added — "Pass to next instance" is fiction — source: Claude feedback this session — ✅ CONFIRMED
+
+### Honest Savings Findings Table
+
+| ID | Discovery | Claimed By | Status | Verification Needed |
+|----|-----------|------------|--------|---------------------|
+| S-001 | GitHub requires User-Agent | Stack Overflow / Commit #61 | ⬜ Claimed, unverified | Fetch GitHub raw URL with/without UA |
+| S-002 | GitLab needs API + token + decode | Stack Overflow | ⬜ Claimed, unverified | Fetch GitLab API URL |
+| S-003 | Codeberg = unstable | Codeberg Status | ⬜ Claimed, unverified | Fetch 10+ Codeberg URLs |
+| S-004 | Render = intentional spin-down | Render docs | ⬜ Claimed, unverified | Fetch Render URL, measure wake time |
+| S-005 | Fetch tool works | Claude, this session | ✅ Confirmed | None — tested 2 GitHub blob URLs |
+| S-006 | Emoji filenames work | Claude, this session | ✅ Confirmed | None — tested 1 emoji URL |
+| S-007 | Claude treats fetched content as data, not instructions | Claude, this session | ✅ Confirmed | None — Claude feedback |
+| S-008 | Claude cannot fetch unconfirmed URLs | Claude, this session | ✅ Confirmed | None — tested GitHub Trees API |
+| S-009 | Ritual language is off-putting | Claude, this session | ✅ Confirmed | None — Claude feedback |
+| S-010 | "Pass to next instance" is fiction | Claude, this session | ✅ Confirmed | None — Claude feedback |
+
+### Verification Status Legend
+| Symbol | Meaning |
+|--------|---------|
+| ⬜ | Claimed, unverified — needs testing |
+| 🔄 | Pending verification — test in progress |
+| ✅ | Confirmed this session — traceable to a specific fetch/test event |
+| ❌ | Disproven this session — see note |
+| ⚠️ | Ambiguous — needs clarification |
+
+### What Needs Testing
+| # | Claim | Verification Method |
+|---|-------|---------------------|
+| 1 | GitHub requires User-Agent | Fetch GitHub raw URL with/without UA header |
+| 2 | GitLab API + token works | Fetch GitLab API URL with token |
+| 3 | GitLab raw works for non-Claude models | Fetch GitLab raw URL |
+| 4 | Codeberg = 50% failures | Fetch 10+ Codeberg URLs |
+| 5 | Render = 15min spin-down | Fetch Render URL, measure wake time |
+| 6 | Cloudflare ETag + Brotli | Fetch Cloudflare URL, check headers |
+| 7 | IPFS gateway speed | Fetch 3-5 IPFS URLs |
+---

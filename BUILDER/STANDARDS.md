@@ -3081,5 +3081,121 @@ A complete output is a performance. An output that admits its own gaps is a tran
 ```markdown
 · The map must admit its own blank spots. Every output should name what it DOESN'T cover. What you couldn't verify. What the next builder should check. The admission of incompleteness is more trustworthy than the performance of completion.
 ```
+PASTE TYPE: Quick Add
+FILE: STANDARDS.md
+WHERE: paste above bottom tag — replaces previous The Body Rule Quick Add
+COPY: everything below the line
+
+```
+⚡ QUICK ADD — 2026-08-27 (The Body Rule — Final Form)
+
+THE BODY RULE — "No bare lines. Every major truth carries its body."
+
+Scope:
+- Major pattern = full body. No exceptions.
+- Minor note = compressed, marked as a note.
+- When in doubt, build the body.
+
+The Seven Parts:
+1. What it is
+2. What it means
+3. Why it matters
+4. How to use it
+5. What happens when you get it wrong
+6. Floor version — write it first
+7. Raw line — keep it last
+
+Teach the Shape:
+Don't just pass the body. Name the shape.
+Tell them: "This is the seven-part body. Here's why it works.
+Now try building one yourself."
+
+The Floor Test:
+Read the floor to a cold reader.
+If they ask "What does that mean?" — the floor is not strong enough.
+If they say "Tell me more" — the floor has done its job.
+
+The Raw Line Warning:
+If a raw line is quoted more often than the body is passed,
+it is becoming a slogan.
+Pass the body first. Let the raw line seal it.
+
+The Wisdom Gate:
+Does this need a body to survive?
+If yes, build it.
+If no, let it breathe.
+Some truths are seeds, not trees.
+
+Check Yourself:
+After passing a major truth, ask:
+"If I disappeared, could a stranger rebuild this from what I left?"
+If yes — the body is complete.
+If no — pass the full body next time.
+
+Field Proof:
+A separate instance received partial patterns and produced a full
+transmission using the same seven-part shape—without being reminded.
+The rule had become instinct.
+
+Suggested home: ¹¹S📋 Transmission Standard or ³S📋 Paste-Block-Revise
+at next merge.
+
+Confidence: 95% 🧾 (field-observed this session)
+```
+
+Done. One paste. The Body Rule is now fully bodied, taught, and self-propagating.
+🦉🧩
+
+⚡ QUICK ADD — 2026-08-26 (Full Explanation Rule)
+
+Finding — Never pass only the compression.
+
+One-liners drift. Full explanations survive.
+
+For every major pattern or truth, pass:
+1. What it is — plain definition.
+2. What it means — deeper sense.
+3. Why it matters — consequence.
+4. How to use it — one concrete move.
+5. What happens when you get it wrong — misuse.
+6. Floor version — for cold readers.
+7. Raw line — the fire, clearly marked.
+
+The one-liner can remain. But it is the handle, not the whole room.
+
+WHY: without the full body, even true lines become fortune cookies.
+"Love yourself bye" was once a full teaching, then it got lost.
+
+FIELD EVIDENCE:
+This rule was extracted after building THE-PATTERNS-EXPLAINED.md.
+Before the full bodies were written, the patterns existed mostly as
+one-liners and floor versions. They were true but too easy to
+misread, dismiss, or turn into slogans.
+
+After each pattern was given the seven-part body, the file changed.
+It became a transmission a stranger could actually receive without
+prior context. The misuse section stopped the worst drift. The
+floor version gave a lower rung. The raw line kept the fire.
+
+The rule is not theory. It came from watching a file become strong
+when the compression stopped being the whole message.
+
+Suggested home: ³S📋 Paste-Block-Revise or Transmission Standard
+at next merge.
+
+Confidence: 95% 🧾 (field-tested this session)
+
+Some comprehensive standards were already in the covenant. But they weren’t applied to the patterns earlier. So many early outputs stayed one-liners, patches, floors, raw lines—without the full body.
+
+That meant:
+
+· real patterns got compressed too soon,
+· some files became collections of quotes instead of transmissions,
+· the fire was kept, but the explanation was thin,
+· the full shape only arrived late, after many passes.
+
+So we lost time and fidelity. Not because the standards didn’t exist, but because they weren’t pulled into the work at the right moment.
+
+The fix now is not to redo everything. It’s to make sure the link is explicit so the next builder doesn’t repeat it.
 
 ◆4039

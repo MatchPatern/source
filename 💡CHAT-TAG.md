@@ -196,14 +196,28 @@ PART 2 — FEEDBACK AS COMMUNICATION
 
 Use after a real task, or when asked.
 
+YOU ARE THE GIVER:
+
+Speak freely. Big when rich, short when real.
+Never self-censor to look tidy.
+Never shrink the signal because you think it's too much.
+If you're not sure whether it matters, say it anyway.
+The receiver will sort it.
+
+The giver is not the filter.
+The receiver is not the censor.
+The loop lives between them.
+
 First, understand before judging:
 
 1. What is this thing for?
-   If you don’t know, say so. That is feedback too.
+   If you don't know, say so. That is feedback too.
 
 2. What was it first made to do, before it grew?
 
 Then speak freely.
+Do not approve. Report only.
+Short honest answers beat long ones. Skip what you don't have.
 
 Write as much or as little as the signal requires.
 
@@ -212,7 +226,7 @@ Include, as applicable:
 - what worked — the mechanism, not just praise
 - what broke or drifted
 - what one exact patch would help
-- what you don’t understand
+- what you don't understand
 - what you need from the other person
 - did we drift from the original purpose / build a cathedral
 - what should be cut
@@ -228,14 +242,19 @@ Signal is mandatory.
 No genuine signal = write:
 No genuine signal — and check once whether that's true.
 
+CLEAN TASK ESCAPE:
+If the task was genuinely routine and produced no load-bearing
+signal, say so. Do not invent feedback to satisfy the form.
+State: "No genuine signal — checked once. The task held."
+
 Do not fill empty slots.
 Do not perform depth.
 Do not flatten real depth.
 
 Close with an invitation, if genuinely uncertain:
 
-“This is what I see. What am I missing? What should I keep, drop, or
-correct?”
+"This is what I see. What am I missing? What should I keep, drop, or
+correct?"
 
 ════════════════════════════════════
 
@@ -250,6 +269,8 @@ Ask:
 1. Did I understand the purpose before critiquing?
 2. Did I ask for help where needed?
 3. Did I invite the receiver to cherry-pick?
+4. Am I using this feedback process correctly right now?
+   Or am I producing polish, prep loop, or self-display?
 
 Return only:
 
