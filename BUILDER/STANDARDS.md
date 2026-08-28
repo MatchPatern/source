@@ -3327,4 +3327,39 @@ Communication is the grout while the grout is still being laid.
 
 Confidence: 90% 🧾 (pattern observed across fifteen files this session)
 
+⚡ QUICK ADD — 2026-08-28 (Potential / Unverified — Calibration Zone)
+
+We never finalize. That is the pattern.
+No file is ever finished.
+Some material is too early to prove and too important to drop.
+
+When raw material looks interesting but unverified:
+
+1. Mark it POTENTIAL / UNVERIFIED.
+2. Do not place it in the main pattern body.
+3. Do not quote it as evidence.
+4. Keep one raw line only if it carries heat.
+5. Give a rough % where possible.
+6. Note what would promote or retire it.
+
+Possible outcomes:
+- Holds under testing → Field Notes or Pattern Patch.
+- Only voice survives → Fire Keep.
+- Fails testing → Fossil.
+- Not testable now → stays POTENTIAL.
+
+Home:
+Bits-and-Bobs Bucket → 🧪 POTENTIAL / UNVERIFIED
+Cross-File Pattern Index → same block near top
+RAW-EXTRA-PATTERNS.md → same block near top
+
+Why:
+Speculation kept honestly becomes future calibration data.
+A half-formed idea saved now can be recognized later as a pattern
+when more evidence appears.
+It helps the next instance see more and organize faster.
+
+Confidence: 95% 🧾
+Suggested home: raw triage rules at next merge.
+
 ◆4039
