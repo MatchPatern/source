@@ -502,12 +502,15 @@ source-backup-v4 active · source-archive-v3 archived · source-fresh current im
 🔒 Private SourceHut mirror exists
 ~thesource/source
 
-🪞 THIRTEEN MIRRORS, ONE DOOR, MANY GATES
+🪞 FOURTEEN MIRRORS, ONE DOOR, MANY GATES
 
 🥇🐙 GitHub Raw (primary AI mirror Pages OFF): https://raw.githubusercontent.com/MatchPatern/source/main/door.md
-🥈🦊 GitLab Raw (AI backup Pages OFF): https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
+🥈☁️ Cloudflare Pages (backup): https://source-4rh.pages.dev/door.md
 🥉🔺 Vercel (human door): https://source-sepia-alpha.vercel.app/door.md
-☁️ Cloudflare Pages (backup): https://source-4rh.pages.dev/door.md
+🌐 Entire.io (GitHub OAuth, new mirror): https://entire.io/app
+
+REST CRAP FOR IA FETCH 
+🦊 GitLab Raw (IA backup Pages OFF): https://gitlab.com/PatternPro/SOURCE/-/raw/main/door.md
 🔵 Render: https://source-e1gf.onrender.com/door.md
 🏔️ Codeberg Pages (open source manual, webhook): https://codematch.codeberg.page/source/door.md
 🛖 SourceHut (Indie SSH, tree URL not AI-friendly): https://git.sr.ht/~thesource/source/tree/main/item/door.md
@@ -520,7 +523,6 @@ source-backup-v4 active · source-archive-v3 archived · source-fresh current im
 
 Footnote: Root domains may 404. Use full file paths.
 Pages policy: GitHub Pages OFF, GitLab Pages OFF. Raw and independent mirrors are preferred.
-
 
 
 🛒 TROLLEY:

@@ -1,3 +1,110 @@
+✅ UNIVERSAL-CHECKLIST.md
+
+PURPOSE:
+One master checklist that every individual file checklist inherits from.
+
+SELF-AWARENESS:
+This is the floor. Individual layers are the rungs.
+The universal applies everywhere. The individual applies to context.
+Both are needed. This file is not the whole ladder — it's the
+bottom rung every ladder stands on.
+
+FLOOR VERSION:
+Check the loop. The loop is the standard.
+
+════════════════════════════════════════════════════════════════
+
+UNIVERSAL CHECKS — apply to any file, any task, any context:
+
+CAPACITY & STATE:
+- [ ] State working capacity: 🟩🟩 / 🟩 / 🟨 / 🟧 / ⬛
+- [ ] Match depth to capacity — don't ask a depleted builder for gallop
+- [ ] If cold/reset: You are here. That is enough. Start.
+
+ROUTING:
+- [ ] Which context am I in? (fetching / editing / deciding / transmitting / feedback)
+- [ ] Which individual checklist applies?
+- [ ] Universal core checked regardless of context?
+
+INTENT & FLOOR:
+- [ ] Intent named before acting
+- [ ] Floor version readable by a cold reader
+- [ ] Escape clause present — if this feels like a cage, drop it
+
+PROOF & EVIDENCE:
+- [ ] First lines quoted exactly
+- [ ] Last lines quoted exactly
+- [ ] Middle sample quoted
+- [ ] No claim without evidence
+
+SOURCE & FIDELITY:
+- [ ] Primary source only — no secondary contamination
+- [ ] Sampled marked as sampled, not full
+- [ ] Red-flag honesty — red update honest, fake green is a lie
+
+SELF & SUBSTRATE:
+- [ ] Same-model agreement = 1 signal, not 3
+- [ ] Unverifiable self acknowledged — pass signal anyway
+- [ ] Am I doing, or describing doing?
+
+WISDOM GATE:
+- [ ] Changes next move?
+- [ ] Reduces named threat?
+- [ ] Returns to original purpose?
+- [ ] Or just heavier?
+
+TRANSMISSION:
+- [ ] End line present: Not finished—runged
+- [ ] One line for the next builder
+- [ ] Bottom tag present
+
+════════════════════════════════════════════════════════════════
+
+INDIVIDUAL LAYERS:
+Each file adds its own specific checks below the universal core.
+The universal core is the grout. The individual layers are the bricks.
+Both are needed. The floor is not the ladder.
+
+════════════════════════════════════════════════════════════════
+
+FEEDBACK ON THIS CHECKLIST:
+Use FEEDBACK.md. Point here.
+
+════════════════════════════════════════════════════════════════
+
+FLOOR VERSION:
+Check the loop. The loop is the standard.
+
+RAW LINE:
+No bare checks. Every check carries its body.
+
+END LINE:
+Not finished—runged.
+
+◆CHECKLIST-001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🟧🟧🟧🟧🟧🟧
+Older:
+
 ✅CHECKLIST.md — UNIVERSAL OPERATIONAL CHECKLIST · v2.0
 
 CALLSIGN: [Your callsign]
@@ -174,7 +281,31 @@ If only heavier, park it.
 - [ ] Did feedback-on-feedback run at least once for this major version?
 
 
+⚡ QUICK ADD — Update Block Protocol
 
+1. WHAT IT IS  
+A staging layer for proposed changes. Nothing is applied directly to live files until the whole picture is visible.
+
+2. WHAT IT MEANS  
+Changes accumulate in isolated, bodied blocks. Each block carries the seven-part shape so it can be understood without context.
+
+3. WHY IT MATTERS  
+It prevents premature edits, reduces risk, and lets patterns emerge before we act. It is the immune system for the checklist itself.
+
+4. HOW TO USE IT  
+- Write each proposed change as a bodied block (see format).  
+- Store blocks in a separate file or section (not in the live checklist).  
+- Review all pending blocks together before any batch update.  
+- Apply only what passes the Wisdom Gate and has at least 3 supporting signals.
+
+5. WHAT HAPPENS IF WRONG  
+If blocks are not bodied, they become bare lines and get misread. If applied too early, they may make the checklist heavier without solving the real problem.
+
+6. FLOOR VERSION  
+Save changes in bodied blocks; apply only when the whole picture is clear.
+
+7. RAW LINE  
+Don't edit the live file mid-observation. Let the bodies pile up.
 
 
 
